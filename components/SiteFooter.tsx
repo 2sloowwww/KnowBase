@@ -21,6 +21,7 @@ export function SiteFooter() {
             <li><Link href="/about" className="hover:text-ink">About</Link></li>
             <li><Link href="/terms" className="hover:text-ink">Terms of Use</Link></li>
             <li><Link href="/privacy" className="hover:text-ink">Privacy Policy</Link></li>
+            <li><a href="/feed.xml" className="hover:text-ink">RSS Feed</a></li>
           </ul>
         </div>
         <div>
