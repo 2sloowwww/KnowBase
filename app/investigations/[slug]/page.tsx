@@ -32,10 +32,13 @@ export async function generateMetadata({
   const title = inv.title;
   const description = inv.dek;
   const url = `${SITE_URL}/investigations/${inv.slug}`;
+  const names = (inv.legalStatus?.keyIndividuals ?? []).map((p) => p.name);
+  const keywords = [inv.title, inv.category, "India", ...names, "KNOWBASE"];
 
   return {
     title,
     description,
+    keywords,
     alternates: { canonical: url },
     openGraph: {
       title,
@@ -100,6 +103,11 @@ export default async function InvestigationPage({
     },
     datePublished: inv.publishedDate,
     dateModified: inv.updatedDate,
+    articleSection: inv.category,
+    mentions: (inv.legalStatus?.keyIndividuals ?? []).map((p) => ({
+      "@type": "Person",
+      name: p.name,
+    })),
   };
 
   // Sections after Reality/Gap are conditionally present (money, legal status),
