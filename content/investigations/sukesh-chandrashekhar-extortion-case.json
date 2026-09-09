@@ -1,0 +1,146 @@
+{
+  "id": "KB-3025",
+  "slug": "sukesh-chandrashekhar-extortion-case",
+  "title": "The Sukesh Chandrashekhar Impersonation and Extortion Case",
+  "dek": "Operating a phone from inside jail, a conman posed as top judicial and government officials to intimidate and extort hundreds of crores from families of the wealthy and powerful. One of over thirty cases against him has now ended in conviction.",
+  "category": "Telecom & Digital",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 198,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2021-01-01",
+  "heroStat": {
+    "value": "31+ cases, ₹200+ cr",
+    "label": "criminal cases and alleged extortion linked to one man, run from behind bars"
+  },
+  "promise": {
+    "quote": "India's prisons and telecom systems are meant to prevent an incarcerated undertrial from running large-scale criminal operations, impersonating public officials, or contacting the outside world to extort money and intimidate judicial officers.",
+    "madeBy": "Prison and telecom regulatory framework (implicit institutional commitment, not any single official's statement)",
+    "role": "Institutional safeguard against custodial crime and telecom-enabled fraud",
+    "date": "2017-01-01",
+    "context": "Sukesh Chandrashekhar had been in and out of custody since at least 2017 on cheating charges, yet continued to run extortion and impersonation operations using smuggled phones from various jails, including Delhi's Rohini and Mandoli prisons.",
+    "sourceIds": [
+      "src-sukesh-lawbeat"
+    ]
+  },
+  "target": {
+    "description": "An undertrial prisoner should be unable to access mobile phones, spoofing software, or outside networks sufficient to impersonate senior judges, ministry secretaries, or PMO officials and extort money from private citizens.",
+    "standard": "Prison Manual rules on contraband and phone access; telecom KYC and anti-spoofing norms.",
+    "referenceDate": "2017-01-01"
+  },
+  "reality": {
+    "description": "While in custody, Sukesh Chandrashekhar allegedly ran extortion rackets using smuggled phones, voice modulation and spoofing software, impersonating Supreme Court judges, the Union Home Secretary, PMO officials and others. In one scheme, he and associates extorted about ₹200 crore from Aditi Singh, wife of former Ranbaxy promoter Shivinder Singh, by promising to help secure her husband's bail through fake official contacts — a case that remains under trial, with Chandrashekhar offering a ₹217 crore settlement in December 2025. Separately, in a case where he impersonated a Supreme Court judge and the Union Home Ministry to pressure a Delhi judicial officer into granting him bail, a Delhi court convicted him and sentenced him on 29 August 2025 to a cumulative eight years' rigorous imprisonment, calling the offence 'profoundly disturbing' because it struck at judicial independence. As of the latest reporting, prosecutors have listed 31 criminal cases against him across Delhi, Karnataka, Tamil Nadu, Maharashtra and Andhra Pradesh.",
+    "asOfDate": "2025-12-27",
+    "sourceIds": [
+      "src-sukesh-tribune-8yr",
+      "src-sukesh-indialegal"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Cases registered against him vs. cases that have reached conviction",
+    "unit": "cases",
+    "targetValue": 31,
+    "actualValue": 1,
+    "targetDisplay": "31 criminal cases registered",
+    "actualDisplay": "1 conviction confirmed (judge-impersonation case, August 2025)",
+    "targetLabel": "Registered",
+    "actualLabel": "Convicted",
+    "note": "This reflects only the case this investigation could confirm reached a final conviction; other cases, including the ₹200 crore Aditi Singh extortion case, remain under trial."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 200,
+    "allocatedLabel": "Alleged extortion in the Aditi Singh case alone",
+    "released": null,
+    "releasedLabel": "Amount recovered by victims",
+    "spent": 217,
+    "spentLabel": "Settlement amount offered by the accused (Dec 2025, without admission of guilt)",
+    "unit": "crore",
+    "notes": "The ₹200 crore figure applies to one case (Aditi Singh); total alleged losses across all 31 cases nationwide were not independently reconciled by this investigation.",
+    "sourceIds": [
+      "src-sukesh-ani-settlement"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-01-01",
+      "label": "Aditi Singh extortion scheme alleged",
+      "detail": "Chandrashekhar and associates allegedly extorted roughly ₹200 crore from Aditi Singh by posing as government officials able to secure her husband's bail.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-01-01",
+      "label": "Multiple arrests and celebrity links surface",
+      "detail": "Delhi Police questioned Bollywood actors including Jacqueline Fernandez and Nora Fatehi over gifts and money allegedly linked to Chandrashekhar's proceeds; his wife was also arrested.",
+      "type": "status"
+    },
+    {
+      "date": "2025-08-29",
+      "label": "Delhi court convicts him for judge impersonation",
+      "detail": "A Delhi court found him guilty of impersonating a public servant, intimidating a public servant and criminal intimidation by anonymous communication, sentencing him to a cumulative 8 years' rigorous imprisonment.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-27",
+      "label": "₹217 crore settlement offer in Aditi Singh case",
+      "detail": "Chandrashekhar offered to pay ₹217 crore to Aditi Singh in the separate ₹200 crore extortion case, explicitly without admitting guilt; the matter remained pending before the court.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sukesh Chandrashekhar has been convicted in at least one of the roughly 31 criminal cases filed against him nationwide. Most other cases, including the large Aditi Singh extortion case, remain under trial.",
+    "keyIndividuals": [
+      {
+        "name": "Sukesh Chandrashekhar",
+        "role": "Principal accused; ran extortion and impersonation schemes from custody",
+        "outcome": "Convicted and sentenced to 8 years' rigorous imprisonment in the Supreme Court judge-impersonation case (August 2025); other cases, including the ₹200 crore Aditi Singh case, remain under trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That Chandrashekhar ran impersonation and extortion schemes from within custody is well documented and has now produced at least one confirmed conviction. But most of the roughly 31 cases against him, including the largest alleged extortion (₹200 crore from the Aditi Singh family), remain unresolved years later — with the accused himself, notably, offering a settlement rather than facing a verdict.",
+    "confidence": "medium",
+    "reasoning": "The August 2025 conviction and sentence are confirmed by multiple independent reports. The broader extortion allegations and case count are well sourced but represent an evolving, multi-case legal picture rather than a single settled outcome."
+  },
+  "incomplete": [
+    "The Aditi Singh ₹200 crore extortion case remains under trial; no verdict has been reached as of the latest reporting reviewed.",
+    "This investigation could not independently verify the exact combined alleged extortion total across all 31 cases attributed to Chandrashekhar.",
+    "The precise date(s) of the calls in the Supreme Court judge-impersonation case could not be confirmed beyond the August 2025 conviction date."
+  ],
+  "sources": [
+    {
+      "id": "src-sukesh-lawbeat",
+      "label": "Sukesh Chandrasekhar Sentenced To 8 Years In SC Judge Impersonation Case, Delhi Court Orders Sentences To Run Consecutively",
+      "type": "independent",
+      "publisher": "LawBeat",
+      "date": "2025-08-29",
+      "url": "https://lawbeat.in/amp/news-updates/sukesh-chandrasekhar-sentenced-to-8-years-in-sc-judge-impersonation-case-delhi-court-orders-sentences-to-run-consecutively-1627074"
+    },
+    {
+      "id": "src-sukesh-tribune-8yr",
+      "label": "Conman Sukesh Chandrasekhar gets 8-year jail term for impersonating Supreme Court judge",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2025-08-30",
+      "url": "https://www.tribuneindia.com/news/delhi/conman-sukesh-chandrasekhar-gets-8-year-jail-term-for-impersonating-supreme-court-judge/"
+    },
+    {
+      "id": "src-sukesh-indialegal",
+      "label": "Delhi Court hands Sukesh Chandrasekhar 8-year jail term for judge impersonation",
+      "type": "independent",
+      "publisher": "India Legal",
+      "date": "2025-08-30",
+      "url": "https://indialegallive.com/constitutional-law-news/courts-news/delhi-court-hands-sukesh-chandrasekhar-8-year-jail-term-for-judge-impersonation/"
+    },
+    {
+      "id": "src-sukesh-ani-settlement",
+      "label": "Sukesh Chandrasekhar offers ₹217 cr settlement to Aditi Singh in ₹200-cr extortion case",
+      "type": "independent",
+      "publisher": "ANI News",
+      "date": "2025-12-27",
+      "url": "https://www.aninews.in/news/national/general-news/sukesh-chandrasekhar-offers-8377217-cr-settlement-to-aditi-singh-in-8377200-cr-extortion-case20251227143321/"
+    }
+  ]
+}

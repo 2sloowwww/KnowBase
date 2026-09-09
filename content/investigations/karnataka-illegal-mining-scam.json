@@ -1,0 +1,101 @@
+{
+  "id": "KB-047",
+  "slug": "karnataka-illegal-mining-scam",
+  "title": "The Karnataka Illegal Mining Scam",
+  "dek": "A mining baron and state minister was accused of running an illegal iron-ore empire worth thousands of crores. After a 13-year trial, the verdict finally came in 2025 — guilty, seven years, and a fine of exactly ₹10,000.",
+  "category": "Natural Resources",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 101,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-01-01",
+  "heroStat": {
+    "value": "₹884 cr",
+    "label": "loss to the exchequer proven at trial, from illegal mining between 2007 and 2009"
+  },
+  "promise": {
+    "quote": "Iron ore mining leases in Karnataka's Bellary region will be operated within their sanctioned boundaries, with royalties and taxes paid honestly to the state.",
+    "madeBy": "Obulapuram Mining Company (OMC) and associated lease-holders, under G. Janardhana Reddy",
+    "role": "Private mining company; Reddy also served as a Karnataka state minister",
+    "date": "2007-01-01",
+    "context": "Reddy and associates were accused of mining well beyond sanctioned lease boundaries and exporting ore without proper royalty payments, as part of what investigators described as a broader ₹16,500 crore illegal mining scandal across the Bellary region.",
+    "sourceIds": [
+      "src-karnataka-conviction"
+    ]
+  },
+  "target": {
+    "description": "Mining conducted strictly within sanctioned lease boundaries, with royalties and export duties paid honestly to the state exchequer.",
+    "standard": "Mines and Minerals (Development and Regulation) Act and state mining lease conditions.",
+    "referenceDate": "2007-01-01"
+  },
+  "reality": {
+    "description": "After a 13-year trial, a CBI court in Hyderabad convicted G. Janardhana Reddy and three others — OMC managing director B.V. Srinivasa Reddy, former Andhra Pradesh mines department official V.D. Rajagopal, and Reddy's personal assistant Mehfaz Ali Khan — on 6 May 2025 in the Obulapuram Mining Company case, finding they had caused a proven loss of ₹884 crore to the exchequer through illegal mining between 2007 and 2009. All four were sentenced to seven years' imprisonment and fined ₹10,000 each.",
+    "asOfDate": "2025-05-06",
+    "sourceIds": [
+      "src-karnataka-conviction"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Broader alleged scale of the Bellary mining scandal vs. the loss proven in this specific conviction",
+    "unit": "₹ crore",
+    "targetValue": 16500,
+    "actualValue": 884,
+    "targetDisplay": "₹16,500 cr alleged broader scandal",
+    "actualDisplay": "₹884 cr proven in this conviction",
+    "targetLabel": "Alleged",
+    "actualLabel": "Proven",
+    "note": "The wider ₹16,500 crore figure describes the broader Bellary-region illegal mining scandal Reddy was associated with; the ₹884 crore figure is what was specifically proven in this one court case (the OMC case) after a full trial, and this investigation treats the proven figure as the more reliable of the two."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2007-01-01",
+      "label": "Illegal mining period begins",
+      "detail": "OMC allegedly begins mining beyond its sanctioned lease boundaries.",
+      "type": "announcement"
+    },
+    {
+      "date": "2011-01-01",
+      "label": "Reddy taken into custody",
+      "detail": "He is arrested and later brought to Bangalore.",
+      "type": "status"
+    },
+    {
+      "date": "2025-05-06",
+      "label": "Convictions and sentencing",
+      "detail": "A CBI court convicts and sentences four people to seven years' imprisonment each in the OMC case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a final, adjudicated criminal conviction reached after a 13-year trial, one of the more clearly resolved cases on this site.",
+    "keyIndividuals": [
+      {
+        "name": "G. Janardhana Reddy",
+        "role": "Former Karnataka state minister; promoter, Obulapuram Mining Company",
+        "outcome": "Convicted 6 May 2025 and sentenced to seven years' imprisonment and a ₹10,000 fine, after a 13-year trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a rare case on this site with a completed criminal trial and a specific, court-proven loss figure. It also illustrates how long Indian trials for large corruption cases can take — 13 years from the alleged conduct's exposure to a verdict — and how the eventual proven loss (₹884 crore) can differ substantially from the much larger figure attached to the broader scandal in public memory (₹16,500 crore).",
+    "confidence": "high",
+    "reasoning": "The conviction, sentence, and specific loss figure are all matters of court record from a concluded trial, reported consistently across sources."
+  },
+  "incomplete": [
+    "This is a stub entry. Whether Reddy or the other convicted individuals have filed appeals, and the status of any such appeal, has not been researched.",
+    "This case is one of several separate mining-related proceedings Reddy has faced; this entry covers only the OMC conviction and does not catalogue his other cases."
+  ],
+  "sources": [
+    {
+      "id": "src-karnataka-conviction",
+      "label": "Obulapuram Mining Case: Gali Janardhana Reddy, 3 others convicted",
+      "type": "independent",
+      "publisher": "The Hans India",
+      "date": "2025-05-06",
+      "url": "https://www.thehansindia.com/telangana/obulapuram-mining-case-gali-janardhana-reddy-3-others-convicted-968895"
+    }
+  ]
+}

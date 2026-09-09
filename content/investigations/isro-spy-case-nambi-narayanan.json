@@ -1,0 +1,139 @@
+{
+  "id": "KB-3032",
+  "slug": "isro-spy-case-nambi-narayanan",
+  "title": "The ISRO Spy Case: A Fabricated Espionage Charge That Took the Supreme Court 24 Years to Undo",
+  "dek": "Kerala Police arrested a senior ISRO cryogenic-engine scientist on espionage charges in 1994. Courts eventually found the case entirely fabricated -- but only after the scientist had been jailed, tortured by his own account, and had his career destroyed.",
+  "category": "Defence & Security",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 901,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1994-11-30",
+  "heroStat": {
+    "value": "₹1.3 crore",
+    "label": "additional compensation the Kerala government paid Nambi Narayanan in 2020, on top of the Supreme Court's earlier ₹50 lakh award, for a case later found fabricated"
+  },
+  "promise": {
+    "quote": "The Kerala Police's investigation and prosecution of the alleged 1994 espionage conspiracy would be based on genuine evidence and conducted lawfully, consistent with the state's duty to investigate national-security matters without fabricating cases against innocent public servants.",
+    "madeBy": "Kerala Police Special Investigation Team and, later, the CBI on taking over the probe",
+    "role": "State police and, subsequently, the central investigating agency responsible for the espionage investigation",
+    "date": "1994-11-30",
+    "context": "In late 1994, Kerala Police arrested ISRO scientist S. Nambi Narayanan and several others, alleging they had passed classified documents on India's cryogenic rocket engine programme to Pakistan's intelligence service via two Maldivian women.",
+    "sourceIds": [
+      "src-isro-thewire"
+    ]
+  },
+  "target": {
+    "description": "A genuine, evidence-based espionage investigation, or none at all if no real evidence existed -- not the fabrication of a case against an innocent scientist.",
+    "standard": "Basic due process and evidentiary standards under Indian criminal law and the Official Secrets Act",
+    "referenceDate": "1994-11-30"
+  },
+  "reality": {
+    "description": "The CBI, which took over the investigation in 1996, found no evidence of espionage and concluded the case had been fabricated; a Kerala High Court division bench acquitted all the accused, including Nambi Narayanan, in 1998. Narayanan had been held in custody for about 50 days and later said he was tortured during interrogation. The Kerala government, however, continued to defend the conduct of its police officers for years. In September 2018, the Supreme Court awarded Narayanan ₹50 lakh in compensation for the mental cruelty and reputational damage he suffered, and set up a committee headed by retired Supreme Court judge D.K. Jain to examine the conduct of the police officers who built the case against him. In January 2020, following the Jain committee's findings, the Kerala government paid Narayanan an additional ₹1.3 crore in compensation and solatium. The Jain committee report also recommended action against the police officers involved, though full criminal accountability for those who fabricated the case has remained limited.",
+    "asOfDate": "2020-01-22",
+    "sourceIds": [
+      "src-isro-scroll",
+      "src-isro-gulfnews"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years between the scientist's arrest on fabricated charges and the state finally compensating him for it",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 26,
+    "targetDisplay": "No fabricated case in the first place",
+    "actualDisplay": "26 years from arrest (1994) to full state compensation (2020)",
+    "targetLabel": "Expected standard",
+    "actualLabel": "Actual time to redress",
+    "note": "Nambi Narayanan was acquitted by the Kerala High Court as early as 1998, but full compensation and an official inquiry into the police officers responsible did not arrive until the Supreme Court intervened two decades later."
+  },
+  "money": {
+    "currency": "INR",
+    "released": 1.8,
+    "releasedLabel": "Total compensation paid to Nambi Narayanan (₹50 lakh via Supreme Court order in 2018 plus ₹1.3 crore from the Kerala government in 2020)",
+    "unit": "crore",
+    "notes": "Figures reflect compensation for wrongful prosecution, not recovery of any misappropriated public funds -- this case did not involve a financial scam but a fabricated criminal case.",
+    "sourceIds": [
+      "src-isro-scroll"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1994-11-30",
+      "label": "Nambi Narayanan arrested",
+      "detail": "Kerala Police arrest senior ISRO scientist S. Nambi Narayanan and others, alleging they leaked classified cryogenic engine documents to Pakistani intelligence via two Maldivian women.",
+      "type": "status"
+    },
+    {
+      "date": "1996-04-01",
+      "label": "CBI takes over the probe",
+      "detail": "The Central Bureau of Investigation takes over the investigation from Kerala Police and finds no evidence of espionage.",
+      "type": "status"
+    },
+    {
+      "date": "1998-04-29",
+      "label": "Kerala High Court acquits all accused",
+      "detail": "A Kerala High Court division bench acquits Nambi Narayanan and the other accused, effectively confirming the case had no basis.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-09-14",
+      "label": "Supreme Court awards ₹50 lakh compensation",
+      "detail": "The Supreme Court finds Narayanan was subjected to mental cruelty and awards ₹50 lakh compensation, and forms a committee headed by Justice D.K. Jain to probe the police officers responsible.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-01-22",
+      "label": "Kerala pays additional ₹1.3 crore",
+      "detail": "Following the Jain committee's findings, the Kerala government pays Narayanan an additional ₹1.3 crore in compensation and solatium.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No one has been criminally convicted for fabricating the espionage case against Nambi Narayanan. He and the other accused were acquitted of all charges in 1998, and the Supreme Court later ordered compensation and an inquiry into the police officers who built the case, but that inquiry led to compensation and recommendations rather than criminal convictions of the officers involved.",
+    "keyIndividuals": [
+      {
+        "name": "S. Nambi Narayanan",
+        "role": "Senior ISRO scientist working on cryogenic rocket engine technology; falsely accused of espionage",
+        "outcome": "Acquitted of all charges in 1998; awarded ₹50 lakh compensation by the Supreme Court in 2018 and an additional ₹1.3 crore by the Kerala government in 2020."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That the espionage case was fabricated is not disputed -- the CBI itself found no evidence, the Kerala High Court acquitted everyone in 1998, and the Supreme Court explicitly compensated Narayanan decades later for wrongful prosecution. What the case illustrates is how long full institutional accountability took, and how limited criminal consequences for the officers who built the false case have remained even after the Jain committee's findings.",
+    "confidence": "high",
+    "reasoning": "The acquittal, the Supreme Court's 2018 compensation order and the Kerala government's 2020 payment are all matters of public record covered extensively by independent media and court documents. Confidence is not marked higher only because the precise disciplinary or criminal outcomes for individual police officers named by the Jain committee are not comprehensively verified in this entry."
+  },
+  "incomplete": [
+    "The exact disciplinary or criminal action, if any, taken against the individual Kerala Police officers named by the Jain committee has not been comprehensively verified in this entry.",
+    "The motive behind the original fabrication of the case has been the subject of speculation (including theories about sabotaging India's cryogenic engine programme) but has not been conclusively established in court."
+  ],
+  "sources": [
+    {
+      "id": "src-isro-thewire",
+      "label": "Nambi Narayanan and the Other Side of the ISRO Spy Story",
+      "type": "independent",
+      "publisher": "The Wire Science",
+      "date": "2022-01-01",
+      "url": "https://science.thewire.in/culture/books/nambi-narayanan-other-side-isro-spy-story-rajasekharan-nair/"
+    },
+    {
+      "id": "src-isro-scroll",
+      "label": "Spy scandal case: Former ISRO scientist Nambi Narayanan to get Rs 1.3 crore additional compensation",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2020-01-22",
+      "url": "https://scroll.in/latest/948031/spy-scandal-case-former-isro-scientist-nambi-narayanan-to-get-rs-1-3-crore-additional-compensation"
+    },
+    {
+      "id": "src-isro-gulfnews",
+      "label": "False case, torture: Kerala scientist Nambi Narayanan granted Rs5m compensation in ISRO spy case",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2018-09-14",
+      "url": "https://gulfnews.com/news/asia/india/false-case-torture-kerala-scientist-nambi-narayanan-granted-rs5m-compensation-in-isro-spy-case-1.2278152"
+    }
+  ]
+}

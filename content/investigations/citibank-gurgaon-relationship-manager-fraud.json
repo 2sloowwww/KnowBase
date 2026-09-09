@@ -1,0 +1,159 @@
+{
+  "id": "KB-842",
+  "slug": "citibank-gurgaon-relationship-manager-fraud",
+  "title": "The Citibank Gurgaon Relationship-Manager Fraud",
+  "dek": "Shivraj Puri, a Citibank relationship manager at its Gurgaon (now Gurugram) branch, allegedly lured about 20-29 high-net-worth clients into a bogus high-return investment scheme and diverted an estimated Rs 400 crore into accounts controlled by his relatives, in one of India's most prominent private-banker fraud cases of 2010-2011. Puri died in judicial custody in 2021, before the case against him reached a final verdict.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 223,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2010-12-29",
+  "heroStat": {
+    "value": "₹400 cr",
+    "label": "estimated amount diverted from roughly 20-29 high-net-worth Citibank Gurgaon clients, per Haryana Police's 2011 estimate"
+  },
+  "promise": {
+    "quote": "Citibank's Gurgaon branch, through relationship manager Shivraj Puri, offered high-net-worth clients access to investment products claiming unusually high, assured returns, reportedly supported by a forged document purporting to be a SEBI notification.",
+    "madeBy": "Shivraj Puri, Relationship Manager, Citibank Gurgaon branch",
+    "role": "Relationship Manager, Citibank NA, Gurgaon branch",
+    "date": "2010-01-01",
+    "context": "This reflects Haryana Police's investigative account of the scheme Puri allegedly pitched to clients, rather than a verified quotation from a specific offer document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-citi-moneylife"
+    ]
+  },
+  "target": {
+    "description": "That funds placed by Citibank's high-net-worth clients through a bank relationship manager would be invested as represented and safeguarded under the bank's internal controls and RBI/SEBI regulatory oversight, not diverted to personal or third-party accounts.",
+    "standard": "RBI's know-your-customer and internal-control norms for banks, SEBI regulations on investment products, and ordinary IPC provisions against cheating (Section 420) and criminal breach of trust (Section 406).",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "Citibank detected irregularities in Puri's dealings and reported the matter to police around late December 2010. Haryana Police's investigation estimated that Puri had defrauded roughly 20-29 high-net-worth individuals and entities, including promoters linked to the Hero Group, of about Rs 400 crore (with some reports citing Rs 405.5 crore) by promising unusually high returns and allegedly showing a forged SEBI-related document, then diverting client funds into accounts held by his wife and other relatives rather than into any genuine investment product; some funds were reportedly routed into stock-market derivatives and real estate. Puri was arrested in early January 2011 and remained in custody through extended police and judicial remand as the investigation continued; his named relatives were reported to be absconding in early 2011. This entry's research could not confirm that the criminal trial against Puri reached a final verdict before his death: multiple reports establish that Puri, described as the case's mastermind, died in May 2021 at a Delhi hospital after contracting tuberculosis while held in Bhondsi jail (Gurugram) in connection with a separate 2020 fraud case, following earlier custody in the original Citibank matter.",
+    "asOfDate": "2021-05-01",
+    "sourceIds": [
+      "src-citi-bt",
+      "src-citi-tribune-death"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Client funds promised as safe investment vs. amount police allege was diverted",
+    "unit": "INR crore",
+    "targetValue": 400,
+    "actualValue": 0,
+    "targetDisplay": "₹400 cr (~29 HNI clients) promised as legitimate investment",
+    "actualDisplay": "No confirmed recovery/restitution figure found for defrauded clients",
+    "targetLabel": "Alleged diverted amount",
+    "actualLabel": "Confirmed client recovery",
+    "note": "This entry could not confirm what portion of the alleged Rs 400 crore was ever recovered for defrauded clients, whether through Citibank's own compensation to affected customers or through asset recovery from Puri's relatives; the actualValue of 0 reflects the absence of a confirmed recovery figure in available sources, not a claim that nothing was recovered."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 400,
+    "allocatedLabel": "Estimated amount diverted from HNI clients, per Haryana Police (2011)",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Police estimates of the fraud amount ranged from about Rs 400 crore to Rs 405.5 crore across roughly 20-29 client accounts. No confirmed recovery or client-compensation figures were found in this entry's research.",
+    "sourceIds": [
+      "src-citi-bt"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-12-29",
+      "label": "Fraud reported to police",
+      "detail": "Citibank and affected clients report suspected diversion of funds by relationship manager Shivraj Puri at the Gurgaon branch.",
+      "type": "announcement"
+    },
+    {
+      "date": "2011-01-08",
+      "label": "Puri arrested",
+      "detail": "Haryana Police arrest Shivraj Puri; police estimate the fraud at around Rs 400 crore affecting roughly 20-29 HNI clients including Hero Group-linked accounts.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-01-09",
+      "label": "Police put fraud estimate at Rs 400 crore",
+      "detail": "Police publicly estimate the scale of the fraud and describe funds being diverted into accounts held by Puri's wife and other relatives.",
+      "type": "status"
+    },
+    {
+      "date": "2011-04-05",
+      "label": "Puri's father remanded in custody",
+      "detail": "Puri's father is taken into police custody for two days as investigators probe the family accounts allegedly used to route diverted funds.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-05-01",
+      "label": "Shivraj Puri dies in custody",
+      "detail": "Puri, held in Bhondsi jail in connection with a separate, later 2020 fraud case, dies of tuberculosis at a Delhi hospital, before any confirmed final verdict in the original Citibank case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Shivraj Puri was arrested and prosecuted over the alleged Rs 400 crore fraud, with relatives named as co-accused and reported absconding in early 2011. This entry's research could not confirm a final trial verdict against Puri; he died in judicial custody in May 2021 while held in a separate case, which would ordinarily abate any pending criminal proceedings against him personally. The legal outcome for his named relatives (Premnath Puri, Diksha Puri, Shaila) was not confirmed by this entry's research.",
+    "keyIndividuals": [
+      {
+        "name": "Shivraj Puri",
+        "role": "Relationship Manager, Citibank Gurgaon",
+        "outcome": "Arrested January 2011; held in custody through extended proceedings; died in judicial custody in May 2021 in a separate case before any confirmed final verdict in this matter."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated case of an individual bank employee's fraud against high-net-worth clients, corroborated by contemporaneous police statements and multiple independent reports at the time of Puri's arrest. It never reached a confirmed judicial conclusion: the accused died in custody roughly a decade after his arrest, and this entry could not confirm the extent of any restitution to defrauded clients or the final status of proceedings against his named relatives.",
+    "confidence": "low",
+    "reasoning": "The core facts of the arrest, the police's fraud estimate, and Puri's eventual death in custody are corroborated across Business Standard, Business Today, Moneylife, and The Tribune. However, without a confirmed trial verdict, recovery figures, or clarity on the relatives' case status, this remains a stub entry pending fuller research."
+  },
+  "incomplete": [
+    "Whether the criminal case against Shivraj Puri reached any interim verdict, charge-framing outcome, or conviction/acquittal before his May 2021 death has not been confirmed.",
+    "The legal outcome for Puri's relatives (Premnath Puri, Diksha Puri, Shaila), named as co-accused and reported absconding in 2011, has not been confirmed.",
+    "Whether Citibank compensated affected HNI clients, in full or in part, and any related RBI regulatory action against Citibank's internal controls, was not confirmed by this entry's research.",
+    "The precise final fraud amount (reports range from Rs 400 crore to Rs 405.5 crore) was not reconciled across sources."
+  ],
+  "sources": [
+    {
+      "id": "src-citi-bt",
+      "label": "Citi fraud at Rs 400 cr: Police",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2011-01-09",
+      "url": "https://www.businesstoday.in/industry/banks/story/citi-fraud-at-rs-400-cr-police-20763-2011-01-09"
+    },
+    {
+      "id": "src-citi-moneylife",
+      "label": "Rs 400 cr fraud at Citibank's Gurgaon branch; 20 HNIs swindled",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2011-01-08",
+      "url": "https://www.moneylife.in/article/rs-400-cr-fraud-at-citibanks-gurgaon-branch-20-hnis-swindled/12784.html"
+    },
+    {
+      "id": "src-citi-bs-employee",
+      "label": "Citi employee in Rs 400-cr fraud",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-12-29",
+      "url": "https://www.business-standard.com/article/finance/citi-employee-in-rs-400-cr-fraud-110122900053_1.html"
+    },
+    {
+      "id": "src-citi-bs-remand",
+      "label": "Citi fraud: Puri's dad remanded in 2-day police custody",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2011-04-05",
+      "url": "https://www.business-standard.com/article/economy-policy/citi-fraud-puri-s-dad-remanded-in-2-day-police-custody-111040500192_1.html"
+    },
+    {
+      "id": "src-citi-tribune-death",
+      "label": "Mastermind of Rs 400 crore Citibank scam Shivraj Puri dies of TB in Bhondsi prison",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2021-05-01",
+      "url": "https://www.tribuneindia.com/news/delhi/mastermind-of-rs-400-crore-citibank-scam-shivraj-puri-dies-of-tb-in-bhondsi-prison-396565"
+    }
+  ]
+}

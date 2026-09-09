@@ -1,0 +1,117 @@
+{
+  "id": "KB-2606",
+  "slug": "india-us-tariff-trade-deal",
+  "title": "The India-US Tariff Standoff and Trade Deal",
+  "dek": "Washington hit Indian exports with tariffs as high as 50% in 2025 over India's continued purchase of Russian oil, threatening a trade relationship worth over $100 billion. A February 2026 deal cut the rate to 18% — but only after India agreed to halt Russian oil imports and open its market wider to US goods.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 45,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-08-01",
+  "heroStat": {
+    "value": "50%",
+    "label": "peak US tariff rate on Indian goods in 2025, later cut to 18% under the February 2026 deal"
+  },
+  "promise": {
+    "quote": "The India-US trade talks are going great, and a trade deal is expected soon.",
+    "madeBy": "Donald Trump",
+    "role": "President of the United States",
+    "date": "2025-04-30",
+    "context": "Statement made as bilateral trade negotiations were underway, before the relationship deteriorated later in 2025 over India's Russian oil purchases and reciprocal tariff disputes.",
+    "sourceIds": [
+      "src-tariff-newsonair-april"
+    ]
+  },
+  "target": {
+    "description": "A swiftly concluded, mutually beneficial trade agreement avoiding punitive tariffs on Indian exports.",
+    "standard": "Public statements from both governments in early-to-mid 2025 anticipating an imminent deal.",
+    "referenceDate": "2025-04-30"
+  },
+  "reality": {
+    "description": "Instead of a swift deal, the US imposed a 25% reciprocal tariff on Indian exports in August 2025, followed by an additional 25% penalty tied to India's continued Russian oil imports, taking the total to 50% — among the highest US tariff rates applied to any major trading partner. Negotiations dragged for roughly six more months before a framework agreement was announced on February 2, 2026, cutting the tariff to 18% in exchange for India committing to halt Russian oil purchases, move toward zero tariffs on many US goods, and pledge future US imports reportedly exceeding $500 billion. Indian trade economists have characterised the final terms as a climbdown from India's original negotiating position, since India ultimately granted duty-free access to US goods while still facing an 18% tariff itself.",
+    "asOfDate": "2026-02-21",
+    "sourceIds": [
+      "src-tariff-aljazeera-deal",
+      "src-tariff-deccan-official"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Tariff rate promised (implicitly, near-zero via a swift deal) vs. tariff rate actually settled on",
+    "unit": "percent",
+    "targetValue": 0,
+    "actualValue": 18,
+    "targetDisplay": "Near-zero, per the 'deal expected soon' framing of April 2025",
+    "actualDisplay": "18% (after a peak of 50% in mid-2025), settled in February 2026",
+    "note": "No specific target tariff figure was ever officially promised; 0% is used here as a proxy for the optimistic 'deal imminent' framing before tariffs rose sharply."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-04-30",
+      "label": "Deal 'expected soon'",
+      "detail": "President Trump says trade talks with India are 'going great' and a deal is expected soon.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-08-01",
+      "label": "Tariffs imposed",
+      "detail": "The US imposes a 25% reciprocal tariff on Indian goods, later doubled to 50% over India's continued purchases of Russian oil.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Trade deal announced",
+      "detail": "Trump and Modi announce a framework trade deal cutting the tariff from 50% toward 18%, with India committing to halt Russian oil purchases and expand market access for US goods.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-02-21",
+      "label": "Deal confirmed unchanged post-ruling",
+      "detail": "US officials confirm the India trade arrangement remains in place after a separate US Supreme Court ruling on IEEPA-based tariff authority.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry covering a trade and diplomatic dispute rather than a legal case; there is no prosecutable wrongdoing at issue, only a gap between early optimistic statements and the eventual negotiated outcome.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the swift, low-tariff deal implied by April 2025 statements did not materialise; instead India faced nearly a year of punitive tariffs before settling for a deal that involved real concessions, including ending Russian oil purchases.",
+    "confidence": "medium",
+    "reasoning": "The tariff escalation and the February 2026 deal terms are well documented across multiple independent business and trade-law outlets. The longer-term economic impact on Indian exporters, and whether India's committed $500 billion in future US purchases materialises, remains to be seen and is not assessed here."
+  },
+  "incomplete": [
+    "The precise economic impact on Indian export sectors (textiles, gems and jewellery, pharmaceuticals, etc.) during the tariff period has not been quantified in this entry.",
+    "Whether India's committed halt to Russian oil purchases has been fully implemented, and its effect on India's energy costs, has not been verified here.",
+    "The eventual fate of India's pledged future US imports exceeding $500 billion has not been tracked, as this is a forward-looking commitment."
+  ],
+  "sources": [
+    {
+      "id": "src-tariff-newsonair-april",
+      "label": "US-India tariff talks 'going great,' trade deal expected soon: US President Trump",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio)",
+      "date": "2025-04-30",
+      "url": "https://www.newsonair.gov.in/us-india-tariff-talks-going-great-trade-deal-expected-soon-us-president-trump"
+    },
+    {
+      "id": "src-tariff-aljazeera-deal",
+      "label": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2026-02-02",
+      "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent"
+    },
+    {
+      "id": "src-tariff-deccan-official",
+      "label": "India-US trade deal remains unchanged after US Supreme Court tariff ruling: Trump",
+      "type": "independent",
+      "publisher": "News on Air (All India Radio)",
+      "date": "2026-02-21",
+      "url": "https://www.newsonair.gov.in/india-us-trade-deal-remains-unchanged-after-us-supreme-court-tariff-ruling-trump"
+    }
+  ]
+}

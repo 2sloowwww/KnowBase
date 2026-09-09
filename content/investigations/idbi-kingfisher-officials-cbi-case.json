@@ -1,0 +1,143 @@
+{
+  "id": "KB-2302",
+  "slug": "idbi-kingfisher-officials-cbi-case",
+  "title": "The IDBI Bank Officials' Case Over the Kingfisher Loan",
+  "dek": "Separate from Vijay Mallya's own default proceedings, the CBI has spent a decade prosecuting the public-sector bank's own former chairman and other officials for allegedly sanctioning loans to Kingfisher Airlines despite its weak finances and poor credit rating.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 165,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "₹950 cr+",
+    "label": "in loans IDBI Bank sanctioned to Kingfisher Airlines that the CBI alleges were approved in violation of the bank's own credit norms"
+  },
+  "promise": {
+    "quote": "Loan sanctions by IDBI Bank would follow the bank's own credit-appraisal norms, including assessment of the borrower's credit rating and repayment capacity, before any short-term or working-capital loan is disbursed.",
+    "madeBy": "IDBI Bank, a public sector bank, through its then chairman and managing director and other sanctioning officials",
+    "role": "Public sector lender extending short-term and working capital loans to Kingfisher Airlines",
+    "date": "2009-10-01",
+    "context": "This reflects the standard credit-appraisal obligation on a public sector bank's sanctioning committee, rather than a specific IDBI internal policy document this entry has reviewed directly.",
+    "sourceIds": [
+      "src-idbi-holiday-meeting"
+    ]
+  },
+  "target": {
+    "description": "Loans to Kingfisher Airlines would be sanctioned only after standard credit appraisal, consistent with the airline's actual credit rating and financial health, without undue favour to the borrower.",
+    "standard": "IDBI Bank's internal credit-sanction norms and RBI prudential lending guidelines for public sector banks.",
+    "referenceDate": "2009-10-01"
+  },
+  "reality": {
+    "description": "The CBI alleges that IDBI Bank's then chairman and managing director, Yogesh Agarwal, along with other bank officials, sanctioned loans exceeding ₹950 crore to Kingfisher Airlines despite the airline's weak financial record and poor credit rating, with one tranche reportedly rushed through following a meeting held on a public holiday. The CBI registered its case around 2013, raided Mallya's and IDBI's offices in October 2015, and arrested Agarwal, who was granted bail by the Bombay High Court in March 2017. The CBI filed its chargesheet against Mallya and bank officials in January 2017, in a matter reported at the time as involving roughly ₹1,300 crore in Kingfisher-related IDBI exposure. In March 2023, the CBI filed a supplementary chargesheet naming former IDBI general manager Buddhadev Dasgupta, alleging he conspired with colleagues and Mallya over the sanction and disbursement of a ₹150 crore short-term loan in October 2009. This case against IDBI's own officials is distinct from — and proceeds alongside — the separate criminal and civil proceedings against Vijay Mallya over the airline's default to its wider 17-bank lending consortium.",
+    "asOfDate": "2023-03-23",
+    "sourceIds": [
+      "src-idbi-holiday-meeting",
+      "src-idbi-agarwal-bail",
+      "src-idbi-dasgupta-chargesheet"
+    ]
+  },
+  "gap": {
+    "metricLabel": "IDBI loans alleged to have been improperly sanctioned vs. amount recovered from, or repaid by, IDBI's own exposure",
+    "unit": "INR crore",
+    "targetValue": 950,
+    "actualValue": 0,
+    "targetDisplay": "₹950 cr+ allegedly improperly sanctioned",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged",
+    "actualLabel": "Confirmed recovered",
+    "note": "This entry focuses on the CBI's case against IDBI's sanctioning officials rather than the wider consortium recovery figures already covered in this site's separate entry on Vijay Mallya's default, and has not located a recovery figure specific to IDBI's own exposure."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2009-10-01",
+      "label": "IDBI sanctions short-term loan",
+      "detail": "A ₹150 crore short-term loan to Kingfisher Airlines is sanctioned, later cited in a 2023 supplementary chargesheet.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-01-01",
+      "label": "CBI opens preliminary inquiry",
+      "detail": "The CBI begins examining IDBI Bank's loans to Kingfisher Airlines.",
+      "type": "status"
+    },
+    {
+      "date": "2015-10-10",
+      "label": "CBI raids Mallya and IDBI offices",
+      "detail": "Raids are conducted at Mallya's residences, Kingfisher offices, and in connection with the IDBI loan case.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-01-24",
+      "label": "CBI files chargesheet",
+      "detail": "The CBI charges Mallya and IDBI officials, alleging the loans were sanctioned despite the airline's poor credit rating.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-03-17",
+      "label": "Yogesh Agarwal granted bail",
+      "detail": "The Bombay High Court grants bail to IDBI's former chairman and another former employee.",
+      "type": "status"
+    },
+    {
+      "date": "2023-03-23",
+      "label": "Supplementary chargesheet against Buddhadev Dasgupta",
+      "detail": "The CBI names a former IDBI general manager over the 2009 short-term loan sanction.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The CBI has chargesheeted IDBI's former chairman and other bank officials, alongside Vijay Mallya, and continues to add supplementary chargesheets as recently as 2023; this investigation has not established a final trial verdict for any accused.",
+    "keyIndividuals": [
+      {
+        "name": "Yogesh Agarwal",
+        "role": "Former Chairman and Managing Director, IDBI Bank",
+        "outcome": "Arrested by the CBI; granted bail by the Bombay High Court in March 2017. This investigation has not confirmed a final trial verdict."
+      },
+      {
+        "name": "Buddhadev Dasgupta",
+        "role": "Former General Manager, IDBI Bank",
+        "outcome": "Named in a March 2023 CBI supplementary chargesheet over the 2009 loan sanction; this investigation has not confirmed his current case status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the CBI's allegations against IDBI's own sanctioning officials, the 2017 chargesheet, and the 2023 supplementary chargesheet are documented. This investigation has not reviewed the chargesheets directly or established the case's current trial status.",
+    "confidence": "low",
+    "reasoning": "This entry draws on contemporaneous reporting spanning 2015 to 2023 on the CBI's case against IDBI officials; it has not independently reviewed court filings, and could not locate more recent (2024–2026) reporting confirming the case's present status."
+  },
+  "incomplete": [
+    "This is a stub entry. The case's current trial status, more than a decade after the CBI's initial inquiry, has not been established.",
+    "The precise total IDBI exposure figure varies across contemporaneous reports (from roughly ₹950 crore to ₹1,300 crore); this entry has not reconciled the discrepancy against a primary chargesheet.",
+    "It is not established whether any IDBI official named in this case has faced trial, conviction, or acquittal."
+  ],
+  "sources": [
+    {
+      "id": "src-idbi-holiday-meeting",
+      "label": "Holiday meeting led to hasty sanction of Rs 350 cr to Kingfisher Airlines",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-01-29",
+      "url": "https://www.business-standard.com/article/pti-stories/mallya-bank-cmd-holiday-meeting-led-to-hasty-sanction-of-rs-117012900135_1.html"
+    },
+    {
+      "id": "src-idbi-agarwal-bail",
+      "label": "Ex-IDBI Bank CMD Yogesh Agarwal gets bail",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-03-17",
+      "url": "https://www.business-standard.com/article/current-affairs/ex-idbi-bank-cmd-yogesh-agarwal-gets-bail-117031701235_1.html"
+    },
+    {
+      "id": "src-idbi-dasgupta-chargesheet",
+      "label": "Ex-IDBI GM conspired with Mallya over loan to Kingfisher Airlines: CBI",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-03-23",
+      "url": "https://www.business-standard.com/article/current-affairs/ex-idbi-gm-conspired-with-mallya-over-loan-to-kingfisher-airlines-cbi-123032300368_1.html"
+    }
+  ]
+}

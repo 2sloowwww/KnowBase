@@ -1,0 +1,215 @@
+{
+  "id": "KB-1305",
+  "slug": "kaleshwaram-lift-irrigation-project-scam",
+  "title": "The Kaleshwaram Lift Irrigation Project Scam",
+  "dek": "Telangana's ruling party inaugurated the 'world's largest' lift irrigation scheme in 2019, promising to irrigate 45 lakh acres for an estimated ₹80,500 crore. A 2024 CAG report put the real cost near ₹1.47 lakh crore and called the project economically unviable, months after part of its showpiece barrage sank into the riverbed — and a judicial commission has since held the former Chief Minister personally responsible, a finding a court has ruled cannot itself trigger any action against him.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 28,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-10-21",
+  "heroStat": {
+    "value": "₹1.47 lakh cr",
+    "label": "CAG's likely final cost estimate, against an ₹81,911 crore figure originally given to the Central Water Commission"
+  },
+  "promise": {
+    "quote": "Kaleshwaram is the world's largest lift irrigation project, and it will irrigate 45 lakh acres of Telangana farmland, meet the drinking-water needs of 70% of the state, and transform the state into 'Bangaru Telangana.'",
+    "madeBy": "Government of Telangana, under Chief Minister K. Chandrashekar Rao (KCR) and the Telangana Rashtra Samithi",
+    "role": "State government implementing its flagship multi-stage lift irrigation scheme on the Godavari river",
+    "date": "2019-06-21",
+    "context": "KCR made this claim at the project's formal inauguration in June 2019, at which point its estimated cost was cited at roughly ₹80,500 crore.",
+    "sourceIds": [
+      "src-kaleshwaram-inauguration"
+    ]
+  },
+  "target": {
+    "description": "An irrigation project delivered within its approved cost estimate, structurally sound and properly maintained, with a single unified project approval and an economically justified benefit-cost ratio.",
+    "standard": "Central Water Commission project-appraisal norms; Comptroller and Auditor General standards for public infrastructure audits; Indian Standard IS 7349:2012 on dam/barrage inspection and maintenance.",
+    "referenceDate": "2019-06-21"
+  },
+  "reality": {
+    "description": "On the night of 21 October 2023, piers 15 to 20 of the Medigadda (Lakshmi) barrage — one of the project's three main barrages — sank and cracked, with pier 20 settling by over 1.25 metres within days, rendering the barrage unusable pending rehabilitation. A National Dam Safety Authority (NDSA) inquiry found the failure was not an isolated incident but reflected systemic lapses across all three barrages, including the absence of mandated inspection and maintenance logs, and the relocation of the Annaram and Sundilla barrage axes by 2.2 km and 5.4 km respectively after construction agreements were signed, worsening sedimentation. A CAG report tabled on 15 February 2024 found the project's cost was likely to exceed ₹1.47 lakh crore against the ₹81,911 crore figure originally submitted to the Central Water Commission, found the project 'economically unviable' with a benefit-cost ratio implying every rupee spent would yield only 52 paise, flagged the possibility of undue benefit of at least ₹2,684.73 crore to contractors, and noted the government fragmented approvals into 73 separate clearances rather than seeking one unified sanction. After a change of government, Chief Minister Revanth Reddy's administration ordered a CBI probe and separately appointed a one-man judicial commission under Justice (retired) P.C. Ghose, whose 665-page report, submitted on 31 July 2025, held former Chief Minister K. Chandrashekar Rao directly and indirectly responsible for irregularities in the project's planning, execution and maintenance, and also found then-Irrigation Minister T. Harish Rao responsible. The Telangana Anti-Corruption Bureau separately arrested several former senior irrigation engineers, including former Engineer-in-Chief Bhookya Hari Ram (April 2025) and former Engineer-in-Chief Muralidhar Rao (July 2025), in disproportionate-assets cases linked to the project. KCR and Harish Rao challenged the Ghose Commission's findings in the Telangana High Court, which granted them interim protection and, in 2026, ruled that the commission's findings — issued in a manner the court found violated procedural safeguards under the Commissions of Inquiry Act — could not by themselves be used to take action against them.",
+    "asOfDate": "2026-04-01",
+    "sourceIds": [
+      "src-kaleshwaram-cag",
+      "src-kaleshwaram-ghose-commission",
+      "src-kaleshwaram-hc-relief",
+      "src-kaleshwaram-acb-arrests"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Cost estimated to the Central Water Commission vs. CAG's likely final cost",
+    "unit": "INR crore",
+    "targetValue": 81911,
+    "actualValue": 147427,
+    "targetDisplay": "₹81,911 cr projected",
+    "actualDisplay": "₹1,47,427 cr likely final cost",
+    "targetLabel": "Cost projected to CWC",
+    "actualLabel": "CAG's likely final cost estimate",
+    "note": "Figures per the CAG report tabled in the Telangana legislature on 15 February 2024, covering expenditure and cost projections up to March 2022."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 81911,
+    "allocatedLabel": "Cost originally projected to the Central Water Commission",
+    "released": 86788.06,
+    "releasedLabel": "Total expenditure reported as of March 2022, per CAG",
+    "spent": 147427.41,
+    "spentLabel": "CAG's likely final cost estimate",
+    "unit": "crore",
+    "notes": "The CAG report also found that off-budget borrowings accounted for ₹55,807.86 crore, or roughly 64.3%, of total project financing as of March 2022, and flagged the possibility of undue benefit of at least ₹2,684.73 crore to contractors. As of March 2022, only 12 of 56 sanctioned works were complete, 40 were ongoing and 4 had not started.",
+    "sourceIds": [
+      "src-kaleshwaram-cag"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016-01-01",
+      "label": "Kaleshwaram project redesigned and launched",
+      "detail": "The Telangana government substantially redesigns and expands the earlier Pranahita-Chevella scheme into the Kaleshwaram Lift Irrigation Project.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-06-21",
+      "label": "Project formally inaugurated",
+      "detail": "Chief Minister K. Chandrashekar Rao inaugurates the project, calling it the world's largest lift irrigation scheme, with an estimated cost of roughly ₹80,500 crore.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-10-21",
+      "label": "Medigadda barrage piers sink",
+      "detail": "Piers 15-20 of the Medigadda (Lakshmi) barrage sink and crack; pier 20 settles by over 1.25 metres within days, and the barrage is taken out of use.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-02-15",
+      "label": "CAG tables damning cost and viability report",
+      "detail": "A CAG report finds the project's likely final cost near ₹1.47 lakh crore, calls it economically unviable, and flags possible undue benefit to contractors of at least ₹2,684.73 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2024-03-01",
+      "label": "State orders barrage restoration",
+      "detail": "The new Congress state government says it will restore the Medigadda and other damaged barrages, and seeks Central Water Commission and design expertise for the work.",
+      "type": "status"
+    },
+    {
+      "date": "2024-09-01",
+      "label": "State entrusts probe to CBI",
+      "detail": "The Telangana government issues an order handing the investigation into alleged irregularities in the project's construction, during the BRS government's tenure, to the CBI.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-26",
+      "label": "ACB arrests former Engineer-in-Chief",
+      "detail": "The Telangana Anti-Corruption Bureau arrests former Kaleshwaram Engineer-in-Chief Bhookya Hari Ram in a disproportionate-assets case, uncovering multiple undisclosed properties.",
+      "type": "status"
+    },
+    {
+      "date": "2025-07-15",
+      "label": "ACB arrests second former Engineer-in-Chief",
+      "detail": "The ACB arrests former Irrigation Engineer-in-Chief Muralidhar Rao following a Vigilance and Enforcement Department probe into the Medigadda pier failures.",
+      "type": "status"
+    },
+    {
+      "date": "2025-07-31",
+      "label": "Justice P.C. Ghose Commission submits report",
+      "detail": "The one-man judicial commission's 665-page report holds former Chief Minister K. Chandrashekar Rao and former Irrigation Minister T. Harish Rao responsible for irregularities in the project's planning, execution and maintenance.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Telangana High Court extends protection to KCR, Harish Rao",
+      "detail": "The High Court extends interim protection against any action based on the Ghose Commission report while hearing their challenge to it.",
+      "type": "status"
+    },
+    {
+      "date": "2026-04-01",
+      "label": "High Court rules commission's findings 'inoperative'",
+      "detail": "The Telangana High Court rules that the Ghose Commission's findings, made in a manner it found to violate procedural safeguards under the Commissions of Inquiry Act, cannot themselves be used as the basis for action against KCR and Harish Rao.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal conviction has resulted from the Kaleshwaram allegations as of publication. A CBI probe was ordered in 2024 but, per available reporting, had not produced a full-fledged investigation as of mid-2025; the state's Anti-Corruption Bureau has separately arrested several former senior engineers in disproportionate-assets cases. A judicial commission found the former Chief Minister and former Irrigation Minister responsible for project irregularities, but the Telangana High Court has ruled that finding procedurally defective and not, by itself, a basis for action against them — a ruling that leaves the underlying allegations against the state's former political leadership legally unresolved rather than either proven or cleared.",
+    "keyIndividuals": [
+      {
+        "name": "K. Chandrashekar Rao (KCR)",
+        "role": "Chief Minister of Telangana (2014-2023) at the time the project was designed and executed",
+        "outcome": "Held responsible for project irregularities by the Justice P.C. Ghose Commission (July 2025); obtained interim High Court protection against action based on that finding, and in 2026 the High Court ruled the commission's findings could not themselves trigger action against him. No criminal charge or conviction reported as of publication; presumed innocent."
+      },
+      {
+        "name": "T. Harish Rao",
+        "role": "Telangana Irrigation Minister during the project's execution",
+        "outcome": "Also held responsible by the Ghose Commission; covered by the same High Court protection and 2026 ruling as KCR. No criminal charge or conviction reported as of publication."
+      },
+      {
+        "name": "Bhookya Hari Ram",
+        "role": "Former Engineer-in-Chief, Kaleshwaram project",
+        "outcome": "Arrested by the ACB in April 2025 in a disproportionate-assets case; case reported as ongoing, with no trial outcome confirmed as of publication."
+      },
+      {
+        "name": "Muralidhar Rao",
+        "role": "Former Irrigation Engineer-in-Chief",
+        "outcome": "Arrested by the ACB in July 2025 following a probe into the Medigadda barrage pier failures; case reported as ongoing, with no trial outcome confirmed as of publication."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The core facts of this case are unusually well institutionally confirmed for an Indian infrastructure scandal: a national dam-safety authority found systemic engineering and maintenance failures across all three of the project's barrages, and the country's constitutional auditor independently found the project's real cost nearly double its official estimate and called it economically unviable, with a specific corruption-linked cost figure attached. What remains unresolved is individual accountability — a judicial commission's finding against the former Chief Minister and Irrigation Minister has been procedurally blocked by the High Court from producing any action, leaving a confirmed institutional failure without, as of publication, any matching criminal consequence for the officials found responsible for it.",
+    "confidence": "medium",
+    "reasoning": "The NDSA and CAG findings are drawn from detailed contemporaneous reporting of primary-source reports (the CAG report and dam-safety inquiry), and the Ghose Commission's conclusions and the High Court's subsequent ruling are corroborated across multiple independent outlets. Confidence is not higher because this entry has not reviewed the CAG report, the NDSA report, or the Ghose Commission report directly, and because the CBI probe's actual progress, and the final disposition of the High Court litigation over the commission's findings, were not fully confirmed as of this entry's research."
+  },
+  "incomplete": [
+    "The CBI probe ordered in 2024 does not appear, per available reporting, to have produced chargesheets or a substantive investigative outcome as of mid-2025; its current 2026 status has not been confirmed.",
+    "This entry has not reviewed the CAG report, the NDSA inquiry report, or the Justice P.C. Ghose Commission's 665-page report directly, relying on secondary reporting throughout.",
+    "Whether the Telangana High Court's 2026 ruling on the Ghose Commission's findings is final, or under further appeal, has not been confirmed.",
+    "The current status and any trial outcomes for the ACB's disproportionate-assets cases against former engineers Bhookya Hari Ram and Muralidhar Rao have not been verified beyond their arrests.",
+    "The full scope of contractors alleged to have received undue benefit, and whether any contractor has faced charges, has not been detailed here."
+  ],
+  "sources": [
+    {
+      "id": "src-kaleshwaram-inauguration",
+      "label": "Kaleshwaram: World's largest lift irrigation project ready for launch",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2019-06-20",
+      "url": "https://www.etvbharat.com/english/business/economy/kaleshwaram-worlds-largest-lift-irrigation-project-ready-for-launch-1-1/na20190620000036640"
+    },
+    {
+      "id": "src-kaleshwaram-cag",
+      "label": "Kaleshwaram Lift Irrigation Project: CAG Report Reveals Likely Corruption and Cost Exceeding Rs 1.4 Lakh Cr",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2024-02-15",
+      "url": "https://www.thenewsminute.com/telangana/kaleshwaram-cost-to-exceed-rs-14-lakh-cr-likely-corruption-of-rs-2600-cr-cag"
+    },
+    {
+      "id": "src-kaleshwaram-ghose-commission",
+      "label": "Justice PC Ghose Commission holds former CM KCR responsible for irregularities in Kaleshwaram project",
+      "type": "primary",
+      "publisher": "News On AIR (Prasar Bharati / All India Radio)",
+      "date": "2025-08-04",
+      "url": "https://www.newsonair.gov.in/justice-pc-ghose-commission-holds-former-cm-kcr-responsible-for-irregularities-in-kaleshwaram-project"
+    },
+    {
+      "id": "src-kaleshwaram-hc-relief",
+      "label": "Kaleshwaram Project: Part Relief To KCR, Harish Rao As Telangana High Court Says Inquiry Commission Findings Violating Section 8B 'Inoperative'",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2026-04-01",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-kaleshwaram-project-row-kcr-plea-against-inquiry-commissions-report-531250"
+    },
+    {
+      "id": "src-kaleshwaram-acb-arrests",
+      "label": "Telangana ACB arrests Kaleshwaram Engineer-in-Chief in disproportionate assets case",
+      "type": "independent",
+      "publisher": "The South First",
+      "date": "2025-04-26",
+      "url": "https://thesouthfirst.com/telangana/telangana-acb-arrests-kaleshwaram-engineer-in-chief-in-disproportionate-assets-case/"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "KB-025",
+  "slug": "ketan-parekh-securities-scam",
+  "title": "The Ketan Parekh Securities Scam",
+  "dek": "A stockbroker allegedly used borrowed bank funds to pump up the prices of a handful of favoured stocks. When the rally collapsed, so did a chunk of the market — and he was still allegedly running new schemes on the market's edges two decades later.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 203,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2001-03-01",
+  "heroStat": {
+    "value": "14 years",
+    "label": "trading ban imposed by SEBI on Ketan Parekh and associates"
+  },
+  "promise": {
+    "quote": "Bank funds and market transactions will not be used to artificially manipulate the share prices of listed companies.",
+    "madeBy": "Multiple co-operative and other banks, and stockbroker Ketan Parekh",
+    "role": "Stockbroker alleged to have manipulated share prices using borrowed bank funds",
+    "date": "2001-03-01",
+    "context": "Parekh is alleged to have used funds borrowed from banks, including Madhavpura Mercantile Co-operative Bank, to drive up the prices of a group of ten stocks nicknamed the 'K-10', before the rally collapsed in March 2001.",
+    "sourceIds": [
+      "src-kp-overview"
+    ]
+  },
+  "target": {
+    "description": "Bank lending and market trading conducted without artificial price manipulation, consistent with SEBI's market-manipulation and takeover-code regulations.",
+    "standard": "SEBI regulations against market manipulation and price rigging.",
+    "referenceDate": "2001-03-01"
+  },
+  "reality": {
+    "description": "SEBI found Parekh and associated entities had rigged the prices of the K-10 stocks and defaulted on obligations totalling roughly ₹3,218 crore across 23 associated firms; broader accounts of the scam's total market impact cite figures as high as ₹40,000 crore. SEBI banned Parekh and ten associates, including his brother Kartik Parekh, from the securities market for 14 years starting December 2003. Years later, intelligence reports suggested he remained active in the market through proxies, and in a more recent, separate matter SEBI barred him and two others over an alleged front-running scheme that generated roughly ₹65.77 crore in illegal gains, ordering the gains disgorged.",
+    "asOfDate": "2023-01-01",
+    "sourceIds": [
+      "src-kp-defaults",
+      "src-kp-frontrunning"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Confirmed defaults by associated firms vs. the broader, widely cited market-impact estimate",
+    "unit": "₹ crore",
+    "targetValue": 3218,
+    "actualValue": 40000,
+    "targetDisplay": "₹3,218 cr in confirmed defaults (SEBI)",
+    "actualDisplay": "~₹40,000 cr (broader market-impact estimate)",
+    "targetLabel": "Confirmed",
+    "actualLabel": "Broader estimate",
+    "note": "The ₹40,000 crore figure describes the scam's overall estimated impact on market capitalisation and is not a claim of an equivalent amount of confirmed fraud; this investigation reports the narrower, SEBI-sourced figure as more reliable."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2001-03-01",
+      "label": "Stock rally collapses",
+      "detail": "The K-10 stocks' inflated prices fall sharply, exposing the scheme.",
+      "type": "status"
+    },
+    {
+      "date": "2003-12-12",
+      "label": "14-year market ban begins",
+      "detail": "SEBI bars Parekh and ten associates from the securities market.",
+      "type": "status"
+    },
+    {
+      "date": "2010-06-22",
+      "label": "Reports of continued market activity",
+      "detail": "Intelligence reports suggest Parekh remains active in the market through proxies despite the ban.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. This investigation has confirmed SEBI's regulatory bans against Parekh but has not yet verified whether he has faced a separate criminal fraud conviction with a prison sentence.",
+    "keyIndividuals": [
+      {
+        "name": "Ketan Parekh",
+        "role": "Stockbroker",
+        "outcome": "Banned from the securities market by SEBI for 14 years from December 2003; separately barred again in a more recent front-running case with disgorgement of ₹65.77 crore in gains. This investigation has not confirmed whether a separate criminal conviction with a prison sentence has occurred."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: SEBI's regulatory findings — the market ban and the more recent front-running penalty — are confirmed and are a matter of public record. What this investigation has not yet established is whether any criminal fraud prosecution over the original 2001 scam resulted in a conviction.",
+    "confidence": "low",
+    "reasoning": "The regulatory (SEBI) findings are clear and this investigation is confident in them. Confidence in the overall case status is capped at low because it has not yet traced a criminal prosecution, if any, to a confirmed verdict."
+  },
+  "incomplete": [
+    "This is a stub entry. Whether Ketan Parekh faced a criminal fraud prosecution (separate from SEBI's regulatory bans) with a confirmed verdict has not been established.",
+    "The exact date and details of the more recent front-running case have not been fully researched.",
+    "Other named co-accused and implicated banks have not been detailed in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-kp-overview",
+      "label": "Ketan Parekh",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Ketan_Parekh"
+    },
+    {
+      "id": "src-kp-defaults",
+      "label": "KP firms default at Rs 3,218 crore: SEBI",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2002-01-11",
+      "url": "https://www.business-standard.com/amp/article/markets/kp-firms-default-at-rs-3218-crore-sebi-102011101012_1.html"
+    },
+    {
+      "id": "src-kp-frontrunning",
+      "label": "Sebi Imposes Ban on Ketan Parekh and Two Others for Alleged Front-Running Scheme Generating Rs 65.77 Crore",
+      "type": "independent",
+      "publisher": "GoodReturns",
+      "date": "2023-01-01",
+      "url": "https://www.goodreturns.in/news/sebi-bans-ketan-parekh-from-securities-markets-011-1397203.html"
+    }
+  ]
+}

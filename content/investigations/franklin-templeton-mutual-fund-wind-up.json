@@ -1,0 +1,163 @@
+{
+  "id": "KB-301",
+  "slug": "franklin-templeton-mutual-fund-wind-up",
+  "title": "The Franklin Templeton Mutual Fund Wind-Up",
+  "dek": "A fund house abruptly shut six debt schemes holding ₹25,000+ crore of investor money, citing a pandemic liquidity crunch. SEBI later found rule violations and ordered a ₹512 crore fee refund plus a two-year ban on new debt schemes — a finding Franklin Templeton is still contesting on appeal.",
+  "category": "Banking & Finance",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 112,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-04-23",
+  "heroStat": {
+    "value": "₹25,215 cr",
+    "label": "assets under management frozen when Franklin Templeton abruptly wound up six debt mutual fund schemes on 23 April 2020, affecting roughly 300,000 investors"
+  },
+  "promise": {
+    "quote": "Investors' money in mutual fund schemes is professionally managed in accordance with disclosed investment objectives and SEBI's mutual fund regulations, with redemptions honoured on demand as is standard for open-ended schemes.",
+    "madeBy": "Franklin Templeton Asset Management (India) Pvt Ltd",
+    "role": "Asset management company operating SEBI-registered open-ended debt mutual fund schemes",
+    "date": "2020-01-01",
+    "context": "This reflects the general regulatory and contractual promise of an open-ended mutual fund scheme under SEBI's Mutual Fund Regulations, rather than a specific quotation from Franklin Templeton's own scheme documents, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-ft-overview"
+    ]
+  },
+  "target": {
+    "description": "That the six debt schemes would remain open-ended, honouring investor redemption requests, and that any decision to wind them up would strictly follow SEBI's Mutual Fund Regulations, including obtaining unitholder consent.",
+    "standard": "SEBI (Mutual Funds) Regulations, 1996, particularly the provisions governing winding up of schemes and the requirement of trustee and unitholder approval.",
+    "referenceDate": "2020-04-23"
+  },
+  "reality": {
+    "description": "On 23 April 2020, Franklin Templeton's trustees abruptly wound up six debt schemes — Franklin India Ultra Short Bond Fund, Low Duration Fund, Short Term Income Plan, Income Opportunities Fund, Credit Risk Fund, and Dynamic Accrual Fund — citing severe illiquidity and redemption pressure in Indian corporate bond markets during the COVID-19 pandemic, freezing roughly ₹25,215 crore belonging to about 300,000 investors. An RTI reply later showed Franklin had not sought SEBI's prior approval before announcing the wind-up. Investors and the Karnataka High Court challenged the move; the Supreme Court subsequently directed that unitholder consent be obtained for each scheme's wind-up and appointed SBI Mutual Fund to oversee an orderly recovery and repayment process. On 14 June 2021, SEBI passed an order finding Franklin Templeton had violated mutual fund regulations, directing the AMC to refund roughly ₹512 crore in investment management and advisory fees collected between June 2018 and April 2020 (with interest), barring it from launching new debt schemes for two years, and separately fining the AMC, its trustee company, and several individual executives (including the CEO and CIO) a combined ₹15 crore. Franklin Templeton appealed to the Securities Appellate Tribunal, which granted a partial stay — permitting escrow of ₹250 crore rather than immediate payment of the full disgorgement — and as of the most recent reporting reviewed (August 2023), the AMC had still not launched a new debt scheme and the appeal remained pending. Separately from the SEBI proceeding, the courts' recovery process returned investors more than the schemes' original net asset value: cumulative distributions reportedly reached about 109% of the funds' assets under management as of the April 2020 wind-up date, though only after a prolonged freeze.",
+    "asOfDate": "2023-08-01",
+    "sourceIds": [
+      "src-ft-sc",
+      "src-ft-sebi-order",
+      "src-ft-sat-stay"
+    ]
+  },
+  "gap": {
+    "metricLabel": "SEBI's ordered fee disgorgement vs. the amount Franklin Templeton was made to actually escrow pending appeal",
+    "unit": "INR crore",
+    "targetValue": 512,
+    "actualValue": 250,
+    "targetDisplay": "₹512 cr ordered by SEBI, June 2021",
+    "actualDisplay": "₹250 cr escrowed under SAT's interim stay",
+    "targetLabel": "SEBI order",
+    "actualLabel": "Amount actually secured pending appeal",
+    "note": "This gap reflects the regulatory penalty track, not investor recovery — investors separately received their principal back over an extended period via a court-supervised process. The SEBI disgorgement order itself remains under appeal and has not been finally adjudicated."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 25215,
+    "allocatedLabel": "Assets under management frozen across six schemes at wind-up, April 2020",
+    "released": 27548,
+    "releasedLabel": "Cumulative amount distributed back to investors as of around August 2021, per Franklin Templeton's own disclosures (about 109% of the original AUM, reflecting interest and later recoveries)",
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "Separately, SEBI's June 2021 order required Franklin Templeton to refund roughly ₹512 crore in fees it had collected on these schemes; that specific disgorgement is under appeal and only partially secured (₹250 crore in escrow) as of the last reporting reviewed.",
+    "sourceIds": [
+      "src-ft-sebi-order"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-04-23",
+      "label": "Six debt schemes wound up",
+      "detail": "Franklin Templeton's trustees abruptly shut six debt mutual fund schemes, freezing roughly ₹25,215 crore belonging to about 300,000 investors, citing pandemic-driven illiquidity in Indian bond markets.",
+      "type": "announcement"
+    },
+    {
+      "date": "2020-08-26",
+      "label": "RTI reveals no prior SEBI approval",
+      "detail": "An RTI reply indicates Franklin Templeton did not obtain SEBI's approval before announcing the wind-up, raising questions about the process followed.",
+      "type": "status"
+    },
+    {
+      "date": "2020-12-03",
+      "label": "Supreme Court orders unitholder consent",
+      "detail": "The Supreme Court directs Franklin Templeton to hold a unitholder vote on winding up each scheme, rather than proceeding unilaterally.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-06-14",
+      "label": "SEBI penalises Franklin Templeton",
+      "detail": "SEBI orders a roughly ₹512 crore fee disgorgement, a two-year bar on launching new debt schemes, and a combined ₹15 crore in penalties on the AMC, its trustee, and individual executives, for regulatory violations in the wind-up.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-06-25",
+      "label": "SAT grants partial stay",
+      "detail": "The Securities Appellate Tribunal stays SEBI's order pending appeal, directing Franklin Templeton to deposit ₹250 crore in escrow instead of the full ₹512 crore.",
+      "type": "delay"
+    },
+    {
+      "date": "2023-08-01",
+      "label": "Appeal still pending",
+      "detail": "As of the most recent reporting reviewed, Franklin Templeton has not launched any new debt scheme in India, and its appeal against SEBI's order remains undecided before SAT.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a regulatory (not criminal) matter. SEBI's June 2021 order found violations and imposed a fee disgorgement and penalties; that order is under appeal before the Securities Appellate Tribunal, which has granted a partial stay. This entry has not confirmed whether SAT has since issued a final ruling.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjay Sapre",
+        "role": "President, Franklin Templeton Asset Management (India)",
+        "outcome": "Fined ₹2 crore by SEBI's June 2021 order; the order is under appeal."
+      },
+      {
+        "name": "Santosh Kamath",
+        "role": "Chief Investment Officer – Fixed Income, Franklin Templeton (India)",
+        "outcome": "Fined ₹2 crore by SEBI's June 2021 order; the order is under appeal."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real fund house froze ₹25,000+ crore of investor money overnight, and India's securities regulator later found it had violated mutual fund rules in doing so — but that regulatory finding itself remains contested on appeal, with only a fraction of the ordered penalty actually secured so far. Investors were eventually repaid in full and more via a court-supervised process, though only after a prolonged freeze that this entry treats as the core harm.",
+    "confidence": "medium",
+    "reasoning": "The wind-up itself, the Supreme Court's intervention, and SEBI's June 2021 order are well documented by contemporaneous regulatory and news sources. However, the appeal's final outcome has not been confirmed by this entry, which relies on reporting current only through August 2023."
+  },
+  "incomplete": [
+    "The Securities Appellate Tribunal's final ruling on Franklin Templeton's appeal against the June 2021 SEBI order has not been confirmed — this entry's most recent sourced update is from August 2023, when the appeal was still pending.",
+    "Separate reports of an Enforcement Directorate probe and searches of Franklin Templeton executives' homes (March 2023) have not been independently verified or detailed here.",
+    "This entry has not reconciled every investor-recovery figure across sources; the ~109% distribution figure is drawn from Franklin Templeton's own account and has not been cross-verified against an independent audit."
+  ],
+  "sources": [
+    {
+      "id": "src-ft-overview",
+      "label": "Franklin Templeton winding up six of its debt funds",
+      "type": "independent",
+      "publisher": "Value Research",
+      "date": "2020-04-24",
+      "url": "https://www.valueresearchonline.com/stories/47970/franklin-templeton-winding-up-six-of-its-debt-funds/"
+    },
+    {
+      "id": "src-ft-sc",
+      "label": "SC asks Franklin Templeton to hold meeting with investors within one week for consent",
+      "type": "independent",
+      "publisher": "Business Standard / PTI",
+      "date": "2020-12-03",
+      "url": "https://www.business-standard.com/amp/article/pti-stories/sc-asks-franklin-templeton-to-hold-meeting-with-investors-within-one-week-for-consent-120120300707_1.html"
+    },
+    {
+      "id": "src-ft-sebi-order",
+      "label": "Sebi imposes Rs 15 cr fine on Franklin Templeton, 8 others",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2021-06-14",
+      "url": "https://www.businesstoday.in/latest/corporate/story/sebi-fines-rs-15-cr-fine-on-franklin-templeton-8-others-298649-2021-06-14"
+    },
+    {
+      "id": "src-ft-sat-stay",
+      "label": "Franklin MF moves SAT seeking stay on SEBI's Rs 512-crore penalty order",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2021-06-25",
+      "url": "https://www.business-standard.com/article/current-affairs/franklin-mf-moves-sat-seeking-stay-on-sebi-s-rs-5-crore-penalty-order-121062500952_1.html"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "KB-012",
+  "slug": "ilfs-crisis",
+  "title": "The IL&FS Crisis",
+  "dek": "A systemically important infrastructure lender defaulted on its debt in 2018, freezing credit markets nationwide. An SFIO probe later flagged thousands of crores in round-tripped loans behind a AAA rating that turned out to be worthless.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 7,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-08-01",
+  "heroStat": {
+    "value": "₹91,000 cr",
+    "label": "in defaulted debt across IL&FS group companies"
+  },
+  "promise": {
+    "quote": "IL&FS group companies will meet their debt obligations, and their AAA credit ratings reflect a true and accurate picture of their financial health.",
+    "madeBy": "Infrastructure Leasing & Financial Services Ltd. (IL&FS) and its rating agencies",
+    "role": "A systemically important non-bank infrastructure financing and project development group",
+    "date": "2018-08-01",
+    "context": "IL&FS and its subsidiaries began defaulting on short-term debt obligations from around mid-2018, despite holding top-tier AAA credit ratings until shortly before the defaults began.",
+    "sourceIds": [
+      "src-ilfs-overview"
+    ]
+  },
+  "target": {
+    "description": "Debt obligations met on schedule, with credit ratings and financial disclosures accurately reflecting the group's actual leverage and asset quality.",
+    "standard": "RBI prudential norms for non-bank financial companies and SEBI credit rating agency disclosure requirements.",
+    "referenceDate": "2018-08-01"
+  },
+  "reality": {
+    "description": "IL&FS group companies defaulted on debt obligations from mid-2018 onward, ultimately involving over ₹91,000 crore in consolidated group debt. The government dissolved the board in October 2018 and installed a new one led by Uday Kotak. A Serious Fraud Investigation Office (SFIO) probe identified specific instances of loan round-tripping (around ₹2,270 crore) and tenure-mismatch irregularities (around ₹541 crore) among the practices that concealed the group's true financial position.",
+    "asOfDate": "2019-06-01",
+    "sourceIds": [
+      "src-ilfs-overview",
+      "src-ilfs-sfio"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total group debt default vs. specific fraud amount identified by SFIO",
+    "unit": "₹ crore",
+    "targetValue": 91000,
+    "actualValue": 2811,
+    "targetDisplay": "₹91,000 cr total group default",
+    "actualDisplay": "₹2,811 cr in specific irregularities flagged by SFIO",
+    "targetLabel": "Total default",
+    "actualLabel": "SFIO-flagged",
+    "note": "The SFIO's specifically identified irregularities (round-tripping plus tenure mismatches) are a small fraction of the total default, which mostly reflects genuine over-leveraging and asset-liability mismatches rather than documented fraud. This gap should not be read as implying the rest of the default is proven fraud."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2018-08-01",
+      "label": "Defaults begin",
+      "detail": "IL&FS subsidiaries start missing repayments, including on a short-term loan from SIDBI.",
+      "type": "status"
+    },
+    {
+      "date": "2018-10-01",
+      "label": "Government dissolves the board",
+      "detail": "A new board led by Uday Kotak is appointed to oversee resolution.",
+      "type": "status"
+    },
+    {
+      "date": "2018-10-01",
+      "label": "SFIO probe launched",
+      "detail": "The Serious Fraud Investigation Office begins examining financial irregularities across the group.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Individual arrests and prosecutions of former IL&FS executives have been reported, but this investigation has not yet compiled a verified, named account of specific convictions or acquittals — that detail is pending fuller research.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the default and the existence of specific SFIO-flagged irregularities are well documented. Individual criminal accountability, and a reconciled account of how much of the ₹91,000 crore reflects fraud versus ordinary business failure, has not yet been established in this investigation.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, sourced to reputable reporting. It has not yet received the same depth of research as the site's fully developed cases — in particular, individual legal outcomes and a full timeline of the resolution process are still to be added."
+  },
+  "incomplete": [
+    "This is a stub entry. Named individuals, their specific legal outcomes, and a fuller timeline of the resolution process have not yet been added.",
+    "It is not established in this investigation how the resolution process (asset sales, debt restructuring) has apportioned recovery across the group's many creditors.",
+    "The relationship between the ₹91,000 crore total default and the smaller, specifically-fraud-flagged amounts has not been fully reconciled here."
+  ],
+  "sources": [
+    {
+      "id": "src-ilfs-overview",
+      "label": "What is IL&FS crisis",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2019-01-01",
+      "url": "https://www.business-standard.com/about/what-is-il-fs-crisis"
+    },
+    {
+      "id": "src-ilfs-sfio",
+      "label": "SFIO Claim Defaults Over 90,000 Crore in IL&FS Scam",
+      "type": "independent",
+      "publisher": "InstaFinancials",
+      "date": "2019-06-06",
+      "url": "https://blog.instafinancials.com/2019/06/06/sfio-claim-defaults-over-90000-crore-in-ilfs-scam/"
+    }
+  ]
+}

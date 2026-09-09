@@ -1,0 +1,116 @@
+{
+  "id": "KB-1509",
+  "slug": "pm-awas-yojana-fake-beneficiaries-scam",
+  "title": "The PM Awas Yojana Fake Beneficiaries Scam",
+  "dek": "A flagship promise of a pucca house for every poor Indian family has been undercut by thousands of ineligible claimants — including people who already owned homes — pocketing housing subsidy instalments meant for the genuinely homeless.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 242,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-12-01",
+  "heroStat": {
+    "value": "9,000+",
+    "label": "ineligible claimants identified in Prayagraj district alone, some receiving funds without laying a single brick"
+  },
+  "promise": {
+    "quote": "Housing assistance under the Pradhan Mantri Awas Yojana will reach genuinely homeless, eligible households, verified against clear criteria, so that every poor family gets a pucca house.",
+    "madeBy": "Ministry of Rural Development / Ministry of Housing and Urban Affairs, Government of India",
+    "role": "Implementing ministries for PM Awas Yojana (Gramin and Urban)",
+    "date": "2015-06-25",
+    "context": "PM Awas Yojana was launched to provide financial assistance for pucca house construction to eligible poor and homeless households across rural and urban India.",
+    "sourceIds": [
+      "src-pmay-newsx"
+    ]
+  },
+  "target": {
+    "description": "Housing subsidy instalments released only to verified, genuinely eligible beneficiaries who do not already own a pucca house, with disbursed funds actually used for construction.",
+    "standard": "PM Awas Yojana beneficiary-eligibility and verification guidelines.",
+    "referenceDate": "2015-06-25"
+  },
+  "reality": {
+    "description": "In Uttar Pradesh's Prayagraj district, an investigation by the Chief Development Officer found more than 9,000 individuals had claimed PM Awas Yojana funds despite already owning permanent houses, defrauding the scheme of roughly ₹1.08 crore; in the Shankargarh block alone, 3,127 beneficiaries received a first instalment worth around ₹1.20 lakh each without laying a single brick of construction. Separately, a December 2025 CAG performance audit of the scheme in Uttar Pradesh flagged serious irregularities in beneficiary selection, finding hundreds of ineligible beneficiaries received housing assistance and that ₹86.20 lakh meant for 159 beneficiaries was fraudulently transferred to unauthorised bank accounts. The CAG and local reporting both describe the use of fabricated income documents and false no-pucca-house declarations as key methods of the fraud.",
+    "asOfDate": "2025-12-01",
+    "sourceIds": [
+      "src-pmay-newsx",
+      "src-pmay-the420"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Ineligible beneficiaries identified in Prayagraj vs. funds fraudulently transferred flagged by the CAG audit",
+    "unit": "count / ₹ lakh",
+    "targetValue": 9000,
+    "actualValue": 159,
+    "targetDisplay": "9,000+ ineligible claimants (Prayagraj)",
+    "actualDisplay": "159 beneficiaries, ₹86.20 lakh (CAG-flagged unauthorised transfers, UP-wide)",
+    "targetLabel": "Prayagraj ineligible claimants",
+    "actualLabel": "CAG-flagged fraudulent transfers",
+    "note": "These figures come from two different investigations at different administrative scales (one district vs. a state-wide CAG audit) and are not directly additive; both are reported to illustrate the scheme's exposure to fraud rather than a single reconciled total."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Approximately ₹1.08 crore defrauded via 9,000+ fake claims in Prayagraj district; ₹86.20 lakh fraudulently transferred to unauthorised accounts per the CAG's Uttar Pradesh audit.",
+    "sourceIds": [
+      "src-pmay-newsx",
+      "src-pmay-the420"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015-06-25",
+      "label": "PMAY launched",
+      "detail": "The scheme is launched with a target of 'Housing for All' for eligible poor households.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-12-01",
+      "label": "CAG flags UP irregularities",
+      "detail": "A CAG performance audit finds serious gaps in beneficiary selection and fund transfers in Uttar Pradesh.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-01",
+      "label": "Prayagraj fraud exposed",
+      "detail": "A Chief Development Officer investigation finds over 9,000 ineligible claimants in Prayagraj district, including beneficiaries who took funds without building anything.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Administrative investigations (CDO-level in Prayagraj, CAG audit statewide) have identified fraud; this investigation has not confirmed whether criminal cases or fund-recovery proceedings have been initiated against named individuals.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: both a district-level probe and a state CAG audit independently confirm significant beneficiary-selection fraud in PM Awas Yojana in Uttar Pradesh, though the scheme's national-level fraud exposure has not been quantified here.",
+    "confidence": "low",
+    "reasoning": "This entry relies on district-level reporting and a CAG audit summary as reported by independent outlets; the full CAG report has not been directly reviewed, and findings are currently limited to Uttar Pradesh."
+  },
+  "incomplete": [
+    "This is a stub entry; the full CAG report on PMAY has not been directly reviewed, only press summaries.",
+    "Whether recovery action or criminal cases have been initiated against the identified ineligible claimants has not been confirmed.",
+    "Whether similar fraud patterns have been documented in other states beyond Uttar Pradesh has not been researched here."
+  ],
+  "sources": [
+    {
+      "id": "src-pmay-newsx",
+      "label": "PM Awas Yojana Scam: ₹1.08 Crore Fraud, 9,000+ Fake Claims in Prayagraj",
+      "type": "independent",
+      "publisher": "NewsX",
+      "date": "2025-12-01",
+      "url": "https://www.newsx.com/business/pm-awas-yojana-scam-rupees-108-crore-fraud-9000-fake-claims-in-prayagraj-49977/"
+    },
+    {
+      "id": "src-pmay-the420",
+      "label": "CAG Flags Serious Irregularities in PM Awas Yojana in Uttar Pradesh, Questions Beneficiary Selection",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2025-12-01",
+      "url": "https://the420.in/cag-report-pm-awas-yojana-uttar-pradesh-irregularities-cyber-fraud/"
+    }
+  ]
+}

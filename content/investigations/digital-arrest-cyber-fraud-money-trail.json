@@ -1,0 +1,155 @@
+{
+  "id": "KB-1502",
+  "slug": "digital-arrest-cyber-fraud-money-trail",
+  "title": "The ₹27,850-Crore 'Digital Arrest' Money Trail",
+  "dek": "A single Goa woman's ₹2.6-crore 'digital arrest' scam complaint led the ED to a money-mule network that had moved ₹27,850 crore through dummy accounts and is linked to 163 FIRs across 20 states.",
+  "category": "Telecom & Digital",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 31,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-06-01",
+  "heroStat": {
+    "value": "₹27,850 cr",
+    "label": "in banking transactions traced through the mule-account network by the ED"
+  },
+  "promise": {
+    "quote": "India's banking and telecom systems will prevent organised networks from using dummy accounts and SIM cards to launder proceeds of cyber fraud at scale.",
+    "madeBy": "Banking-sector KYC framework and telecom SIM-verification norms",
+    "role": "Regulatory safeguard against mule-account and SIM-based cyber fraud",
+    "date": "2025-05-21",
+    "context": "A Goa resident was coerced by fraudsters posing as law-enforcement officials into transferring ₹2.60 crore between 21 May and 2 June 2025 into accounts falsely described as 'secret supervision accounts' — a scam pattern known as 'digital arrest'.",
+    "sourceIds": [
+      "src-digitalarrest-moneylife"
+    ]
+  },
+  "target": {
+    "description": "Bank accounts and SIM cards used for their disclosed, KYC-verified purpose, with anomalous high-volume transaction patterns flagged and blocked before mule networks can move crores through them.",
+    "standard": "RBI KYC/anti-money-laundering norms and Department of Telecommunications SIM-verification rules.",
+    "referenceDate": "2025-05-21"
+  },
+  "reality": {
+    "description": "Investigating the Goa complaint, the ED's Panaji zonal office traced a nationwide network of dummy accounts and shell entities that had conducted banking transactions worth ₹27,850 crore and cash deposits of ₹2,904 crore. The bank accounts involved are linked to 163 FIRs and 330 complaints across 20 states and Union Territories, representing total reported victim losses of approximately ₹417.49 crore. The ED conducted searches at 20 premises in Mumbai and Goa on 17 July 2026, and further searches on 21 August 2026 that recovered ₹3.25 crore in cash. On 23 August 2026, the agency arrested two accused, Fahim Moin Hussain Sayed and Naim Mueen Sayyed, under the Prevention of Money Laundering Act.",
+    "asOfDate": "2026-08-25",
+    "sourceIds": [
+      "src-digitalarrest-moneylife",
+      "src-digitalarrest-the420",
+      "src-digitalarrest-socialnews"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total money-trail transaction value traced vs. confirmed victim losses linked to FIRs",
+    "unit": "₹ crore",
+    "targetValue": 27850,
+    "actualValue": 417.49,
+    "targetDisplay": "₹27,850 cr (total transactions through network)",
+    "actualDisplay": "₹417.49 cr (confirmed victim losses across 163 FIRs)",
+    "targetLabel": "Transactions traced",
+    "actualLabel": "Confirmed victim losses",
+    "note": "The ₹27,850 crore figure reflects total transaction volume through the mule-account network, which investigators say handled proceeds from many frauds beyond the digital-arrest cases with confirmed FIRs; it should not be read as the total amount stolen from victims."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹27,850 crore in transactions and ₹2,904 crore in cash deposits were traced through the network; ₹3.25 crore in cash was seized in the August 2026 raids.",
+    "sourceIds": [
+      "src-digitalarrest-the420"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025-05-21",
+      "label": "Goa victim's funds transferred",
+      "detail": "A Goa resident is coerced into transferring ₹2.60 crore into accounts described as 'secret supervision accounts' over roughly two weeks.",
+      "type": "status"
+    },
+    {
+      "date": "2025-06-01",
+      "label": "Cybercrime FIR registered",
+      "detail": "North Goa cybercrime police register a case, which the ED later takes up under the PMLA.",
+      "type": "announcement"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "ED searches 20 premises",
+      "detail": "The ED conducts searches under PMLA Section 17 across Mumbai and Goa.",
+      "type": "status"
+    },
+    {
+      "date": "2026-08-21",
+      "label": "Further searches, cash seized",
+      "detail": "Additional premises are searched; ₹3.25 crore in cash is recovered.",
+      "type": "status"
+    },
+    {
+      "date": "2026-08-23",
+      "label": "Two arrested",
+      "detail": "The ED's Panaji zonal office arrests Fahim Moin Hussain Sayed and Naim Mueen Sayyed under Section 19 of the PMLA.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Two individuals have been arrested under the PMLA; no chargesheet or trial outcome has been reported yet, and the network's organisers beyond those arrested have not been publicly identified in the sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Fahim Moin Hussain Sayed",
+        "role": "Accused",
+        "outcome": "Arrested by the ED on 23 August 2026 under Section 19 of the PMLA."
+      },
+      {
+        "name": "Naim Mueen Sayyed",
+        "role": "Accused",
+        "outcome": "Arrested by the ED on 23 August 2026 under Section 19 of the PMLA."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: a single digital-arrest complaint has uncovered a mule-account and shell-entity network of striking scale, illustrating how India's cyber-fraud epidemic is intertwined with organised money laundering. This is an active, fast-moving investigation with no resolution yet.",
+    "confidence": "low",
+    "reasoning": "This entry is based on reporting through late August 2026 covering the case's discovery, searches, and initial arrests. It has not yet been possible to verify how the ₹27,850 crore transaction figure was calculated or to identify the network's alleged masterminds."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research into the network's organisational structure and alleged masterminds is pending.",
+    "It is unclear whether the ₹27,850 crore transaction figure represents laundering of proceeds specifically from digital-arrest scams, or a broader mix of cyber-fraud types.",
+    "No chargesheet has been reported as of this entry's publication."
+  ],
+  "sources": [
+    {
+      "id": "src-digitalarrest-moneylife",
+      "label": "₹2.60 Crore 'Digital Arrest' Fraud Leads ED to ₹27,850 Crore Money Trail Linked to 163 FIRs Across India",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2026-08-25",
+      "url": "https://www.moneylife.in/article/260-crore-digital-arrest-fraud-leads-ed-to-27850-crore-money-trail-linked-to-163-firs-across-india/81463.html"
+    },
+    {
+      "id": "src-digitalarrest-the420",
+      "label": "Cyber-Fraud Network Linked to 20 States and ₹27,850 Crore Transactions, Two Held",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2026-08-25",
+      "url": "https://the420.in/ed-mumbai-cyber-fraud-network-27850-crore-transactions-arrests/"
+    },
+    {
+      "id": "src-digitalarrest-socialnews",
+      "label": "Goa: ED nabs two in 'digital arrest' cyber fraud; gang handled Rs 27,850 crore transactions",
+      "type": "independent",
+      "publisher": "Social News XYZ",
+      "date": "2026-08-25",
+      "url": "https://www.socialnews.xyz/2026/08/25/goa-ed-nabs-two-in-digital-arrest-cyber-fraud-gang-handled-rs-27850-crore-transactions/"
+    },
+    {
+      "id": "src-digitalarrest-newsgram",
+      "label": "How a Goa Woman's 'Digital Arrest' Led to the ED Uncovering a Nation-Wide Money Laundering Network",
+      "type": "independent",
+      "publisher": "NewsGram",
+      "date": "2026-08-25",
+      "url": "https://www.newsgram.com/india/2026/08/25/goa-digital-arrest-ed-money-laundering-network-417-crore"
+    }
+  ]
+}

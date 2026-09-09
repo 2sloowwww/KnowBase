@@ -1,0 +1,185 @@
+{
+  "id": "KB-561",
+  "slug": "srs-group-ponzi-scheme",
+  "title": "The SRS Group Collapse — Flats, Jewellery, and a Faridabad Ponzi Machine",
+  "dek": "SRS Group promised Faridabad investors monthly returns and multi-business growth spanning jewellery, real estate, cinemas, and finance. Instead, thousands of investors and homebuyers were left holding worthless cheques while the group allegedly funnelled over ₹2,200 crore through shell companies.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 137,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-03-04",
+  "heroStat": {
+    "value": "₹2,215.98 cr",
+    "label": "proceeds of crime the Enforcement Directorate says it has identified and attached in the SRS Group money-laundering case, stemming from 81 FIRs filed by Faridabad and Delhi Police"
+  },
+  "promise": {
+    "quote": "Invest with SRS and receive guaranteed high monthly interest, or a flat, jewellery, or other assets as promised under our investment and real estate schemes.",
+    "madeBy": "SRS Group (SRS Real Estate Ltd., SRS Finance Ltd., and affiliated group companies) under chairman Anil Jindal",
+    "role": "Faridabad-based conglomerate spanning real estate, jewellery retail, cinema halls (SRS Cinemas), and financial services",
+    "date": "2010-01-01",
+    "context": "This reflects the general nature of SRS Group's investment and pre-launch property schemes as described in FIRs and ED filings, rather than a verified quotation from a specific SRS marketing document, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-srs-theprint"
+    ]
+  },
+  "target": {
+    "description": "That SRS Group would honour its commitments to depositors and property buyers — paying promised monthly interest on investment schemes and delivering flats, jewellery, or other assets on the agreed schedule — using funds actually invested in its stated businesses rather than money from new investors.",
+    "standard": "Basic contractual and fiduciary obligations under Indian contract law and IPC provisions against cheating and criminal breach of trust (Sections 420 and 406), plus state deposit-protection laws applicable to unauthorised collective investment schemes.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "SRS Group, founded around 2000 and built around real estate, jewellery, cinemas, and finance arms in Faridabad, allegedly lured investors and flat-buyers with high monthly returns and pre-launch property offers, paying interest for only a short period before defaulting and issuing post-dated cheques that bounced. Faridabad Police registered 22 FIRs on 4 March 2018 alone, with the total FIR count against the group eventually reaching 81 across Faridabad and Delhi Police. Chairman Anil Jindal and four associates were arrested from a Delhi hotel in early April 2018. The Enforcement Directorate opened a money-laundering probe in December 2018, alleging that funds raised from the public were layered through a web of shell companies and siphoned into personal and group-controlled assets; it issued a Provisional Attachment Order covering assets worth roughly ₹2,215.98 crore and filed a PMLA chargesheet running to over 20,000 pages before a special court in Gurugram. As of November 2025, that court had framed charges against 13 individuals and six group companies, with two promoters — Sunil Jindal and Jitender Kumar Garg — declared fugitive economic offenders and extradition requests sent abroad; a further promoter, Praveen Kumar Kapoor, was deported and arrested that month. In March 2026, the PMLA court directed the ED to begin returning roughly 2,312 attached properties, valued near ₹650 crore, to investors and homebuyers found to be 'genuine'.",
+    "asOfDate": "2026-03-18",
+    "sourceIds": [
+      "src-srs-tribune-2018",
+      "src-srs-theprint",
+      "src-srs-lokmat-2025"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Proceeds of crime the ED alleges vs. value of assets so far restored to investors",
+    "unit": "INR crore",
+    "targetValue": 2215.98,
+    "actualValue": 650,
+    "targetDisplay": "₹2,215.98 cr in alleged proceeds of crime",
+    "actualDisplay": "~₹650 cr in properties ordered restored (2026)",
+    "targetLabel": "Alleged proceeds of crime",
+    "actualLabel": "Value being restored to victims",
+    "note": "The restitution ordered in 2026 covers only a portion of the attached assets and only some investors deemed 'genuine' by the court; this entry has not confirmed what share of total victims or total money will ultimately be recovered."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ₹2,215.98 crore figure is the Enforcement Directorate's own estimate of proceeds of crime under its Provisional Attachment Order, not an audited or court-finalised figure. Attached properties covered under the 2026 restitution order are valued at roughly ₹650 crore.",
+    "sourceIds": [
+      "src-srs-lokmat-2025",
+      "src-srs-theprint"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2000-01-01",
+      "label": "SRS Group founded in Faridabad",
+      "detail": "Grows into a conglomerate spanning real estate, jewellery retail, cinema halls, and financial services under chairman Anil Jindal.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-03-04",
+      "label": "22 FIRs registered against SRS Group",
+      "detail": "Faridabad Police books the group and its promoters under IPC Sections 420, 406, and 120B at Sector-31 police station; total FIRs against the group eventually reach 81 across Faridabad and Delhi.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-04-04",
+      "label": "Chairman Anil Jindal arrested",
+      "detail": "Jindal and four associates are arrested from a hotel in Delhi's Mahipalpur area.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-12-01",
+      "label": "ED opens money-laundering probe",
+      "detail": "The Enforcement Directorate registers a case under the Prevention of Money Laundering Act based on the FIRs, alleging funds were layered through shell companies.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-01-01",
+      "label": "ED attaches assets worth ~₹2,215.98 crore",
+      "detail": "A Provisional Attachment Order covers properties and assets the ED alleges are proceeds of crime.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-11-03",
+      "label": "ED files chargesheet against SRS Group promoters",
+      "detail": "A supplementary chargesheet is filed in the ongoing PMLA prosecution before the special court in Gurugram.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-11-03",
+      "label": "PMLA court frames charges",
+      "detail": "The Gurugram special court frames charges against 13 individuals, including Anil Jindal, Vinod Jindal, Bishan Bansal, and others, and six group companies including SRS Real Estate Ltd. and SRS Finance Ltd.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-03-18",
+      "label": "Court orders restitution to begin",
+      "detail": "The special PMLA court directs the ED to begin returning roughly 2,312 attached properties, worth about ₹650 crore, to investors and homebuyers identified as genuine.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The SRS Group case is an ongoing PMLA prosecution before a special court in Gurugram, with criminal cheating and breach-of-trust FIRs (81 in total) still working through Haryana and Delhi courts alongside the money-laundering matter. Charges were framed against 13 individuals and 6 companies in November 2025; the trial was underway as of that date. Two promoters have been declared fugitive economic offenders with extradition sought, and a third was deported and arrested in November 2025. No convictions had been reported as of the period covered by this entry — all named individuals are presumed innocent unless and until convicted.",
+    "keyIndividuals": [
+      {
+        "name": "Anil Jindal",
+        "role": "Chairman and Managing Director, SRS Group",
+        "outcome": "Arrested April 2018; chargesheeted by ED; charges framed by PMLA court in November 2025; trial ongoing as of this entry."
+      },
+      {
+        "name": "Sunil Jindal",
+        "role": "Promoter, SRS Group",
+        "outcome": "Declared a fugitive economic offender; extradition request reportedly sent."
+      },
+      {
+        "name": "Jitender Kumar Garg",
+        "role": "Promoter, SRS Group",
+        "outcome": "Declared a fugitive economic offender; extradition request reportedly sent."
+      },
+      {
+        "name": "Praveen Kumar Kapoor",
+        "role": "Associate/promoter, SRS Group",
+        "outcome": "Deported from the United States and arrested in November 2025."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, large-scale alleged Ponzi and diversion scheme is well documented through 81 police FIRs and an ED money-laundering prosecution now eight years old, with the ED's own estimate of proceeds of crime at over ₹2,200 crore. But this is a stub entry: this site has not independently reviewed the ED's chargesheets, the FIRs, or court orders, and relies on news reporting of those documents. The prosecution remains at the trial stage with no convictions yet reported, so guilt of any named individual remains an allegation, not an established fact.",
+    "confidence": "low",
+    "reasoning": "Facts are drawn from consistent contemporaneous and recent reporting (Tribune, ThePrint, Lokmat Times) describing FIRs, ED attachment orders, and court proceedings, but this entry has not sourced or reviewed the underlying FIRs, PMLA chargesheet, or court orders directly, and total victim numbers and the scheme's exact original terms are not independently confirmed."
+  },
+  "incomplete": [
+    "The exact original terms of SRS Group's investment/pre-launch schemes (promised interest rates, tenures) have not been confirmed from a primary document.",
+    "Total number of affected investors and homebuyers across all 81 FIRs is not confirmed by this entry; only the subset covered by the 2026 restitution order (~2,312 properties) is documented.",
+    "This entry has not reviewed the ED's PMLA chargesheet, the original FIRs, or the November 2025 charge-framing order directly.",
+    "The current custodial/bail status of Anil Jindal and other named individuals as of the most recent date covered by this entry is not confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-srs-tribune-2018",
+      "label": "SRS Group chairman, four associates held for cheating",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2018-04-06",
+      "url": "https://www.tribuneindia.com/news/archive/haryana/srs-group-chairman-four-associates-held-for-cheating-569337/"
+    },
+    {
+      "id": "src-srs-theprint",
+      "label": "7 yrs on, ED begins process to return Faridabad's SRS Group properties to 2,300 'genuine' homebuyers",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2026-03-18",
+      "url": "https://theprint.in/india/7-yrs-on-ed-begins-process-to-return-faridabads-srs-group-properties-to-2300-genuine-homebuyers/2882787/"
+    },
+    {
+      "id": "src-srs-lokmat-2025",
+      "label": "ED court frames charges against key accused in Rs 2,200 crore SRS Group money-laundering case",
+      "type": "independent",
+      "publisher": "Lokmat Times",
+      "date": "2025-11-03",
+      "url": "https://www.lokmattimes.com/national/ed-court-frames-charges-against-key-accused-in-rs-2200-crore-srs-group-money-laundering-case/"
+    },
+    {
+      "id": "src-srs-bs-2022",
+      "label": "ED files charge sheet against SRS group, promoters in money laundering case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-11-03",
+      "url": "https://www.business-standard.com/article/companies/ed-files-charge-sheet-against-srs-group-promoters-in-money-laundering-case-122110301681_1.html"
+    }
+  ]
+}

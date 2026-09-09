@@ -1,0 +1,142 @@
+{
+  "id": "KB-005",
+  "slug": "commonwealth-games-2010-scam",
+  "title": "The Commonwealth Games 2010 Scam",
+  "dek": "A Games budgeted at ₹297 crore in 2003 had officially escalated to ₹18,532 crore by the time it opened in 2010. Wider claims of a ₹60,000–70,000 crore scandal circulate widely — but conflate the Games with unrelated city infrastructure spending.",
+  "category": "Public Spending",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 93,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-04-01",
+  "heroStat": {
+    "value": "₹297cr → ₹18,532cr",
+    "label": "official Games budget, 2003 estimate vs. 2010 cost (per the CAG)"
+  },
+  "promise": {
+    "quote": "The XIX Commonwealth Games will be delivered within the sanctioned budget, with procurement and contracts following standard public financial norms.",
+    "madeBy": "Organising Committee, Commonwealth Games 2010, and associated central and Delhi government agencies",
+    "role": "Bodies responsible for planning, procurement, and delivery of the Games",
+    "date": "2003-05-01",
+    "context": "India won the right to host the 2010 Commonwealth Games in 2003, with an initial Games-specific budget of ₹297 crore.",
+    "sourceIds": [
+      "src-cag-cwg"
+    ]
+  },
+  "target": {
+    "description": "Delivery of the Games within a reasonably escalated version of the original sanctioned budget, procured through transparent, competitive tendering.",
+    "standard": "General Financial Rules governing public procurement, and the sanctioned Games budget as periodically revised and approved.",
+    "referenceDate": "2003-05-01"
+  },
+  "reality": {
+    "description": "The CAG's 2011 performance audit found the Games-specific budget rose from ₹297 crore in May 2003 to ₹18,532.31 crore by October 2010 — a roughly 62-fold increase — and documented widespread procurement irregularities, inflated contracts, and favouritism across venues, technology, and hospitality contracts. Separately, much larger figures (commonly cited as ₹60,000–70,000 crore) circulate in media coverage, but these typically include Delhi-wide infrastructure projects — flyovers, airport expansion, metro extensions — that were not exclusively, or even primarily, Games expenditure. This investigation treats the CAG's own Games-specific figure as the reliable one and flags the larger figures as methodology-dependent and likely overstated for this specific scandal.",
+    "asOfDate": "2011-08-01",
+    "sourceIds": [
+      "src-cag-cwg"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Sanctioned Games budget, 2003 vs. actual cost at Games time, 2010",
+    "unit": "₹ crore",
+    "targetValue": 297,
+    "actualValue": 18532,
+    "targetDisplay": "₹297 cr (May 2003 estimate)",
+    "actualDisplay": "₹18,532 cr (Oct 2010, per CAG)",
+    "targetLabel": "2003",
+    "actualLabel": "2010",
+    "note": "This is the CAG's own Games-specific figure, and independently recalculating from these two numbers gives roughly a 62-fold increase. Some contemporary reporting on the same CAG audit instead describes a '16-fold' cost increase, apparently using a different pair of reference figures from elsewhere in the report; this investigation could not fully reconcile the two multipliers against the primary document and flags both rather than picking one. Separately, widely circulated claims of a ₹60,000–70,000 crore scandal typically bundle in Delhi infrastructure spending unrelated to the Games venues and operations, and are not used as this investigation's headline number."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2003-05-01",
+      "label": "Delhi awarded the Games",
+      "detail": "Initial Games-specific budget set at ₹297 crore.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-10-03",
+      "label": "Games open",
+      "detail": "By this point the CAG found the Games-specific budget had risen to ₹18,532.31 crore.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-04-01",
+      "label": "CAG tables performance audit",
+      "detail": "A 743-page report documents procurement irregularities across venues, technology contracts, and hospitality, alongside the cost escalation.",
+      "type": "status"
+    },
+    {
+      "date": "2011-04-25",
+      "label": "Suresh Kalmadi arrested",
+      "detail": "The Organising Committee chairman was arrested on charges including conspiracy, forgery, and misconduct under the Prevention of Corruption Act.",
+      "type": "status"
+    },
+    {
+      "date": "2012-01-01",
+      "label": "Kalmadi released on bail",
+      "detail": "After roughly ten months in custody, Kalmadi was released; his case did not proceed to trial in the years that followed.",
+      "type": "delay"
+    },
+    {
+      "date": "2022-01-01",
+      "label": "Multiple CBI closure reports",
+      "detail": "Of 19 FIRs originally filed in relation to the Games, several were closed by the CBI for lack of prosecutable evidence.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "ED closure report accepted",
+      "detail": "A special court accepted an Enforcement Directorate closure report in a money-laundering case against Kalmadi.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No one has ever been convicted in relation to the core Commonwealth Games procurement scandal. The most prominent accused was jailed briefly pending investigation but was never brought to trial before the case against him was effectively wound down.",
+    "keyIndividuals": [
+      {
+        "name": "Suresh Kalmadi",
+        "role": "Chairman, Commonwealth Games 2010 Organising Committee",
+        "outcome": "Jailed for approximately ten months (2011–2012) pending investigation; never brought to trial on the corruption charges; a special court later accepted an ED closure report in a related money-laundering case."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The CAG's own audit is unambiguous: costs rose 62-fold from the original estimate, and the report itself describes serious, specific procurement irregularities. What did not follow was legal accountability at any level — the case's most prominent figure was jailed but never tried, and the wider criminal investigation wound down through a series of closure reports rather than verdicts.",
+    "confidence": "medium",
+    "reasoning": "The CAG's cost and procurement findings are official and well documented. Confidence is capped at medium because the much larger figures that dominate popular accounts of this scandal are not reliably sourced to the same audit and appear to conflate Games spending with unrelated city infrastructure — a distinction this investigation could not fully untangle from public reporting alone."
+  },
+  "incomplete": [
+    "This investigation could not find a reliable, itemised reconciliation separating pure Games-venue and operations spending from citywide infrastructure projects that are often folded into popular accounts of the scandal.",
+    "The final disposition of all 19 FIRs originally filed is not comprehensively documented in a single public source.",
+    "No individual has been convicted in relation to Games procurement irregularities as of the sources reviewed; it is unclear whether any case remains active."
+  ],
+  "sources": [
+    {
+      "id": "src-cag-cwg",
+      "label": "Performance Audit Report on the XIXth Commonwealth Games 2010 — Chapter 6, Financial Management of the Games Project",
+      "type": "primary",
+      "publisher": "Comptroller and Auditor General of India",
+      "date": "2011-08-01",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2011/Union_Performance_Civil_XIXth_Commonwealth_Games_6_2011_chapter_6.pdf"
+    },
+    {
+      "id": "src-cwg-firs",
+      "label": "Another closure report in 2010 CWG 'scam'. Here's what happened to the 19 FIRs filed since 2010",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2024-01-01",
+      "url": "https://theprint.in/judiciary/another-closure-report-in-2010-cwg-scam-heres-what-happened-to-the-19-firs-filed-since-2010/2610978/"
+    },
+    {
+      "id": "src-cwg-audit-16x",
+      "label": "Delhi 2010 cost 16 times more than budgeted, auditors report",
+      "type": "independent",
+      "publisher": "Inside the Games",
+      "date": "2011-08-01",
+      "url": "https://www.insidethegames.biz/articles/13816/delhi-2010-cost-16-times-more-than-budgeted-auditors-report"
+    }
+  ]
+}

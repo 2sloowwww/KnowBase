@@ -1,0 +1,125 @@
+{
+  "id": "KB-2305",
+  "slug": "reliance-capital-insolvency-case",
+  "title": "Reliance Capital's RBI-Forced Insolvency",
+  "dek": "The RBI took the unusual step of dissolving an NBFC's board over governance failures and payment defaults, pushing Anil Ambani's financial services flagship into insolvency. Two years and a contested bidding war later, the Hinduja Group walked away with it.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 88,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2021-11-29",
+  "heroStat": {
+    "value": "₹40,000 cr+",
+    "label": "in debt owed by Reliance Capital across its creditors at the time of the RBI's intervention"
+  },
+  "promise": {
+    "quote": "Reliance Capital says corporate insolvency resolution process has commenced against the company.",
+    "madeBy": "Reliance Capital Ltd, in a regulatory filing acknowledging the RBI-initiated insolvency process",
+    "role": "Non-banking financial company and financial services holding company of the Anil Dhirubhai Ambani Group",
+    "date": "2021-12-07",
+    "context": "The Reserve Bank of India superseded Reliance Capital's board in November 2021 citing governance concerns and payment defaults, appointing an administrator and referring the company for insolvency proceedings under a special RBI framework for systemically important NBFCs.",
+    "sourceIds": [
+      "src-rcap-cirp-filing"
+    ]
+  },
+  "target": {
+    "description": "Sound corporate governance and timely repayment of obligations to creditors and policyholders across Reliance Capital's insurance, asset reconstruction, and broking subsidiaries, consistent with RBI's regulatory expectations for systemically important NBFCs.",
+    "standard": "RBI's NBFC governance and prudential norms, and the special insolvency framework under Section 227 of the Insolvency and Bankruptcy Code for systemically important financial service providers.",
+    "referenceDate": "2021-11-29"
+  },
+  "reality": {
+    "description": "The RBI superseded Reliance Capital's board on 29 November 2021, citing governance issues and payment defaults, and appointed Nageswara Rao Y as administrator, who invited resolution bids from February 2022. After a prolonged and litigated bidding process, the Mumbai bench of the National Company Law Tribunal approved a ₹9,661 crore resolution plan submitted by IndusInd International Holdings Ltd (IIHL), part of the Hinduja Group, on 27 February 2024; lenders had voted in favour with 99.6% approval. Implementation was slated for completion within 90 days of NCLT approval, with the Hinduja Group gaining control of Reliance Capital's life, general, and health insurance businesses along with its asset reconstruction and broking operations. Reliance Capital's total debt at the time of RBI's intervention was reported at over ₹40,000 crore, meaning creditors recovered only a fraction of what was owed through the resolution plan.",
+    "asOfDate": "2024-02-27",
+    "sourceIds": [
+      "src-rcap-nclt-approval",
+      "src-rcap-cirp-filing"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total debt owed by Reliance Capital vs. resolution value recovered for creditors",
+    "unit": "INR crore",
+    "targetValue": 40000,
+    "actualValue": 9661,
+    "targetDisplay": "₹40,000+ cr owed",
+    "actualDisplay": "₹9,661 cr resolution plan value",
+    "targetLabel": "Debt at time of RBI intervention",
+    "actualLabel": "Resolution plan value approved",
+    "note": "The ₹9,661 crore figure is the upfront cash value of the approved resolution plan, not necessarily the total recovery across all creditor classes over time; this entry has not independently verified the final creditor-wise recovery percentage."
+  },
+  "money": {
+    "currency": "INR",
+    "unit": "crore",
+    "notes": "Reliance Capital's total debt at the time of the RBI's November 2021 intervention was reported at over ₹40,000 crore; the NCLT-approved resolution plan value from IIHL was ₹9,661 crore.",
+    "sourceIds": [
+      "src-rcap-cirp-filing",
+      "src-rcap-nclt-approval"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-11-29",
+      "label": "RBI supersedes Reliance Capital's board",
+      "detail": "Citing governance issues and payment defaults, the RBI dissolves the board and appoints an administrator.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-12-07",
+      "label": "Insolvency proceedings commence",
+      "detail": "Reliance Capital confirms that corporate insolvency resolution process has begun against the company.",
+      "type": "status"
+    },
+    {
+      "date": "2022-02-01",
+      "label": "Administrator invites resolution bids",
+      "detail": "The RBI-appointed administrator begins the process of soliciting bids to take over Reliance Capital.",
+      "type": "status"
+    },
+    {
+      "date": "2024-02-27",
+      "label": "NCLT approves ₹9,661 crore IIHL resolution plan",
+      "detail": "The Mumbai bench of the NCLT approves the Hinduja Group-backed plan, which had received 99.6% lender approval.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-20",
+      "label": "NCLT extends implementation deadline",
+      "detail": "The tribunal defers a matter on IIHL's plea for more time to complete the resolution plan's implementation.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The insolvency resolution process has concluded with the NCLT-approved transfer of Reliance Capital to the Hinduja Group's IIHL; this investigation has not established whether any separate criminal or regulatory action has been taken against Reliance Capital's former promoters or executives over the governance issues that triggered RBI's intervention.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the RBI's unprecedented supersession of Reliance Capital's board, the scale of its debt, and the NCLT-approved resolution to the Hinduja Group are well documented. This investigation has not established whether the underlying governance failures cited by RBI have led to any separate enforcement action against individuals.",
+    "confidence": "medium",
+    "reasoning": "The RBI's board supersession, the debt scale, and the NCLT resolution approval are corroborated across multiple contemporaneous reports; this entry has not, however, independently reviewed the RBI's supersession order or the NCLT's approval order themselves."
+  },
+  "incomplete": [
+    "This entry has not established what specific governance failures or payment defaults the RBI cited in superseding Reliance Capital's board, beyond general references in reporting.",
+    "It is not established whether any individual, including former Reliance Capital or ADAG executives, faces separate criminal or regulatory proceedings tied to this case.",
+    "The final creditor-wise recovery percentage, after implementation of the IIHL resolution plan, has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-rcap-cirp-filing",
+      "label": "Reliance Capital says corporate insolvency resolution started against firm",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2021-12-07",
+      "url": "https://www.business-standard.com/article/companies/reliance-capital-says-corporate-insolvency-resolution-started-against-firm-121120700706_1.html"
+    },
+    {
+      "id": "src-rcap-nclt-approval",
+      "label": "NCLT nod to Rs 9,661 crore resolution plan for Reliance Capital",
+      "type": "independent",
+      "publisher": "Insolvency Tracker",
+      "date": "2024-02-27",
+      "url": "https://insolvencytracker.in/2024/02/27/nclt-approves-rs-9661-cr-iihl-resolution-plan-for-reliance-capital/"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "KB-2204",
+  "slug": "muzaffarpur-bihar-aes-child-deaths-2019",
+  "title": "Muzaffarpur's Acute Encephalitis Deaths: A Public Health System That Couldn't Cope",
+  "dek": "Bihar's health department had known about seasonal Acute Encephalitis Syndrome (AES) deaths among poor children in the Muzaffarpur belt for over two decades. In June 2019, the outbreak killed well over 150 children in weeks, exposing a district hospital without enough ICU beds, medicines or staff — and prompting negligence cases filed against the Union and state health ministers themselves.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 81,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2019-06-01",
+  "heroStat": {
+    "value": "117 deaths",
+    "label": "Child deaths in Muzaffarpur district alone during the June 2019 AES outbreak, out of 164 AES deaths reported across Bihar that year"
+  },
+  "promise": {
+    "quote": "Ayushman Bharat and the National Health Mission are committed to strengthening health infrastructure ... to ensure quality healthcare reaches every citizen, including in India's most vulnerable districts.",
+    "madeBy": "Ministry of Health and Family Welfare, Government of India",
+    "role": "Union ministry responsible for the National Health Mission, under which AES/Japanese Encephalitis control funding is routed to states including Bihar",
+    "date": "2018-01-01",
+    "context": "General stated commitment of India's national health mission framework, under which Muzaffarpur and surrounding districts had for years received specific AES/JE control funding and had a 100-bed paediatric ICU unit announced after repeated prior outbreaks — commitments tested directly by the 2019 outbreak's death toll and resource shortages.",
+    "sourceIds": [
+      "src-aes-nrhm-context"
+    ]
+  },
+  "target": {
+    "description": "Adequate intensive-care capacity, timely glucose/dextrose and supportive-care supplies, functioning referral and ambulance systems, and public-health surveillance sufficient to prevent an annually recurring, well-understood seasonal illness from causing mass child deaths in a single district.",
+    "standard": "National Health Mission and state health department norms for district hospital ICU capacity and outbreak preparedness in AES/JE-endemic districts",
+    "referenceDate": "2019-06-01"
+  },
+  "reality": {
+    "description": "In June 2019, Acute Encephalitis Syndrome (AES) killed 164 people across Bihar, with Muzaffarpur district alone accounting for 117 deaths, the great majority of them young children from poor, malnourished backgrounds. Sri Krishna Medical College and Hospital (SKMCH) in Muzaffarpur, the main referral centre, was overwhelmed: reporting and independent accounts described a complete failure of state machinery to cope with the outbreak, citing unavailability of medicines, inadequate intensive care unit capacity and delayed treatment as children died in scores. A senior paediatrician at SKMCH was suspended for negligence on duty during the crisis. A Muzaffarpur Chief Judicial Magistrate's court ordered an investigation into a private criminal complaint alleging gross negligence against Union Health Minister Harsh Vardhan and Bihar Health Minister Mangal Pandey over the deaths, and a separate case was registered naming the two ministers. Public interest litigants moved the Supreme Court seeking directions for immediate measures to check the outbreak and prevent recurrence, and the Centre subsequently assured a 100-bed paediatric intensive-care and research facility for the region, following similar promises made after earlier AES outbreaks in the same district going back to the early 1990s.",
+    "asOfDate": "2019-06-20",
+    "sourceIds": [
+      "src-aes-death-toll",
+      "src-aes-negligence-case",
+      "src-aes-doctor-sacked",
+      "src-aes-sc-plea"
+    ]
+  },
+  "gap": {
+    "metricLabel": "AES deaths reported in Bihar in 2019 vs. in Muzaffarpur district alone",
+    "unit": "deaths",
+    "targetValue": 164,
+    "actualValue": 117,
+    "targetDisplay": "164 deaths statewide",
+    "actualDisplay": "117 deaths in Muzaffarpur district",
+    "targetLabel": "Bihar total",
+    "actualLabel": "Muzaffarpur district",
+    "note": "Figures as reported during the June 2019 outbreak; Muzaffarpur district accounted for the substantial majority of Bihar's AES deaths that year despite being a single district."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-06-01",
+      "label": "AES outbreak escalates in Muzaffarpur",
+      "detail": "Children begin arriving at SKMCH and other hospitals with Acute Encephalitis Syndrome symptoms in unusually high numbers as the annual pre-monsoon heatwave sets in.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-06-15",
+      "label": "Death toll crosses 100",
+      "detail": "The AES death toll in Muzaffarpur district crosses 100, with reports of hospital overcrowding, medicine shortages and inadequate ICU beds at SKMCH.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-06-17",
+      "label": "Senior SKMCH paediatrician suspended",
+      "detail": "A senior paediatrician at Sri Krishna Medical College and Hospital is suspended for alleged negligence on duty during the outbreak.",
+      "type": "status"
+    },
+    {
+      "date": "2019-06-18",
+      "label": "Negligence case ordered against Union and state health ministers",
+      "detail": "A Muzaffarpur court orders an investigation into a complaint alleging gross negligence by Union Health Minister Harsh Vardhan and Bihar Health Minister Mangal Pandey over the AES deaths.",
+      "type": "status"
+    },
+    {
+      "date": "2019-06-19",
+      "label": "Supreme Court petitioned for AES intervention",
+      "detail": "Advocates move the Supreme Court seeking directions for emergency measures against the outbreak; the Court agrees to hear the plea.",
+      "type": "status"
+    },
+    {
+      "date": "2019-06-20",
+      "label": "Centre assures 100-bed paediatric ICU unit",
+      "detail": "Amid the crisis, the Centre assures construction of a 100-bed paediatric intensive-care and research unit for Muzaffarpur, echoing similar assurances made after prior outbreaks.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A Muzaffarpur court ordered investigation of a private complaint alleging criminal negligence against the Union and Bihar health ministers, and a case was registered naming them; this entry did not find confirmation of any conviction, chargesheet, or final disposition of that case. The case represents an accountability attempt for a public-health governance failure rather than a completed prosecution.",
+    "keyIndividuals": [
+      {
+        "name": "Dr. Harsh Vardhan",
+        "role": "Union Minister of Health and Family Welfare, 2019",
+        "outcome": "Named in a negligence complaint over which a Muzaffarpur court ordered investigation; no conviction or chargesheet against him confirmed in sources reviewed."
+      },
+      {
+        "name": "Mangal Pandey",
+        "role": "Bihar State Health Minister, 2019",
+        "outcome": "Named alongside the Union Health Minister in the same negligence case; no conviction or chargesheet against him confirmed in sources reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A well-understood, decades-recurring seasonal illness overwhelmed a district hospital system that lacked sufficient ICU capacity, medicines and staff to handle a predictable surge, killing well over a hundred children in a single district within weeks — a public-health governance failure serious enough that criminal negligence complaints were filed against India's Union and state health ministers, though this entry found no confirmation those complaints resulted in prosecution.",
+    "confidence": "medium",
+    "reasoning": "The death toll, hospital resource shortages and the negligence case filings are corroborated across multiple independent reports. Confidence is not higher because the final legal outcome of the negligence case against the ministers, and the current state of AES preparedness in the district, were not confirmed in the sources reviewed."
+  },
+  "incomplete": [
+    "The final legal disposition of the negligence case against Harsh Vardhan and Mangal Pandey — whether it proceeded to chargesheet, was quashed, or was dismissed — has not been confirmed.",
+    "Whether the promised 100-bed paediatric ICU/research unit for Muzaffarpur was actually completed, and its current operational status as of 2026, has not been verified.",
+    "This entry has not reviewed any official government or ICMR inquiry report into the 2019 outbreak's root causes (e.g. litchi-toxin hypoglycaemia research, malnutrition factors) beyond the health-system capacity failures described here."
+  ],
+  "sources": [
+    {
+      "id": "src-aes-death-toll",
+      "label": "Muzaffarpur encephalitis death toll rises to 93",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-06-19",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fmuzaffarpur-encephalitis-death-toll-rises-to-93-740669.html"
+    },
+    {
+      "id": "src-aes-negligence-case",
+      "label": "AES deaths in Bihar: case lodged against ministers",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-06-18",
+      "url": "https://www.deccanherald.com/india/aes-deaths-in-bihar-case-lodged-against-ministers-741093.html"
+    },
+    {
+      "id": "src-aes-doctor-sacked",
+      "label": "Encephalitis: Senior doctor sacked for negligence on duty in Muzaffarpur",
+      "type": "independent",
+      "publisher": "The Federal",
+      "date": "2019-06-17",
+      "url": "https://thefederal.com/news/senior-paediatrician-sacked-over-negligence-on-duty-in-muzaffarpur"
+    },
+    {
+      "id": "src-aes-sc-plea",
+      "label": "Two advocates move SC for measures against AES outbreak",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-06-19",
+      "url": "https://www.deccanherald.com/india/two-advocates-move-sc-for-measures-against-aes-outbreak-741253.html"
+    },
+    {
+      "id": "src-aes-nrhm-context",
+      "label": "AES: Centre assures 100-bed child unit, research centre",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-06-20",
+      "url": "https://www.deccanherald.com/amp/story/india%2Faes-centre-assures-100-bed-child-unit-research-centre-740985.html"
+    }
+  ]
+}

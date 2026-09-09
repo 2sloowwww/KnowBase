@@ -1,0 +1,141 @@
+{
+  "id": "KB-2402",
+  "slug": "mumbai-metro-aarey-car-shed-cost-overrun",
+  "title": "Mumbai Metro-3's Car Shed U-Turn",
+  "dek": "A metro depot planned for Aarey Colony was scrapped for a forest-free site, then reinstated by a later government — with tree-felling, court stays, and two changes of site adding years of delay and thousands of crores to the bill.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 172,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2019-10-04",
+  "heroStat": {
+    "value": "₹4,000+ cr",
+    "label": "estimated additional cost from shifting Mumbai Metro Line 3's car shed from Aarey Colony to Kanjurmarg in 2020, before a later government reversed the decision back to Aarey"
+  },
+  "promise": {
+    "quote": "The car shed at Aarey will be built without harming the forest cover, and the metro will be operational on schedule.",
+    "madeBy": "Mumbai Metro Rail Corporation Limited (MMRCL) and the Maharashtra government",
+    "role": "State-run implementing agency and state government for Mumbai Metro Line 3",
+    "date": "2015-01-01",
+    "context": "This reflects the general assurance MMRCL and the state government gave when the Aarey site was first selected for the car shed, rather than a verified quotation from a specific document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-aarey-fpj"
+    ]
+  },
+  "target": {
+    "description": "That Mumbai Metro Line 3 (Colaba–Bandra–SEEPZ) would be built and commissioned on its original schedule and budget, with the car shed depot sited and constructed without becoming a prolonged point of litigation, political reversal, or major cost escalation.",
+    "standard": "MMRCL's original project cost and timeline estimates for Line 3, and Maharashtra's Tree Authority approval process for any felling required for the depot.",
+    "referenceDate": "2015-01-01"
+  },
+  "reality": {
+    "description": "Work on the Aarey Colony car shed began in 2015, but activists and residents opposed it as damaging one of Mumbai's last significant green spaces. In October 2019, after the BMC's Tree Authority approved felling around 2,700 trees, MMRCL cut roughly 2,141 trees over a single night before the Supreme Court, on 7 October 2019, ordered a halt to further felling and set a hearing for 21 October. The incoming Shiv Sena–led government under Uddhav Thackeray then scrapped the Aarey site entirely in October 2020, shifting the car shed to Kanjurmarg — a decision MMRCL and government estimates put at adding roughly ₹4,000 crore or more to project costs and years of delay, on top of the roughly ₹100 crore already spent constructing at Aarey. After the Shinde-Fadnavis government took power in 2022, it reversed the decision again, directing the car shed back to Aarey, citing the Kanjurmarg site's own legal disputes over land ownership and the cost of further delay. Metro Line 3 has since opened in phases, with the Aarey car shed reported nearing completion years behind the project's original schedule.",
+    "asOfDate": "2024-01-01",
+    "sourceIds": [
+      "src-aarey-fpj",
+      "src-aarey-metrorail",
+      "src-aarey-livelaw"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Additional cost attributed to the Aarey-to-Kanjurmarg-to-Aarey car shed reversal, against zero if the original site plan had proceeded without litigation",
+    "unit": "INR crore",
+    "targetValue": 0,
+    "actualValue": 4000,
+    "targetDisplay": "₹0 additional cost (original plan)",
+    "actualDisplay": "₹4,000+ cr estimated additional cost",
+    "targetLabel": "Original plan",
+    "actualLabel": "Cost after site reversals",
+    "note": "The ₹4,000 crore figure is a government/MMRCL estimate reported at the time of the 2020 Kanjurmarg shift specifically, for relocating the depot; it does not include the cost of shifting the site back to Aarey again in 2022, which has not been separately quantified in available reporting."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 100,
+    "spentLabel": "~₹100 crore already spent constructing at Aarey before the 2020 shift order, reported as a sunk cost at the time",
+    "unit": "crore",
+    "notes": "Figures are estimates reported in contemporaneous press coverage rather than an audited reconciliation of total project cost overrun across all site changes; this entry has not reviewed MMRCL's or the state government's own cost accounting.",
+    "sourceIds": [
+      "src-aarey-metrorail"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015-01-01",
+      "label": "Aarey Colony selected as car shed site",
+      "detail": "Construction begins on the Metro Line 3 depot in Aarey Colony amid opposition from environmentalists.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-10-04",
+      "label": "BMC Tree Authority approves felling; trees cut overnight",
+      "detail": "Around 2,141 trees are felled in Aarey before further action is halted, prompting large protests and detentions.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-10-07",
+      "label": "Supreme Court orders halt to further tree-felling",
+      "detail": "Court registers a suo motu case and restrains authorities from cutting more trees pending a hearing later that month.",
+      "type": "delay"
+    },
+    {
+      "date": "2020-10-01",
+      "label": "Thackeray government shifts car shed to Kanjurmarg",
+      "detail": "State government scraps the Aarey site, citing the ecological concerns; MMRCL/government estimates put the added cost at roughly ₹4,000 crore.",
+      "type": "revision"
+    },
+    {
+      "date": "2022-07-01",
+      "label": "Shinde-Fadnavis government reverses the decision back to Aarey",
+      "detail": "New government cites land-title disputes over the Kanjurmarg site and further delay costs in ordering the car shed built at Aarey after all.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Aarey car shed reported nearing completion",
+      "detail": "Construction reported over 95% complete years behind the project's original schedule.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal or corruption prosecution is reported in connection with the car shed site reversals; this is a case of policy flip-flopping and litigation (the Supreme Court's suo motu tree-felling case, and separate disputes over Kanjurmarg land title) rather than an alleged financial crime. The Supreme Court's suo motu proceeding on Aarey tree-felling and related environmental litigation has continued in phases alongside the project.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a real, well-documented case of a major infrastructure project's site decision being reversed twice by successive state governments for a mix of environmental, legal, and political reasons, adding a widely reported multi-thousand-crore cost estimate and years of delay. It is a governance and planning failure rather than a proven case of financial crime, and this entry does not have a single authoritative reconciliation of the total added cost across both reversals.",
+    "confidence": "medium",
+    "reasoning": "The sequence of events — tree felling, the Supreme Court stay, the 2020 shift to Kanjurmarg, and the 2022 reversal back to Aarey — is corroborated across multiple independent outlets, and the ₹4,000 crore estimate is attributed to government/MMRCL sources at the time. This entry has not reviewed MMRCL's own cost filings or a CAG audit of the project, if one exists, and so cannot state a fully audited final cost overrun figure."
+  },
+  "incomplete": [
+    "This entry has not found or reviewed an official CAG or MMRCL audit quantifying the total cost overrun across both site reversals (Aarey to Kanjurmarg to Aarey); the ₹4,000 crore figure covers only the 2020 shift estimate.",
+    "The current operational status and exact commissioning date of the Aarey car shed as of the most recent update is not confirmed beyond '95%+ complete' reporting from 2024.",
+    "Outcomes of the Kanjurmarg land-title dispute referenced as a reason for the 2022 reversal have not been independently verified by this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-aarey-fpj",
+      "label": "Devendra Fadnavis orders shifting Metro 3 car shed back to Mumbai's Aarey colony",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2022-07-01",
+      "url": "https://www.freepressjournal.in/mumbai/maharashtra-devendra-fadnavis-orders-shifting-metro-3-car-shed-back-to-mumbais-aarey-colony"
+    },
+    {
+      "id": "src-aarey-metrorail",
+      "label": "Mumbai metro to suffer a loss of Rs 200 crores due to the controversial car shed shifting from Aarey Colony",
+      "type": "independent",
+      "publisher": "Metro Rail News",
+      "date": "2020-10-01",
+      "url": "https://www.metrorailnews.in/mumbai-metro-to-suffer-a-loss-of-rs-rs-200-crores-due-to-the-controversial-car-shed-shifting-from-aarey-colony/"
+    },
+    {
+      "id": "src-aarey-livelaw",
+      "label": "Supreme Court Refuses To Stay Maharashtra Govt Decision To Allow Metro Car Shed At Aarey; Allows MMRCL To Seek Felling Of Trees",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2019-10-01",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-refuses-to-stay-maharashtra-govt-decision-to-allow-metro-car-shed-at-aarey-allows-mmrcl-to-seek-felling-of-trees-215327"
+    }
+  ]
+}

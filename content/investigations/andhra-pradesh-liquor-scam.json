@@ -1,0 +1,143 @@
+{
+  "id": "KB-2102",
+  "slug": "andhra-pradesh-liquor-scam",
+  "title": "The Andhra Pradesh Liquor Scam",
+  "dek": "A 2019 election promise of phased prohibition instead produced a government liquor monopoly that a successor government's SIT alleges was turned into a ₹3,200 crore kickback machine, with bribes allegedly built into which brands got shelf space. The men named have been arrested; none has yet been convicted.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 158,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2024-09-01",
+  "heroStat": {
+    "value": "₹3,200 cr",
+    "label": "in kickbacks a Special Investigation Team alleges were collected over 4.5 years through Andhra Pradesh's government-controlled liquor procurement system"
+  },
+  "promise": {
+    "quote": "We will implement prohibition in a phased manner.",
+    "madeBy": "Y.S. Jaganmohan Reddy, then YSR Congress Party leader and Chief Ministerial candidate",
+    "role": "2019 Andhra Pradesh Assembly election campaign pledge",
+    "date": "2019-03-01",
+    "context": "This is the standard paraphrase widely reported of Jagan Mohan Reddy's 2019 campaign pledge, not a verified verbatim quotation from a specific speech, since this entry has not located the original transcript.",
+    "sourceIds": [
+      "src-apliquor-newsminute"
+    ]
+  },
+  "target": {
+    "description": "That the government's move to abolish roughly 3,500 private liquor retail shops and bring sales under a state-controlled corporation would be a step toward phased prohibition, run transparently and without private kickbacks influencing which brands or suppliers were favoured.",
+    "standard": "The government's own stated 2019 prohibition policy and ordinary public-procurement integrity norms applicable to a state corporation controlling retail liquor sales.",
+    "referenceDate": "2019-10-01"
+  },
+  "reality": {
+    "description": "From October 2019, the YSRCP government replaced private liquor retail with sales through the Andhra Pradesh State Beverages Corporation Limited (APSBCL), and established brands progressively disappeared from shelves in favour of lesser-known ones. After the YSRCP lost power in 2024, a committee report and a CID complaint filed in September 2024 alleged that the changeover had been used to run a kickback system in which suppliers paid to have their brands supplied and stocked, with alleged bribes of ₹150–₹600 per case and monthly kickbacks estimated at ₹50–60 crore, totalling an alleged ₹3,200 crore over roughly 4.5 years. A Special Investigation Team was formed in February 2025. Raj Kesireddy, described as the scheme's alleged architect and a former IT adviser to Jagan Mohan Reddy, was arrested at Hyderabad airport on 21 April 2025; Sajjala Sridhar Reddy, managing director of SPY Agro Industries, was arrested on 26 April 2025. Others named, including former Rajya Sabha MP Y.V. Subba Reddy and sitting YSRCP MP P.V. Midhun Reddy, have been implicated in SIT findings reported in the press. The YSRCP has disputed the SIT's findings and its independence given the change of government. As of this entry, the case remains under SIT investigation with no trial verdict.",
+    "asOfDate": "2025-04-26",
+    "sourceIds": [
+      "src-apliquor-newsminute",
+      "src-apliquor-southfirst"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged kickback total vs. amount established at trial to date",
+    "unit": "INR crore",
+    "targetValue": 3200,
+    "actualValue": 0,
+    "targetDisplay": "₹3,200 cr alleged (SIT estimate)",
+    "actualDisplay": "₹0 proven in a court verdict as of this entry",
+    "targetLabel": "Alleged",
+    "actualLabel": "Proven at trial",
+    "note": "The ₹3,200 crore figure is the SIT's own estimate carried in independent reporting, not a court-established amount. Because the investigation was launched by a rival political party after a change of government, this entry treats the SIT's findings as serious, sourced allegations rather than settled fact."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 3200,
+    "spentLabel": "Alleged total kickbacks collected over roughly 4.5 years (SIT estimate)",
+    "unit": "crore",
+    "notes": "This figure comes from a Special Investigation Team formed by the successor TDP-led government and has not been confirmed by any court; it is disputed by the YSRCP.",
+    "sourceIds": [
+      "src-apliquor-newsminute"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019-03-01",
+      "label": "Phased-prohibition pledge",
+      "detail": "YSRCP campaigns on a promise of phased prohibition ahead of the 2019 Andhra Pradesh election.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-10-01",
+      "label": "New liquor policy launched",
+      "detail": "Private retail liquor shops are abolished; sales are brought under the state-run APSBCL.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-09-01",
+      "label": "CID complaint filed",
+      "detail": "A complaint based on an APSBCL committee report alleges a large-scale kickback scheme in the state liquor procurement system under the previous government.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-01",
+      "label": "SIT formed",
+      "detail": "The state government constitutes a Special Investigation Team to probe the alleged scam.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-21",
+      "label": "Raj Kesireddy arrested",
+      "detail": "The alleged architect of the scheme and former IT adviser to ex-CM Jagan Mohan Reddy is arrested at Hyderabad airport.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-04-26",
+      "label": "Sajjala Sridhar Reddy arrested",
+      "detail": "The managing director of SPY Agro Industries is arrested in connection with the alleged scheme.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The SIT investigation is ongoing. Multiple individuals have been arrested and others named in SIT findings reported by the press, but no chargesheet outcome or trial verdict has been reached, and the YSRCP disputes the case as politically motivated. All named individuals are presumed innocent pending trial.",
+    "keyIndividuals": [
+      {
+        "name": "Raj Kesireddy",
+        "role": "Former IT adviser to ex-Chief Minister Y.S. Jaganmohan Reddy",
+        "outcome": "Arrested 21 April 2025; alleged by the SIT to be the scheme's architect. No verdict; presumed innocent pending trial."
+      },
+      {
+        "name": "Sajjala Sridhar Reddy",
+        "role": "Managing Director, SPY Agro Industries",
+        "outcome": "Arrested 26 April 2025. No verdict; presumed innocent pending trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, high-profile allegation of a large-scale kickback system built into a state liquor monopoly, investigated and substantially reported on, but arising from a politically charged SIT probe launched by a successor government against its predecessor — meaning both the scale of the alleged scam and any individual's guilt remain to be tested in court.",
+    "confidence": "low",
+    "reasoning": "This entry relies on independent journalism summarising SIT findings and arrests; it has not reviewed the CID complaint, the APSBCL committee report, or any chargesheet directly, and notes the case's origin in a change-of-government SIT probe as a reason for caution given the standing editorial rule to flag politically contested facts rather than adjudicate them."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CID complaint, the APSBCL committee report, or any SIT chargesheet directly.",
+    "The YSRCP's specific rebuttals to the SIT's findings, beyond general denials reported in the press, have not been detailed here.",
+    "The current stage of the case — whether formal charges have been framed against those arrested — has not been confirmed beyond April 2025."
+  ],
+  "sources": [
+    {
+      "id": "src-apliquor-newsminute",
+      "label": "Explained: The Rs 3,200 crore AP liquor scam with Jagan's former advisor at its centre",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2025-04-22",
+      "url": "https://www.thenewsminute.com/andhra-pradesh/explained-the-rs-3200-crore-ap-liquor-scam-with-jagans-former-advisor-at-its-centre"
+    },
+    {
+      "id": "src-apliquor-southfirst",
+      "label": "Anatomy of Andhra liquor scam: Rs 3,200 crore kickbacks — what SIT report says",
+      "type": "independent",
+      "publisher": "The South First",
+      "date": "2025-04-01",
+      "url": "https://thesouthfirst.com/andhrapradesh/rs-3200-crore-kickbacks-to-ysrcp-leaders-distilleries-what-sit-report-in-andhra-liquor-scam-says/"
+    }
+  ]
+}

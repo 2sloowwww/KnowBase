@@ -1,0 +1,99 @@
+{
+  "id": "KB-2104",
+  "slug": "rajasthan-bharatpur-illegal-mining-scam",
+  "title": "The Rajasthan Bharatpur Illegal Mining Scam",
+  "dek": "Permits issued for closed, non-operational mines were allegedly reused to wave through minerals extracted illegally elsewhere — a documentation trick Rajasthan's Anti-Corruption Bureau says let officials, crusher owners and royalty contractors evade royalty on a large scale.",
+  "category": "Natural Resources",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 247,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2026-01-13",
+  "heroStat": {
+    "value": "12",
+    "label": "officials, lease owners, crusher owners and a royalty contractor booked by Rajasthan's Anti-Corruption Bureau over the Bharatpur mining permit scheme"
+  },
+  "promise": {
+    "quote": "A mining permit issued for a specific, active lease authorises transport and processing only of minerals actually extracted under that lease, on payment of the applicable royalty.",
+    "madeBy": "Rajasthan Department of Mines and Geology",
+    "role": "State department responsible for issuing and regulating mining permits and collecting royalty",
+    "date": "2026-01-13",
+    "context": "This reflects the basic regulatory principle the ACB's case alleges was violated — that permits from closed or non-operational mines cannot lawfully be used to cover minerals extracted elsewhere — rather than a quoted departmental pledge, since this entry has not reviewed the department's permit rules directly.",
+    "sourceIds": [
+      "src-bharatpur-etv"
+    ]
+  },
+  "target": {
+    "description": "That mining permits in Bharatpur district would be issued and used only for minerals actually extracted from the specific, currently operational lease named on the permit, with royalty paid on the true quantity and source of extraction.",
+    "standard": "Rajasthan's mining permit and royalty rules under the Mines and Minerals (Development and Regulation) Act framework.",
+    "referenceDate": "2026-01-13"
+  },
+  "reality": {
+    "description": "Rajasthan's Anti-Corruption Bureau registered a case alleging that officials and employees of the Bharatpur Mining Department, in connivance with private crusher owners and a royalty contractor, misused permits issued for closed or non-operational mines to cover the transport and processing of minerals illegally extracted elsewhere — allowing the material to be falsely shown as legally mined and royalty to be evaded on a large scale. Those booked include the district's then Mining Engineer, a Mining Supervisor, a former Mining Engineer, a Surveyor and a Supervisor, along with a lease owner, several named crusher-owning firms, and a royalty contracting firm — 12 accused in total. The ACB's preliminary investigation found the practice had enabled the extraction of large volumes of minerals with corresponding loss of government revenue. As of this entry, the case is at the investigation stage, following an earlier, separate Rajasthan mining case in which the ACB arrested a senior mining official, Ashok Singhvi, and seized roughly ₹3.8 crore in cash.",
+    "asOfDate": "2026-01-13",
+    "sourceIds": [
+      "src-bharatpur-etv",
+      "src-bharatpur-theprint"
+    ]
+  },
+  "gap": {
+    "metricLabel": "People booked by the ACB vs. convictions secured to date",
+    "unit": "count",
+    "targetValue": 12,
+    "actualValue": 0,
+    "targetDisplay": "12 accused named in the ACB case",
+    "actualDisplay": "0 convictions as of this entry",
+    "targetLabel": "Accused",
+    "actualLabel": "Convicted",
+    "note": "This case was registered only recently (January 2026) as of this entry's publication date; it is included as a documented, sourced allegation, and this site will need to track its progress rather than presume any outcome."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2026-01-13",
+      "label": "ACB registers case over permit misuse",
+      "detail": "Rajasthan's Anti-Corruption Bureau books 12 accused — mining officials, a lease owner, crusher-owning firms and a royalty contractor — over the reuse of closed-mine permits to cover illegally extracted minerals in Bharatpur.",
+      "type": "announcement"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case is at the investigation stage following registration by Rajasthan's Anti-Corruption Bureau. No chargesheet outcome or trial verdict has been reported as of this entry. All named individuals and firms are presumed innocent pending investigation and any trial.",
+    "keyIndividuals": [
+      {
+        "name": "Ramniwas Mangal",
+        "role": "Then Mining Engineer, Bharatpur (later posted as Mining Engineer, Kota)",
+        "outcome": "Named as an accused in the ACB case. No verdict; presumed innocent pending investigation."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A freshly registered, real ACB case describing a documented permit-reuse method for evading mining royalty in one Rajasthan district — too recent, as of this entry, for any judicial outcome, but sourced to the ACB's own stated basis for registering it.",
+    "confidence": "low",
+    "reasoning": "This entry relies on contemporaneous news reporting of the ACB's own case registration and preliminary findings; it has not reviewed the ACB's FIR or any chargesheet directly, and the case's short elapsed time since registration means no legal conclusion yet exists to report."
+  },
+  "incomplete": [
+    "This entry has not reviewed the ACB's FIR or any subsequent chargesheet directly.",
+    "No estimate of the total quantity of minerals illegally covered or the resulting royalty loss in rupee terms was available in the sources reviewed for this entry.",
+    "The relationship, if any, between this case and the separate Rajasthan mining case involving the arrest of official Ashok Singhvi has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-bharatpur-etv",
+      "label": "Illegal Mining Scam Surfaces In Rajasthan's Bharatpur; Case Registered",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2026-01-14",
+      "url": "https://www.etvbharat.com/en/state/illegal-mining-scam-surfaces-in-rajasthan-bharatpur-case-registered-enn26011402465"
+    },
+    {
+      "id": "src-bharatpur-theprint",
+      "label": "Rajasthan ACB books mines dept officials for illegally mining through invalid permits",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2026-01-13",
+      "url": "https://theprint.in/india/rajasthan-acb-books-mines-dept-officials-for-illegally-mining-through-invalid-permits/2826363/"
+    }
+  ]
+}

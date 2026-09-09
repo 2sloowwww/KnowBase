@@ -1,0 +1,129 @@
+{
+  "id": "KB-008",
+  "slug": "saradha-chit-fund-scam",
+  "title": "The Saradha Chit Fund Scam",
+  "dek": "A West Bengal investment group collected money from ordinary depositors on the promise of high returns, then collapsed. The founder has now spent almost a decade in custody — and the exact scale of what depositors lost is still disputed.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 202,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-04-01",
+  "heroStat": {
+    "value": "~₹1,900 cr",
+    "label": "reported as unpaid to depositors (lower-end, CBI-linked figure — higher estimates are disputed)"
+  },
+  "promise": {
+    "quote": "Deposits collected through Saradha Group's investment schemes would be invested as represented and returned with the promised returns.",
+    "madeBy": "Saradha Group, led by chairman and managing director Sudipto Sen",
+    "role": "Private company operating collective investment schemes across West Bengal, Odisha, and northeastern India",
+    "date": "2006-01-01",
+    "context": "Saradha Group ran a network of investment schemes from the mid-2000s, collecting deposits from a large number of small investors, many in rural areas, promising high returns.",
+    "sourceIds": [
+      "src-saradha-sc"
+    ]
+  },
+  "target": {
+    "description": "Deposits collected and managed as a regulated collective investment scheme, with investor funds actually invested and returns paid as promised, consistent with SEBI regulation of such schemes.",
+    "standard": "SEBI (Collective Investment Schemes) Regulations, which such deposit-taking schemes are required to register under and comply with.",
+    "referenceDate": "2006-01-01"
+  },
+  "reality": {
+    "description": "The scheme collapsed in April 2013 when it could no longer pay returns to depositors or agents. Reported figures for the scale of the collapse vary widely across sources: reporting tied to the CBI's case describes roughly ₹2,500 crore collected and about ₹1,900 crore left unpaid to depositors, while other media accounts describe a much larger scheme, sometimes citing figures around ₹10,000 crore or higher. This investigation could not find an authoritative, reconciled figure and reports the range rather than asserting a single number.",
+    "asOfDate": "2026-08-18",
+    "sourceIds": [
+      "src-saradha-sc",
+      "src-saradha-anatomy"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Reported scale of the scheme: lower CBI-linked estimate vs. higher media estimates",
+    "unit": "₹ crore",
+    "targetValue": 1900,
+    "actualValue": 10000,
+    "targetDisplay": "~₹1,900 cr unpaid (lower estimate)",
+    "actualDisplay": "up to ~₹10,000 cr (higher estimate, disputed)",
+    "targetLabel": "Lower est.",
+    "actualLabel": "Higher est.",
+    "note": "These two figures are not a 'promise vs. reality' gap in the usual sense — they are two competing estimates of the same underlying loss, from different sources, that this investigation was unable to reconcile. Readers should treat both as approximate."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "label": "Saradha Group begins operations",
+      "detail": "The company starts collecting deposits through various investment schemes.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-04-01",
+      "label": "Scheme collapses",
+      "detail": "Saradha Group stops paying agents and depositors; Sudipto Sen is arrested.",
+      "type": "status"
+    },
+    {
+      "date": "2014-05-09",
+      "label": "Supreme Court transfers probe to CBI",
+      "detail": "In Subrata Chattoraj v. Union of India, the Court ordered the CBI to take over investigation of Saradha and related chit-fund cases from state police.",
+      "type": "status"
+    },
+    {
+      "date": "2014-10-01",
+      "label": "Sen sentenced in an early proceeding",
+      "detail": "Reporting describes a prison sentence for Sen in connection with the case; public reporting reviewed for this investigation does not fully clarify which specific charge this sentence relates to, or its relationship to the broader, still-pending CBI case.",
+      "type": "status"
+    },
+    {
+      "date": "2016-12-30",
+      "label": "Custody since this date",
+      "detail": "The Supreme Court's 2026 bail order notes Sen has been in custody since 30 December 2016 in connection with the matter before it.",
+      "type": "status"
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Supreme Court grants bail",
+      "detail": "The Court granted Sen bail on terms to be fixed by the trial court, citing his prolonged custody of close to a decade.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Public reporting on Sudipto Sen's exact conviction status is inconsistent: some reports describe an earlier prison sentence, while the Supreme Court's 2026 order describes nearly a decade in pre-trial custody and grants bail rather than deciding an appeal. This investigation could not fully reconcile the two and flags the ambiguity rather than asserting a clean resolution.",
+    "keyIndividuals": [
+      {
+        "name": "Sudipto Sen",
+        "role": "Founder, Chairman & Managing Director, Saradha Group",
+        "outcome": "Arrested April 2013. Reports describe a prison sentence from an earlier proceeding; the Supreme Court's August 2026 order, granting him bail after almost a decade in custody, describes the matter before it as still awaiting trial. This investigation treats his final legal status as unresolved pending clearer reporting."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That the scheme collected large sums from ordinary depositors and collapsed, unable to pay them back, is well established and was serious enough for the Supreme Court itself to take over the investigation. Two things are not well established: the precise scale of what was lost, where sources disagree by a factor of five or more, and the founder's exact, current legal status, where this investigation found genuinely conflicting public reporting.",
+    "confidence": "low",
+    "reasoning": "Confidence is marked low specifically because of the two unresolved factual gaps above — the scale of the loss and the precise legal status of the central accused — not because the scheme's basic existence or collapse is in doubt."
+  },
+  "incomplete": [
+    "The total amount collected and the amount left unpaid to depositors are reported inconsistently across sources by a wide margin; no single authoritative reconciled figure was found.",
+    "Sudipto Sen's precise conviction history and current status are not clearly reconcilable from the public reporting reviewed for this investigation.",
+    "The status of compensation or repayment to the scheme's depositors, including any state government relief fund, was not verified for this investigation."
+  ],
+  "sources": [
+    {
+      "id": "src-saradha-sc",
+      "label": "Saradha Chit Fund Scam | Supreme Court grants bail to Sudipta Sen after nearly a decade in custody",
+      "type": "independent",
+      "publisher": "SCC Online",
+      "date": "2026-08-20",
+      "url": "https://www.scconline.com/blog/post/2026/08/20/sc-grants-bail-to-sudipta-sen-in-saradha-chit-fund-case/"
+    },
+    {
+      "id": "src-saradha-anatomy",
+      "label": "Saradha Scam: Anatomy of a Chit Fund Fraud",
+      "type": "independent",
+      "publisher": "VRD Nation",
+      "date": "2024-01-01",
+      "url": "https://www.vrdnation.com/saradha-scam"
+    }
+  ]
+}

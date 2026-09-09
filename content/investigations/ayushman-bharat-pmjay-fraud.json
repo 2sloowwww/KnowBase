@@ -1,0 +1,139 @@
+{
+  "id": "KB-1505",
+  "slug": "ayushman-bharat-pmjay-fraud",
+  "title": "The Ayushman Bharat Hospital Fraud",
+  "dek": "India's flagship health insurance scheme promised cashless treatment to poor families — but the government's own anti-fraud unit has rejected over 3.5 lakh fraudulent claims and de-empanelled more than a thousand hospitals for gaming the system.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 149,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-03-11",
+  "heroStat": {
+    "value": "₹643 cr+",
+    "label": "in fraudulent claims rejected under Ayushman Bharat-PMJAY, with over 1,180 hospitals de-empanelled"
+  },
+  "promise": {
+    "quote": "Ayushman Bharat-PMJAY will provide genuine, cashless secondary and tertiary hospitalisation coverage of up to ₹5 lakh per family per year to India's poorest households, through an empanelled hospital network.",
+    "madeBy": "National Health Authority, Government of India",
+    "role": "Implementing agency for the Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana",
+    "date": "2018-09-23",
+    "context": "PMJAY was launched in September 2018 as the world's largest government-funded health insurance scheme; empanelled hospitals are reimbursed for treating beneficiaries under the scheme.",
+    "sourceIds": [
+      "src-ayushman-bt"
+    ]
+  },
+  "target": {
+    "description": "Claims paid only for genuine hospital admissions and treatments actually delivered to eligible beneficiaries, with empanelled hospitals meeting quality and integrity standards.",
+    "standard": "National Health Authority's anti-fraud and empanelment guidelines under PMJAY.",
+    "referenceDate": "2018-09-23"
+  },
+  "reality": {
+    "description": "By March 2025, the Centre had rejected 3.56 lakh fraudulent claims worth roughly ₹643 crore under Ayushman Bharat-PMJAY, de-empanelled 1,114 hospitals, penalised 1,504 hospitals to the tune of ₹122 crore, and suspended 549 hospitals. By December 2025, the government reported that a total of 1,184 hospitals had been de-empanelled for fraud, with penalties exceeding ₹231 crore levied against fraudulent entities. Reported fraud patterns include hospitals booking phantom admissions or inflating treatments against beneficiary IDs without the patients' knowledge. Separately, in November 2025, authorities in Uttar Pradesh and Punjab uncovered a racket producing over 300 fake Ayushman Bharat cards linked to officials' accounts at SACHIS, the Punjab state health agency. The National Health Authority's National Anti-Fraud Unit, working with State Anti-Fraud Units, continues to investigate new cases.",
+    "asOfDate": "2025-12-12",
+    "sourceIds": [
+      "src-ayushman-bt",
+      "src-ayushman-newsonair",
+      "src-ayushman-vsk"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Fraudulent claims value rejected vs. penalties actually recovered from hospitals",
+    "unit": "₹ crore",
+    "targetValue": 643,
+    "actualValue": 231,
+    "targetDisplay": "₹643 cr in claims rejected (as of March 2025)",
+    "actualDisplay": "₹231 cr+ in penalties levied (as of December 2025)",
+    "targetLabel": "Claims rejected",
+    "actualLabel": "Penalties levied",
+    "note": "These two figures are not directly comparable — one is the value of claims denied before payment, the other is penalties imposed on hospitals — but both indicate a persistent, large-scale fraud problem within the scheme rather than a one-off incident."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹643 crore in fraudulent claims rejected as of March 2025; ₹122 crore in penalties on hospitals as of the same date, rising to over ₹231 crore by December 2025.",
+    "sourceIds": [
+      "src-ayushman-bt",
+      "src-ayushman-newsonair"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-09-23",
+      "label": "PMJAY launched",
+      "detail": "The scheme is launched to provide cashless hospitalisation cover to over 10 crore poor and vulnerable families.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-03-11",
+      "label": "3.56 lakh fraudulent claims rejected",
+      "detail": "The Centre reports rejecting fraudulent claims worth ₹643 crore, de-empanelling 1,114 hospitals and penalising 1,504 others.",
+      "type": "status"
+    },
+    {
+      "date": "2025-11-03",
+      "label": "Fake Ayushman card racket uncovered",
+      "detail": "Over 300 fake Ayushman Bharat cards linked to SACHIS officials' accounts are uncovered in Uttar Pradesh and Punjab.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-12",
+      "label": "1,184 hospitals de-empanelled",
+      "detail": "The government updates Parliament that 1,184 hospitals have been de-empanelled for fraud, with penalties exceeding ₹231 crore.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry describing an administrative and regulatory fraud-control response (de-empanelment, penalties) rather than criminal prosecutions. This investigation has not established what, if any, criminal cases have been filed against hospital operators or officials individually.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of confirmed hospital-level fraud within a flagship welfare scheme is well documented through government's own disclosures to Parliament, but this investigation has not established whether the underlying incentive structures that enable such fraud have been fixed, or whether affected beneficiaries have been made whole.",
+    "confidence": "low",
+    "reasoning": "This entry is based on government press statements and parliamentary disclosures reported by multiple independent outlets through December 2025, but has not reviewed the primary National Health Authority fraud-audit reports."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research into specific criminal prosecutions of hospital operators is pending.",
+    "The article dubbed 'Ayushman Bharat Fraud: Why India Shields Doctors Over Patients' by The Probe alleges systemic protection of errant doctors — this claim has not been independently verified here.",
+    "Whether affected patients denied genuine care due to fraud-related suspensions of hospitals have been compensated or redirected has not been assessed."
+  ],
+  "sources": [
+    {
+      "id": "src-ayushman-bt",
+      "label": "Centre rejects 3.56 lakh fraudulent claims under Ayushman Bharat Scheme",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2025-03-12",
+      "url": "https://www.businesstoday.in/personal-finance/insurance/story/centre-rejects-356-lakh-fraudulent-claims-under-ayushman-bharat-scheme-check-details-467748-2025-03-12"
+    },
+    {
+      "id": "src-ayushman-newsonair",
+      "label": "Government says 1,184 hospitals de-empanelled for fraud under Ayushman Bharat-PMJAY",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2025-12-12",
+      "url": "https://www.newsonair.gov.in/government-says-1184-hospitals-de-empanelled-for-fraud-under-ayushman-bharat-pmjay"
+    },
+    {
+      "id": "src-ayushman-vsk",
+      "label": "Fake Ayushman Bharat card scam uncovered in UP and Punjab; over 300 fake IDs linked to SACHIS officials' accounts",
+      "type": "independent",
+      "publisher": "VSK Telangana",
+      "date": "2025-11-03",
+      "url": "https://www.vsktelangana.org/Encyc/2025/11/3/fake-ayushman-bharat-card-scam-uncovered-punjab-over-300-fake-ids-linked-sachis-officials-accounts.html"
+    },
+    {
+      "id": "src-ayushman-bs",
+      "label": "356K claims worth Rs 643 cr rejected for frauds under Ayushman Bharat",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-03-11",
+      "url": "https://www.business-standard.com/india-news/356k-claims-worth-rs-643-cr-rejected-for-frauds-under-ayushman-bharat-125031100733_1.html"
+    }
+  ]
+}

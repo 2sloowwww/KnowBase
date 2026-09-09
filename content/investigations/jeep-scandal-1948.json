@@ -1,0 +1,122 @@
+{
+  "id": "KB-011",
+  "slug": "jeep-scandal-1948",
+  "title": "The Jeep Scandal",
+  "dek": "Independent India's first corruption case: a wartime jeep purchase signed off without normal tendering, by a diplomat who was never found guilty of anything — because the inquiry took seven years and reached no finding at all.",
+  "category": "Defence & Security",
+  "status": "acquitted-or-closed",
+  "severity": "minor",
+  "severityRank": 262,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "1948-06-01",
+  "heroStat": {
+    "value": "155 of 2,000",
+    "label": "jeeps actually delivered, most later found unusable"
+  },
+  "promise": {
+    "quote": "Military procurement conducted on behalf of India abroad will follow standard contracting procedure — competitive, inspected, and accountable — even under wartime urgency.",
+    "madeBy": "Government of India, acting through its High Commission in London",
+    "role": "Newly independent India's diplomatic mission in the United Kingdom, tasked with wartime procurement",
+    "date": "1948-01-01",
+    "context": "With the 1947–48 war in Kashmir underway, India's High Commissioner to the UK, V.K. Krishna Menon, signed a contract worth roughly ₹80 lakh for 2,000 refurbished army jeeps from a little-known foreign firm, bypassing normal defence procurement channels.",
+    "sourceIds": [
+      "src-jeep-overview"
+    ]
+  },
+  "target": {
+    "description": "A jeep purchase conducted through standard, accountable procurement — competitive sourcing, pre-payment inspection, and a financially credible supplier — even given wartime urgency.",
+    "standard": "Ordinary government contracting norms for overseas defence procurement in force at independence.",
+    "referenceDate": "1948-01-01"
+  },
+  "reality": {
+    "description": "The contract went to a little-known firm reported to have a paid-up capital of only £605, on terms that included paying 65% of the price upfront with no inspection certificate required, and inspecting only 10% of the jeeps before payment. Only 155 of the 2,000 jeeps were ultimately delivered, to Madras, and most were found unusable; the Defence Ministry refused to accept them and the supplier refused to compensate India. A parliamentary and later CBI-adjacent inquiry process dragged on for years and, in 1955, was closed with no finding of wrongdoing against Krishna Menon or anyone else.",
+    "asOfDate": "1955-01-01",
+    "sourceIds": [
+      "src-jeep-overview"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Jeeps contracted vs. usable jeeps actually delivered",
+    "unit": "units",
+    "targetValue": 2000,
+    "actualValue": 0,
+    "targetDisplay": "2,000 contracted",
+    "actualDisplay": "0 confirmed usable (155 delivered, reported unusable)",
+    "targetLabel": "Contracted",
+    "actualLabel": "Usable, delivered",
+    "note": "Reporting reviewed for this investigation states 155 of 2,000 jeeps were delivered and found unusable by the Defence Ministry; it does not report any of the 2,000 as having entered usable service."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 0.8,
+    "allocatedLabel": "Contract value (₹80 lakh, in 1948 rupees)",
+    "released": null,
+    "releasedLabel": "Amount recovered from the supplier",
+    "spent": null,
+    "spentLabel": "Amount effectively lost",
+    "unit": "crore",
+    "notes": "This is by far the smallest sum on this site, included for its historical significance as independent India's first major procurement scandal rather than its financial scale. No source reviewed for this investigation states how much, if any, of the advance payment was ultimately recovered from the supplier.",
+    "sourceIds": [
+      "src-jeep-overview"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1948-01-01",
+      "label": "Contract signed in London",
+      "detail": "Krishna Menon signs a roughly ₹80 lakh deal for 2,000 refurbished jeeps amid wartime urgency.",
+      "type": "announcement"
+    },
+    {
+      "date": "1948-06-01",
+      "label": "Delivery shortfall becomes apparent",
+      "detail": "Only a fraction of the contracted jeeps arrive, and those that do are reported unusable.",
+      "type": "delay"
+    },
+    {
+      "date": "1948-09-01",
+      "label": "Defence Ministry refuses acceptance",
+      "detail": "The ministry declines to accept the delivered jeeps; the supplier refuses to compensate India.",
+      "type": "status"
+    },
+    {
+      "date": "1955-01-01",
+      "label": "Inquiry closes with no finding",
+      "detail": "After roughly seven years, the matter is closed without establishing wrongdoing by Krishna Menon or others.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal or disciplinary finding was ever made against anyone in this case. The inquiry process closed in 1955 without establishing wrongdoing — which this investigation reports as the actual, documented outcome, not as an implicit finding of innocence or of guilt suppressed.",
+    "keyIndividuals": [
+      {
+        "name": "V.K. Krishna Menon",
+        "role": "India's High Commissioner to the United Kingdom",
+        "outcome": "Signed the contract personally, bypassing normal procedure. No wrongdoing was found against him when the inquiry closed in 1955; he went on to hold senior Indian government positions, including Defence Minister, in the years that followed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "As a transaction, this was plainly irregular by any normal procurement standard: an unvetted, thinly capitalised supplier, unusual pre-payment terms, and a near-total failure to deliver usable goods. As a corruption case, it is unproven — the inquiry that examined it took seven years and closed without finding wrongdoing by anyone. Both things are true, and this investigation reports both rather than treating the transaction's irregularity as proof of the corruption allegation.",
+    "confidence": "medium",
+    "reasoning": "The facts of the failed transaction itself are well documented and not seriously disputed. Confidence on the corruption question specifically is capped at medium because the inquiry record from the 1950s is thin in contemporary secondary sourcing, and this investigation was not able to review a primary inquiry document."
+  },
+  "incomplete": [
+    "This investigation did not locate a primary copy of the 1955 inquiry's findings, and relies on secondary historical accounts of its conclusion.",
+    "It is not established how much, if any, of the ₹80 lakh advance was recovered from the supplier.",
+    "Contemporary reporting on the exact inquiry mechanism (parliamentary committee versus another body) varies across secondary sources and was not fully reconciled here."
+  ],
+  "sources": [
+    {
+      "id": "src-jeep-overview",
+      "label": "Jeep scandal case",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous press and parliamentary accounts",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Jeep_scandal_case",
+      "note": "Used as a secondary aggregator of contemporaneous 1948 reporting; this investigation was unable to locate a directly linked primary inquiry document from the period."
+    }
+  ]
+}

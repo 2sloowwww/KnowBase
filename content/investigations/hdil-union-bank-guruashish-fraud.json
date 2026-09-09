@@ -1,0 +1,133 @@
+{
+  "id": "KB-2007",
+  "slug": "hdil-union-bank-guruashish-fraud",
+  "title": "The HDIL–Union Bank Guruashish Construction Loan Case",
+  "dek": "Years before the PMC Bank collapse made HDIL a household name in India's banking scandals, a separate ₹140 crore loan to an HDIL subsidiary for a Mumbai slum-redevelopment project was allegedly diverted — a case that, unlike PMC Bank, ended with corruption charges against the company itself being dropped.",
+  "category": "Banking & Finance",
+  "status": "acquitted-or-closed",
+  "severity": "minor",
+  "severityRank": 265,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2023-01-05",
+  "heroStat": {
+    "value": "₹140 cr",
+    "label": "alleged loss to Union Bank of India from a term loan to HDIL subsidiary Guruashish Construction, before a special court dropped corruption charges in the case"
+  },
+  "promise": {
+    "quote": "The ₹200 crore term loan sanctioned to Guruashish Construction for development of roughly 40 acres in Goregaon West, Mumbai, under an agreement with the Maharashtra Housing and Area Development Authority (MHADA), will be used for that disclosed redevelopment purpose and repaid according to sanctioned terms.",
+    "madeBy": "Guruashish Construction Pvt. Ltd., a wholly owned subsidiary of Housing Development and Infrastructure Ltd. (HDIL), under promoters Rakesh and Sarang Wadhawan",
+    "role": "HDIL real-estate subsidiary borrowing from Union Bank of India for a Mumbai slum/land redevelopment project",
+    "date": "2010-10-15",
+    "context": "Union Bank of India sanctioned the ₹200 crore term loan on 15 October 2010, disbursed in March 2011; the CBI later alleged the funds were diverted rather than used for the stated MHADA redevelopment project, distinct from the much larger, separately covered PMC Bank–HDIL fraud case.",
+    "sourceIds": [
+      "src-guruashish-cbi-case"
+    ]
+  },
+  "target": {
+    "description": "Loan funds used for the disclosed slum/land redevelopment purpose and repaid on sanctioned terms, without diversion to unrelated uses.",
+    "standard": "Standard bank term-loan covenants and RBI end-use monitoring norms for real-estate project financing.",
+    "referenceDate": "2010-10-15"
+  },
+  "reality": {
+    "description": "The CBI booked HDIL promoters Rakesh Wadhawan and Sarang Wadhawan, along with Guruashish Construction and unnamed bank officials, in January 2023 over the alleged diversion of the ₹200 crore Union Bank loan, causing a reported loss of ₹140 crore to the bank. The case proceeded separately from — and years after — the much larger PMC Bank–HDIL case that had already put the Wadhawans in custody. In a later development, a special CBI court dropped Prevention of Corruption Act charges against Guruashish Construction in this ₹140 crore case after the CBI itself told the court it had found no evidence implicating bank officials as public servants in the alleged fraud — leaving the case, as of the sources reviewed, without a sustained corruption charge against the company on this specific loan.",
+    "asOfDate": "2024-01-01",
+    "sourceIds": [
+      "src-guruashish-cbi-case",
+      "src-guruashish-charges-dropped"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged loss to Union Bank vs. corruption charges ultimately sustained against Guruashish Construction",
+    "unit": "INR crore",
+    "targetValue": 140,
+    "actualValue": 0,
+    "targetDisplay": "₹140 cr alleged loss",
+    "actualDisplay": "Corruption charges dropped",
+    "targetLabel": "Alleged loss to bank",
+    "actualLabel": "Corruption charges sustained",
+    "note": "This entry includes the case specifically because, unlike the much larger PMC Bank matter involving the same HDIL promoters, the corruption charges in this particular ₹140 crore case did not hold up in court after the CBI reported finding no evidence against bank officials."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 200,
+    "allocatedLabel": "Original Union Bank of India term loan sanctioned to Guruashish Construction",
+    "spent": 140,
+    "spentLabel": "Alleged loss to the bank cited in the CBI case",
+    "unit": "crore",
+    "notes": "This loan and loss figure are distinct from HDIL's much larger, separately covered exposure to PMC Bank (reported at over ₹4,300 crore), and from the roughly ₹200 crore separately alleged in a related Yes Bank loan diversion case against HDIL.",
+    "sourceIds": [
+      "src-guruashish-cbi-case"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-10-15",
+      "label": "Union Bank sanctions ₹200 crore term loan",
+      "detail": "The loan to Guruashish Construction is sanctioned for a Goregaon West redevelopment project under a MHADA agreement.",
+      "type": "announcement"
+    },
+    {
+      "date": "2011-03-01",
+      "label": "Loan disbursed",
+      "detail": "The sanctioned funds are disbursed to Guruashish Construction.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-05",
+      "label": "CBI books HDIL promoters",
+      "detail": "The CBI registers a case against Rakesh and Sarang Wadhawan and Guruashish Construction alleging diversion of the loan, causing a ₹140 crore loss to Union Bank of India.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Special court drops corruption charges",
+      "detail": "A special CBI court drops Prevention of Corruption Act charges against Guruashish Construction after the CBI reports finding no evidence implicating bank officials as public servants.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Prevention of Corruption Act charges against Guruashish Construction in this specific ₹140 crore case were dropped by a special court after the CBI reported no evidence against bank officials. This entry has not confirmed whether other charges (such as under the Indian Penal Code for cheating) survived against the Wadhawans in this particular case, as distinct from the separate, much larger PMC Bank prosecution in which they remained under trial.",
+    "keyIndividuals": [
+      {
+        "name": "Rakesh Wadhawan",
+        "role": "Promoter, HDIL and Guruashish Construction",
+        "outcome": "Named in this CBI case; corruption charges against the company dropped by special court. Also separately under trial in the much larger PMC Bank–HDIL case."
+      },
+      {
+        "name": "Sarang Wadhawan",
+        "role": "Promoter, HDIL and Guruashish Construction",
+        "outcome": "Named in this CBI case; corruption charges against the company dropped by special court. Also separately under trial in the much larger PMC Bank–HDIL case."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, separate CBI case against HDIL's promoters over a ₹140 crore Union Bank loan — distinct from both the PMC Bank–HDIL case and a related Yes Bank loan diversion allegation against HDIL — included here because it followed a genuinely different outcome: corruption charges against the borrowing entity were dropped after the CBI itself found no evidence against bank officials, a result worth recording precisely because the more famous PMC Bank case ended differently.",
+    "confidence": "medium",
+    "reasoning": "The loan terms, CBI case registration, and subsequent dropping of corruption charges are each documented in Business Standard and Free Press Journal reporting citing CBI and court filings; this entry has not reviewed the CBI FIR or the special court's order directly, and has not confirmed whether non-corruption charges remain active in this specific case."
+  },
+  "incomplete": [
+    "Whether charges other than under the Prevention of Corruption Act (such as cheating or criminal breach of trust) remain active against Guruashish Construction or the Wadhawans in this specific ₹140 crore case has not been confirmed.",
+    "The current status of the separately reported ₹200 crore HDIL–Yes Bank loan diversion case, which appears to be a third distinct matter, has not been researched for this entry.",
+    "Whether Union Bank of India has recovered any portion of the alleged ₹140 crore loss has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-guruashish-cbi-case",
+      "label": "Rs 140-cr bank fraud case: CBI books HDIL promoters Rakesh, Sarang Wadhawan",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-01-05",
+      "url": "https://www.business-standard.com/article/current-affairs/rs-140-cr-bank-fraud-case-cbi-books-hdil-promoters-rakesh-sarang-wadhawan-123010500978_1.html"
+    },
+    {
+      "id": "src-guruashish-charges-dropped",
+      "label": "₹140 Crore Bank Fraud Case: Special Court Drops Corruption Charges Against Wadhawans' Firm Guruashish Construction",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2024-01-01",
+      "url": "https://www.freepressjournal.in/mumbai/140-crore-bank-fraud-case-special-court-drops-corruption-charges-against-wadhawans-firm-guruashish-construction"
+    }
+  ]
+}

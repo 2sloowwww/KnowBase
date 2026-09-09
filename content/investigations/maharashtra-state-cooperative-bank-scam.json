@@ -1,0 +1,201 @@
+{
+  "id": "KB-843",
+  "slug": "maharashtra-state-cooperative-bank-scam",
+  "title": "The Maharashtra State Cooperative Bank (MSCB) Scam",
+  "dek": "A NABARD audit exposed large-scale irregularities in loans the apex Maharashtra State Cooperative Bank sanctioned to loss-making cooperative sugar and spinning mills, prompting RBI to supersede the bank's board in 2011. An FIR naming Ajit Pawar and 70 others followed in 2019, but a Mumbai court twice accepted EOW closure reports finding no criminal offence, most recently in early 2026, even as the Enforcement Directorate pursued a parallel money-laundering probe and asset attachments.",
+  "category": "Banking & Finance",
+  "status": "disputed",
+  "severity": "critical",
+  "severityRank": 23,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-05-09",
+  "heroStat": {
+    "value": "₹25,000 cr",
+    "label": "alleged scale of the MSCB scam as widely reported in Indian media, spanning loans to cooperative sugar and spinning mills between 2007 and 2011"
+  },
+  "promise": {
+    "quote": "As the apex financing institution for Maharashtra's cooperative credit structure, MSCB was expected to lend to district and primary cooperative societies, including sugar and spinning mills, prudently and in accordance with RBI/NABARD banking norms, safeguarding depositors' and the cooperative sector's funds.",
+    "madeBy": "Board of Directors, Maharashtra State Cooperative Bank",
+    "role": "Apex cooperative bank for Maharashtra's cooperative credit structure",
+    "date": "2007-01-01",
+    "context": "This reflects the general regulatory expectation for MSCB's role as an apex cooperative bank rather than a verified quotation from a specific MSCB statement, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-mscb-theweek"
+    ]
+  },
+  "target": {
+    "description": "That MSCB would sanction and recover loans to cooperative sugar and spinning mills in line with RBI/NABARD prudential norms, without under-collateralised lending to loss-making units or below-reserve-price asset sales benefiting politically connected buyers.",
+    "standard": "RBI/NABARD banking and cooperative-credit norms under the Banking Regulation Act, 1949 (as applicable to cooperative banks) and the Maharashtra Cooperative Societies Act.",
+    "referenceDate": "2007-01-01"
+  },
+  "reality": {
+    "description": "A 2010 NABARD inspection found MSCB had breached banking laws and RBI guidelines in its lending, including sanctioning loans to loss-making cooperative sugar factories without adequate guarantees and selling mill assets below reserve price; of roughly Rs 5,300 crore in relevant loans, about Rs 3,200 crore had gone to cooperative sugar mills and about Rs 550 crore to cotton spinning mills. Citing these findings, RBI directed in May 2011 that MSCB's board be superseded and an administrator appointed. The matter resurfaced politically in 2019: on the Bombay High Court's direction, Mumbai Police's Economic Offences Wing (EOW) registered an FIR in August 2019 against NCP leader and then-Deputy Chief Minister Ajit Pawar, his wife Sunetra Pawar, PWP leader Jayant Patil, and roughly 70 other former directors and officials across MSCB's units in 34 districts, alleging losses of about Rs 1,000 crore to the bank between 2007 and 2011 through cheating and forgery. The Enforcement Directorate separately opened a money-laundering probe and, in 2019-2021, attached assets including a stake in the Jarandeshwar Sahakari Sakhar Karkhana (sugar mill) valued at roughly Rs 65.75 crore, alleging links to entities connected to Ajit Pawar and Sunetra Pawar. During the 2019-2022 Maha Vikas Aghadi government, in which Ajit Pawar served as deputy chief minister and finance minister, the EOW filed a closure ('C-Summary') report in 2020 stating no cognisable offence was established; after a change of government the probe was reportedly reopened, but a Mumbai court ultimately accepted the EOW's closure report and gave a clean chit to Ajit Pawar, Sunetra Pawar and 74 others, most recently reported around February 2026 -- weeks after Ajit Pawar's death in a plane crash on 28 January 2026. This entry's research could not confirm the final status of the parallel ED money-laundering case or the underlying asset attachments as of the closure report's acceptance.",
+    "asOfDate": "2026-02-01",
+    "sourceIds": [
+      "src-mscb-etv-clean-chit",
+      "src-mscb-indiatv-fir"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged cooperative-bank losses vs. losses judicially established as criminal wrongdoing",
+    "unit": "INR crore",
+    "targetValue": 1000,
+    "actualValue": 0,
+    "targetDisplay": "₹1,000 cr in losses alleged in the 2019 FIR (media reports cite a wider ₹25,000 cr scam)",
+    "actualDisplay": "No criminal offence established; EOW closure report accepted by court",
+    "targetLabel": "Alleged loss in 2019 FIR",
+    "actualLabel": "Losses judicially confirmed as criminal",
+    "note": "This gap captures the core dispute in this case: EOW's own closure report concluded no cognisable offence was made out, while NABARD's audit findings, the RBI-ordered board supersession, and the ED's continued asset-attachment actions reflect substantiated financial irregularities that were never resolved into a single, undisputed factual or legal finding. This entry flags the case as 'disputed' rather than picking a side between these conflicting official conclusions."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 5300,
+    "allocatedLabel": "Approximate total loans under NABARD scrutiny (sugar and spinning mills combined)",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "NABARD's 2010 inspection examined roughly Rs 5,300 crore in loans, of which about Rs 3,200 crore went to cooperative sugar mills and Rs 550 crore to cotton spinning mills. The 2019 FIR alleged approximately Rs 1,000 crore in losses to MSCB between 2007-2011. Widely repeated media figures put the overall alleged scam at Rs 25,000 crore, though this entry could not independently verify the basis for that headline figure.",
+    "sourceIds": [
+      "src-mscb-theweek"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "label": "NABARD inspection finds lending irregularities",
+      "detail": "NABARD's audit of MSCB finds breaches of banking norms in loans to loss-making cooperative sugar and spinning mills, including under-collateralised lending and below-reserve-price asset sales.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-05-09",
+      "label": "RBI orders MSCB board superseded",
+      "detail": "Citing NABARD's findings, RBI directs that MSCB's board of directors be superseded and an administrator appointed to run the bank's affairs.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-08-22",
+      "label": "Bombay High Court orders FIR registration",
+      "detail": "The Bombay High Court finds 'credible evidence' against the accused and directs EOW to register an FIR within five days.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-09-25",
+      "label": "FIR registered against Ajit Pawar and 70 others",
+      "detail": "Mumbai Police's EOW registers an FIR at MRA Marg police station against Ajit Pawar, Sunetra Pawar, Jayant Patil, and around 70 other former MSCB directors/officials, alleging cheating and forgery causing roughly Rs 1,000 crore in losses.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-09-26",
+      "label": "ED books Sharad and Ajit Pawar",
+      "detail": "The Enforcement Directorate registers a money-laundering case linked to the MSCB allegations, separately naming Sharad Pawar and Ajit Pawar.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-01-01",
+      "label": "EOW files closure ('C-Summary') report",
+      "detail": "During the Maha Vikas Aghadi government, EOW tells the Mumbai Sessions Court that no cognisable offence was established in the MSCB loan-sanctioning allegations.",
+      "type": "status"
+    },
+    {
+      "date": "2021-01-01",
+      "label": "ED attaches Jarandeshwar sugar mill assets",
+      "detail": "ED attaches assets connected to Jarandeshwar Sahakari Sakhar Karkhana, valued at around Rs 65.75 crore, alleging links to entities connected to Ajit and Sunetra Pawar.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-01-28",
+      "label": "Ajit Pawar dies in plane crash",
+      "detail": "Maharashtra Deputy Chief Minister Ajit Pawar, the case's most prominent named accused, dies in a plane crash at Baramati.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-01",
+      "label": "Court accepts EOW closure report, clean chit given",
+      "detail": "A Mumbai court accepts the EOW's closure report, giving a clean chit to Ajit Pawar (posthumously), Sunetra Pawar, and around 74 others in the MSCB case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "An FIR was registered in September 2019 against Ajit Pawar, Sunetra Pawar, Jayant Patil and roughly 70 others over alleged cheating and forgery in MSCB's loan sanctioning, on the Bombay High Court's direction. Mumbai Police's EOW subsequently filed closure reports (in 2020 and again more recently) concluding no cognisable criminal offence was established, and a Mumbai court accepted the closure report, giving a clean chit to the named accused, in a ruling reported around February 2026. A parallel Enforcement Directorate money-laundering investigation, including asset attachments, was pursued separately; this entry could not confirm that case's final status. Ajit Pawar died in a plane crash on 28 January 2026, before the final court order in the EOW matter.",
+    "keyIndividuals": [
+      {
+        "name": "Ajit Pawar",
+        "role": "Then-Deputy Chief Minister of Maharashtra; former MSCB director",
+        "outcome": "Named in the 2019 FIR; given a clean chit when a Mumbai court accepted the EOW's closure report, reported around February 2026, days after his death on 28 January 2026. No criminal offence was ever judicially established against him in this matter."
+      },
+      {
+        "name": "Sunetra Pawar",
+        "role": "Named accused; wife of Ajit Pawar",
+        "outcome": "Named in the 2019 FIR and in ED asset-attachment actions; given a clean chit along with Ajit Pawar when the court accepted the EOW closure report."
+      },
+      {
+        "name": "Jayant Patil",
+        "role": "Peasants and Workers Party (PWP) leader; named accused",
+        "outcome": "Named in the 2019 FIR; outcome under the EOW closure report as described above."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated case of serious cooperative-banking irregularities -- confirmed by NABARD's own audit and RBI's decision to supersede MSCB's board -- but it is also a genuinely disputed case at the level of individual criminal accountability: the investigating police agency itself twice concluded no cognisable offence was established, a court accepted that conclusion, and the most high-profile named accused, Ajit Pawar, died before any contrary judicial finding. This entry does not take a side on whether the closure reports reflect a fair assessment of the evidence or a politically influenced outcome, since credible reporting has flagged both the underlying audit findings and the closure report as significant, and does not resolve the tension between them.",
+    "confidence": "medium",
+    "reasoning": "The NABARD findings, RBI board supersession, 2019 FIR, and 2026 closure-report acceptance are each corroborated by multiple independent reports (India TV, ETV Bharat, Deccan Herald, The Wire, The Tribune) and the RBI/NABARD-related reporting is consistent with contemporaneous 2011 coverage. However, this entry could not verify primary source documents (the FIR text, the closure report, or NABARD's original audit) directly, and the final status of the ED's parallel case was not confirmed."
+  },
+  "incomplete": [
+    "The final status of the Enforcement Directorate's parallel money-laundering case and asset attachments (including the Jarandeshwar sugar mill assets) was not confirmed as of this entry's research.",
+    "The precise basis for the widely repeated Rs 25,000 crore total scam figure, as distinct from the Rs 1,000 crore alleged in the 2019 FIR and the roughly Rs 5,300 crore in loans NABARD examined, was not independently verified.",
+    "This entry could not review the EOW's closure report or the 2019 FIR directly; reliance is on secondary reporting of their contents.",
+    "Given the genuinely conflicting official conclusions (EOW closure vs. NABARD/RBI findings and ED action), readers should treat any single characterization of 'guilt' or 'innocence' in this case with caution; the entry presumes innocence for all individuals named, consistent with the court's acceptance of the closure report."
+  ],
+  "sources": [
+    {
+      "id": "src-mscb-theweek",
+      "label": "Mills and the bane",
+      "type": "independent",
+      "publisher": "The Week",
+      "date": "2019-10-04",
+      "url": "https://www.theweek.in/theweek/statescan/2019/10/04/mills-and-the-bane.html"
+    },
+    {
+      "id": "src-mscb-indiatv-fir",
+      "label": "Maharashtra Cooperative Bank scam: FIR filed against Ajit Pawar, 70 others",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2019-09-26",
+      "url": "https://www.indiatvnews.com/news/india-maharashtra-cooperative-bank-scam-fir-filed-against-ajit-pawar-70-others-545029"
+    },
+    {
+      "id": "src-mscb-deccan-ed",
+      "label": "MSCB scam: ED steps up heat on Ajit Pawar, attaches sugar mill worth Rs 65 crore",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2021-01-01",
+      "url": "https://www.deccanherald.com/india/mscb-scam-ed-steps-up-heat-on-ajit-pawar-attaches-sugar-mill-worth-rs-65-crore-1004041.html"
+    },
+    {
+      "id": "src-mscb-etv-clean-chit",
+      "label": "Court Accepts EOW Closure Report in Maharashtra State Cooperative Bank Case; Ajit Pawar, Sunetra Pawar Among 75 Given Clean Chit",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2026-02-27",
+      "url": "https://www.etvbharat.com/en/state/deputy-chief-minister-sunetra-pawar-late-ajit-pawar-and-other-party-leaders-get-clean-chit-again-in-shikhar-bank-scam-enn26022707138"
+    },
+    {
+      "id": "src-mscb-deccanchronicle-death",
+      "label": "Mumbai Court Gives Clean Chit To Ajit Pawar In Rs 25,000 Crore MSCB Scam",
+      "type": "independent",
+      "publisher": "Deccan Chronicle",
+      "date": "2026-02-01",
+      "url": "https://www.deccanchronicle.com/nation/politics/court-gives-clean-chit-to-late-ajit-pawar-in-mscb-scam-case-1940320"
+    },
+    {
+      "id": "src-mscb-newsonair-crash",
+      "label": "Maharashtra Deputy CM Ajit Pawar dies in plane crash",
+      "type": "independent",
+      "publisher": "All India Radio News (newsonair.gov.in)",
+      "date": "2026-01-28",
+      "url": "https://www.newsonair.gov.in/maharashtra-deputy-cm-ajit-pawar-dies-in-plane-crash"
+    }
+  ]
+}

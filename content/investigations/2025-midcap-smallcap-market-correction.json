@@ -1,0 +1,126 @@
+{
+  "id": "KB-2909",
+  "slug": "2025-midcap-smallcap-market-correction",
+  "title": "The 2025 Midcap-Smallcap Correction and SEBI's 'Froth' Warning",
+  "dek": "A year after SEBI's own chairperson publicly flagged 'pockets of froth' in India's overheated mid- and small-cap stocks, those very segments crashed through early-to-mid 2025 -- the Nifty Smallcap 100 falling roughly 18% and the Nifty Midcap 100 around 13% from their highs, even as the regulator maintained it saw no need for further intervention.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 63,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2024-03-01",
+  "heroStat": {
+    "value": "18%",
+    "label": "the Nifty Smallcap 100 index's fall in the correction that followed SEBI's 2024 froth warning"
+  },
+  "promise": {
+    "quote": "There are pockets of froth in the market. Some people call it a bubble, some may call it froth.",
+    "madeBy": "Madhabi Puri Buch",
+    "role": "Chairperson, Securities and Exchange Board of India",
+    "date": "2024-03-01",
+    "context": "Public warning about overheated valuations specifically in mid- and small-cap stocks, made roughly a year before those segments underwent a sharp correction; the statement implied regulatory vigilance and possible future intervention to protect retail investors who had piled into these segments.",
+    "sourceIds": [
+      "src-midcap25-wright"
+    ]
+  },
+  "target": {
+    "description": "A regulator that, having publicly identified valuation froth and risk to retail investors in mid- and small-cap stocks, takes proactive supervisory steps (such as stress tests for mutual fund exposure, disclosure requirements, or trading safeguards) that measurably reduce the eventual severity of a correction when it comes -- or itself, at minimum, offers investors continued guidance as that correction unfolds.",
+    "standard": "SEBI's own March 2024 public statement flagging valuation froth, and its subsequent 2024 direction to mutual funds to stress-test their small- and mid-cap scheme portfolios for liquidity risk.",
+    "referenceDate": "2024-03-01"
+  },
+  "reality": {
+    "description": "Roughly a year after SEBI Chairperson Madhabi Puri Buch's March 2024 'froth' warning, and after SEBI had directed mutual funds to conduct stress tests on their small- and mid-cap portfolios, those very market segments underwent a sharp correction. Through late 2024 and into 2025, the Nifty Midcap 150 fell around 7% and the Nifty Smallcap 250 around 9% in the first weeks of 2025 alone, while by some measures the Nifty Smallcap 100 index was down about 18% and the Nifty Midcap 100 around 13% year-to-date, with both indices down close to 25% from their September 2024 peaks at the worst point -- the smallcap segment's poorest showing since 2018. The correction was driven by a combination of stretched valuations relative to large-caps, weak Q3 FY25 corporate earnings, geopolitical uncertainty, and heavy foreign institutional investor selling (reportedly around $9 billion in January 2025 alone). Asked in February 2025 whether SEBI would comment further on the rout, Buch said the regulator saw 'no need' for an additional statement, noting a statement had already been made when the regulator felt it necessary -- a response some market participants read as the regulator declining to intervene further even as the correction it had foreshadowed materialised in full force.",
+    "asOfDate": "2025-02-22",
+    "sourceIds": [
+      "src-midcap25-businesstoday-crash",
+      "src-midcap25-buch-noneed",
+      "src-midcap25-wright"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Nifty Smallcap index decline in the 2025 correction vs. the broad Nifty 50's decline over the same period",
+    "unit": "percent",
+    "targetValue": 2,
+    "actualValue": 18,
+    "targetDisplay": "~2% (Nifty 50 decline in the same period)",
+    "actualDisplay": "~18% (Nifty Smallcap 100 decline)",
+    "targetLabel": "Broad market",
+    "actualLabel": "Smallcap segment",
+    "note": "Percentage figures vary somewhat by exact index (Smallcap 100 vs Smallcap 250) and measurement window across different reports; this entry uses widely reported approximate figures to illustrate the scale of the segment-specific correction relative to the broader market, not a single officially reconciled statistic."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2024-03-01",
+      "label": "SEBI chief warns of 'froth' in small/midcaps",
+      "detail": "Madhabi Puri Buch publicly flags valuation froth in mid- and small-cap stocks, prompting SEBI to later direct mutual funds to stress-test their portfolios in these segments.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-09-01",
+      "label": "Midcap and smallcap indices peak",
+      "detail": "Mid- and small-cap indices reach record highs in September 2024, shortly before the correction begins.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-01",
+      "label": "Correction accelerates into 2025",
+      "detail": "The Nifty Midcap 150 falls around 7% and the Nifty Smallcap 250 around 9% in the first weeks of 2025 alone, amid heavy FII selling.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-22",
+      "label": "SEBI says no further statement needed",
+      "detail": "Asked about the ongoing rout, Chairperson Buch says SEBI sees no need for an additional statement beyond its earlier 2024 warning.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-11",
+      "label": "Smallcaps register worst yearly showing since 2018",
+      "detail": "By year-end reporting, smallcap indices are recorded as having posted their poorest annual performance since the 2018 correction.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This entry concerns a market correction and regulatory conduct rather than a prosecutable case; there is no legal proceeding to report on.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "SEBI's 2024 warning about valuation froth in mid- and small-cap stocks proved accurate and, in that narrow sense, was a promise kept -- the regulator correctly identified a real risk before it materialised. Whether its follow-through (mutual fund stress tests, and its subsequent choice not to intervene further as the correction unfolded) adequately protected retail investors who had piled into these segments is more contested, and this entry does not resolve that policy debate.",
+    "confidence": "medium",
+    "reasoning": "The sequence of the froth warning, the stress-test directive, and the subsequent correction's approximate magnitude are corroborated across multiple independent financial-press sources. Confidence is capped at medium because precise index decline figures vary across sources depending on measurement window and specific index used, and because this entry does not have an authoritative, single reconciled dataset from the exchanges themselves."
+  },
+  "incomplete": [
+    "Exact percentage decline figures for the midcap/smallcap correction vary across sources depending on the specific index and time window used; this entry presents widely reported approximate ranges rather than a single authoritative figure.",
+    "This entry does not assess whether SEBI's mutual fund stress-test directive from 2024 had a measurable protective effect on retail investors during the 2025 correction, which would require data not reviewed here.",
+    "Whether this correction has fully run its course or reversed as of the most recent trading data was not confirmed in the sources reviewed for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-midcap25-wright",
+      "label": "Why Mid & Small-Cap Stocks Are Crashing in India in 2025?",
+      "type": "independent",
+      "publisher": "Wright Research",
+      "date": "2025-01-01",
+      "url": "https://www.wrightresearch.in/blog/why-are-mid-and-small-cap-stocks-crashing-in-2025/"
+    },
+    {
+      "id": "src-midcap25-businesstoday-crash",
+      "label": "Small caps sink, midcaps wobble: What should investors do in this rough market?",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2025-12-11",
+      "url": "https://www.businesstoday.in/personal-finance/investment/story/small-caps-sink-midcaps-wobble-what-should-investors-do-in-this-rough-market-506245-2025-12-11"
+    },
+    {
+      "id": "src-midcap25-buch-noneed",
+      "label": "Mid and small cap meltdown: Sebi chairperson Madhabi Buch says 'no need to...'",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2025-02-22",
+      "url": "https://www.businesstoday.in/markets/stocks/story/mid-and-small-cap-meltdown-sebi-chairperson-madhabi-buch-says-no-need-to-465553-2025-02-22"
+    }
+  ]
+}

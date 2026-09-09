@@ -1,0 +1,157 @@
+{
+  "id": "KB-3024",
+  "slug": "sunil-kedar-nagpur-cooperative-bank-scam",
+  "title": "The Nagpur District Central Cooperative Bank Scam",
+  "dek": "A cooperative bank chairman and state minister was entrusted with poor farmers' deposits. Two decades and a 22-year trial later, a court found he had funnelled ₹150 crore of it into government securities that were never delivered.",
+  "category": "Banking & Finance",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 197,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2002-06-01",
+  "heroStat": {
+    "value": "₹150 cr",
+    "label": "cooperative bank funds lost; 5-year sentence delivered 21 years later"
+  },
+  "promise": {
+    "quote": "The Nagpur District Central Cooperative Bank's funds, drawn mainly from small farmers and rural depositors, would be invested only in the manner prescribed by RBI and NABARD regulations for cooperative banks — safe government securities, properly delivered and accounted for.",
+    "madeBy": "Sunil Kedar, Chairman, Nagpur District Central Cooperative Bank",
+    "role": "Bank chairman; later Maharashtra state minister and Congress MLA for Saoner",
+    "date": "2002-01-01",
+    "context": "As chairman, Kedar and the bank's management were legally entrusted with investing depositors' funds according to cooperative banking norms.",
+    "sourceIds": [
+      "src-kedar-moneylife"
+    ]
+  },
+  "target": {
+    "description": "Depositor funds invested only in government securities through RBI-approved channels, with securities actually delivered to the bank and properly recorded, as required under NABARD and RBI cooperative-banking norms.",
+    "standard": "RBI/NABARD guidelines governing investment of cooperative bank funds in government securities.",
+    "referenceDate": "2002-01-01"
+  },
+  "reality": {
+    "description": "Under Kedar's chairmanship, the NDCCB routed roughly ₹125–150 crore of its funds into government securities through private brokerage firms, including Home Trade and other broking entities, instead of RBI-approved channels. The securities were never actually delivered to the bank, and the money was lost. A special court in Nagpur convicted Kedar and four to five co-accused on 22 December 2023 — 21 years after the fraud was first uncovered — and sentenced them to five years' rigorous imprisonment plus fines of ₹10 lakh each; three other accused were acquitted for lack of evidence. Kedar was automatically disqualified as a sitting MLA on the date of conviction under the Representation of the People Act, and the Bombay High Court later declined to stay the conviction to let him contest the 2024 Maharashtra assembly election.",
+    "asOfDate": "2024-01-01",
+    "sourceIds": [
+      "src-kedar-deccan-sentence",
+      "src-kedar-deccan-disqualified"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Depositors' funds lost vs. total fines imposed on convicts",
+    "unit": "₹ crore",
+    "targetValue": 150,
+    "actualValue": 0.6,
+    "targetDisplay": "₹150 cr allegedly lost",
+    "actualDisplay": "₹0.6 cr in fines (₹10 lakh × 6 convicts)",
+    "targetLabel": "Lost",
+    "actualLabel": "Fined",
+    "note": "This investigation found no reconciled, official figure for how much of the ₹150 crore was ever recovered for the bank or its depositors; the fines imposed on conviction were a small fraction of the alleged loss."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 150,
+    "allocatedLabel": "Alleged funds diverted through unauthorised brokers",
+    "released": null,
+    "releasedLabel": "Amount recovered for the bank/depositors",
+    "spent": 0.6,
+    "spentLabel": "Total court fines on conviction",
+    "unit": "crore",
+    "notes": "Figures for the scam amount vary across reports between roughly ₹125 crore and ₹150 crore.",
+    "sourceIds": [
+      "src-kedar-deccan-sentence"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2002-01-01",
+      "label": "Funds diverted through private brokers",
+      "detail": "As NDCCB chairman, Kedar allegedly invested bank funds in government securities through Home Trade and other private brokerage firms rather than RBI-approved channels.",
+      "type": "announcement"
+    },
+    {
+      "date": "2002-06-01",
+      "label": "Fraud surfaces",
+      "detail": "The securities were never delivered to the bank; NABARD and RBI scrutiny exposed the ₹125–150 crore loss, triggering a criminal case.",
+      "type": "status"
+    },
+    {
+      "date": "2023-12-22",
+      "label": "Special court convicts Kedar and five others",
+      "detail": "A Nagpur court found Kedar and four to five co-accused guilty of breach of trust and cheating; three others were acquitted for lack of evidence.",
+      "type": "status"
+    },
+    {
+      "date": "2023-12-22",
+      "label": "Kedar sentenced and disqualified",
+      "detail": "The court sentenced the convicts to five years' rigorous imprisonment and a ₹10 lakh fine each; Kedar was disqualified as a sitting MLA from the date of conviction.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Bombay High Court declines to stay conviction",
+      "detail": "The High Court rejected Kedar's plea to stay his conviction so he could contest the 2024 Maharashtra assembly election.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sunil Kedar and several co-accused were convicted by a Nagpur special court in December 2023 and sentenced to five years' rigorous imprisonment; three other accused were acquitted. Appeals in higher courts may still be pending.",
+    "keyIndividuals": [
+      {
+        "name": "Sunil Kedar",
+        "role": "Former NDCCB chairman; former Maharashtra minister; Congress MLA, Saoner",
+        "outcome": "Convicted 22 December 2023, sentenced to 5 years' rigorous imprisonment and a ₹10 lakh fine; disqualified as MLA from the date of conviction."
+      },
+      {
+        "name": "Ashok Chaudhary",
+        "role": "Former general manager, NDCCB",
+        "outcome": "Convicted alongside Kedar and sentenced to 5 years' rigorous imprisonment and a ₹10 lakh fine."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That NDCCB funds were funnelled through unauthorised private brokers and lost is no longer disputed — a court has convicted the bank's chairman and several officials for it. What the record does not show is a reconciled recovery figure: two decades after the fraud and years after conviction, there is no clear public accounting of how much, if any, of the ₹150 crore was ever returned to the bank's mostly poor, rural depositors.",
+    "confidence": "high",
+    "reasoning": "The conviction, sentence, and disqualification are confirmed by multiple independent news reports and court records. The scam amount varies slightly across sources (₹125–150 crore) and no verified recovery figure could be found, both of which are flagged rather than resolved."
+  },
+  "incomplete": [
+    "The exact scam amount varies across sources reviewed (₹125 crore to ₹150 crore); no single reconciled figure is treated as definitive here.",
+    "No official, reconciled figure could be found for how much of the lost funds, if any, has been recovered for the bank or its depositors.",
+    "The status of any appeal against the December 2023 conviction in higher courts was not confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-kedar-moneylife",
+      "label": "Congress leader Sunil Kedar, 5 Others Sentenced to 5 Years Rigorous Imprisonment in Rs150 crore Nagpur Cooperative Bank scam",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2023-12-23",
+      "url": "https://www.moneylife.in/article/congress-leader-sunil-kedar-5-others-sentenced-to-5-years-rigorous-imprisonment-in-rs150-crore-nagpur-cooperative-bank-scam/72945.html"
+    },
+    {
+      "id": "src-kedar-deccan-sentence",
+      "label": "Congress MLA Sunil Kedar sentenced to five years in jail in Rs 125 cr scam case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2023-12-22",
+      "url": "https://www.deccanherald.com/india/maharashtra/congress-mla-sunil-kedar-sentenced-to-five-years-in-jail-in-rs-125-cr-scam-case-2822529"
+    },
+    {
+      "id": "src-kedar-deccan-disqualified",
+      "label": "Congress leader Sunil Kedar disqualified from Maharashtra Assembly after conviction in bank scam",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2023-12-24",
+      "url": "https://www.deccanherald.com/india/maharashtra/congress-leader-sunil-kedar-disqualified-from-maharashtra-assembly-after-conviction-in-bank-scam-2823895"
+    },
+    {
+      "id": "src-kedar-livelaw",
+      "label": "Desire To Contest Election Not An Exceptional Circumstance To Stay Conviction: Bombay High Court Rejects Former MLA Sunil Kedar's Plea",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2024-01-01",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/sunil-kedar-bank-scam-conviction-no-stay-bombay-high-court-maharashtra-assembly-elections-262386"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "KB-1501",
+  "slug": "karuvannur-cooperative-bank-scam",
+  "title": "The Karuvannur Cooperative Bank Scam",
+  "dek": "A Kerala village cooperative bank became the site of an alleged ₹180-crore loan fraud that the Enforcement Directorate says was run with the involvement of the ruling CPI(M) itself — a charge the party calls a political vendetta.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 152,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-01-01",
+  "heroStat": {
+    "value": "₹180 cr",
+    "label": "amount the ED alleges was amassed through fraudulent loans, of which ₹128 cr in assets has been seized"
+  },
+  "promise": {
+    "quote": "Loans disbursed by the Karuvannur Service Cooperative Bank will go to genuine, eligible members through proper credit appraisal, free of political interference.",
+    "madeBy": "Karuvannur Service Cooperative Bank management, under CPI(M)-affiliated office-bearers",
+    "role": "Cooperative bank governed by party-affiliated members in Thrissur district, Kerala",
+    "date": "2023-01-01",
+    "context": "The Karuvannur Service Cooperative Bank in Thrissur district came under police and later ED investigation after complaints of large-scale loan fraud involving non-member 'benami' borrowers.",
+    "sourceIds": [
+      "src-karuvannur-onmanorama"
+    ]
+  },
+  "target": {
+    "description": "Cooperative bank loans disbursed transparently to genuine members under proper collateral and appraisal norms, free from political direction over lending decisions.",
+    "standard": "Kerala Cooperative Societies Act norms and RBI/NABARD cooperative-banking lending standards.",
+    "referenceDate": "2023-01-01"
+  },
+  "reality": {
+    "description": "The ED's final chargesheet, filed in May 2025, named the CPI(M) party itself, Lok Sabha MP K. Radhakrishnan, former state minister A.C. Moideen, and Thrissur district-level party leaders as accused, bringing the total number of accused to 83. The agency alleges that on the instructions of district-level party leaders who controlled the bank's committee, loans were disbursed in cash to non-member benamis. The ED says the accused amassed ₹180 crore through the fraud and has seized ₹128 crore in assets; some reports put the underlying bank fraud figure as high as ₹343 crore. The ED has continued to expand the probe into 2025 and 2026, raiding premises of newly identified benamis. The CPI(M) has called the ED's action a political conspiracy.",
+    "asOfDate": "2026-01-01",
+    "sourceIds": [
+      "src-karuvannur-onmanorama",
+      "src-karuvannur-dh-chargesheet",
+      "src-karuvannur-dh-expand"
+    ]
+  },
+  "gap": {
+    "metricLabel": "ED's alleged proceeds of crime vs. assets seized so far",
+    "unit": "₹ crore",
+    "targetValue": 180,
+    "actualValue": 128,
+    "targetDisplay": "₹180 cr alleged proceeds",
+    "actualDisplay": "₹128 cr seized",
+    "targetLabel": "Alleged proceeds",
+    "actualLabel": "Assets seized",
+    "note": "Some reports cite a broader underlying fraud figure of ₹343 crore for the bank as a whole; this investigation could not fully reconcile that figure with the ED's ₹180 crore money-laundering estimate."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Figures relate to alleged proceeds of crime, not budgeted public expenditure: the ED alleges ₹180 crore was amassed via fraudulent loans, against which it has attached or seized roughly ₹128 crore in assets.",
+    "sourceIds": [
+      "src-karuvannur-dh-chargesheet"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-01-01",
+      "label": "Fraud surfaces",
+      "detail": "Complaints of large-scale loan fraud at the Karuvannur Service Cooperative Bank trigger a Kerala Police probe, later taken up by the ED under the Prevention of Money Laundering Act.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-28",
+      "label": "ED names CPM in earlier chargesheet, seizes party assets",
+      "detail": "The ED names the CPI(M) as an accused entity and confiscates assets, including ₹29.29 crore attached from party-linked accounts.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-05-26",
+      "label": "ED files final chargesheet",
+      "detail": "The final chargesheet names the CPI(M) party, MP K. Radhakrishnan, and former minister A.C. Moideen, taking the total accused to 83.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Probe continues to expand",
+      "detail": "The ED conducts further raids on premises linked to newly identified benami borrowers as the investigation continues.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A final ED chargesheet naming 83 accused, including the CPI(M) party and two senior leaders, was filed in May 2025; the Kerala High Court has since asked the ED to expedite the probe. No trial verdict has been reported for any individual as of this entry.",
+    "keyIndividuals": [
+      {
+        "name": "K. Radhakrishnan",
+        "role": "CPI(M) Lok Sabha MP",
+        "outcome": "Named as an accused in the ED's May 2025 chargesheet; no conviction reported."
+      },
+      {
+        "name": "A.C. Moideen",
+        "role": "Former Kerala state minister, CPI(M)",
+        "outcome": "Named as an accused in the ED's May 2025 chargesheet; no conviction reported."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the ED has built a detailed, escalating case naming a ruling party and its senior leaders as accused in a cooperative-bank fraud, but no court has yet ruled on guilt, and the party disputes the agency's findings as politically motivated.",
+    "confidence": "low",
+    "reasoning": "This entry draws on multiple independent reports of chargesheets and court proceedings through May 2025 and early 2026, but has not independently verified the underlying loan records or tracked the case to any trial verdict."
+  },
+  "incomplete": [
+    "This is a stub entry pending deeper research into individual loan-level allegations.",
+    "The relationship between the ₹180 crore ED estimate and the higher ₹343 crore figure cited in some reports for the bank's total fraud exposure has not been reconciled.",
+    "Trial-stage developments after the May 2025 chargesheet, including framing of charges, have not been tracked in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-karuvannur-onmanorama",
+      "label": "Karuvannur Bank fraud: ED files charge-sheet; names CPM, MP K Radhakrishnan, MLA AC Moideen as accused",
+      "type": "independent",
+      "publisher": "Onmanorama",
+      "date": "2025-05-26",
+      "url": "https://www.onmanorama.com/news/kerala/2025/05/26/cpm-radhakrishnan-ac-mideen-named-as-accused-in-karuvannur-bank-fraud-case.html"
+    },
+    {
+      "id": "src-karuvannur-dh-chargesheet",
+      "label": "ED names CPI(M) and party leaders in ₹180-crore Karuvannur cooperative bank scam in Kerala",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2026-01-01",
+      "url": "https://www.deccanherald.com/india/kerala/ed-names-cpim-and-party-leaders-in-rs-180-crore-karuvannur-cooperative-bank-scam-in-kerala-3557860"
+    },
+    {
+      "id": "src-karuvannur-dh-expand",
+      "label": "ED expands probe into Karuvannur bank fraud case in Kerala, raids premises of new benamis",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-11-01",
+      "url": "https://www.deccanherald.com/india/kerala/ed-expands-probe-into-karuvannur-bank-fraud-case-in-kerala-raids-premises-of-new-benamis-2690776"
+    },
+    {
+      "id": "src-karuvannur-hc",
+      "label": "Kerala HC asks ED to expedite probe into Karuvannur cooperative bank scam case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-12-01",
+      "url": "https://www.deccanherald.com/india/kerala/kerala-hc-asks-ed-to-expedite-probe-into-karuvannur-cooperative-bank-scam-case-2941675"
+    }
+  ]
+}

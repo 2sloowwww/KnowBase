@@ -1,0 +1,170 @@
+{
+  "id": "KB-152",
+  "slug": "jaypee-infratech-insolvency-homebuyers-case",
+  "title": "The Jaypee Infratech Insolvency and Homebuyers Case",
+  "dek": "Jaypee Infratech sold flats to over 20,000 homebuyers along the Yamuna Expressway, then defaulted on bank loans and entered insolvency in 2017. It took nearly seven years, a Supreme Court intervention, and two competing bidding rounds before the Suraksha Group finally took over the company in 2024 — with many buyers still waiting more than 15 years for possession.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 17,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-08-08",
+  "heroStat": {
+    "value": "22,000+",
+    "label": "homebuyers left waiting, some for over a decade, as Jaypee Infratech's flats along the Yamuna Expressway remained unfinished through years of insolvency proceedings"
+  },
+  "promise": {
+    "quote": "Jaypee Infratech marketed and sold residential flats in its Wish Town and other Noida/Greater Noida-area townships along the Yamuna Expressway, with contractually committed possession timelines.",
+    "madeBy": "Jaypee Infratech Ltd. / Jaiprakash Associates (Manoj Gaur and the Gaur family promoters)",
+    "role": "Real estate arm of the Jaypee Group, developer of residential townships tied to the Yamuna Expressway concession",
+    "date": "2007-01-01",
+    "context": "This reflects the general commitment in builder-buyer agreements across Jaypee Infratech's residential projects sold mainly from the mid-to-late 2000s onward, rather than a verified quotation from a specific agreement, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-jaypee-outlook"
+    ]
+  },
+  "target": {
+    "description": "That homebuyers who paid substantial sums toward flats in Jaypee's Yamuna Expressway-area townships would receive possession of completed homes within contractually promised timelines.",
+    "standard": "Contractual delivery timelines in builder-buyer agreements, and subsequently the Real Estate (Regulation and Development) Act, 2016 (RERA), plus the Insolvency and Bankruptcy Code, 2016 once the company entered insolvency.",
+    "referenceDate": "2016-05-01"
+  },
+  "reality": {
+    "description": "On 8 August 2017, IDBI Bank moved the National Company Law Tribunal (NCLT), Allahabad, over Jaypee Infratech's default on a Rs 526 crore loan; the NCLT admitted the case on 9 August 2017 and appointed an Interim Resolution Professional, displacing the company's directors — a shock that left over 20,000 homebuyers' unfinished flats in legal limbo. Two rival bidders, state-owned NBCC and Suraksha Group, competed for control over several years, with the Committee of Creditors (including both lenders and, per Supreme Court direction, thousands of homebuyers as financial creditors) voting multiple times between 2019 and 2021. In June 2021, Suraksha Group narrowly prevailed over NBCC (98.66% vs 98.54% of votes). Legal challenges delayed final implementation for three more years; the NCLAT upheld Suraksha's bid on 24 May 2024, also directing an additional Rs 1,334 crore payment as farmers' compensation for the underlying land. Suraksha Group formally took control in June 2024, appointing a new board, and by April 2025 had committed roughly Rs 5,500 crore over three years to complete stalled projects, with about Rs 400 crore reportedly utilized in FY 2024-25 and Rs 2,500 crore earmarked for FY 2025-26. As of mid-2025, many original homebuyers had been waiting over 15 years for possession, and construction/handover on most stalled towers remained a work in progress rather than complete.",
+    "asOfDate": "2025-04-29",
+    "sourceIds": [
+      "src-jaypee-suraksha-2024",
+      "src-jaypee-5500cr-2025"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years between insolvency filing and new promoter finally taking control",
+    "unit": "years",
+    "targetValue": 1,
+    "actualValue": 7,
+    "targetDisplay": "Resolution expected within IBC's ~1-year timeline",
+    "actualDisplay": "~7 years (2017-2024) before Suraksha Group took control",
+    "targetLabel": "IBC's intended resolution timeline",
+    "actualLabel": "Actual time to resolution",
+    "note": "The Insolvency and Bankruptcy Code envisages resolution within roughly 180-330 days; Jaypee Infratech's case, complicated by competing bids, litigation, and Supreme Court intervention, took approximately seven years from NCLT admission to the new promoter formally taking control, with construction completion for most homebuyers still pending after that."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 5500,
+    "allocatedLabel": "Suraksha Group's committed investment (2025-2028) to complete stalled housing projects",
+    "released": 400,
+    "releasedLabel": "Reported utilization in FY 2024-25",
+    "spent": null,
+    "unit": "crore",
+    "notes": "Separately, the NCLAT's May 2024 order directing Suraksha Group to pay an additional Rs 1,334 crore as farmers' land compensation is not a homebuyer-recovery figure but a distinct land-related obligation tied to the resolution plan.",
+    "sourceIds": [
+      "src-jaypee-5500cr-2025",
+      "src-jaypee-suraksha-2024"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2007-01-01",
+      "label": "Jaypee Infratech markets Yamuna Expressway townships",
+      "detail": "Flats sold to homebuyers in Wish Town and related projects tied to the Yamuna Expressway concession.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-08-08",
+      "label": "IDBI Bank moves NCLT over loan default",
+      "detail": "IDBI Bank applies to NCLT Allahabad citing a Rs 526 crore default; NCLT admits the case the next day and appoints an Interim Resolution Professional, displacing the company's board.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-05-01",
+      "label": "Homebuyers and creditors vote on Suraksha's sole bid",
+      "detail": "With NBCC's bid held back from voting, homebuyers and financial creditors vote on Suraksha Realty as the only remaining bidder.",
+      "type": "status"
+    },
+    {
+      "date": "2019-11-06",
+      "label": "Supreme Court intervenes",
+      "detail": "The apex court settles pending litigation and directs the Interim Resolution Professional to complete the insolvency process within 90 days.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-12-01",
+      "label": "Creditors approve NBCC's plan",
+      "detail": "The Committee of Creditors approves NBCC's resolution plan with 97.36% votes in favour; NCLT grants approval in March 2020.",
+      "type": "revision"
+    },
+    {
+      "date": "2021-06-23",
+      "label": "Creditors switch to Suraksha Group",
+      "detail": "In a fresh vote, financial creditors narrowly pick Suraksha Group (98.66%) over NBCC (98.54%) to take over Jaypee Infratech.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-05-24",
+      "label": "NCLAT upholds Suraksha's bid",
+      "detail": "The appellate tribunal confirms Suraksha Realty's acquisition, additionally directing payment of Rs 1,334 crore in farmers' compensation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-05",
+      "label": "Suraksha Group formally takes control",
+      "detail": "A new three-member board is constituted and the group commits to infusing initial equity to restart stalled construction.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-29",
+      "label": "Rs 5,500 crore completion commitment announced",
+      "detail": "New management commits Rs 5,500 crore over three years to complete delayed housing projects; many buyers have waited over 15 years.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a civil insolvency matter under the Insolvency and Bankruptcy Code, 2016, rather than a criminal fraud prosecution; no criminal charges against Jaypee Infratech's original promoters specific to homebuyer fund diversion were identified in this entry's research (distinct from separate, unrelated Jaypee Group financial matters that this entry has not investigated). The insolvency resolution process concluded with Suraksha Group's takeover upheld by the NCLAT in May 2024 and implemented from June 2024; project completion for thousands of homebuyers remains ongoing.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is documented as a governance and insolvency failure rather than a proven criminal fraud: Jaypee Infratech collected money from tens of thousands of homebuyers, defaulted on its loans, and left those buyers' flats unfinished for years while a prolonged, twice-reversed insolvency resolution process played out between NBCC and Suraksha Group. Institutional processes (NCLT, NCLAT, Supreme Court) worked, but slowly — homebuyers bore years of delay through no fault of their own, and full completion for all affected buyers had not been achieved as of this entry's research.",
+    "confidence": "high",
+    "reasoning": "The insolvency timeline, competing bids, Supreme Court intervention, and Suraksha Group's eventual takeover and completion commitments are corroborated across multiple independent business-press reports over several years."
+  },
+  "incomplete": [
+    "This entry has not verified how many of the original ~20,000-22,000 affected homebuyers have received possession as of the most recent update, versus how many remain in stalled towers.",
+    "Whether any criminal or regulatory action (as opposed to civil insolvency proceedings) was ever pursued against Jaypee Infratech's original promoters specifically over homebuyer fund handling has not been confirmed in this entry's research.",
+    "This is a stub entry; deeper research on the exact current (post-2025) construction completion percentages across individual stalled towers is pending."
+  ],
+  "sources": [
+    {
+      "id": "src-jaypee-outlook",
+      "label": "Five Years Of Jaypee Infratech Insolvency Case: Why Do Homebuyers End Up As The Biggest Losers?",
+      "type": "independent",
+      "publisher": "Outlook Business",
+      "date": "2022-08-01",
+      "url": "https://www.outlookbusiness.com/news/five-years-of-jaypee-infratech-insolvency-case-why-do-homebuyers-end-up-as-the-biggest-losers--news-218988"
+    },
+    {
+      "id": "src-jaypee-suraksha-2024",
+      "label": "Suraksha Group finally takes over Jaypee Infratech via insolvency process",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-06-05",
+      "url": "https://www.business-standard.com/companies/news/suraksha-group-finally-takes-over-jaypee-infratech-via-insolvency-process-124060500744_1.html"
+    },
+    {
+      "id": "src-jaypee-5500cr-2025",
+      "label": "Jaypee Infratech commits Rs 5.5k cr to complete housing projects",
+      "type": "independent",
+      "publisher": "Insolvency Tracker",
+      "date": "2025-04-29",
+      "url": "https://insolvencytracker.in/2025/04/29/suraksha-led-jaypee-infratech-commits-rs-5500-crore-to-complete-delayed-housing-projects/"
+    },
+    {
+      "id": "src-jaypee-vote-2019",
+      "label": "Thousands of Jaypee lenders, homebuyers vote on sole bid by Suraksha Realty",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2019-05-01",
+      "url": "https://www.business-standard.com/amp/article/pti-stories/jaypee-infratech-lenders-homebuyers-vote-on-sole-bid-by-suraksha-realty-119050100625_1.html"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "KB-2605",
+  "slug": "rcb-bengaluru-stampede",
+  "title": "The RCB Victory Parade Stampede",
+  "dek": "Royal Challengers Bengaluru's first IPL title in 18 years turned deadly when an unpermitted victory celebration drew lakhs of fans to a Bengaluru stadium, killing 11 people. A judicial inquiry later found the team, its event partner, and police had all failed to plan for the crowd they knew was coming.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 50,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-06-04",
+  "heroStat": {
+    "value": "11",
+    "label": "people killed in the stampede outside M. Chinnaswamy Stadium on June 4, 2025"
+  },
+  "promise": {
+    "quote": "The victory celebration will be a safe, well-organised event for our fans.",
+    "madeBy": "Royal Challengers Bengaluru (RCB) and event partner DNA Entertainment Networks",
+    "role": "IPL franchise and its hired event management company",
+    "date": "2025-06-03",
+    "context": "Implicit assurance underlying the announcement of a public victory celebration in Bengaluru after RCB won its first IPL title, held the day after the final on June 3, 2025.",
+    "sourceIds": [
+      "src-rcb-espncricinfo-tribunal"
+    ]
+  },
+  "target": {
+    "description": "A public celebration conducted with prior permission from licensing authorities, adequate crowd-control planning, and coordination with police proportionate to the crowd size expected.",
+    "standard": "Karnataka's Licensing and Controlling of Assemblies and Processions Order, 2009, which requires prior permission for large public gatherings.",
+    "referenceDate": "2025-06-04"
+  },
+  "reality": {
+    "description": "An estimated three to five lakh (300,000-500,000) people converged on and around M. Chinnaswamy Stadium on June 4, 2025, for a celebration held without the required prior permission from the licensing authority. A crush developed as the crowd surged, killing 11 people and injuring more than 50. A judicial commission led by Justice John Michael Cunha found RCB, KSCA, and DNA Entertainment Networks responsible for organising a gathering of that scale without permission, and flagged lapses by police officers, including the then Bengaluru police commissioner, who was subsequently suspended. A Central Administrative Tribunal separately held RCB accountable.",
+    "asOfDate": "2026-01-01",
+    "sourceIds": [
+      "src-rcb-espncricinfo-tribunal",
+      "src-rcb-deccan-cunha"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Crowd size the organisers had permission for vs. the crowd that actually turned out",
+    "unit": "people",
+    "targetValue": 0,
+    "actualValue": 400000,
+    "targetDisplay": "No prior permission was obtained for any public assembly of this scale",
+    "actualDisplay": "~3-5 lakh people estimated to have gathered",
+    "note": "The 400,000 actual figure is the midpoint of the three-to-five-lakh range cited by the Central Administrative Tribunal; there was no permitted crowd size because no permission was sought."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-06-03",
+      "label": "RCB wins IPL 2025 title",
+      "detail": "Royal Challengers Bengaluru wins its first IPL championship, prompting plans for a victory celebration.",
+      "type": "status"
+    },
+    {
+      "date": "2025-06-04",
+      "label": "Stampede at Chinnaswamy Stadium",
+      "detail": "A crush develops outside the stadium amid an unpermitted crowd estimated at three to five lakh people, killing 11 and injuring more than 50.",
+      "type": "status"
+    },
+    {
+      "date": "2025-06-07",
+      "label": "Police probe intensifies",
+      "detail": "Karnataka Police intensify their investigation; the state government orders CID to take over the probe.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-01",
+      "label": "Justice Cunha commission report submitted",
+      "detail": "The judicial inquiry led by Justice John Michael Cunha submits a two-volume report to Chief Minister Siddaramaiah, recommending legal action against RCB, KSCA, DNA Entertainment Networks, and suspended police officers.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A judicial commission has recommended legal action against RCB, KSCA, the event management company, and specific suspended police officers; this entry has not yet traced whether formal criminal charges have been filed or concluded against any of them.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the judicial inquiry's finding that the celebration was held without required permission, at a scale organisers should reasonably have anticipated, is well documented; what remains unresolved is whether any of the parties found responsible have faced concrete legal consequences.",
+    "confidence": "medium",
+    "reasoning": "The core facts — death toll, absence of permission, and the Cunha commission's findings — are corroborated across multiple independent outlets. The eventual legal outcome for RCB, KSCA, and individual officials was still pending as of this entry's research."
+  },
+  "incomplete": [
+    "Whether RCB, KSCA, or DNA Entertainment Networks have faced formal criminal charges or penalties following the Cunha commission's recommendations has not been established here.",
+    "The individual identities and final departmental outcomes for the suspended police officers, including the former commissioner, have not been fully detailed in this entry.",
+    "Compensation paid to victims' families, if any, has not been tracked here."
+  ],
+  "sources": [
+    {
+      "id": "src-rcb-espncricinfo-tribunal",
+      "label": "Karnataka government holds RCB accountable for Bengaluru stampede",
+      "type": "independent",
+      "publisher": "ESPNcricinfo",
+      "date": "2025-06-01",
+      "url": "https://www.espncricinfo.com/story/karnataka-government-holds-rcb-accountable-for-bengaluru-stampede-1495726"
+    },
+    {
+      "id": "src-rcb-deccan-cunha",
+      "label": "Bengaluru stampede panel flags lapses by organisers, cops",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-09-01",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-stampede-panel-flags-lapses-by-organisers-cops-3635974"
+    }
+  ]
+}

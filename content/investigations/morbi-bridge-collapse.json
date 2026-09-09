@@ -1,0 +1,150 @@
+{
+  "id": "KB-3010",
+  "slug": "morbi-bridge-collapse",
+  "title": "The Morbi Suspension Bridge Collapse",
+  "dek": "A 143-year-old British-era pedestrian suspension bridge reopened for a festival weekend on rusted cables and no engineering sign-off. It collapsed under the crowd it was sold as safe for, killing 135 people. Four years on, no charges have been framed and the trial has not begun.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 70,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2022-10-30",
+  "heroStat": {
+    "value": "135 dead",
+    "label": "killed when the Machchhu river suspension bridge in Morbi, Gujarat collapsed on 30 October 2022"
+  },
+  "promise": {
+    "quote": "The bridge has been renovated and made safe for the public; it can bear the load of visitors during the festival season.",
+    "madeBy": "Oreva Group (Ajanta Manufacturing Pvt Ltd)",
+    "role": "Private clock-and-electronics company awarded a 15-year contract by Morbi Municipality to operate, maintain and collect ticket revenue from the bridge",
+    "date": "2022-10-26",
+    "context": "Oreva reopened the bridge on 26 October 2022, in time for Diwali and Gujarati New Year, after a roughly seven-month renovation, without obtaining a structural fitness or load-bearing certificate from any competent authority, and sold tickets for entry without any cap on the number of people allowed on the bridge at once.",
+    "sourceIds": [
+      "src-morbi-wiki"
+    ]
+  },
+  "target": {
+    "description": "A public suspension bridge reopened to paying visitors only after structural renovation is certified by qualified engineers, with a maximum-occupancy limit enforced and administered under a valid, monitored municipal contract.",
+    "standard": "Standard municipal public-safety obligations for structures open to the public, and the terms of the Morbi Municipality's own maintenance contract with Oreva.",
+    "referenceDate": "2022-10-26"
+  },
+  "reality": {
+    "description": "On the evening of 30 October 2022, the bridge — packed with an estimated 300-plus people, several times any safe limit — snapped and collapsed into the Machchhu river, killing 135 people including many women and children. A forensic examination found the original 19th-century steel suspension cables had simply been cleaned and repainted rather than replaced, along with rusted anchor pins and loose flooring bolts; no structural or load-safety audit had been carried out before reopening, and the renovation contractors engaged were not qualified structural engineers. Ten people, including Oreva Group managing director Jaysukh Patel, were chargesheeted with culpable homicide not amounting to murder and other offences in a more than 1,200-page charge sheet. As of mid-2026, formal charges have still not been framed by the Morbi sessions court and the trial has not begun; the court has rejected discharge applications from the accused, and the Gujarat High Court has declined demands for a CBI probe.",
+    "asOfDate": "2026-06-01",
+    "sourceIds": [
+      "src-morbi-wiki",
+      "src-morbi-charges"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time since the collapse vs. time to a framed charge and trial start",
+    "unit": "years",
+    "targetValue": 1,
+    "actualValue": 4,
+    "targetDisplay": "Charges typically framed within about a year in a chargesheeted case",
+    "actualDisplay": "Over 3.5 years elapsed; charges still not framed as of mid-2026",
+    "targetLabel": "Expected",
+    "actualLabel": "Actual",
+    "note": "There is no fixed statutory timeline for framing charges; the comparison illustrates the scale of the delay relative to the chargesheet, filed within months of the collapse, not a formal legal deadline."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2022-10-26",
+      "label": "Bridge reopens after renovation",
+      "detail": "Oreva Group reopened the bridge to the public in time for Diwali and Gujarati New Year without a structural safety certificate.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-10-30",
+      "label": "Bridge collapses",
+      "detail": "The suspension bridge, overloaded with visitors, snapped and fell into the Machchhu river, killing 135 people.",
+      "type": "status"
+    },
+    {
+      "date": "2022-11-01",
+      "label": "First arrests made",
+      "detail": "Gujarat police arrested Oreva Group managers, ticket clerks and security staff on charges including culpable homicide not amounting to murder.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-31",
+      "label": "Oreva MD Jaysukh Patel surrenders",
+      "detail": "Jaysukh Patel, the Oreva Group managing director, surrendered before a Morbi court and was sent into judicial custody.",
+      "type": "status"
+    },
+    {
+      "date": "2023-03-01",
+      "label": "Chargesheet filed",
+      "detail": "Police filed a more than 1,200-page chargesheet naming ten accused, including Jaysukh Patel, citing a forensic report that found rusted cables and unqualified repair contractors.",
+      "type": "status"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Charges still not framed",
+      "detail": "More than three years after the chargesheet, the Morbi sessions court had yet to frame formal charges; the trial was expected to begin only around mid-2026.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Ten people were chargesheeted with culpable homicide not amounting to murder and related offences. No charges have yet been formally framed by the trial court and no trial has begun; all ten remain presumed innocent.",
+    "keyIndividuals": [
+      {
+        "name": "Jaysukh Patel",
+        "role": "Managing Director, Oreva Group / Ajanta Manufacturing",
+        "outcome": "Chargesheeted as the tenth accused; surrendered and was jailed in January 2023; case still pre-trial as of 2026."
+      },
+      {
+        "name": "Deepak Parekh and other Oreva managers, ticket clerks, security guards and repair contractors",
+        "role": "Employees and subcontractors of Oreva Group",
+        "outcome": "Chargesheeted alongside Patel; case still pre-trial as of 2026."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That the bridge was reopened without a safety certificate, on unreplaced 19th-century cables, and that this caused the collapse, is not seriously disputed — it is confirmed by the state's own forensic report and chargesheet. What remains completely unresolved, more than three and a half years on, is any judicial accountability: no charges have been framed and no trial has started.",
+    "confidence": "high",
+    "reasoning": "The chain of events, the forensic findings on cable and structural failure, and the chargesheet are well documented by multiple independent Indian outlets and have not been seriously contested. The prolonged pre-trial delay is confirmed by contemporaneous 2026 court reporting."
+  },
+  "incomplete": [
+    "No trial has begun as of the most recent reporting reviewed (mid-2026); this investigation cannot report a verdict or sentence for any of the ten accused.",
+    "Civil compensation amounts paid to victims' families by the Gujarat government and Oreva Group vary across sources and were not independently reconciled here.",
+    "Whether Morbi Municipality officials who awarded or oversaw the maintenance contract face separate departmental or criminal liability was not conclusively established in sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-morbi-wiki",
+      "label": "2022 Morbi bridge collapse",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/2022_Morbi_bridge_collapse"
+    },
+    {
+      "id": "src-morbi-charges",
+      "label": "Charge-sheet filed in Morbi bridge collapse case; Jaysukh Patel of Oreva Group named 10th accused",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2023-03-01",
+      "url": "https://www.tribuneindia.com/news/nation/charge-sheet-filed-in-morbi-bridge-collapse-case-jaysukh-patel-of-oreva-group-named-10th-accused-474050/"
+    },
+    {
+      "id": "src-morbi-toll",
+      "label": "India police charge 10 with homicide over bridge collapse that killed 135",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2022-11-01",
+      "url": "https://gulfnews.com/world/asia/india/india-police-charge-10-with-homicide-over-bridge-collapse-that-killed-135-1.93485223"
+    },
+    {
+      "id": "src-morbi-trial-delay",
+      "label": "Morbi Bridge Collapse: Three Years Later, Victims' Kin Wait For Justice",
+      "type": "independent",
+      "publisher": "Vibes of India",
+      "date": "2025-10-30",
+      "url": "https://www.vibesofindia.com/morbi-bridge-collapse-three-years-later-victims-kin-wait-for-justice/"
+    }
+  ]
+}

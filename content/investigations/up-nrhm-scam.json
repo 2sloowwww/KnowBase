@@ -1,0 +1,107 @@
+{
+  "id": "KB-030",
+  "slug": "up-nrhm-scam",
+  "title": "The Uttar Pradesh NRHM Scam",
+  "dek": "Public health funds meant to strengthen rural healthcare were allegedly siphoned off through fake schemes and inflated contracts. At least five officials connected to the investigation were murdered before it was fully unravelled.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 108,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-01-01",
+  "heroStat": {
+    "value": "5+",
+    "label": "people connected to the case killed or dead under suspicious circumstances"
+  },
+  "promise": {
+    "quote": "Funds disbursed under the National Rural Health Mission in Uttar Pradesh will be spent on genuine healthcare infrastructure, staffing, and supplies for rural communities.",
+    "madeBy": "Government of Uttar Pradesh, Department of Medical Health and Family Welfare",
+    "role": "State department implementing the centrally-sponsored National Rural Health Mission",
+    "date": "2010-01-01",
+    "context": "The National Rural Health Mission channelled substantial central and state funds to Uttar Pradesh for rural healthcare infrastructure; investigators later alleged large-scale diversion of these funds through fraudulent contracts and fake schemes.",
+    "sourceIds": [
+      "src-nrhm-wiki"
+    ]
+  },
+  "target": {
+    "description": "NRHM funds spent transparently on genuine healthcare infrastructure and supplies, with contracts awarded and audited according to standard government procurement norms.",
+    "standard": "Standard state treasury and public procurement financial controls governing centrally-sponsored scheme funds.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "Reported estimates of the scale of diversion range from roughly ₹5,000 crore to as much as ₹10,000 crore. The investigation was marked by an unusual number of deaths: two chief medical officers, Vinod Arya and B.P. Singh, were shot dead in Lucknow, a suspect in those killings died in custody, and at least three other officials connected to the case died under suspicious circumstances or were murdered. The CBI filed its first chargesheet in April 2012 against multiple named officials.",
+    "asOfDate": "2012-04-03",
+    "sourceIds": [
+      "src-nrhm-scale",
+      "src-nrhm-deaths"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Lower reported diversion estimate vs. the higher estimate cited in some reporting",
+    "unit": "₹ crore",
+    "targetValue": 5000,
+    "actualValue": 10000,
+    "targetDisplay": "~₹5,000 cr (lower estimate)",
+    "actualDisplay": "~₹10,000 cr (higher estimate)",
+    "targetLabel": "Lower est.",
+    "actualLabel": "Higher est.",
+    "note": "Both figures appear in reputable reporting on this case; this investigation has not traced either to a single definitive audit and reports the range rather than asserting one figure as correct."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2011-01-01",
+      "label": "Killings draw national attention",
+      "detail": "The murders of two chief medical officers connected to the case become a national story.",
+      "type": "status"
+    },
+    {
+      "date": "2012-04-03",
+      "label": "CBI files first chargesheet",
+      "detail": "The agency names multiple officials, including P.K. Jain, Subhash Chaudhari, and others.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A chargesheet was filed in 2012 naming multiple officials; this investigation has not yet confirmed the trial's outcome or current status for any of the named individuals, nor whether the deaths connected to the case were ever conclusively solved.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of alleged fund diversion and the unusual, disturbing pattern of deaths connected to the investigation are documented across multiple independent reports. This investigation has not established the trial's outcome or whether the deaths were conclusively investigated and resolved.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. The deaths connected to this case are widely reported but their causes and any resulting prosecutions have not been independently verified for this entry."
+  },
+  "incomplete": [
+    "This is a stub entry. The trial's outcome for the officials named in the 2012 chargesheet has not been confirmed.",
+    "Whether the deaths connected to the case were conclusively investigated and any perpetrators identified and tried has not been researched here.",
+    "The two conflicting scale estimates (₹5,000 crore and ₹10,000 crore) have not been reconciled."
+  ],
+  "sources": [
+    {
+      "id": "src-nrhm-wiki",
+      "label": "Uttar Pradesh NRHM scam",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh_NRHM_scam"
+    },
+    {
+      "id": "src-nrhm-scale",
+      "label": "Rs 5,000-cr NRHM scam resurfaces once again",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2015-09-23",
+      "url": "https://www.business-standard.com/article/politics/rs-5-000-cr-nrhm-scam-resurfaces-once-again-115092300853_1.html"
+    },
+    {
+      "id": "src-nrhm-deaths",
+      "label": "Deaths most foul (editorial on the NRHM scam killings)",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2011-01-01",
+      "url": "https://www.deccanherald.com/opinion/editorial/deaths-most-foul-2307414"
+    }
+  ]
+}

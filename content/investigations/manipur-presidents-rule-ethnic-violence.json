@@ -1,0 +1,129 @@
+{
+  "id": "KB-2608",
+  "slug": "manipur-presidents-rule-ethnic-violence",
+  "title": "Manipur's President's Rule and Continuing Ethnic Violence",
+  "dek": "Delhi imposed direct rule on Manipur in February 2025 to end ethnic violence between Meitei and Kuki communities and restore normal government. A year on, a new state government has formed, but the underlying conflict remains unresolved and the death toll keeps climbing.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 48,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2023-05-03",
+  "heroStat": {
+    "value": "306",
+    "label": "people killed and 49 missing in Manipur's ethnic violence since May 2023, as of end-August 2026"
+  },
+  "promise": {
+    "quote": "President's Rule will restore law and order in Manipur, create the conditions for peace between communities, and pave the way for the resumption of normal, elected government.",
+    "madeBy": "Government of India, Ministry of Home Affairs",
+    "role": "Union government, on imposing President's Rule",
+    "date": "2025-02-13",
+    "context": "President's Rule was imposed on Manipur on February 13, 2025, following the resignation of Chief Minister N. Biren Singh amid nearly two years of ethnic violence between the majority Meitei and minority Kuki-Zo communities.",
+    "sourceIds": [
+      "src-manipur-statesman-extend"
+    ]
+  },
+  "target": {
+    "description": "A period of direct central administration that would restore order, disarm militants, resettle displaced people, and create conditions for a return to stable elected government without a resumption of large-scale violence.",
+    "standard": "The stated purpose of President's Rule under Article 356 of the Constitution: restoring constitutional machinery in a state.",
+    "referenceDate": "2025-02-13"
+  },
+  "reality": {
+    "description": "President's Rule was extended twice, running to August 2025 and then toward February 2026, before being revoked on February 4, 2026 when BJP leader Yumnam Khemchand Singh was sworn in as Chief Minister of a new elected government. Despite that formal restoration of elected government, fresh violence has continued to erupt, including inter-group clashes and attacks on civilians, and the underlying drivers of the conflict — contested land rights, ethnic polarisation, and competing territorial and reservation claims — remain unresolved. By end-August 2026, the state's own Home Minister put the cumulative toll since May 2023 at 306 dead (including 11 security personnel) and 49 still missing.",
+    "asOfDate": "2026-08-31",
+    "sourceIds": [
+      "src-manipur-sentinel-toll",
+      "src-manipur-crisisgroup"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Months of President's Rule promised as a temporary restorative measure vs. months actually imposed",
+    "unit": "months",
+    "targetValue": 6,
+    "actualValue": 12,
+    "targetDisplay": "~6 months (a single standard Article 356 term before parliamentary reapproval)",
+    "actualDisplay": "~12 months (February 2025 to February 2026, after one extension)",
+    "note": "Article 356 allows extensions with parliamentary approval, so the 12-month actual figure is not itself unlawful; it is used here to illustrate that the situation took twice as long as an initial single term to resolve even nominally."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2023-05-03",
+      "label": "Ethnic violence erupts",
+      "detail": "Violence breaks out between Meitei and Kuki-Zo communities in Manipur, beginning a conflict that continues into 2026.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-13",
+      "label": "President's Rule imposed",
+      "detail": "Following Chief Minister N. Biren Singh's resignation, the Union government imposes President's Rule on Manipur.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-08-13",
+      "label": "President's Rule extended",
+      "detail": "Parliament approves a further six-month extension of President's Rule, citing the need to stabilise law and order before elections.",
+      "type": "delay"
+    },
+    {
+      "date": "2025-03-27",
+      "label": "Violence resumes despite direct rule",
+      "detail": "Human Rights Watch and other observers report renewed ethnic clashes in Manipur even under central administration.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-04",
+      "label": "Elected government restored",
+      "detail": "BJP leader Yumnam Khemchand Singh is sworn in as Chief Minister, ending President's Rule.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-08-31",
+      "label": "Cumulative toll reported",
+      "detail": "State Home Minister Govindas Konthoujam states that 306 people have been killed and 49 remain missing since May 2023.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry covering an ongoing internal-security and governance crisis rather than a single legal case. No comprehensive judicial reckoning for the underlying violence has concluded; various individual criminal cases connected to specific incidents are ongoing separately.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: President's Rule achieved a formal return to elected government after a year, but by the government's own casualty count the underlying ethnic conflict was not resolved during that period, and violence continued both during and after direct rule.",
+    "confidence": "medium",
+    "reasoning": "The casualty figures come from the state's own Home Minister, and the timeline of President's Rule's imposition, extension and revocation is corroborated across multiple independent and official sources. The deeper political and social drivers of the conflict, and prospects for durable resolution, are a matter of ongoing analysis this entry does not attempt to settle."
+  },
+  "incomplete": [
+    "This entry does not assess whether the new Yumnam Khemchand Singh-led government has a credible plan for durable reconciliation between Meitei and Kuki-Zo communities.",
+    "The status of displaced persons (internally displaced people from relief camps) and their resettlement has not been detailed here.",
+    "Individual criminal cases connected to specific atrocities during the conflict are not catalogued in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-manipur-statesman-extend",
+      "label": "Centre extends President's Rule in Manipur till Feb 2026",
+      "type": "independent",
+      "publisher": "The Statesman",
+      "date": "2025-08-05",
+      "url": "https://www.thestatesman.com/india/centre-extends-presidents-rule-in-manipur-till-feb-2026-1503462327.html"
+    },
+    {
+      "id": "src-manipur-sentinel-toll",
+      "label": "Manipur Violence: 306 Killed, 49 Missing Since May 2023",
+      "type": "independent",
+      "publisher": "The Sentinel (Assam)",
+      "date": "2026-09-04",
+      "url": "https://www.sentinelassam.com/breakingnews/manipur-violence-306-killed-49-missing-since-may-2023"
+    },
+    {
+      "id": "src-manipur-crisisgroup",
+      "label": "Finding a Way Out of Festering Conflict in India's Manipur",
+      "type": "independent",
+      "publisher": "International Crisis Group",
+      "date": "2026-04-01",
+      "url": "https://www.crisisgroup.org/rpt/asia/south-asia/india/346-finding-way-out-festering-conflict-indias-manipur"
+    }
+  ]
+}

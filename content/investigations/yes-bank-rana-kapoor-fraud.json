@@ -1,0 +1,119 @@
+{
+  "id": "KB-023",
+  "slug": "yes-bank-rana-kapoor-fraud",
+  "title": "The Yes Bank – Rana Kapoor Fraud",
+  "dek": "A private bank's co-founder allegedly approved a ₹3,700 crore investment in a struggling lender's debentures in exchange for a ₹600 crore kickback routed to his family's company — days before that same lender's own fraud became public.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 104,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-03-08",
+  "heroStat": {
+    "value": "₹600 cr",
+    "label": "alleged kickback routed to a company owned by Rana Kapoor's daughters"
+  },
+  "promise": {
+    "quote": "Yes Bank's investment decisions, including its debenture purchases, will be made on commercial merit and free of personal financial benefit to the bank's decision-makers.",
+    "madeBy": "Yes Bank, under co-founder and then-CEO Rana Kapoor",
+    "role": "Private sector bank",
+    "date": "2020-03-08",
+    "context": "The CBI alleges Yes Bank invested ₹3,700 crore in short-term debentures issued by DHFL, and that DHFL's promoters, the Wadhawan brothers, paid a ₹600 crore kickback to the Kapoor family in the form of a loan to DoIT Urban Ventures, a company owned by Kapoor's daughters.",
+    "sourceIds": [
+      "src-yesbank-overview"
+    ]
+  },
+  "target": {
+    "description": "Investment decisions made on commercial merit through the bank's normal approval process, with no undisclosed personal financial benefit to any decision-maker or their family.",
+    "standard": "RBI norms on related-party transactions and conflict-of-interest disclosure for bank executives.",
+    "referenceDate": "2020-03-08"
+  },
+  "reality": {
+    "description": "The CBI arrested Rana Kapoor on 8 March 2020 and registered a case against him, DHFL, and DoIT Urban Ventures. The Enforcement Directorate separately attached roughly ₹2,203 crore in assets belonging to Kapoor and others. In April 2020, the CBI also booked Kapoor's wife and three daughters. DHFL's Kapil and Dheeraj Wadhawan were separately arrested in the same case.",
+    "asOfDate": "2020-04-19",
+    "sourceIds": [
+      "src-yesbank-ed",
+      "src-yesbank-family"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Value of the debenture investment vs. the alleged kickback amount",
+    "unit": "₹ crore",
+    "targetValue": 3700,
+    "actualValue": 600,
+    "targetDisplay": "₹3,700 cr in debentures purchased",
+    "actualDisplay": "₹600 cr allegedly kicked back",
+    "targetLabel": "Invested",
+    "actualLabel": "Alleged kickback",
+    "note": "Both figures come from the CBI's stated allegations as reported in the press; neither has yet been confirmed by a court finding."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2020-03-08",
+      "label": "Rana Kapoor arrested",
+      "detail": "The CBI arrests the Yes Bank co-founder and registers a case.",
+      "type": "status"
+    },
+    {
+      "date": "2020-03-09",
+      "label": "ED attaches assets",
+      "detail": "The Enforcement Directorate attaches roughly ₹2,203 crore linked to Kapoor and others.",
+      "type": "status"
+    },
+    {
+      "date": "2020-04-19",
+      "label": "Family members booked",
+      "detail": "The CBI books Kapoor's wife and three daughters in connection with the case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Rana Kapoor was arrested and chargesheeted; this investigation has not yet researched the case's current trial status.",
+    "keyIndividuals": [
+      {
+        "name": "Rana Kapoor",
+        "role": "Co-founder & former CEO, Yes Bank",
+        "outcome": "Arrested March 2020 by the CBI. This investigation has not confirmed a trial verdict as of publication."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the arrest, the CBI's allegations, and the asset attachments are documented. This investigation has not established the trial's current status or outcome.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn from 2020 reporting. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. The case's current trial status has not been researched.",
+    "The relationship between this case and the broader Yes Bank collapse and reconstruction scheme of March 2020 has not been detailed here.",
+    "The outcome of the charges against Kapoor's wife and daughters has not been researched."
+  ],
+  "sources": [
+    {
+      "id": "src-yesbank-overview",
+      "label": "Yes Bank Fraud Case: ED & CBI Vs. Rana Kapoor",
+      "type": "independent",
+      "publisher": "Lawful Legal",
+      "date": "2023-01-01",
+      "url": "https://lawfullegal.in/yes-bank-fraud-case-ed-cbi-vs-rana-kapoor/"
+    },
+    {
+      "id": "src-yesbank-ed",
+      "label": "Yes Bank Case: ED Attaches Rs2,203 Cr Assets of Rana Kapoor, Others",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2020-03-09",
+      "url": "https://www.moneylife.in/article/yes-bank-case-ed-attaches-rs2203-cr-assets-of-rana-kapoor-others/60858.html"
+    },
+    {
+      "id": "src-yesbank-family",
+      "label": "YES Bank fallout: CBI books Rana Kapoor's wife and three daughters",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2020-04-19",
+      "url": "https://www.business-standard.com/article/pti-stories/cbi-books-yes-bank-founder-rana-kapoor-s-family-conducts-searches-ed-quizzes-bank-ceo-120030901315_1.html"
+    }
+  ]
+}

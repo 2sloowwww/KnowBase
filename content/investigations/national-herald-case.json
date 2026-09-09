@@ -1,0 +1,183 @@
+{
+  "id": "KB-201",
+  "slug": "national-herald-case",
+  "title": "The National Herald Case",
+  "dek": "The Enforcement Directorate alleges that Sonia Gandhi, Rahul Gandhi, and associates used a not-for-profit company to take control of assets worth over ₹2,000 crore for a nominal sum. No court has yet accepted the ED's case even to the point of proceeding to trial — a trial court twice declined to take it on, and the fight over that refusal remains pending on appeal.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 110,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-11-01",
+  "heroStat": {
+    "value": "₹2,000+ cr",
+    "label": "value of Associated Journals Ltd assets the ED alleges were taken over via Young Indian for a nominal ₹50 lakh"
+  },
+  "promise": {
+    "quote": "Associated Journals Limited, publisher of the National Herald, would be revived as a functioning media enterprise through a restructuring of its debts to the Indian National Congress.",
+    "madeBy": "Indian National Congress leadership, via the incorporation of Young Indian Pvt Ltd",
+    "role": "Political party and its office-bearers restructuring a loss-making, party-linked media company",
+    "date": "2010-11-01",
+    "context": "Associated Journals Ltd (AJL), publisher of the now-defunct National Herald newspaper founded by Jawaharlal Nehru, owed the Congress party roughly ₹90 crore in interest-free loans. In 2010, this debt was transferred to a newly formed not-for-profit company, Young Indian, in which Sonia Gandhi and Rahul Gandhi together came to hold a 76% stake, for a reported ₹50 lakh — after which Young Indian effectively controlled AJL's assets.",
+    "sourceIds": [
+      "src-nh-wiki"
+    ]
+  },
+  "target": {
+    "description": "That any restructuring of AJL's debt and ownership would follow company law and not amount to a scheme to divert a public-interest media company's substantial real-estate assets to a private entity controlled by a small group of individuals.",
+    "standard": "Companies Act provisions governing related-party transactions and, per the criminal complaint, provisions of the Indian Penal Code relating to cheating and criminal breach of trust.",
+    "referenceDate": "2010-11-01"
+  },
+  "reality": {
+    "description": "In 2012, BJP leader Subramanian Swamy filed a private criminal complaint alleging that the Young Indian transaction amounted to cheating and criminal breach of trust. The ED opened a money-laundering investigation in 2014 based on Swamy's complaint and summoned Sonia and Rahul Gandhi in 2015 (they were granted bail the same year). Proceedings moved slowly for a decade. On 15 April 2025, the ED filed a formal prosecution complaint (chargesheet) in Delhi's Rouse Avenue Court naming Sonia Gandhi, Rahul Gandhi, Sam Pitroda, Suman Dubey and others, alleging the AJL asset transfer was designed to benefit Young Indian's shareholders. On 16 December 2025, the special court refused to take cognisance of the ED's complaint, holding it was not founded on a registered FIR or scheduled predicate offence as normally required under the Prevention of Money Laundering Act. The ED has since moved the Delhi High Court challenging that refusal; the High Court issued notice on 22 December 2025, with the matter listed for further hearing on 12 March 2026. Separately, the Delhi Police's Economic Offences Wing registered its own FIR against Sonia and Rahul Gandhi in November 2025 over the same AJL transaction, alleging criminal conspiracy, cheating, and breach of trust — which could, if it survives, eventually give the ED's case the FIR predicate the trial court found missing.",
+    "asOfDate": "2025-12-22",
+    "sourceIds": [
+      "src-nh-chargesheet",
+      "src-nh-cognisance-refused",
+      "src-nh-hc-notice",
+      "src-nh-eow-fir"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the criminal complaint was filed vs. whether any court has yet accepted the case for trial",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Chargesheet filed, 2025",
+    "actualDisplay": "Cognisance refused, Dec 2025",
+    "targetLabel": "ED's case as filed",
+    "actualLabel": "Trial court's response",
+    "note": "This is not a case where guilt has been established or even where a trial has begun — after 13 years, a trial court found the ED's own prosecution complaint procedurally deficient. That refusal is under challenge and not final."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The case does not involve government-allocated funds; the ED's allegation concerns private/party assets (AJL's real estate, valued by the ED at over ₹2,000 crore) allegedly diverted via a ₹90.25 crore loan-to-equity restructuring for a nominal ₹50 lakh consideration.",
+    "sourceIds": [
+      "src-nh-wiki"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-11-01",
+      "label": "Young Indian formed, AJL debt transferred",
+      "detail": "AJL's roughly ₹90 crore debt to the Congress party is transferred to newly formed Young Indian, in which Sonia and Rahul Gandhi hold a combined 76% stake.",
+      "type": "announcement"
+    },
+    {
+      "date": "2012-11-01",
+      "label": "Subramanian Swamy files criminal complaint",
+      "detail": "Swamy alleges the transaction amounts to cheating and criminal breach of trust, seeking to divert AJL's assets to a company controlled by a handful of Congress leaders.",
+      "type": "status"
+    },
+    {
+      "date": "2014-06-26",
+      "label": "ED opens money-laundering investigation",
+      "detail": "The Enforcement Directorate registers an ECIR based on Swamy's complaint.",
+      "type": "status"
+    },
+    {
+      "date": "2015-12-19",
+      "label": "Sonia and Rahul Gandhi granted bail",
+      "detail": "After being summoned by the trial court on Swamy's complaint, both are granted bail the same day.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-15",
+      "label": "ED files chargesheet",
+      "detail": "The ED files a prosecution complaint in Delhi's Rouse Avenue Court naming Sonia Gandhi, Rahul Gandhi, Sam Pitroda, Suman Dubey and others, alleging the asset transfer benefited Young Indian's shareholders.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-11-01",
+      "label": "Delhi Police EOW registers fresh FIR",
+      "detail": "A separate FIR is registered against Sonia and Rahul Gandhi over the same AJL transaction, alleging conspiracy, cheating and criminal breach of trust.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Trial court refuses to take cognisance",
+      "detail": "The special court at Rouse Avenue holds the ED's prosecution complaint is not founded on a registered FIR or scheduled predicate offence, and declines to proceed.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-12-22",
+      "label": "Delhi High Court issues notice on ED's appeal",
+      "detail": "The ED challenges the trial court's refusal; the High Court lists the matter for 12 March 2026.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "As of this entry's publication, no court has accepted the ED's money-laundering case for trial. A trial court refused to take cognisance of the ED's prosecution complaint in December 2025, finding it lacked a valid FIR or predicate offence; the ED's appeal against that refusal is pending before the Delhi High Court. A separate, freshly registered Delhi Police FIR covering similar allegations is also at an early stage. No one has been convicted, and no trial on the merits has begun.",
+    "keyIndividuals": [
+      {
+        "name": "Sonia Gandhi",
+        "role": "Former Congress President; alleged, per the ED, to hold a beneficial stake in Young Indian",
+        "outcome": "Named in the ED's 2025 chargesheet and the Delhi Police's 2025 FIR; no cognisance has been taken by any court; no charges framed."
+      },
+      {
+        "name": "Rahul Gandhi",
+        "role": "Member of Parliament; alleged, per the ED, to hold a beneficial stake in Young Indian",
+        "outcome": "Named in the ED's 2025 chargesheet and the Delhi Police's 2025 FIR; no cognisance has been taken by any court; no charges framed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case has produced a criminal complaint, an ED investigation running well over a decade, and a 2025 chargesheet — but, as of publication, no court has agreed even to proceed to trial on the ED's central case. This site reports that procedural posture precisely rather than treating the chargesheet's allegations as an established outcome; the allegations remain unproven and are contested by the accused, who describe the case as politically motivated.",
+    "confidence": "medium",
+    "reasoning": "The chargesheet filing, the trial court's refusal to take cognisance, and the pending Delhi High Court appeal are documented via PIB-adjacent government wire reports (newsonair.gov.in, All India Radio's news service) and independent legal-affairs reporting. Confidence is not higher because this entry has not reviewed the trial court's or ED's filings directly, and the matter remains actively litigated with the next hearing outcome unknown at the time of writing."
+  },
+  "incomplete": [
+    "This entry has not reviewed the ED's prosecution complaint or the trial court's December 2025 order directly, relying on wire and legal-affairs reporting summarising each.",
+    "The outcome of the Delhi High Court's 12 March 2026 hearing on the ED's appeal is not yet known as of this entry's publication and should be checked for updates.",
+    "The status and progress of the separate Delhi Police EOW FIR (November 2025) has not been independently tracked beyond its registration.",
+    "This entry does not take a position on the underlying allegations' truth — they remain contested and unproven in any court as of publication."
+  ],
+  "sources": [
+    {
+      "id": "src-nh-chargesheet",
+      "label": "ED files chargesheet against Sonia Gandhi, Rahul Gandhi in National Herald case",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2025-04-15",
+      "url": "https://www.newsonair.gov.in/ed-files-chargesheet-against-sonia-gandhi-rahul-gandhi-in-national-herald-case/"
+    },
+    {
+      "id": "src-nh-cognisance-refused",
+      "label": "Delhi Court refuses to take cognisance of ED's money-laundering case against Sonia, Rahul Gandhi",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2025-12-16",
+      "url": "https://www.newsonair.gov.in/delhi-court-refuses-to-take-cognisance-of-eds-money-laundering-case-against-sonia-rahul-gandhi"
+    },
+    {
+      "id": "src-nh-hc-notice",
+      "label": "Delhi HC seeks response from Sonia Gandhi, Rahul Gandhi in National Herald case",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2025-12-22",
+      "url": "https://www.newsonair.gov.in/delhi-hc-seeks-response-from-sonia-gandhi-rahul-gandhi-in-national-herald-case"
+    },
+    {
+      "id": "src-nh-eow-fir",
+      "label": "Delhi Police files FIR against Congress leaders Sonia Gandhi, Rahul Gandhi in National Herald case",
+      "type": "independent",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2025-11-30",
+      "url": "https://www.newsonair.gov.in/delhi-police-files-fir-against-congress-leaders-sonia-gandhi-rahul-gandhi-in-national-herald-case/"
+    },
+    {
+      "id": "src-nh-wiki",
+      "label": "National Herald case — background on Young Indian/AJL transaction and Swamy complaint",
+      "type": "independent",
+      "publisher": "Wikipedia (cross-checked against contemporaneous Business Standard and Tribune reporting)",
+      "date": "2025-04-16",
+      "url": "https://en.wikipedia.org/wiki/National_Herald_case"
+    }
+  ]
+}

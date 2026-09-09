@@ -1,0 +1,144 @@
+{
+  "id": "KB-3031",
+  "slug": "tehelka-operation-west-end-bangaru-laxman-case",
+  "title": "Operation West End: The Sting That Convicted a Sitting BJP President for Taking a Bribe on Camera",
+  "dek": "A news portal's hidden-camera sting caught the president of India's ruling party accepting cash from reporters posing as arms dealers seeking a defence contract. Eleven years later, a court became the rare venue where a top party functionary was actually convicted for it.",
+  "category": "Defence & Security",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 900,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2001-03-13",
+  "heroStat": {
+    "value": "₹1 lakh",
+    "label": "cash bribe caught on hidden camera in 2001 that led to a BJP national president's criminal conviction eleven years later"
+  },
+  "promise": {
+    "quote": "As president of the ruling party and a public figure in a government that had pledged clean, transparent defence procurement, Bangaru Laxman was expected to conduct himself -- and his party's dealings with defence vendors -- without personal financial inducement.",
+    "madeBy": "Bangaru Laxman, President of the Bharatiya Janata Party (BJP), and the NDA government's stated commitment to transparent defence procurement",
+    "role": "National President of the ruling Bharatiya Janata Party",
+    "date": "2000-01-01",
+    "context": "In 2000-2001, reporters from the news portal Tehelka, posing as representatives of a fictitious British arms company (\"West End International\") seeking to sell thermal imaging binoculars to the Ministry of Defence, filmed a seven-and-a-half-month sting -- Operation West End -- that captured senior defence officials, military officers and politicians, including the sitting BJP president, discussing and accepting money and favours related to defence deals.",
+    "sourceIds": [
+      "src-tehelka-wiki"
+    ]
+  },
+  "target": {
+    "description": "Defence procurement and party leadership free of personal cash payments in exchange for favourable treatment of vendors, as required under India's Prevention of Corruption Act and basic norms of public office.",
+    "standard": "Prevention of Corruption Act, 1988",
+    "referenceDate": "2000-01-01"
+  },
+  "reality": {
+    "description": "Tehelka broadcast footage on 13 March 2001 showing Bangaru Laxman, then BJP national president, accepting ₹1 lakh in cash at his official residence from journalists posing as arms dealers, purportedly to recommend the fictitious firm's thermal imaging binoculars for a defence deal. The tapes also showed other politicians and military officers accepting money or favours. Laxman resigned as BJP president the next day; then-Defence Minister George Fernandes also resigned over a related segment of the sting (he was reinstated months later after a governmental inquiry). The CBI registered a corruption case against Laxman. After more than a decade of trial, a special CBI court convicted him on 27 April 2012 under the Prevention of Corruption Act and sentenced him to four years' rigorous imprisonment plus a ₹1 lakh fine. He was granted bail by the Delhi High Court and remained free on bail, with his appeal still pending, until his death in March 2014.",
+    "asOfDate": "2014-03-01",
+    "sourceIds": [
+      "src-tehelka-wiki",
+      "src-laxman-jail",
+      "src-laxman-inquirer"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time between the bribe being filmed and a court actually delivering a conviction",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 11,
+    "targetDisplay": "Conduct expected: no bribe taken at all",
+    "actualDisplay": "11 years from the March 2001 broadcast to the April 2012 conviction",
+    "targetLabel": "Expected standard",
+    "actualLabel": "Actual time to conviction",
+    "note": "The sting itself was never seriously disputed as authentic; what took over a decade was the criminal justice process reaching a verdict, by which point the convicted party president had already spent 11 years out of office and largely out of public life."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2000-01-01",
+      "label": "Operation West End begins",
+      "detail": "Tehelka journalists, posing as a fictitious British arms dealing firm, begin a sting operation targeting defence procurement officials and politicians.",
+      "type": "status"
+    },
+    {
+      "date": "2001-03-13",
+      "label": "Tehelka broadcasts the sting tapes",
+      "detail": "Footage aired showing BJP president Bangaru Laxman accepting ₹1 lakh in cash, along with other officials and a military officer discussing bribes for a defence contract.",
+      "type": "announcement"
+    },
+    {
+      "date": "2001-03-14",
+      "label": "Laxman resigns as BJP president",
+      "detail": "Bangaru Laxman quit as BJP national president a day after the tapes were broadcast; Defence Minister George Fernandes also resigned over a related part of the sting.",
+      "type": "status"
+    },
+    {
+      "date": "2001-04-01",
+      "label": "CBI registers a case",
+      "detail": "The Central Bureau of Investigation opened a corruption case against Laxman under the Prevention of Corruption Act.",
+      "type": "status"
+    },
+    {
+      "date": "2012-04-27",
+      "label": "Special CBI court convicts Laxman",
+      "detail": "A special CBI court convicted Bangaru Laxman and sentenced him to four years' rigorous imprisonment and a ₹1 lakh fine.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-05-01",
+      "label": "Laxman granted bail pending appeal",
+      "detail": "The Delhi High Court granted Laxman bail while his appeal against the conviction remained pending.",
+      "type": "status"
+    },
+    {
+      "date": "2014-03-01",
+      "label": "Bangaru Laxman dies",
+      "detail": "Laxman died in March 2014 with his appeal against the conviction still pending, so the Supreme Court never finally adjudicated it.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Bangaru Laxman was convicted by a special CBI trial court in 2012 under the Prevention of Corruption Act. He was granted bail and his appeal remained pending in higher courts when he died in 2014, meaning the conviction was never tested to a final appellate conclusion, though the trial-court verdict itself stands as a rare completed conviction in a defence-corruption sting case.",
+    "keyIndividuals": [
+      {
+        "name": "Bangaru Laxman",
+        "role": "BJP National President at the time of the sting",
+        "outcome": "Convicted by a special CBI court on 27 April 2012 and sentenced to four years' rigorous imprisonment plus a fine; released on bail pending appeal; died in March 2014 before the appeal was decided."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The bribery itself was never seriously in dispute -- it was filmed, broadcast, and led to Laxman's immediate resignation. What the case tests is accountability: a sitting national party president was, unusually for a case of this profile, actually convicted by a criminal court, even though it took eleven years and the appeal was left unresolved by his death.",
+    "confidence": "high",
+    "reasoning": "The sting footage, resignation, CBI case and 2012 conviction are all well documented in contemporaneous and later reporting, and the conviction itself is a matter of public court record. Confidence is not higher only because the appeal was never finally decided due to Laxman's death."
+  },
+  "incomplete": [
+    "The Supreme Court/appellate outcome on Laxman's conviction was never finalised because he died in March 2014 while the appeal was pending.",
+    "This entry focuses on the Bangaru Laxman strand of Operation West End; outcomes for other officials and the military officer filmed in the same sting are not comprehensively covered here.",
+    "George Fernandes's resignation and subsequent reinstatement as Defence Minister followed a separate internal governmental review, not a criminal prosecution, and is noted here only for context."
+  ],
+  "sources": [
+    {
+      "id": "src-tehelka-wiki",
+      "label": "Operation West End",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Operation_West_End"
+    },
+    {
+      "id": "src-laxman-jail",
+      "label": "HC grants bail to Bangaru Laxman",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2012-05-01",
+      "url": "https://www.deccanherald.com/india/hc-grants-bail-bangaru-laxman-2365634"
+    },
+    {
+      "id": "src-laxman-inquirer",
+      "label": "Top Indian politician jailed for four years in bribe case",
+      "type": "independent",
+      "publisher": "Philippine Daily Inquirer",
+      "date": "2012-04-27",
+      "url": "https://newsinfo.inquirer.net/184367/top-indian-politician-jailed-for-four-years-in-bribe-case/amp"
+    }
+  ]
+}

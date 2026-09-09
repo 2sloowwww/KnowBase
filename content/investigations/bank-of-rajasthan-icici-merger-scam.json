@@ -1,0 +1,226 @@
+{
+  "id": "KB-1203",
+  "slug": "bank-of-rajasthan-icici-merger-scam",
+  "title": "The Bank of Rajasthan–ICICI Merger — Undisclosed Promoter Shareholding and a SEBI Reckoning",
+  "dek": "Bank of Rajasthan's promoters told regulators their stake in the bank had fallen to under 29% even as RBI and SEBI found it had actually climbed to around 55% through surrogate holdings — a finding that surfaced just as the bank was folded into ICICI Bank in 2010, and that triggered a decade of SEBI enforcement action, appeals and a still-pending public-interest challenge over whether promoters' gains were ever fully clawed back.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 146,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2010-02-26",
+  "heroStat": {
+    "value": "~55%",
+    "label": "actual stake SEBI's investigation found the Tayal promoter family held in Bank of Rajasthan by December 2009 — against a publicly disclosed figure of around 28.6% — surfacing just as the bank merged into ICICI Bank in 2010"
+  },
+  "promise": {
+    "quote": "The promoter shareholding in Bank of Rajasthan has been reduced in line with RBI's guidelines and is accurately reflected in our disclosures to the regulator and the stock exchanges.",
+    "madeBy": "Promoters of Bank of Rajasthan Ltd., led by Pravin Kumar Tayal",
+    "role": "Promoter/controlling shareholder group of Bank of Rajasthan Ltd., a private-sector bank",
+    "date": "2009-01-01",
+    "context": "This reflects the substance of the shareholding-reduction claims Bank of Rajasthan's promoters made in disclosures to the RBI and stock exchanges through 2007-2009, as characterised in SEBI's subsequent investigation, rather than a verified verbatim quotation from a specific filing, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-bor-wiki"
+    ]
+  },
+  "target": {
+    "description": "That Bank of Rajasthan's promoter group would accurately disclose its true shareholding in the bank to the RBI and the securities markets, and would genuinely reduce its holding as it had undertaken to the RBI, rather than increasing its effective control through surrogate entities and inter-corporate fund transfers while reporting a decline.",
+    "standard": "RBI shareholding norms/undertakings applicable to promoters of private banks, and SEBI's Substantial Acquisition of Shares and Takeovers (SAST) and disclosure regulations requiring accurate, timely reporting of promoter shareholding.",
+    "referenceDate": "2007-06-01"
+  },
+  "reality": {
+    "description": "The RBI referred Bank of Rajasthan's promoter shareholding to SEBI in November 2009 after finding that the reduction the Tayal-led promoter group had reported did not reflect reality. SEBI's investigation found that the promoter group's actual stake had risen from roughly 44-45% in the quarter ended June 2007 to around 60% by March 2008, and stood at around 55% in December 2009 — achieved through surrogate acquisitions and inter-corporate transfers among a large number of related entities — even as the group's disclosures claimed the stake had fallen to around 28.6% by December 2009. On 26 February 2010, the RBI separately imposed a ₹25 lakh penalty on Bank of Rajasthan for a string of governance and compliance lapses, including irregular property deals, anti-money-laundering violations, deletion of records from its information systems, irregularities in corporate-group accounts and breaches of overdraft limits, and ordered a special audit. In March 2010, SEBI passed an interim order restraining the Tayal group and associated entities from trading in securities. Amid this regulatory pressure, the boards of Bank of Rajasthan and ICICI Bank approved an all-stock merger on 18 May 2010 (a swap of 25 ICICI Bank shares for every 118 Bank of Rajasthan shares, an all-stock deal reported at roughly ₹3,000 crore); the RBI approved the merger, which took effect on 13 August 2010, after which Bank of Rajasthan ceased to exist as an independent entity. SEBI's investigation into the shareholding misrepresentation continued after the merger: on 14 February 2013, SEBI issued an order debarring a large number of Tayal-linked individuals and entities (reported variously as around 100 to 118 persons/companies), including promoter Pravin Kumar Tayal, from the securities market. A separate SEBI Whole Time Member order (dated around January 2016) additionally found evidence of insider trading ahead of the merger announcement by Tayal-linked parties including Rohit Premkumar Gupta and family/associate entities, directing disgorgement of over ₹95 lakh in unlawful gains; in November 2017, SEBI barred seven entities — including Sanjay Kumar Tayal, Navin Kumar Tayal and Jyotika Sanjay Tayal — from the securities market for five years over this insider trading. The Supreme Court dismissed an appeal brought by a Tayal-linked party in the Bank of Rajasthan matter on 28 October 2016, upholding SEBI's position in that round of litigation. As of June 2022, SEBI issued a formal notice of demand under a recovery certificate against Rohit Premkumar Gupta, Sanjay Kumar Tayal, Navin Kumar Tayal, Jyotika Sanjay Tayal and associated entities, indicating that some ordered disgorgement/penalties had still not been recovered years after the original orders. Separately, in April 2015, advocate Prashant Bhushan filed a public-interest litigation on behalf of Arun Kumar Agrawal in the Supreme Court arguing that SEBI had deliberately failed to quantify the promoters' illicit gains — which the petition estimated at roughly ₹500 crore — and as a result imposed only a fraction of the penalty and disgorgement that should have followed; that PIL was tagged with other pending Supreme Court matters rather than decided on its own, and this entry has not confirmed its ultimate outcome.",
+    "asOfDate": "2022-06-01",
+    "sourceIds": [
+      "src-bor-wiki",
+      "src-bor-livelaw",
+      "src-bor-sebi-recovery",
+      "src-bor-bs-fiveyearban"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Bank of Rajasthan promoter shareholding: disclosed vs. SEBI's finding, December 2009",
+    "unit": "percent of BoR equity",
+    "targetValue": 28.61,
+    "actualValue": 55,
+    "targetDisplay": "~28.61% — publicly disclosed promoter stake",
+    "actualDisplay": "~55% — stake SEBI's investigation found the promoter group actually held",
+    "targetLabel": "Disclosed shareholding",
+    "actualLabel": "SEBI's finding",
+    "note": "Different secondary sources report slightly different baseline percentages for June 2007 (44.18% vs. 44.71%) and the exact December 2009 actual figure (54-55%); this entry has not resolved the discrepancy against SEBI's original order."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ICICI Bank–Bank of Rajasthan merger itself was an all-stock deal reported at roughly ₹3,000 crore. Separately, a 2015 Supreme Court PIL alleged SEBI failed to quantify promoter gains that the petitioner estimated at approximately ₹500 crore — a figure this entry has not independently verified — while a 2022 SEBI recovery notice sought disgorgement/penalty amounts in the range of tens of lakhs to a few crore from individual Tayal-linked parties.",
+    "sourceIds": [
+      "src-bor-wiki",
+      "src-bor-livelaw",
+      "src-bor-sebi-recovery"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2007-06-01",
+      "label": "Baseline promoter shareholding reported",
+      "detail": "Bank of Rajasthan's promoter group's shareholding is reported at roughly 44-45% for the quarter ended June 2007, the baseline against which SEBI later measured undisclosed increases.",
+      "type": "status"
+    },
+    {
+      "date": "2009-11-01",
+      "label": "RBI refers shareholding mismatch to SEBI",
+      "detail": "The RBI refers Bank of Rajasthan's promoter shareholding disclosures to SEBI after finding the reported reduction in the Tayal group's stake did not reflect actual holdings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-02-26",
+      "label": "RBI fines Bank of Rajasthan ₹25 lakh",
+      "detail": "The RBI imposes a ₹25 lakh penalty for governance and compliance lapses — including irregular property deals, anti-money-laundering violations and deleted IT records — and orders a special audit.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-03-10",
+      "label": "SEBI restrains Tayal group from trading",
+      "detail": "SEBI passes an interim order restraining the Tayal promoter group and associated entities from trading in securities, pending investigation into the shareholding discrepancy.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-05-18",
+      "label": "Bank of Rajasthan and ICICI Bank boards approve merger",
+      "detail": "The two banks' boards approve an all-stock amalgamation (25 ICICI Bank shares for every 118 Bank of Rajasthan shares), reported at roughly ₹3,000 crore.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-08-13",
+      "label": "RBI approves merger; it takes effect",
+      "detail": "The RBI approves the merger, which takes effect the same day; Bank of Rajasthan ceases to exist as an independent entity.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-02-14",
+      "label": "SEBI debars around 100+ Tayal-linked entities",
+      "detail": "SEBI issues a final order debarring a large number of individuals and companies linked to the Tayal promoter group, including Pravin Kumar Tayal, from the securities market over the shareholding misrepresentation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-04-14",
+      "label": "PIL filed alleging SEBI under-penalised promoters",
+      "detail": "Advocate Prashant Bhushan files a Supreme Court PIL on behalf of Arun Kumar Agrawal, alleging SEBI failed to quantify roughly ₹500 crore in promoter gains and imposed inadequate penalties; the case is tagged with other pending matters.",
+      "type": "status"
+    },
+    {
+      "date": "2016-01-08",
+      "label": "SEBI finds insider trading ahead of merger announcement",
+      "detail": "A SEBI Whole Time Member order finds Tayal-linked parties, including Rohit Premkumar Gupta and associates, engaged in insider trading ahead of the merger announcement, directing disgorgement of unlawful gains.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-10-28",
+      "label": "Supreme Court dismisses Tayal-linked appeal",
+      "detail": "The Supreme Court dismisses an appeal brought by a Tayal-linked party in the Bank of Rajasthan matter, upholding SEBI's position in that round of litigation.",
+      "type": "status"
+    },
+    {
+      "date": "2017-11-22",
+      "label": "SEBI bars seven entities for five years",
+      "detail": "SEBI bars seven entities — including Sanjay Kumar Tayal, Navin Kumar Tayal and Jyotika Sanjay Tayal — from the securities market for five years and orders disgorgement of over ₹95 lakh in insider-trading gains.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-06-01",
+      "label": "SEBI issues recovery-certificate demand",
+      "detail": "SEBI issues a formal notice of demand under a recovery certificate against several Tayal-linked individuals and entities, indicating amounts from earlier orders remained uncollected years later.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This matter has been pursued as SEBI and RBI regulatory/administrative enforcement rather than as a criminal prosecution, on the evidence available to this entry. SEBI issued a debarment order in 2013 over shareholding misrepresentation and separate insider-trading orders in 2016-2017 with five-year market bans and disgorgement directions; a Tayal-linked appeal was dismissed by the Supreme Court in October 2016, and SEBI was still pursuing recovery of ordered amounts as of June 2022. A 2015 public-interest litigation arguing that SEBI's overall response under-quantified and under-penalised the promoters' gains was tagged with other pending Supreme Court matters; this entry has not confirmed whether it has since been decided.",
+    "keyIndividuals": [
+      {
+        "name": "Pravin Kumar Tayal",
+        "role": "Promoter, Bank of Rajasthan Ltd.",
+        "outcome": "Named in SEBI's 14 February 2013 order debarring the promoter group's associated entities from the securities market over shareholding misrepresentation; this entry has not confirmed further individual penalty details beyond the group order."
+      },
+      {
+        "name": "Sanjay Kumar Tayal",
+        "role": "Member of the Tayal promoter group",
+        "outcome": "Barred from the securities market for five years under SEBI's November 2017 order over alleged insider trading ahead of the merger; separately, an appeal linked to SEBI's actions in this matter was dismissed by the Supreme Court in October 2016."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real, multi-year regulatory failure and enforcement saga: a promoter group's disclosed shareholding diverged sharply from its actual holding just as the bank it controlled was merged into ICICI Bank, and SEBI pursued the matter through at least three distinct enforcement orders (2013 debarment, 2016 insider-trading finding, 2017 five-year ban) plus ongoing recovery action as of 2022. Confidence is kept at medium because a public-interest litigation specifically alleges SEBI's overall penalty and disgorgement fell far short of the promoters' actual illicit gains, and this entry could not confirm how that allegation was ultimately resolved.",
+    "confidence": "medium",
+    "reasoning": "The core narrative — RBI's referral, SEBI's finding of a large gap between disclosed and actual promoter shareholding, the merger, and SEBI's 2013, 2016 and 2017 enforcement orders — is corroborated across independent business journalism (Business Standard, Deccan Chronicle) and a primary SEBI recovery-proceedings notice. However, this entry has not directly reviewed SEBI's original 2013 or 2016 orders, the RBI's penalty order, or the Supreme Court's 2016 judgment, and some secondary sources report differing baseline shareholding percentages."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed SEBI's 14 February 2013 order; the exact list and count of debarred entities is reported variously (around 100 to 118) across secondary sources.",
+    "The reported baseline promoter shareholding for June 2007 varies across sources (44.18% vs. 44.71%); this entry has not resolved the discrepancy.",
+    "The exact date of SEBI's Whole Time Member insider-trading order is inferred from the order's reference number (dated January 2016) rather than confirmed from readable order text, as the underlying PDF could not be extracted by this entry.",
+    "The ultimate outcome of the April 2015 Supreme Court PIL (Arun Kumar Agrawal, tagged with other pending matters) — whether it was decided, dismissed, or remains pending — has not been confirmed by this entry.",
+    "Whether any criminal (as opposed to SEBI/RBI administrative) proceedings were ever initiated against the Tayal family in this matter has not been confirmed by this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-bor-wiki",
+      "label": "Bank of Rajasthan",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_Rajasthan"
+    },
+    {
+      "id": "src-bor-livelaw",
+      "label": "Bank of Rajasthan & ICICI Bank merger: PIL filed in SC urging SEBI to be made accountable; says unfair gains made by promoters of Bank of Rajasthan were not quantified",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2015-04-14",
+      "url": "https://www.livelaw.in/bank-of-rajasthan-says-unfair-gains-made-by-promoters-of-bank-of-rajasthan-were-not-quantified"
+    },
+    {
+      "id": "src-bor-sebi-recovery",
+      "label": "Notice of Demand under Recovery Certificate No. 4927 of 2022 issued jointly and severally against Rohit Premkumar Gupta, Navin Kumar Tayal, Jyotika Sanjay Tayal, Advik Textiles And Realpro Pvt. Ltd., Kulwinder Kumar Nayyar, Azam Mohammed Ashan Shaikh and Sanjay Kumar Tayal in the matter of Bank of Rajasthan Limited",
+      "type": "primary",
+      "publisher": "Securities and Exchange Board of India (SEBI)",
+      "date": "2022-06-01",
+      "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2022/notice-of-demand-under-recovery-certificate-no-4927-of-2022-issued-jointly-and-severally-against-rohit-premkumar-gupta-navin-kumar-tayal-jyotika-sanjay-tayal-advik-textiles-and-realpro-pvt-ltd-_59832.html"
+    },
+    {
+      "id": "src-bor-bs-fiveyearban",
+      "label": "Bank of Rajasthan case: Sebi bans 7 entities for five years",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-11-22",
+      "url": "https://www.business-standard.com/article/pti-stories/bank-of-rajasthan-case-sebi-bans-7-entities-for-five-years-117112201403_1.html"
+    },
+    {
+      "id": "src-bor-bs-scdismiss",
+      "label": "SC dismisses Tayal's appeal in Bank of Rajasthan case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2016-10-28",
+      "url": "https://www.business-standard.com/article/finance/sc-dismisses-tayal-s-appeal-in-bank-of-rajasthan-case-116102800274_1.html"
+    },
+    {
+      "id": "src-bor-bs-merger",
+      "label": "UPDATE: Bank of Rajasthan to merge with ICICI",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-05-18",
+      "url": "https://www.business-standard.com/article/companies/update-bank-of-rajasthan-to-merge-with-icici-110051800204_1.html"
+    },
+    {
+      "id": "src-bor-bs-rbiapproval",
+      "label": "RBI okays ICICI Bank-BoR merger; takes effect today",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-08-13",
+      "url": "https://www.business-standard.com/amp/article/finance/rbi-okays-icici-bank-bor-merger-takes-effect-today-110081300038_1.html"
+    }
+  ]
+}

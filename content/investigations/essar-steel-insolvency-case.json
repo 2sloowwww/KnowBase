@@ -1,0 +1,164 @@
+{
+  "id": "KB-1005",
+  "slug": "essar-steel-insolvency-case",
+  "title": "Essar Steel: The IBC's Biggest Test Case",
+  "dek": "India's largest insolvency resolution to date pitted ArcelorMittal against the Ruia family founders, went all the way to the Supreme Court, and delivered lenders roughly 92% of secured dues — a landmark for the bankruptcy code, even as separate customs and tax authorities separately accused the Ruias of a multi-hundred-million-dollar over-invoicing scheme.",
+  "category": "Banking & Finance",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 127,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-06-13",
+  "heroStat": {
+    "value": "₹42,000 cr",
+    "label": "amount ArcelorMittal's approved resolution plan paid to Essar Steel's secured financial creditors — the largest recovery under India's Insolvency and Bankruptcy Code at the time"
+  },
+  "promise": {
+    "quote": "Essar Steel India Ltd, as a major listed steel producer that borrowed extensively to fund capacity expansion, was expected to service its loan obligations to India's banking system, and — once referred for insolvency in 2017 — to be resolved within the Insolvency and Bankruptcy Code's intended time-bound framework, maximising recovery for all classes of creditors.",
+    "madeBy": "Essar Steel India Ltd promoters and management, under the Ruia family (Shashi Ruia and Ravi Ruia)",
+    "role": "Promoters, Essar Group / Essar Steel India Ltd",
+    "date": "2015-01-01",
+    "context": "This reflects the general repayment obligation of a large corporate borrower and the IBC's promise of time-bound resolution, rather than a specific public quotation by the Ruia family.",
+    "sourceIds": [
+      "src-essar-overview"
+    ]
+  },
+  "target": {
+    "description": "That Essar Steel — one of RBI's June 2017 'dirty dozen' large defaulting accounts — would be resolved through the IBC's intended time-bound process (originally envisaged at 180-270 days), with creditors recovering value roughly reflecting their legal priority as secured, unsecured or operational creditors.",
+    "standard": "The Insolvency and Bankruptcy Code, 2016, RBI's June 2017 directive referring 12 large NPA accounts (including Essar Steel) for compulsory NCLT resolution, and Section 30(2)/53 of the IBC governing distribution of resolution proceeds among creditor classes.",
+    "referenceDate": "2017-08-02"
+  },
+  "reality": {
+    "description": "Essar Steel, carrying overdue debt of roughly ₹55,000 crore — then the largest of any company under IBC resolution — entered the Corporate Insolvency Resolution Process on 2 August 2017 after NCLT Ahmedabad admitted a lenders' petition, following RBI's June 2017 identification of Essar Steel as one of 12 mandatory referral accounts. What was meant to be a roughly nine-month process instead ran more than two years, marked by fierce, litigious competition between ArcelorMittal and Numetal/Vedanta-backed bidders, a Supreme Court ruling (October 2018) that initially found both ArcelorMittal and Numetal ineligible under Section 29A of the IBC (over their promoters' own defaulted or related accounts) before allowing them to cure the defect, and a subsequent NCLAT ruling that controversially sought to equalise recoveries across secured, unsecured and operational creditors (an approximately 60.7% blended recovery). On 15 November 2019, a three-judge Supreme Court bench (Committee of Creditors of Essar Steel India Ltd v. Satish Kumar Gupta) set aside the NCLAT's equalisation approach, restored the Committee of Creditors' commercial primacy in distributing resolution proceeds, and upheld ArcelorMittal's ₹42,000 crore plan for secured financial creditors (roughly 92% of their claims) alongside a much steeper haircut (about 75-76%) for operational creditors. ArcelorMittal, in a joint venture with Nippon Steel (branded ArcelorMittal Nippon Steel India), completed the acquisition in December 2019. Separately and largely independently of the insolvency proceeding, the Directorate of Revenue Intelligence has alleged that Essar Group entities over-invoiced imported equipment via a UAE-based firm, Global Supplies, to divert several hundred million dollars offshore — allegations the Ruia family and Essar Group have disputed.",
+    "asOfDate": "2019-12-16",
+    "sourceIds": [
+      "src-essar-sc-verdict",
+      "src-essar-arcelormittal-recovery",
+      "src-essar-dri-overinvoicing"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Original IBC target resolution timeline vs. actual time taken to resolve Essar Steel",
+    "unit": "months",
+    "targetValue": 9,
+    "actualValue": 28,
+    "targetDisplay": "~9 months (IBC's original 270-day outer limit)",
+    "actualDisplay": "~28 months (Aug 2017 admission to Dec 2019 completion)",
+    "targetLabel": "Intended resolution period",
+    "actualLabel": "Actual time taken",
+    "note": "The delay stemmed largely from litigation over resolution-applicant eligibility (Section 29A) and over how proceeds should be distributed among creditor classes, which went to the Supreme Court twice."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 55000,
+    "allocatedLabel": "Approximate overdue debt owed by Essar Steel at the time of referral to insolvency (2017)",
+    "released": 42000,
+    "releasedLabel": "Amount paid to secured financial creditors under ArcelorMittal's approved resolution plan (~92% recovery for that class)",
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "Operational creditors received a far smaller share (roughly 24% recovery / ~76% haircut on a claim base of about ₹4,976 crore) under the same plan, reflecting their lower legal priority — a distribution the Supreme Court's November 2019 ruling upheld as within the Committee of Creditors' commercial discretion.",
+    "sourceIds": [
+      "src-essar-arcelormittal-recovery"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017-06-13",
+      "label": "RBI names Essar Steel in 'dirty dozen'",
+      "detail": "RBI's Internal Advisory Committee identifies Essar Steel as one of 12 large defaulting accounts to be compulsorily referred to the NCLT.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-08-02",
+      "label": "CIRP admitted",
+      "detail": "NCLT Ahmedabad admits Essar Steel into the Corporate Insolvency Resolution Process on lenders' petition.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-10-04",
+      "label": "Supreme Court rules on bidder eligibility",
+      "detail": "The Supreme Court finds ArcelorMittal and Numetal ineligible as resolution applicants under Section 29A over their promoters' own NPA exposure, but grants both two weeks to cure the defect by clearing related dues.",
+      "type": "delay"
+    },
+    {
+      "date": "2019-03-08",
+      "label": "NCLT approves ArcelorMittal's plan",
+      "detail": "The Adjudicating Authority approves ArcelorMittal's resolution plan for Essar Steel.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-07-04",
+      "label": "NCLAT orders equal distribution",
+      "detail": "NCLAT modifies the distribution of proceeds so secured, unsecured and operational creditors are treated at parity (~60.7% blended recovery), overriding the Committee of Creditors' original waterfall.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-11-15",
+      "label": "Supreme Court restores CoC primacy",
+      "detail": "In Committee of Creditors of Essar Steel India Ltd v. Satish Kumar Gupta, a three-judge Supreme Court bench sets aside NCLAT's equalisation, holds that courts cannot second-guess the commercial wisdom of a Committee of Creditors' majority decision, and upholds ArcelorMittal's original distribution giving secured creditors about 92% recovery.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-12-16",
+      "label": "Acquisition completes",
+      "detail": "A joint venture of ArcelorMittal and Nippon Steel completes its acquisition of Essar Steel, more than two years after the case began.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The insolvency resolution itself concluded via a landmark, final Supreme Court judgment (November 2019) with no remaining appeal on the resolution plan. Separately, and outside the insolvency proceeding, the Directorate of Revenue Intelligence has alleged an over-invoicing/fund-diversion scheme by Essar Group entities linked to the Ruia family; this entry has not confirmed whether that separate matter has resulted in any chargesheet, penalty or conviction.",
+    "keyIndividuals": [
+      {
+        "name": "Ravi Ruia",
+        "role": "Co-founder/promoter, Essar Group",
+        "outcome": "Named in DRI over-invoicing allegations reported by investigative journalists; no chargesheet or conviction in that matter has been confirmed by this entry. Not personally a party found liable in the IBC resolution itself."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Essar Steel's resolution is widely regarded as a landmark success for India's insolvency law — it delivered one of the highest creditor recovery rates (~92% for secured lenders) of any major IBC case and produced a defining Supreme Court precedent on creditors' commercial primacy. That success came only after more than two years of litigation that repeatedly tested the law's untested provisions, and it sits alongside separate, unresolved allegations (from a different agency, on a different legal track) that Essar's own promoters ran a large-scale invoice-inflation scheme to move money offshore.",
+    "confidence": "medium",
+    "reasoning": "The IBC resolution's procedural history and the Supreme Court's final ruling are extremely well documented across primary legal sources and independent reporting. The separate over-invoicing allegations against the Ruia family are drawn from investigative reporting on DRI findings and have not been independently corroborated by a primary enforcement document in this entry, so they are flagged as unresolved allegations rather than established fact."
+  },
+  "incomplete": [
+    "This entry has not confirmed the current status (chargesheet, penalty, or closure) of the Directorate of Revenue Intelligence's alleged over-invoicing case against Essar Group/Ruia family entities.",
+    "Exact operational-creditor recovery percentages vary slightly across sources (roughly 24-25% recovery reported); this entry has not reconciled the discrepancy against the primary NCLT/Supreme Court order text.",
+    "Longer-term outcomes for Essar Steel's non-financial stakeholders (e.g., employees, local suppliers) post-acquisition have not been assessed here."
+  ],
+  "sources": [
+    {
+      "id": "src-essar-overview",
+      "label": "The Essar Steel Saga: Supreme Court Brings Much Needed Clarity To IBC",
+      "type": "independent",
+      "publisher": "Khaitan & Co",
+      "date": "2019-12-01",
+      "url": "https://www.khaitanco.com/thought-leaderships/The-Essar-Steel-Saga-Supreme-Court-brings-much-needed-clarity-to-IBC"
+    },
+    {
+      "id": "src-essar-sc-verdict",
+      "label": "Committee of Creditors of Essar Steel India Limited vs Satish Kumar Gupta & Ors.",
+      "type": "primary",
+      "publisher": "Supreme Court of India (via IBBI)",
+      "date": "2019-11-15",
+      "url": "https://ibbi.gov.in/uploads/order/d46a64719856fa6a2805d731a0edaaa7.pdf"
+    },
+    {
+      "id": "src-essar-arcelormittal-recovery",
+      "label": "Essar Steel lenders may get more than Rs 42,000 cr from resolution process",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2019-11-28",
+      "url": "https://www.business-standard.com/amp/article/companies/essar-steel-lenders-may-get-more-than-rs-42-000-cr-from-resolution-process-119112801408_1.html"
+    },
+    {
+      "id": "src-essar-dri-overinvoicing",
+      "label": "Essar Group: Indian energy giant caught in £280m tax evasion scandal",
+      "type": "independent",
+      "publisher": "Unearthed (Greenpeace UK) / Finance Uncovered",
+      "date": "2015-04-07",
+      "url": "https://unearthed.greenpeace.org/2015/04/07/essar-group-indian-energy-giant-caught-in-tax-scandal/"
+    }
+  ]
+}

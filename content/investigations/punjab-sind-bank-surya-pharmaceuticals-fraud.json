@@ -1,0 +1,90 @@
+{
+  "id": "KB-2304",
+  "slug": "punjab-sind-bank-surya-pharmaceuticals-fraud",
+  "title": "The Surya Pharmaceuticals Multi-Bank Fraud",
+  "dek": "A Delhi-based drugmaker allegedly siphoned funds through group companies, defrauding Punjab & Sind Bank and four other lenders of over ₹620 crore — a case that surfaced just as Indian banks were tightening scrutiny after the Nirav Modi scandal broke.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 167,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2018-04-18",
+  "heroStat": {
+    "value": "₹620 cr+",
+    "label": "allegedly defrauded from Punjab & Sind Bank and four other lenders by Surya Pharmaceuticals and its promoters"
+  },
+  "promise": {
+    "quote": "Credit facilities extended to Surya Pharmaceuticals would be used for their stated business purposes and repaid according to sanctioned terms, as required under the consortium lending agreement.",
+    "madeBy": "Surya Pharmaceuticals Ltd and its promoters, borrowing from a consortium including Punjab & Sind Bank",
+    "role": "Delhi-based pharmaceutical company and consortium borrower",
+    "date": "2018-04-18",
+    "context": "This reflects the standard borrower obligation under consortium lending covenants rather than a specific loan agreement this entry has reviewed directly.",
+    "sourceIds": [
+      "src-surya-pharma-reuters"
+    ]
+  },
+  "target": {
+    "description": "Repayment of consortium credit facilities according to sanctioned terms, without diversion of borrowed funds to group companies or misrepresentation of the company's financial position.",
+    "standard": "RBI's fraud-classification norms for non-performing asset accounts and standard consortium lending covenants.",
+    "referenceDate": "2018-04-18"
+  },
+  "reality": {
+    "description": "Punjab & Sind Bank filed a complaint alleging that Surya Pharmaceuticals, its two promoters, and a Dubai-based company defrauded it and four other banks of a combined amount reported at around ₹621 crore (US$94.57 million at the time), allegedly by siphoning off borrowed funds through group companies. The CBI opened an investigation in April 2018 — reported at the time as coming amid heightened bank vigilance following the Nirav Modi–Punjab National Bank scandal that had surfaced earlier that year — and conducted searches at seven locations, recovering documents. This investigation has not located reporting confirming a subsequent chargesheet, trial outcome, or recovery status.",
+    "asOfDate": "2018-04-18",
+    "sourceIds": [
+      "src-surya-pharma-reuters"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged multi-bank fraud amount vs. amount recovered",
+    "unit": "INR crore",
+    "targetValue": 621,
+    "actualValue": 0,
+    "targetDisplay": "₹621 cr alleged (5-bank consortium)",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged",
+    "actualLabel": "Recovered",
+    "note": "This entry has not located a reliable, updated figure for how much of the alleged ₹621 crore has been recovered by the five-bank consortium since the 2018 complaint."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2018-04-18",
+      "label": "CBI opens investigation",
+      "detail": "Following a Punjab & Sind Bank complaint, the CBI begins probing Surya Pharmaceuticals over alleged fraud against a five-bank consortium.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-04-18",
+      "label": "CBI conducts searches",
+      "detail": "Searches at seven locations recover documents related to the alleged fund diversion.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The CBI opened an investigation and conducted searches in April 2018; this investigation has not established whether a chargesheet was subsequently filed or the case's current status.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the ₹621 crore multi-bank fraud allegation, Punjab & Sind Bank's complaint, and the CBI's initial investigation and searches are documented from contemporaneous reporting. This investigation has not established the case's subsequent trajectory.",
+    "confidence": "low",
+    "reasoning": "This entry is based on a single contemporaneous 2018 wire report; it has not located independent confirmation of a chargesheet, trial, or verdict in the years since, which may reflect either limited subsequent media coverage or a genuine stall in the case."
+  },
+  "incomplete": [
+    "This is a stub entry, based primarily on a single 2018 report of the CBI's initial investigation and searches.",
+    "It is not established whether a CBI chargesheet was filed, or what the case's current status is as of 2026.",
+    "The names of Surya Pharmaceuticals' promoters named in the complaint have not been confirmed in sources reviewed for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-surya-pharma-reuters",
+      "label": "CBI probing Surya Pharmaceuticals in Rs 6.2 billion bank fraud case",
+      "type": "independent",
+      "publisher": "Business Standard (Reuters)",
+      "date": "2018-04-18",
+      "url": "https://www.business-standard.com/article/companies/cbi-probing-surya-pharmaceuticals-in-rs-6-2-billion-bank-fraud-case-118041800012_1.html"
+    }
+  ]
+}

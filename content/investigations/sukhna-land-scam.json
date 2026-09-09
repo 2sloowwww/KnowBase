@@ -1,0 +1,152 @@
+{
+  "id": "KB-902",
+  "slug": "sukhna-land-scam",
+  "title": "The Sukhna Land Scam",
+  "dek": "A Military Secretary was accused of bending Army procedure to hand a no-objection certificate to a private realtor for land beside a sensitive Corps headquarters. He was court-martialled and dismissed without pension in 2011 — only for the Supreme Court to set that dismissal aside in 2019 on the ground that the court martial itself was improperly constituted.",
+  "category": "Defence & Security",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 230,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2009-01-01",
+  "heroStat": {
+    "value": "71 acres",
+    "label": "of Army-linked land near the sensitive 33 Corps headquarters at Sukhna, Siliguri, at the centre of the disputed no-objection certificate"
+  },
+  "promise": {
+    "quote": "No-objection certificates and land clearances near sensitive military establishments would be granted strictly on merit, following due Army procedure, and not to benefit private parties through the misuse of a senior officer's position.",
+    "madeBy": "Indian Army chain of command",
+    "role": "Institutional standard governing land clearances near Army establishments",
+    "date": "2008-01-01",
+    "context": "In 2008, a proposal surfaced for a private educational institution to be developed on land adjoining the headquarters of the Army's 33 Corps at Sukhna, near Siliguri in West Bengal — a site of strategic sensitivity due to its proximity to the Chicken's Neck corridor.",
+    "sourceIds": [
+      "src-sukhna-tribune-2010"
+    ]
+  },
+  "target": {
+    "description": "That the no-objection certificate for land use near 33 Corps headquarters would be granted through a transparent process free of personal influence or benefit to any officer or private party.",
+    "standard": "Indian Army's internal land-management and NOC procedures, and the Army Act's provisions on conduct unbecoming an officer and intent to defraud.",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "A Court of Inquiry headed by Lt Gen (later Army Chief) V.K. Singh found prima facie evidence that Military Secretary Lt Gen Avadhesh Prakash had bent rules and pressured subordinate officers to ensure land-related clearances benefited Siliguri-based realtor Dilip Agarwal. Then-Army Chief Gen Deepak Kapoor initially recommended only administrative action against Prakash and two other officers (Lt Gen Ramesh Halgali and Maj Gen P. Sen); Defence Minister A.K. Antony overruled this and directed court-martial proceedings. A General Court Martial at Narengi found Prakash guilty in December 2011 on three of four counts (misusing his position and intent to defraud, under Army Act sections 45 and 52), giving him benefit of the doubt on a fourth count of committing a civil offence, and dismissed him from service without pension, rank, status or medals. Prakash challenged this before the Armed Forces Tribunal, which in December 2017 upheld the unbecoming-conduct finding but softened the pension consequence. Both sides approached the Supreme Court, which in January-February 2019 set aside his dismissal entirely, holding the punishment was disproportionate to the one relatively minor charge that survived scrutiny and — separately — that the General Court Martial had not been validly constituted, since it included officers junior in rank to a Lieutenant General. Prakash was restored to eligibility for pension and post-retirement benefits. The other officers named in the Court of Inquiry (Halgali, Sen) faced administrative rather than court-martial action; this entry has not confirmed further details of the parallel proceedings against them, or the current status of the underlying civilian land dispute involving Dilip Agarwal.",
+    "asOfDate": "2019-02-04",
+    "sourceIds": [
+      "src-sukhna-sc-2019",
+      "src-sukhna-dismissed-2011"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Outcome of institutional discipline vs. final judicial outcome",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Dismissed without pension, Dec 2011",
+    "actualDisplay": "Dismissal set aside, Feb 2019",
+    "targetLabel": "Court martial verdict",
+    "actualLabel": "Supreme Court outcome",
+    "note": "The Army's own court martial process convicted and dismissed Prakash, but the Supreme Court found that very process procedurally invalid — a reminder that a severe internal punishment is not the same as a judicially final finding of guilt."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Land NOC proposal surfaces at Sukhna",
+      "detail": "A proposal for a private educational institution on land near 33 Corps headquarters draws internal Army scrutiny.",
+      "type": "announcement"
+    },
+    {
+      "date": "2009-01-01",
+      "label": "Court of Inquiry finds prima facie evidence against Prakash",
+      "detail": "A Court of Inquiry headed by Lt Gen V.K. Singh finds Military Secretary Lt Gen Avadhesh Prakash allegedly bent rules and pressured subordinates to benefit realtor Dilip Agarwal.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-01-28",
+      "label": "Antony orders court-martial proceedings",
+      "detail": "Defence Minister A.K. Antony overrules the Army chief's recommendation of milder administrative action and directs disciplinary (court-martial) proceedings against Prakash.",
+      "type": "status"
+    },
+    {
+      "date": "2011-12-03",
+      "label": "General Court Martial finds Prakash guilty, dismisses him",
+      "detail": "The GCM at Narengi convicts Prakash on three of four counts and dismisses him from service without pension, rank or medals.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-12-01",
+      "label": "Armed Forces Tribunal upholds finding, adjusts pension order",
+      "detail": "The AFT upholds the unbecoming-conduct finding against Prakash but modifies the arrears-of-pension consequence.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-01-24",
+      "label": "Supreme Court sets aside dismissal",
+      "detail": "The Supreme Court holds the punishment disproportionate to the surviving charge and finds the General Court Martial was not validly constituted.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-02-04",
+      "label": "Court confirms restoration of benefits",
+      "detail": "Reports confirm Prakash becomes eligible again for pension and post-retirement benefits following the Supreme Court order.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case concluded with the Supreme Court setting aside Lt Gen Avadhesh Prakash's court-martial dismissal in 2019, finding both that the punishment was disproportionate to the one charge that survived scrutiny and that the General Court Martial itself was improperly constituted. This is a procedural and proportionality ruling, not a finding that the underlying allegations were false; it does, however, mean no valid, final conviction stands against Prakash. This entry has not independently confirmed the outcome of any parallel or subsequent proceedings against the other officers named in the original Court of Inquiry, or against realtor Dilip Agarwal.",
+    "keyIndividuals": [
+      {
+        "name": "Lt Gen Avadhesh Prakash (retd)",
+        "role": "Military Secretary, Indian Army",
+        "outcome": "Convicted and dismissed by General Court Martial, December 2011; dismissal set aside by the Supreme Court, January 2019, on proportionality and procedural (improperly constituted GCM) grounds; pension and benefits restored."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case shows the Army's own disciplinary machinery moving decisively — a Court of Inquiry, a Defence Minister overruling a softer recommendation, and a court martial that dismissed a two-star general without pension — only for the Supreme Court to unwind that outcome eight years later on both proportionality and procedural grounds. It stands as a caution against treating a court-martial verdict as a final word; the site reports the Supreme Court's actual, more limited procedural finding rather than either the original guilty verdict or a full exoneration.",
+    "confidence": "medium",
+    "reasoning": "The Court of Inquiry findings, the 2011 court-martial verdict, and the 2019 Supreme Court order are corroborated across India TV, Deccan Herald, Business Standard and Tribune reporting. Confidence is not higher because this entry has not reviewed the Supreme Court's judgment or the original court-martial record directly, and has not confirmed the final status of proceedings against the other named officers or the realtor."
+  },
+  "incomplete": [
+    "This entry has not reviewed the Supreme Court's January 2019 judgment directly and relies on wire/news summaries of its reasoning.",
+    "The final outcome of administrative or other proceedings against Lt Gen Ramesh Halgali and Maj Gen P. Sen, also named in the original Court of Inquiry, has not been confirmed.",
+    "The status of any civil or criminal proceedings involving realtor Dilip Agarwal has not been independently confirmed.",
+    "This entry does not adjudicate whether the underlying land-clearance decision was in fact improperly influenced; the Supreme Court's ruling addressed proportionality and the court martial's validity, not a fresh finding on the facts."
+  ],
+  "sources": [
+    {
+      "id": "src-sukhna-tribune-2010",
+      "label": "Sukna land scam special coverage",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2010-01-28",
+      "url": "https://www.tribuneindia.com/2010/20100128/main2.htm"
+    },
+    {
+      "id": "src-sukhna-dismissed-2011",
+      "label": "Sukna Land Scam: Lt Gen Avadesh Prakash Dismissed",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2011-12-03",
+      "url": "https://www.indiatvnews.com/news/india/sukna-land-scam-lt-gen-avadesh-prakash-dismissed-12553.html"
+    },
+    {
+      "id": "src-sukhna-sc-2019",
+      "label": "SC sets aside dismissal of Lt. Gen. Avadesh Prakash in Sukna land scam",
+      "type": "independent",
+      "publisher": "Business Standard (via IANS)",
+      "date": "2019-01-24",
+      "url": "https://www.business-standard.com/article/news-ians/sc-sets-aside-dismissal-of-lt-gen-avadesh-prakash-in-sukna-land-scam-119012401131_1.html"
+    },
+    {
+      "id": "src-sukhna-sc-gcm",
+      "label": "Sukna scam: SC sets aside sacking order against ex-military Secy, says GCM proceedings vitiated",
+      "type": "independent",
+      "publisher": "Business Standard (via PTI)",
+      "date": "2019-02-04",
+      "url": "https://www.business-standard.com/article/pti-stories/sukna-scam-sc-sets-aside-sacking-order-against-ex-military-secy-says-gcm-proceedings-vitiated-119020401190_1.html"
+    }
+  ]
+}

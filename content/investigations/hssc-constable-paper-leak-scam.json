@@ -1,0 +1,130 @@
+{
+  "id": "KB-163",
+  "slug": "hssc-constable-paper-leak-scam",
+  "title": "The HSSC Constable Recruitment Paper Leak Scam",
+  "dek": "A Jammu-based printing agency contracted to prepare Haryana's police constable exam papers instead became the source of a leak sold on to candidates for up to Rs 10 lakh each — an investigation that produced 167 arrests over the following years.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 116,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-08-07",
+  "heroStat": {
+    "value": "167",
+    "label": "people arrested over the following years in the HSSC male constable paper-leak case, with arrests still being made roughly four years after the exam was cancelled"
+  },
+  "promise": {
+    "quote": "Recruitment to Haryana Police constable posts will be conducted through the Haryana Staff Selection Commission on the basis of a securely printed and distributed question paper.",
+    "madeBy": "Haryana Staff Selection Commission (HSSC)",
+    "role": "State body responsible for recruitment to Haryana government posts, including police constables",
+    "date": "2021-08-07",
+    "context": "This reflects HSSC's standard institutional mandate for the male constable recruitment exam, rather than a verified quotation from a specific HSSC statement, which this entry has not located.",
+    "sourceIds": [
+      "src-hssc-overview"
+    ]
+  },
+  "target": {
+    "description": "A written exam for male police constable posts conducted on the basis of a question paper kept confidential from the printing stage through to the exam itself.",
+    "standard": "HSSC's own examination-security protocols, including confidentiality obligations of its contracted printing and examination-conduct agency.",
+    "referenceDate": "2021-08-07"
+  },
+  "reality": {
+    "description": "HSSC had contracted a Jammu-based examination agency to set and print question papers for the male constable recruitment exam, scheduled for 7 and 8 August 2021 (morning and evening shifts each day). According to the investigation, a manager at the agency's printing press, Rakesh Kumar, had a soft copy of the exam on a pen drive by 31 July 2021; another employee, Jitender Singh, copied the questions and answer key from that pen drive around 2 August and prepared hard copies. The paper and answer key were then allegedly sold on — one accused, Raj Kumar, reportedly sold them to associates for Rs 1 crore, who in turn sold the answer key to individual aspirants for around Rs 10 lakh each. The leak came to light on 7 August 2021 when a Kaithal police CIA team apprehended three individuals with material linked to the leak; HSSC subsequently cancelled the exam. Haryana Police's SIT continued making arrests for years afterward, with the total reaching 167 by 2025.",
+    "asOfDate": "2025-01-01",
+    "sourceIds": [
+      "src-hssc-leak",
+      "src-hssc-arrests"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Reported per-candidate price for the leaked answer key vs. Haryana's typical constable-post monthly starting salary at the time",
+    "unit": "INR",
+    "targetValue": 25000,
+    "actualValue": 1000000,
+    "targetDisplay": "~Rs 25,000/month starting salary",
+    "actualDisplay": "Rs 10,00,000 reportedly paid for the answer key",
+    "targetLabel": "Monthly salary",
+    "actualLabel": "Price paid for leaked paper",
+    "note": "The reported per-candidate price for the leaked answer key — around Rs 10 lakh — was roughly 40 times a constable's approximate monthly starting salary, illustrating the scale of the market that had built up around the recruitment process."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-07-31",
+      "label": "Soft copy of exam obtained",
+      "detail": "A printing-press manager for the Jammu-based examination agency allegedly has a soft copy of the exam paper on a pen drive.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-08-02",
+      "label": "Paper and answer key copied",
+      "detail": "Another employee allegedly copies the paper and answer key and prepares hard copies for distribution.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-08-07",
+      "label": "Leak discovered; exam cancelled",
+      "detail": "Kaithal police apprehend three suspects; HSSC cancels the male constable written exam.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-01",
+      "label": "Arrests reach 167",
+      "detail": "Haryana Police's SIT continues making arrests years after the leak, with the cumulative total reaching 167.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A Special Investigation Team has made 167 arrests over several years in connection with the leak. This investigation has not confirmed any chargesheet filing dates, trial stage, or convictions.",
+    "keyIndividuals": [
+      {
+        "name": "Rakesh Kumar",
+        "role": "Manager, printing press of the contracted examination agency",
+        "outcome": "Alleged to have had the exam's soft copy on a pen drive before the leak. This investigation has not confirmed a trial outcome."
+      },
+      {
+        "name": "Jitender Singh",
+        "role": "Employee of the contracted examination agency",
+        "outcome": "Alleged to have copied the exam paper and answer key from the pen drive. This investigation has not confirmed a trial outcome."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a stub entry, pending fuller research. The mechanics of the leak — a compromised printing-press pen drive, resale of the paper and answer key, and a sustained multi-year SIT investigation reaching 167 arrests — are well documented in contemporaneous and follow-up reporting. The trial's outcome has not yet been confirmed.",
+    "confidence": "low",
+    "reasoning": "The exam dates, leak mechanism, and escalating arrest count (documented via Tribune India's ongoing coverage over several years) are corroborated across multiple independent reports. However, this entry has not confirmed any chargesheet, trial verdict, or sentencing, and has not independently reviewed police case records."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on chargesheet filing, trial stage, and any convictions is pending.",
+    "The rescheduled exam date for the male constable recruitment, after the original was cancelled, has not been confirmed here.",
+    "The exact number of candidates who purchased the leaked paper, versus those merely accused of facilitating its sale, has not been distinguished in available reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-hssc-overview",
+      "label": "HSSC Gram Sachiv exam cancelled Haryana Staff Selection Commission recruitment exam paper leak",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2022-01-10",
+      "url": "https://www.indiatvnews.com/education/news-hssc-gram-sachiv-exam-cancelled-haryana-staff-selection-commission-recruitment-exam-paper-leak-678563"
+    },
+    {
+      "id": "src-hssc-leak",
+      "label": "Police recruitment paper leaked, HSSC cancels examination",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2021-08-08",
+      "url": "https://www.tribuneindia.com/news/haryana/police-recruitment-paper-leaked-hssc-cancels-examination-294622/"
+    },
+    {
+      "id": "src-hssc-arrests",
+      "label": "Four years on, one more held in HSSC constable exam leak case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2025-08-01",
+      "url": "https://www.tribuneindia.com/news/haryana/four-years-on-one-more-held-in-hssc-constable-exam-leak-case"
+    }
+  ]
+}

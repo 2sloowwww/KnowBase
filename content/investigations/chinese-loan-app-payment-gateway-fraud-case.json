@@ -1,0 +1,132 @@
+{
+  "id": "KB-3003",
+  "slug": "chinese-loan-app-payment-gateway-fraud-case",
+  "title": "The Chinese Instant-Loan App Payment-Gateway Fraud Case",
+  "dek": "Apps like Cash Master and Krazy Rupee promised quick digital loans with minimal paperwork, then allegedly charged exorbitant hidden fees and blackmailed borrowers using their phone contacts. The Enforcement Directorate says the money moved through a mainstream Indian payment gateway.",
+  "category": "Telecom & Digital",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 186,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2022-09-01",
+  "heroStat": {
+    "value": "₹78 cr",
+    "label": "frozen by the Enforcement Directorate in payment-gateway merchant accounts linked to Chinese-controlled instant-loan apps under investigation for predatory lending and harassment"
+  },
+  "promise": {
+    "quote": "Instant personal loans, minimal documentation, fast disbursal directly to your bank account.",
+    "madeBy": "Fintech apps including Cash Master, Krazy Rupee, Cashin and Rupee Menu",
+    "role": "Digital lending apps offering short-term consumer loans via UPI and bank transfer",
+    "date": "2020-01-01",
+    "context": "This reflects the general marketing pitch typical of instant-loan apps of this kind during India's 2020-2022 digital lending boom, rather than a verified quotation from any single app's own promotional material, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-loanapp-oneindia"
+    ]
+  },
+  "target": {
+    "description": "That digital lending apps operating in India would disburse loans through RBI-registered non-banking financial companies, charge disclosed and lawful interest and fees, and that payment gateways processing the transactions would conduct adequate due diligence on merchant onboarding under the Prevention of Money Laundering Act.",
+    "standard": "Reserve Bank of India digital lending guidelines requiring loans to be disbursed only through RBI-regulated entities, and Prevention of Money Laundering Act, 2002 obligations on payment intermediaries.",
+    "referenceDate": "2020-01-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate's investigation found that apps including Cash Master, Krazy Rupee, Cashin and Rupee Menu — operated by companies the ED describes as Chinese-controlled, including Mad Elephant Network Technology, Baryonyx Technology and Cloud Atlas Future Technology — offered instant loans with little documentation, then allegedly charged exorbitant processing fees and interest, and harassed borrowers who could not repay by contacting people in their phone address books, which the apps had accessed on installation. The ED filed a money-laundering prosecution complaint (chargesheet) naming seven entities and five individuals as accused, including three RBI-registered non-banking financial companies (X10 Financial Services, Track Fin-ed and Jamnados Morarjee Finance) and, notably, payment gateway Razorpay Software, which the ED alleges provided payment processing services used to route the funds. A special PMLA court in Bengaluru took cognisance of the chargesheet. The ED separately froze roughly ₹78 crore held in payment-gateway merchant accounts and bank accounts linked to the network.",
+    "asOfDate": "2023-01-01",
+    "sourceIds": [
+      "src-loanapp-oneindia",
+      "src-loanapp-tribune"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Funds ED sought to trace vs. funds actually frozen in payment-gateway accounts",
+    "unit": "INR crore",
+    "targetValue": 78,
+    "actualValue": 78,
+    "targetDisplay": "₹78 cr identified",
+    "actualDisplay": "₹78 cr frozen",
+    "targetLabel": "Funds identified for freezing",
+    "actualLabel": "Funds frozen",
+    "note": "Unlike many cases on this site, the freezing order and the amount frozen are closely matched in reporting — the open question is not how much was recovered but whether the named entities, including a major listed-adjacent payment gateway, are found criminally liable at trial."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 780000000,
+    "spentLabel": "₹78 crore frozen by the ED in merchant IDs held with payment gateways and in linked bank accounts",
+    "unit": "INR",
+    "notes": "Figure reflects funds frozen during the ED's investigation into the instant-loan app network, not the total value of loans disbursed or fees allegedly extracted from borrowers, which has not been independently confirmed by this entry.",
+    "sourceIds": [
+      "src-loanapp-tribune"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-01-01",
+      "label": "Instant-loan apps launch in India",
+      "detail": "Apps including Cash Master, Krazy Rupee, Cashin and Rupee Menu begin offering short-term digital loans with minimal documentation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-09-01",
+      "label": "ED begins raids and freezes payment-gateway funds",
+      "detail": "The Enforcement Directorate raids offices connected to the apps and to payment gateway Razorpay, and begins freezing funds held in merchant accounts.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-09-16",
+      "label": "ED freezes ₹46 crore",
+      "detail": "An initial tranche of funds held in payment gateways is frozen as part of the investigation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-10-01",
+      "label": "Total frozen funds reach ₹78 crore",
+      "detail": "Further freezing orders bring the total amount frozen in merchant IDs and bank accounts to roughly ₹78 crore.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "ED files money-laundering chargesheet",
+      "detail": "A prosecution complaint names seven entities — including three NBFCs and payment gateway Razorpay — and five individuals as accused; a special PMLA court takes cognisance.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case is under trial before a special PMLA court in Bengaluru, which has taken cognisance of the Enforcement Directorate's prosecution complaint against seven entities and five individuals, including RBI-registered NBFCs and payment gateway Razorpay. No conviction or acquittal has been reported as of this entry.",
+    "keyIndividuals": [
+      {
+        "name": "Razorpay Software Private Limited",
+        "role": "Payment gateway named as an accused entity in the ED's chargesheet",
+        "outcome": "Case pending before special PMLA court; Razorpay has disputed the allegations in public statements reported by media, and no verdict has been reported."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, ED-documented case of alleged predatory digital lending and borrower harassment, distinguished by the ED formally naming a major mainstream payment gateway as an accused in the money trail — a rare instance where a large digital-payments intermediary itself faces prosecution rather than only being a witness or victim in a fraud case.",
+    "confidence": "medium",
+    "reasoning": "The ED's raids, the ₹78 crore freezing figure, and the naming of Razorpay and the NBFCs in the chargesheet are corroborated by multiple independent outlets (Oneindia, Tribune, Deccan Herald, Business Standard) citing the ED's own statements and the chargesheet, though this entry has not reviewed the chargesheet document itself."
+  },
+  "incomplete": [
+    "This entry has not reviewed the ED's prosecution complaint (chargesheet) directly and relies on news reporting summarising it.",
+    "No trial verdict has been reported as of this entry's publication; the case status may have changed since.",
+    "The total scale of borrower harm (aggregate fees or interest allegedly extracted) has not been independently confirmed with a verified figure and is therefore omitted from this entry's gap metric, which instead reports the ED's own freezing figures."
+  ],
+  "sources": [
+    {
+      "id": "src-loanapp-oneindia",
+      "label": "Chinese loan app case: ED charge sheet against Razorpay, fintech firms, NBFCs on money laundering charges",
+      "type": "independent",
+      "publisher": "Oneindia News",
+      "date": "2023-01-01",
+      "url": "https://www.oneindia.com/india/chinese-loan-app-case-ed-charge-sheet-against-razorpay-fintech-firms-nbfcs-on-money-laundering-3536335.html"
+    },
+    {
+      "id": "src-loanapp-tribune",
+      "label": "Chinese loan apps: ED freezes deposits worth Rs 78 crore after raids on Razorpay, others",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2022-10-01",
+      "url": "https://www.tribuneindia.com/news/business/chinese-loan-apps-ed-freezes-deposits-worth-rs-78-crore-after-raids-on-razorpay-others-443513"
+    }
+  ]
+}

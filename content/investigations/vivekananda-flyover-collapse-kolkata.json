@@ -1,0 +1,128 @@
+{
+  "id": "KB-3009",
+  "slug": "vivekananda-flyover-collapse-kolkata",
+  "title": "The Vivekananda Flyover Collapse",
+  "dek": "A 150-metre steel span of an under-construction Kolkata flyover came down onto a crowded market street on a Thursday afternoon, killing 27 people. An expert probe blamed faulty pier design, substandard materials and poor supervision — the same contractor's fourth such controversy.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 185,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2016-03-31",
+  "heroStat": {
+    "value": "27 dead, 80+ injured",
+    "label": "toll when a 150-metre span of the under-construction Vivekananda Road flyover collapsed onto Kolkata's crowded Burrabazar market"
+  },
+  "promise": {
+    "quote": "The flyover will be built to design specifications set by the Kolkata Metropolitan Development Authority and its engineering consultants, using materials and construction methods certified for structural safety.",
+    "madeBy": "Kolkata Metropolitan Development Authority and IVRCL Limited",
+    "role": "State development authority and the private contractor engaged to build the Vivekananda Road flyover",
+    "date": "2009-01-01",
+    "context": "This reflects the standard contractual and regulatory expectation for a public flyover construction project of this kind, rather than a verified quotation from the specific project agreement, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-flyover-wikipedia"
+    ]
+  },
+  "target": {
+    "description": "That the under-construction Vivekananda Road flyover in Kolkata's Girish Park/Burrabazar area would be built to a structurally sound design, using certified materials and adequate on-site engineering supervision, so as to pose no danger to the public during construction or after completion.",
+    "standard": "National Building Code of India and state public works construction-safety norms applicable to elevated road structures built over occupied public areas.",
+    "referenceDate": "2009-01-01"
+  },
+  "reality": {
+    "description": "On 31 March 2016, a roughly 150-metre steel span of the under-construction Vivekananda Road flyover collapsed onto the crowded Burrabazar market area of Kolkata during afternoon business hours, killing 27 people and injuring more than 80. The flyover was being built by IVRCL Limited for the Kolkata Metropolitan Development Authority. An expert investigation, including analysis by IIT Kharagpur, attributed the collapse to a combination of faulty design of the T-shaped support piers, substandard construction materials, and insufficient on-site supervision during erection of the composite steel superstructure; a separate investigating committee found defects spanning design, construction, raw materials and supervision. Police detained and later charged company officials, including at least ten IVRCL management-level personnel, two Kolkata Metropolitan Development Authority officials, and individuals from the design consultant Equtep Engineers and quality-control certifier Indian Register of Shipping, under sections of the Indian Penal Code including culpable homicide not amounting to murder (Section 304) and attempt to commit culpable homicide (Section 308). IVRCL publicly described the collapse as an accident and, according to reporting at the time, had faced allegations of negligence on prior projects as well.",
+    "asOfDate": "2018-09-05",
+    "sourceIds": [
+      "src-flyover-wikipedia",
+      "src-flyover-thewire"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years the flyover project was under construction vs. years before its partial collapse",
+    "unit": "years",
+    "targetValue": 4,
+    "actualValue": 7,
+    "targetDisplay": "~4 years originally envisaged for construction",
+    "actualDisplay": "~7 years elapsed, still incomplete, before collapse",
+    "targetLabel": "Planned construction period",
+    "actualLabel": "Actual time elapsed before collapse",
+    "note": "The flyover had already been under construction for years beyond its original schedule when the span collapsed — a delay this entry has not been able to pin to an exact original completion date, but which multiple accounts describe as substantial, with design and supervision problems accumulating over that extended period."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2009-01-01",
+      "label": "Vivekananda Road flyover construction begins",
+      "detail": "Kolkata Metropolitan Development Authority engages IVRCL to build an elevated flyover over the busy Burrabazar market area.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-03-31",
+      "label": "150-metre steel span collapses",
+      "detail": "A section of the under-construction flyover collapses onto the crowded market street during business hours, killing 27 and injuring over 80.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-04-01",
+      "label": "IVRCL officials detained and charged",
+      "detail": "Police detain and charge multiple IVRCL management personnel, KMDA officials, and design/quality-control consultants under IPC provisions including culpable homicide not amounting to murder.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-06-01",
+      "label": "Expert investigation attributes collapse to design and material defects",
+      "detail": "An IIT Kharagpur-linked probe and a separate investigating committee find faulty pier design, substandard materials and inadequate supervision responsible for the collapse.",
+      "type": "revision"
+    },
+    {
+      "date": "2018-09-05",
+      "label": "Questions persist over bridge maintenance oversight",
+      "detail": "Continued reporting highlights unresolved questions about the state's oversight of bridge and flyover maintenance standards following the disaster.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Criminal charges including culpable homicide not amounting to murder were filed against IVRCL management personnel, Kolkata Metropolitan Development Authority officials, and design/quality-control consultants. This entry has not been able to confirm a final trial verdict in the criminal case as of its publication, and the matter is treated here as under trial pending confirmation of a final outcome.",
+    "keyIndividuals": [
+      {
+        "name": "IVRCL Limited (management personnel)",
+        "role": "Construction contractor for the Vivekananda Road flyover",
+        "outcome": "Ten management-level officials charged under IPC sections including culpable homicide not amounting to murder; final trial outcome not confirmed by this entry."
+      },
+      {
+        "name": "Kolkata Metropolitan Development Authority (officials)",
+        "role": "State development authority overseeing the flyover project",
+        "outcome": "Two senior officials charged alongside the contractor; final trial outcome not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, extensively documented structural collapse during public infrastructure construction, with an official expert inquiry finding specific design, material and supervisory failures, and criminal charges filed against both the contractor and the government development authority overseeing the project — included here as a genuine case of infrastructure-quality failure with an official inquiry finding, even though this entry could not confirm a final court verdict.",
+    "confidence": "medium",
+    "reasoning": "The collapse, casualty figures, expert investigation findings and criminal charges are corroborated by multiple independent sources (Wikipedia's detailed incident entry, The Wire's investigative follow-up, Business Standard, PBS NewsHour and CBS News), though this entry has not located confirmed reporting on a final trial verdict and has not reviewed the charge sheet or any judgment directly."
+  },
+  "incomplete": [
+    "This entry has not been able to confirm the final outcome (conviction, acquittal, or ongoing status) of the criminal trial against the charged IVRCL and KMDA individuals; it is marked under-trial on the basis that no verdict was found in available reporting, but this may be outdated.",
+    "The exact original planned completion date and contract value of the flyover project have not been confirmed, so the extent of the project's delay before collapse is described only in general terms.",
+    "This entry has not reviewed the IIT Kharagpur technical report or the investigating committee's findings directly and relies on secondary reporting summarising them."
+  ],
+  "sources": [
+    {
+      "id": "src-flyover-wikipedia",
+      "label": "2016 Kolkata flyover collapse",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2023-01-01",
+      "url": "https://en.wikipedia.org/wiki/2016_Kolkata_flyover_collapse"
+    },
+    {
+      "id": "src-flyover-thewire",
+      "label": "How the Public Tragedy of the Kolkata Flyover Collapse Was Buried",
+      "type": "independent",
+      "publisher": "The Wire",
+      "date": "2018-09-01",
+      "url": "https://thewire.in/urban/kolkata-flyover-ivrcl-kmda-steel"
+    }
+  ]
+}

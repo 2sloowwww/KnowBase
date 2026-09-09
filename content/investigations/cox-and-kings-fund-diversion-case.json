@@ -1,0 +1,168 @@
+{
+  "id": "KB-302",
+  "slug": "cox-and-kings-fund-diversion-case",
+  "title": "The Cox & Kings Collapse and Fund Diversion Case",
+  "dek": "A 260-year-old travel company defaulted on its loans, and investigators allege its balance sheets were manipulated for a decade through shell companies to siphon thousands of crores — ending in liquidation and a promoter's prolonged pre-trial detention.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 111,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-06-26",
+  "heroStat": {
+    "value": "₹6,968 cr",
+    "label": "in funds the Enforcement Directorate alleges were diverted or siphoned from Cox & Kings Group entities"
+  },
+  "promise": {
+    "quote": "Loans and commercial paper raised from banks and financial institutions will be used for the disclosed business purposes stated to lenders, and the company's published balance sheets will accurately reflect its financial position.",
+    "madeBy": "Cox & Kings Ltd, under promoter Ajit Peter Kerkar and his son Peter Kerkar",
+    "role": "Promoters and executives of Cox & Kings Ltd, one of India's oldest travel and tour companies",
+    "date": "2015-01-01",
+    "context": "This reflects the standard fiduciary and disclosure obligations of a listed borrower under Indian company and banking law, rather than a specific quotation from Cox & Kings' own loan documentation, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-ck-overview"
+    ]
+  },
+  "target": {
+    "description": "Borrowed funds used for genuine, disclosed business purposes, with financial statements presenting an accurate picture of the company's assets, liabilities, and related-party dealings.",
+    "standard": "RBI lending norms, Companies Act disclosure requirements, and SEBI listing obligations for related-party transactions.",
+    "referenceDate": "2015-01-01"
+  },
+  "reality": {
+    "description": "Cox & Kings defaulted on commercial paper repayments on 26 June 2019, and its account was subsequently classified as a non-performing asset. A forensic audit reported in April 2020 found roughly ₹4,367 crore had been siphoned off through forged financials for unauthorised use, including reducing promoter-level debt. The Enforcement Directorate's money-laundering investigation separately put the total diversion, across the wider Cox & Kings group and roughly 15 shell companies allegedly used to rotate funds since 2010, at about ₹6,968 crore, and filed a prosecution complaint (chargesheet) against promoter Peter Kerkar, former Yes Bank co-founder Rana Kapoor, and ten others in December 2020, alleging Kerkar obtained loans through multiple Cox & Kings subsidiaries from Yes Bank in collusion with Kapoor. The NCLT admitted an insolvency petition against Cox & Kings in October 2019, formally declared the company bankrupt in November 2020, and ordered its liquidation on 16 December 2021; its financial services arm was separately dissolved after asset liquidation. Peter Kerkar was arrested by Mumbai Police's Economic Offences Wing on 2 March 2021 and has been named in the ED's chargesheet; this entry has not confirmed a final trial verdict against him or any co-accused.",
+    "asOfDate": "2024-01-31",
+    "sourceIds": [
+      "src-ck-forensic",
+      "src-ck-ed-chargesheet",
+      "src-ck-liquidation"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount ED alleges was diverted from Cox & Kings entities vs. what a forensic auditor separately traced to forged financials",
+    "unit": "INR crore",
+    "targetValue": 6968,
+    "actualValue": 4367,
+    "targetDisplay": "₹6,968 cr — ED's total group-wide diversion estimate",
+    "actualDisplay": "₹4,367 cr — forensic audit's traced siphoning via forged financials",
+    "targetLabel": "ED estimate",
+    "actualLabel": "Forensic audit finding",
+    "note": "Both figures are allegations from an ongoing investigation and a commissioned forensic audit, not court-established facts. They are presented together because different investigators used somewhat different methodologies and scope; no court has yet ruled on the actual amount diverted."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "spent": 6968,
+    "spentLabel": "Total funds the ED alleges were diverted or siphoned across Cox & Kings group entities",
+    "unit": "INR crore",
+    "notes": "The Economic Offences Wing separately investigated five FIRs alleging over ₹1,950 crore in fraud at Cox & Kings; figures across the ED, EOW, and forensic-audit investigations have not been fully reconciled in public reporting.",
+    "sourceIds": [
+      "src-ck-ed-chargesheet"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019-06-26",
+      "label": "Commercial paper default",
+      "detail": "Cox & Kings defaults on repayment of commercial paper, and lenders classify its account as a non-performing asset.",
+      "type": "status"
+    },
+    {
+      "date": "2019-10-01",
+      "label": "NCLT admits insolvency petition",
+      "detail": "The tribunal admits an insolvency petition filed by RattanIndia Finance against Cox & Kings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-04-25",
+      "label": "Forensic audit finds ₹4,367 crore siphoned",
+      "detail": "A forensic audit report finds Cox & Kings' financials were forged and roughly ₹4,367 crore was diverted for unauthorised use.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-11-01",
+      "label": "Declared bankrupt",
+      "detail": "Cox & Kings is formally declared bankrupt following the NCLT's insolvency process.",
+      "type": "status"
+    },
+    {
+      "date": "2020-12-03",
+      "label": "ED files prosecution complaint",
+      "detail": "The Enforcement Directorate charges Peter Kerkar, Rana Kapoor, and ten others in the money-laundering case, alleging roughly ₹6,968 crore in fund diversion.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-03-02",
+      "label": "Peter Kerkar arrested",
+      "detail": "Mumbai Police's Economic Offences Wing arrests Cox & Kings promoter Peter Kerkar.",
+      "type": "status"
+    },
+    {
+      "date": "2021-12-16",
+      "label": "NCLT orders liquidation",
+      "detail": "The tribunal orders Cox & Kings into liquidation.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Cox & Kings Ltd has been fully liquidated as a company. The criminal money-laundering case against promoter Peter Kerkar, Rana Kapoor, and others, filed by the ED in December 2020, remains pending; this entry has not confirmed a trial verdict. Kerkar's bail history is unclear from public reporting reviewed — some accounts describe a bail rejection in 2021 and later references to a temporary bail grant, which this entry has not been able to reconcile.",
+    "keyIndividuals": [
+      {
+        "name": "Ajit Peter Kerkar (Peter Kerkar)",
+        "role": "Promoter and former executive, Cox & Kings Ltd",
+        "outcome": "Arrested 2 March 2021 by Mumbai Police EOW; chargesheeted by the ED in December 2020. This entry has not confirmed a final trial verdict or current bail status."
+      },
+      {
+        "name": "Rana Kapoor",
+        "role": "Co-founder and former CEO, Yes Bank",
+        "outcome": "Chargesheeted alongside Kerkar and ten others by the ED in the Cox & Kings case, alleging collusion in loan disbursal. This entry has not confirmed a verdict in this specific case; Kapoor faces separate proceedings in other bank-fraud matters not detailed here."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, sourced case of a major listed company defaulting on its debts amid credible allegations — from both a commissioned forensic audit and the Enforcement Directorate's own investigation — of years of forged financials and large-scale fund diversion through shell companies. The company itself has been fully liquidated. The criminal case against its promoters and Rana Kapoor remains pending trial, so individual guilt has not been judicially established.",
+    "confidence": "medium",
+    "reasoning": "The default, forensic audit findings, ED chargesheet, and liquidation are each independently corroborated by contemporaneous reporting citing named investigative and audit sources. The current stage of the criminal trial and Kerkar's present custody/bail status could not be pinned to a single, current, reconciled source, so those specifics are flagged as incomplete rather than stated definitively."
+  },
+  "incomplete": [
+    "This entry has not confirmed the current stage of the ED's criminal trial against Peter Kerkar, Rana Kapoor, and other co-accused, or any verdict.",
+    "Peter Kerkar's current custody or bail status could not be reconciled across sources reviewed — some describe a rejected 2021 bail application and later, less clearly sourced references to bail being granted.",
+    "The relationship between the ED's ₹6,968 crore estimate, the forensic auditor's ₹4,367 crore finding, and the EOW's separate ₹1,950 crore FIR figure has not been fully reconciled.",
+    "Outcomes for other named co-accused in the ED's December 2020 chargesheet have not been researched."
+  ],
+  "sources": [
+    {
+      "id": "src-ck-overview",
+      "label": "From global travel & tourism empire to liquidation, promoter in jail: The fall of Cox & Kings",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2022-01-01",
+      "url": "https://theprint.in/economy/from-global-travel-tourism-empire-to-liquidation-promoter-in-jail-the-fall-of-cox-kings/853978/"
+    },
+    {
+      "id": "src-ck-forensic",
+      "label": "Cox & Kings forged financials; siphoned off Rs 4,387 cr: Audit report",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2020-04-25",
+      "url": "https://www.business-standard.com/amp/article/companies/cox-kings-forged-financials-siphoned-off-rs-4-387-cr-audit-report-120042501079_1.html"
+    },
+    {
+      "id": "src-ck-ed-chargesheet",
+      "label": "Cox & Kings case: ED chargesheets Rana Kapoor, Peter Kerkar, 10 others",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2020-12-03",
+      "url": "https://www.business-standard.com/article/companies/cox-kings-case-ed-chargesheets-rana-kapoor-peter-kerkar-10-others-120120301585_1.html"
+    },
+    {
+      "id": "src-ck-liquidation",
+      "label": "Mumbai: NCLT Dissolves Cox & Kings Financial Service Limited After Asset Liquidation; EOW Arrests Ajit Menon In ₹400 Crore Fraud Case",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2024-01-01",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-nclt-dissolves-cox-kings-financial-service-limited-after-asset-liquidation-eow-arrests-ajit-menon-in-400-crore-fraud-case"
+    }
+  ]
+}

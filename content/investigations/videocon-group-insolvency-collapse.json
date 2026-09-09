@@ -1,0 +1,177 @@
+{
+  "id": "KB-1006",
+  "slug": "videocon-group-insolvency-collapse",
+  "title": "Videocon's Collapse: From Consumer Electronics Giant to ₹61,700-Crore Fraud Case",
+  "dek": "Once a household name in Indian television and appliances, Videocon Group defaulted on tens of thousands of crores, was sold to a Vedanta subsidiary for a bid lenders' own tribunal called 'almost nothing', and its founder Venugopal Dhoot now faces an ED chargesheet alleging a ₹61,700-crore bank fraud. This entry covers the group-wide collapse — distinct from the narrower ICICI-Videocon loan case involving Chanda Kochhar.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 25,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-01-01",
+  "heroStat": {
+    "value": "₹61,700 cr",
+    "label": "total bank-fraud claim alleged by lenders and the Enforcement Directorate against Videocon Industries and group companies, including a ₹23,647 crore stand-by letter of credit exposure tied to Mozambique gas assets"
+  },
+  "promise": {
+    "quote": "Videocon Industries Ltd and its group companies, as major borrowers from India's public-sector banking system funding consumer-electronics manufacturing and overseas oil-and-gas exploration (including in Mozambique), were expected to service their loans and to have those loans underwritten on sound commercial terms, free of any quid-pro-quo arrangements with bank officials.",
+    "madeBy": "Videocon Group promoters and management, under Chairman Venugopal Dhoot",
+    "role": "Chairman, Videocon Group",
+    "date": "2012-01-01",
+    "context": "This reflects the general borrower obligation of a large corporate group rather than a specific public quotation by Videocon's management.",
+    "sourceIds": [
+      "src-videocon-overview"
+    ]
+  },
+  "target": {
+    "description": "That Videocon's loans from Indian banks would be serviced according to their terms, that credit decisions (including the widely scrutinised 2012 ICICI Bank loan to Videocon-linked NuPower Renewables) would be made independently and on commercial merit, and that — once the group defaulted — its insolvency resolution under the IBC would maximise value recovered for lenders.",
+    "standard": "RBI banking-conduct norms on related-party and quid-pro-quo lending; the Insolvency and Bankruptcy Code, 2016; Prevention of Money Laundering Act provisions invoked in the subsequent ED probe.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "Videocon Industries and its group companies' loan accounts turned non-performing around 2017-2018, with banks eventually filing a combined claim of roughly ₹61,773 crore (including about ₹23,647 crore tied to a stand-by letter of credit for the group's Mozambique gas assets). CBI registered an FIR in January 2019 into a separate but related strand — a 2012 loan of about ₹300 crore that ICICI Bank extended to Videocon, alleging that then-ICICI CEO Chanda Kochhar's husband Deepak Kochhar received investments from a Videocon-linked entity around the same time (that narrower ICICI-specific matter is covered in a separate entry on this site). At the group level, Videocon Industries and 12 affiliated companies entered insolvency proceedings before the NCLT's Mumbai bench in 2019-2020. In June 2021, lenders approved a resolution plan from Twin Star Technologies — a Vedanta Group (Anil Agarwal) subsidiary — offering only about ₹2,962 crore, which NCLT itself noted amounted to a roughly 95.85% haircut and was 'paying almost nothing' relative to Videocon's total admitted claims, close to the (supposedly confidential) liquidation value. Dhoot challenged the sale before NCLAT and the Supreme Court, offering an alternative zero-haircut ₹31,789 crore settlement plan under Section 12A of the IBC, but litigation continued for years with lenders themselves later approaching NCLAT afresh over the adequacy of the Twin Star bid. Separately, the Enforcement Directorate filed a prosecution complaint (chargesheet) on 18 December 2024 under PMLA against Venugopal Dhoot and twelve others over the alleged ₹61,700 crore bank fraud, and a special court took cognisance in February 2026, with a supplementary ED chargesheet later filed against UK-resident Sachin Dev Duggal. In April 2025, the NCLT's Mumbai bench separately admitted a personal insolvency petition by SBI against Dhoot under Section 95 of the IBC.",
+    "asOfDate": "2026-02-10",
+    "sourceIds": [
+      "src-videocon-nclt-twinstar",
+      "src-videocon-ed-chargesheet",
+      "src-videocon-nclt-personal"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Videocon's total admitted lender claims vs. the Twin Star Technologies resolution-plan value approved by lenders",
+    "unit": "INR crore",
+    "targetValue": 61773,
+    "actualValue": 2962,
+    "targetDisplay": "₹61,773 cr total banks' claims",
+    "actualDisplay": "₹2,962 cr Twin Star Technologies (Vedanta) resolution offer",
+    "targetLabel": "Amount owed to lenders",
+    "actualLabel": "Amount recovered under the approved plan",
+    "note": "NCLT itself characterised this as Twin Star 'paying almost nothing,' noting the bid was close to Videocon's liquidation value — a roughly 95.85% haircut for creditors, which is exceptionally severe even by IBC standards and was contested in litigation by the promoter and later scrutinised by some lenders themselves."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 61773,
+    "allocatedLabel": "Total claims admitted by lenders against Videocon Industries and group companies",
+    "released": 2962,
+    "releasedLabel": "Resolution value under the Twin Star Technologies (Vedanta) plan approved by the Committee of Creditors in 2021",
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "Venugopal Dhoot separately proposed an alternative ₹31,789 crore 'zero haircut' settlement plan under Section 12A of the IBC, which the Committee of Creditors did not accept in favour of the Twin Star bid; the adequacy of that decision was subject to prolonged litigation.",
+    "sourceIds": [
+      "src-videocon-nclt-twinstar"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-01-01",
+      "label": "Group-wide default emerges",
+      "detail": "Videocon Industries and affiliated group companies' loan accounts turn non-performing, with banks' total claims eventually reaching roughly ₹61,773 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-24",
+      "label": "CBI FIR on ICICI-Videocon loan",
+      "detail": "CBI registers an FIR into a 2012 ICICI Bank loan to Videocon and related investments benefiting Deepak Kochhar, the narrower matter covered separately as the ICICI-Videocon loan case on this site.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-06-06",
+      "label": "Group-wide insolvency admitted",
+      "detail": "NCLT Mumbai admits insolvency petitions against Videocon Industries and 12 affiliated group companies, consolidating their resolution.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-06-08",
+      "label": "Twin Star Technologies (Vedanta) bid approved",
+      "detail": "Videocon's Committee of Creditors approves a resolution plan from Vedanta subsidiary Twin Star Technologies valued at about ₹2,962 crore; NCLT later notes this is close to liquidation value, calling it 'paying almost nothing'.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-09-01",
+      "label": "Dissenting lenders seek fresh bids",
+      "detail": "Some lenders, including Bank of Maharashtra, reverse course and approach NCLAT seeking a fresh bidding round rather than proceeding with the Twin Star plan.",
+      "type": "delay"
+    },
+    {
+      "date": "2022-11-16",
+      "label": "Dhoot's appeal reaches Supreme Court",
+      "detail": "Venugopal Dhoot continues to challenge the Twin Star resolution before the Supreme Court, arguing his own zero-haircut ₹31,789 crore plan should have been considered.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-12-18",
+      "label": "ED files PMLA chargesheet",
+      "detail": "The Enforcement Directorate files a prosecution complaint against Venugopal Dhoot and 12 others over the alleged ₹61,700 crore Videocon bank fraud tied to Mozambique gas financing.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-04-13",
+      "label": "NCLT admits SBI's personal insolvency plea against Dhoot",
+      "detail": "NCLT Mumbai admits a Section 95 IBC petition by SBI against Venugopal Dhoot personally, imposing a moratorium on proceedings against him for up to 180 days.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-02-10",
+      "label": "Court takes cognisance of ED chargesheet",
+      "detail": "The special PMLA court at Rouse Avenue, Delhi, takes cognisance of the ED's December 2024 prosecution complaint and issues notices to Dhoot and others; a supplementary ED chargesheet is later filed against UK-resident Sachin Dev Duggal.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The group-wide corporate insolvency concluded with lenders taking a roughly 96% haircut on the approved Twin Star (Vedanta) resolution plan, though the adequacy of that outcome was extensively litigated. Separately and still under trial, the Enforcement Directorate's PMLA prosecution against Venugopal Dhoot and 12 others over the alleged ₹61,700 crore bank fraud had its cognisance taken by a special court in February 2026; no conviction has occurred. SBI has also initiated personal insolvency proceedings against Dhoot. This entry treats the allegations against Dhoot as unproven pending trial.",
+    "keyIndividuals": [
+      {
+        "name": "Venugopal Dhoot",
+        "role": "Founder and Chairman, Videocon Group",
+        "outcome": "Named in the ED's December 2024 PMLA chargesheet over the alleged ₹61,700 crore bank fraud; case under trial. SBI's personal insolvency petition against him was admitted by NCLT in April 2025. Dhoot has contested the Videocon corporate resolution outcome in courts up to the Supreme Court."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Videocon's fall from a household consumer-electronics brand to a ₹61,700-crore alleged fraud case is well documented at the regulatory and insolvency level: an extraordinarily steep creditor haircut (~96%) on the approved resolution plan, years of litigation over whether lenders got a fair deal, and a since-filed ED money-laundering chargesheet against founder Venugopal Dhoot that remains untested in court. The underlying criminal allegations against Dhoot are serious but unproven, and this entry deliberately treats the broader group collapse separately from the narrower, already-covered ICICI-Kochhar loan angle.",
+    "confidence": "medium",
+    "reasoning": "The corporate insolvency history (Twin Star approval, litigation, haircut) and the 2024-2026 ED chargesheet developments are corroborated across multiple independent sources including NCLT observations quoted in the press, but this entry has not reviewed the primary ED chargesheet or NCLT orders directly, and the ultimate outcome of both the criminal trial and Dhoot's personal insolvency proceeding remain pending."
+  },
+  "incomplete": [
+    "The criminal PMLA trial against Venugopal Dhoot and co-accused remains pending; no verdict has been reached, and this entry cannot confirm guilt or innocence.",
+    "The outcome of Venugopal Dhoot's personal insolvency proceeding (admitted by NCLT in April 2025) has not been confirmed as of this entry's most recent sourcing.",
+    "This entry has not independently reviewed the primary NCLT/NCLAT orders on the Twin Star resolution plan or the ED's chargesheet documents themselves — all facts are drawn from secondary business and legal press reporting.",
+    "The relationship between this group-wide case and the separate, narrower ICICI-Videocon loan case (Chanda/Deepak Kochhar) already covered on this site has been kept distinct here, but some factual overlap in the 2012 loan origin exists and readers should consult both entries for the full picture."
+  ],
+  "sources": [
+    {
+      "id": "src-videocon-overview",
+      "label": "Videocon's uncertain future: Here's why trouble is brewing for Venugopal Dhoot's company",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2023-01-09",
+      "url": "https://www.businesstoday.in/magazine/corporate/story/videocons-uncertain-future-heres-why-trouble-is-brewing-for-venugopal-dhoots-company-359028-2023-01-09"
+    },
+    {
+      "id": "src-videocon-nclt-twinstar",
+      "label": "Vedanta arm is paying almost nothing for Videocon group, says NCLT",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2021-06-16",
+      "url": "https://www.business-standard.com/amp/article/companies/vedanta-arm-is-paying-almost-nothing-for-videocon-group-says-nclt-121061600048_1.html"
+    },
+    {
+      "id": "src-videocon-ed-chargesheet",
+      "label": "ED Files Chargesheet In ₹61,700 Crore Videocon Bank Fraud, Delhi Court Issues Notices To Dhoot",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2024-12-19",
+      "url": "https://www.freepressjournal.in/business/ed-files-chargesheet-in-61700-crore-videocon-bank-fraud-delhi-court-issues-notices-to-dhoot"
+    },
+    {
+      "id": "src-videocon-nclt-personal",
+      "label": "Videocon Loan Fraud Case: NCLT Admits SBI Plea Against Former MD",
+      "type": "independent",
+      "publisher": "Angel One",
+      "date": "2025-04-14",
+      "url": "https://www.angelone.in/news/market-updates/videocon-loan-fraud-case-nclt-admits-sbi-plea-against-former-md"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "KB-013",
+  "slug": "vijay-mallya-kingfisher-default",
+  "title": "The Vijay Mallya – Kingfisher Airlines Loan Default",
+  "dek": "A 17-bank consortium lent an airline roughly ₹9,000 crore. Its owner flew to the UK as the case unravelled and has fought extradition ever since — while Indian authorities say they have since recovered more than what was originally owed.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 95,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-01-01",
+  "heroStat": {
+    "value": "₹9,000 cr",
+    "label": "owed to a 17-bank consortium by Kingfisher Airlines"
+  },
+  "promise": {
+    "quote": "Loans extended to Kingfisher Airlines would be repaid according to sanctioned terms, consistent with standard consortium lending covenants.",
+    "madeBy": "Kingfisher Airlines and its chairman, Vijay Mallya, to a 17-bank lending consortium led by SBI",
+    "role": "Private airline and its promoter, borrowing under standard commercial lending terms",
+    "date": "2016-03-02",
+    "context": "Kingfisher Airlines borrowed heavily from a consortium of Indian banks through the early 2010s before ceasing operations in 2012; Mallya left India for the UK in March 2016 as loan-recovery proceedings intensified.",
+    "sourceIds": [
+      "src-mallya-overview"
+    ]
+  },
+  "target": {
+    "description": "Loan repayment according to sanctioned terms, with the borrower remaining available to Indian courts and regulators for recovery and investigative proceedings.",
+    "standard": "Standard consortium-lending covenants and India's Fugitive Economic Offenders Act, 2018.",
+    "referenceDate": "2016-03-02"
+  },
+  "reality": {
+    "description": "Mallya left India in March 2016 and has remained in the UK since, fighting extradition. He was declared a fugitive economic offender in 2019. As of the most recent reporting reviewed, Indian authorities say the extradition process in the UK is near conclusion, and that they have recovered over ₹14,000 crore through the attachment and sale of his assets — more than the roughly ₹9,000 crore originally owed, reflecting interest, penalties, and asset value changes over the intervening years.",
+    "asOfDate": "2026-02-01",
+    "sourceIds": [
+      "src-mallya-overview",
+      "src-mallya-recovery"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Original amount owed vs. amount recovered through asset attachment and sale",
+    "unit": "₹ crore",
+    "targetValue": 9000,
+    "actualValue": 14000,
+    "targetDisplay": "₹9,000 cr originally owed",
+    "actualDisplay": "₹14,000+ cr recovered (per Indian authorities)",
+    "targetLabel": "Owed",
+    "actualLabel": "Recovered",
+    "note": "Unusually for a case on this site, the reported recovery figure exceeds the original amount owed. This reflects years of accrued interest and penalties plus asset value changes, not a one-to-one recovery of the original loan principal, and this investigation has not independently verified the recovery figure beyond the government statements citing it."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2012-01-01",
+      "label": "Kingfisher Airlines ceases operations",
+      "detail": "The airline stops flying amid mounting debt.",
+      "type": "status"
+    },
+    {
+      "date": "2016-03-02",
+      "label": "Mallya leaves for the UK",
+      "detail": "He departs India as loan-recovery and investigative proceedings intensify.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Declared a fugitive economic offender",
+      "detail": "India uses the Fugitive Economic Offenders Act to pursue confiscation of his assets.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-01",
+      "label": "Extradition described as near conclusion",
+      "detail": "The Indian government tells a court that UK extradition proceedings are close to finishing.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Mallya has not been tried or convicted in India; he remains in the UK pending the outcome of extradition proceedings that this investigation has not yet examined in full detail.",
+    "keyIndividuals": [
+      {
+        "name": "Vijay Mallya",
+        "role": "Former Chairman, Kingfisher Airlines",
+        "outcome": "Declared a fugitive economic offender, 2019; has remained in the UK since 2016; extradition proceedings reported as near conclusion as of February 2026. No Indian trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the loan default and Mallya's departure and fugitive-offender status are well documented. This investigation has not yet verified the recovery figures independently or examined the full record of the underlying criminal and civil proceedings in detail.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. The specific criminal charges, their current procedural status, and a fuller account of the extradition proceedings have not yet been added.",
+    "The ₹14,000 crore-plus recovery figure comes from government statements cited in press reports and has not been independently itemised or verified by this investigation.",
+    "It is not established how the recovered amount has been distributed among the 17 lending banks."
+  ],
+  "sources": [
+    {
+      "id": "src-mallya-overview",
+      "label": "Who is Vijay Mallya",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-01-01",
+      "url": "https://www.business-standard.com/about/who-is-vijay-mallya"
+    },
+    {
+      "id": "src-mallya-recovery",
+      "label": "Fugitive liquor baron Vijay Mallya offers to repay 100% of 'public money'",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2023-01-01",
+      "url": "https://gulfnews.com/world/asia/india/fugitive-liquor-baron-vijay-mallya-offers-to-repay-100-of-public-money-1.60763969"
+    }
+  ]
+}

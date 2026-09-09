@@ -1,0 +1,154 @@
+{
+  "id": "KB-564",
+  "slug": "nsdl-ipo-demat-account-scam",
+  "title": "The 2006 IPO Demat-Account Scam — Cornering the Retail Quota",
+  "dek": "Tens of thousands of fictitious demat accounts, opened using details harvested from unwitting customers, were used to game the retail lottery in 21 IPOs including Yes Bank and IDFC. SEBI spent years pursuing depositories and financiers — and eventually cleared the depository, NSDL, of wrongdoing entirely.",
+  "category": "Banking & Finance",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 141,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2005-12-01",
+  "heroStat": {
+    "value": "21 IPOs",
+    "label": "issues between 2003 and 2005 that SEBI found had been targeted using tens of thousands of fictitious and benami demat accounts to corner retail-quota share allotments"
+  },
+  "promise": {
+    "quote": "Depository participants must adhere to SEBI's Know Your Client norms before opening a demat account, and each retail investor is entitled to apply for IPO shares through the retail quota under the lottery-based allotment system on an independent, one-application basis.",
+    "madeBy": "National Securities Depository Limited (NSDL) and depository participants, under SEBI's regulatory framework for the securities depository system",
+    "role": "Depository and depository participants responsible for KYC compliance in opening and operating demat accounts used in IPO applications",
+    "date": "1996-01-01",
+    "context": "This reflects SEBI's KYC and depository regulations that were in force during the period the fraud occurred, rather than a verified quotation from a specific NSDL document, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-nsdl-legalservices"
+    ]
+  },
+  "target": {
+    "description": "That each demat account used to apply for shares in an IPO's retail quota would belong to a genuine, distinct individual investor, so that the lottery-based allotment of shares reserved for retail investors would be fair and not capturable by a single operator controlling many accounts.",
+    "standard": "SEBI's Know Your Client (KYC) norms for depository participants and its rules governing retail-investor eligibility and allotment in public issues.",
+    "referenceDate": "2003-01-01"
+  },
+  "reality": {
+    "description": "Between 2003 and 2005, SEBI investigations found that a network of financiers and operators had opened tens of thousands of demat and savings accounts using the identity details and photographs of real but unwitting people — in one widely reported instance, an Ahmedabad photo studio operator, Roopalben Panchal, allowed customer details from her studio to be used to open clusters of fictitious/benami accounts at a handful of addresses. These accounts submitted multiple retail-quota applications in 21 IPOs, including Yes Bank, IDFC, Jet Airways, and others, artificially increasing the odds of allotment for the operators, who then sold the shares for listing-day gains. SEBI issued interim ex-parte orders in 2005-2006 restraining scores of entities from the securities market, and a common show-cause notice followed in 2009. SEBI's final order on the merits came on 25 February 2011, imposing findings and directions against 82 financiers, 24 key operators, and 12 depository participants, and separately against NSDL and the other depository, CDSL, for alleged lapses in oversight of KYC compliance by their depository participants. NSDL contested the finding that it bore regulatory liability; the Securities Appellate Tribunal (SAT) ultimately set aside SEBI's order against NSDL — a matter it had first flagged as flawed in 2008-09 — in a ruling reported in August 2013, and SEBI subsequently withdrew its case against the depository, effectively clearing it of the charges.",
+    "asOfDate": "2013-08-06",
+    "sourceIds": [
+      "src-nsdl-legalservices",
+      "src-nsdl-sat-quash",
+      "src-nsdl-moneylife-cleanslate"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Entities SEBI initially proceeded against vs. the depository ultimately found liable",
+    "unit": "count",
+    "targetValue": 2,
+    "actualValue": 0,
+    "targetDisplay": "2 depositories (NSDL and CDSL) named in SEBI's 2011 order",
+    "actualDisplay": "0 depositories held liable after SAT's ruling and SEBI's withdrawal",
+    "targetLabel": "Depositories proceeded against",
+    "actualLabel": "Depositories ultimately held liable",
+    "note": "This gap concerns only the depositories' regulatory liability; SEBI's separate findings and directions against individual financiers, key operators, and depository participants were not necessarily overturned and are not summarised by this single metric."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2003-01-01",
+      "label": "IPO applications begin exploiting fictitious accounts",
+      "detail": "Operators begin using clusters of benami and fictitious demat accounts to submit multiple retail-quota applications across a series of IPOs.",
+      "type": "announcement"
+    },
+    {
+      "date": "2005-12-01",
+      "label": "SEBI investigation surfaces the scheme",
+      "detail": "SEBI's probe into IDFC and Yes Bank IPO allotment patterns uncovers large clusters of demat accounts opened using real customers' details without their knowledge, implicating operators including Roopalben Panchal.",
+      "type": "milestone"
+    },
+    {
+      "date": "2006-04-27",
+      "label": "SEBI issues interim restraint orders",
+      "detail": "Ex-parte interim orders bar scores of financiers, operators, and some depository participants from dealing in securities pending investigation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2008-12-01",
+      "label": "SEBI issues order against NSDL",
+      "detail": "SEBI's board-level order faults NSDL for alleged lapses in overseeing depository participants' KYC compliance; NSDL contests the finding.",
+      "type": "milestone"
+    },
+    {
+      "date": "2009-01-01",
+      "label": "Common show-cause notice issued",
+      "detail": "SEBI issues a consolidated show-cause notice covering all financiers, operators, and depository participants implicated across the 21 IPOs.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-02-25",
+      "label": "SEBI's final order on the merits",
+      "detail": "SEBI disposes of the matter, with findings and directions against 82 financiers, 24 key operators, and 12 depository participants, and against both depositories, NSDL and CDSL.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-08-06",
+      "label": "SAT sets aside SEBI's order against NSDL",
+      "detail": "The Securities Appellate Tribunal rules that the 2008 order against NSDL cannot stand; SEBI subsequently withdraws the charges against the depository.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "SEBI's regulatory proceedings against the financiers, key operators, and depository participants involved in the fictitious-demat-account scheme were substantially concluded by its February 2011 order, though this entry has not confirmed the final individual outcomes of every notice-recipient's appeal. The separate question of NSDL's own liability was resolved in the depository's favour: the Securities Appellate Tribunal set aside SEBI's order against NSDL, and SEBI later withdrew the matter against it. This entry has not identified any criminal (as opposed to SEBI regulatory) conviction connected to this scheme.",
+    "keyIndividuals": [
+      {
+        "name": "Roopalben Panchal",
+        "role": "Ahmedabad photo-studio operator whose customers' details were used to open a large cluster of fictitious/benami demat accounts",
+        "outcome": "Named and penalised in SEBI's adjudication proceedings over the fictitious accounts; this entry has not confirmed whether any separate criminal case against her was pursued to conclusion."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real and substantial fraud on the IPO retail-allotment lottery is well documented through SEBI's own orders and reporting on them: tens of thousands of fictitious accounts across 21 IPOs, run by identifiable financiers and operators. But the case's most-covered legal thread — SEBI's own attempt to hold the depository NSDL responsible for oversight failures — ended in NSDL's favour on appeal, and SEBI ultimately withdrew that part of its case. This entry treats the matter as closed at the depository level, while flagging that outcomes for individual financiers and operators are less thoroughly confirmed here.",
+    "confidence": "medium",
+    "reasoning": "SEBI's 2011 order, the SAT's ruling on NSDL, and SEBI's withdrawal are corroborated by multiple independent reports (Moneylife, Business Standard) that describe the same documents and dates, and this entry's account of the scheme's operation is drawn from a specific case analysis (Legal Services India) referencing named individuals and IPOs. However, this entry has not directly reviewed SEBI's 2011 order or the SAT judgment."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed SEBI's February 2011 order, the 2008 order against NSDL, or the SAT's 2013 judgment — it relies on secondary legal-analysis and news sources describing them.",
+    "The names of all 21 IPOs affected are not fully enumerated here; only a few (Yes Bank, IDFC) are confirmed by name from available sources.",
+    "Final individual outcomes (penalties, bans, disgorgement amounts actually recovered) for the 82 financiers and 24 key operators named in SEBI's 2011 order are not itemised in this entry.",
+    "This entry has not confirmed the total monetary gain estimated to have been made through the scheme, so the money field is left null rather than estimated.",
+    "The user's original topic named this the 'Reliance Power IPO' demat scam specifically; this entry found the scheme covered a wider set of 21 IPOs including Yes Bank and IDFC in SEBI's own order, and has not confirmed whether the 2008 Reliance Power IPO (a separate, later issue) was itself among the 21 IPOs implicated — that specific link is unconfirmed and should be verified before being asserted."
+  ],
+  "sources": [
+    {
+      "id": "src-nsdl-legalservices",
+      "label": "IPO Scam: With Special Reference to NSDL v. SEBI Case",
+      "type": "independent",
+      "publisher": "Legal Services India",
+      "date": "2018-01-01",
+      "url": "https://www.legalservicesindia.com/article/1517/IPO-Scam:-With-Special-Referance-To-NSDL-V.-SEBI-Case.html"
+    },
+    {
+      "id": "src-nsdl-sat-quash",
+      "label": "Tribunal quashes Sebi order against NSDL in IPO scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2013-08-06",
+      "url": "https://www.business-standard.com/article/markets/tribunal-quashes-sebi-order-against-nsdl-in-ipo-scam-113080600950_1.html"
+    },
+    {
+      "id": "src-nsdl-moneylife-cleanslate",
+      "label": "NSDL gets a clean slate in IPO scam, courtesy SAT & SEBI",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2013-08-01",
+      "url": "https://www.moneylife.in/article/nsdl-gets-a-clean-slate-in-ipo-scam-courtesy-sat-and-sebi/6423.html"
+    },
+    {
+      "id": "src-nsdl-bs-2010",
+      "label": "NSDL and the IPO scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-02-08",
+      "url": "https://www.business-standard.com/article/opinion/nsdl-and-the-ipo-scam-110020800087_1.html"
+    }
+  ]
+}

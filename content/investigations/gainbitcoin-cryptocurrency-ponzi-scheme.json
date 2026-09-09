@@ -1,0 +1,198 @@
+{
+  "id": "KB-154",
+  "slug": "gainbitcoin-cryptocurrency-ponzi-scheme",
+  "title": "The GainBitcoin Cryptocurrency Ponzi Scheme",
+  "dek": "GainBitcoin promised investors 10% monthly returns in Bitcoin for 18 months through founder Amit Bhardwaj's mining and MLM network. Police called it one of India's biggest crypto Ponzi schemes — estimates of the total loss range from roughly Rs 2,000 crore to figures in the billions of dollars — and arrests and asset seizures were still happening as recently as 2024-2025, years after Bhardwaj's 2018 arrest and his 2022 death.",
+  "category": "Telecom & Digital",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 20,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-04-05",
+  "heroStat": {
+    "value": "100,000+",
+    "label": "alleged victims, per police estimates, across GainBitcoin's Bitcoin-mining and MLM investment schemes"
+  },
+  "promise": {
+    "quote": "Investors were promised returns of approximately 10% per month in Bitcoin for 18 months by investing in GainBitcoin's cloud Bitcoin-mining and multi-level-marketing schemes, marketed through websites including gainbitcoin.com under Variabletech Pte. Ltd.",
+    "madeBy": "Amit Bhardwaj (founder, now deceased), with brother Ajay Bhardwaj and associated promoters",
+    "role": "Founder of GainBitcoin and related ventures (GB Miners, GB21, CoinBank, MCAP token)",
+    "date": "2015-01-01",
+    "context": "This reflects the general returns pitch described consistently across contemporaneous and later reporting on the scheme, rather than a verified quotation from GainBitcoin's own marketing material, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-gainbitcoin-theprint"
+    ]
+  },
+  "target": {
+    "description": "That investors who deposited money or Bitcoin into GainBitcoin's mining/MLM schemes would receive the promised ~10% monthly Bitcoin returns from genuine mining operations and business activity, rather than from new investors' deposits.",
+    "standard": "Ordinary financial-fraud and cheating standards under the Indian Penal Code, and India's Prize Chits and Money Circulation Schemes (Banning) Act, 1978, which prohibits money-circulation/pyramid schemes; India had no dedicated cryptocurrency regulatory framework at the time.",
+    "referenceDate": "2015-01-01"
+  },
+  "reality": {
+    "description": "Pune Police's cyber cell arrested Amit Bhardwaj on 5 April 2018 (along with associates including brother Ajay Bhardwaj and GB Miners co-founders Nikunj Jain and Sahil Baghla), alleging GainBitcoin was a Ponzi scheme; police pegged the scam at figures ranging from roughly Rs 2,000 crore to Rs 13,000 crore in different early reports, with later estimates (contested and varying widely across sources) reaching into the hundreds of millions or billions of dollars. A second chargesheet was filed in June 2018, and the Enforcement Directorate registered its own money-laundering case in April 2018. Amit Bhardwaj died of cardiac arrest on 15 January 2022, before the case concluded, but investigation into his associates and network continued. In April 2024, the ED reported finding roughly $11.7 million in immovable and movable properties connected to the scheme, reportedly including assets linked to entrepreneur Raj Kundra (whose alleged connection to the case is a specific, contested allegation this entry has not independently verified). The CBI filed its own FIR in the broader Bitcoin-Ponzi matter in November 2024 and conducted raids at over 60 locations in February 2025, and made a further arrest (Ayush Varshney, intercepted at Mumbai airport) around March 2025. As of this entry's research, recovery for victims remains minimal relative to the scale of alleged losses, and the case remains under investigation/trial across multiple agencies (Pune Police, ED, CBI) years after it first surfaced.",
+    "asOfDate": "2025-03-10",
+    "sourceIds": [
+      "src-gainbitcoin-cbi-2024",
+      "src-gainbitcoin-ed-2024",
+      "src-gainbitcoin-wiki"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Promised guaranteed Bitcoin returns vs. actual investor recovery",
+    "unit": "percent",
+    "targetValue": 100,
+    "actualValue": 5,
+    "targetDisplay": "Guaranteed ~10%/month returns advertised",
+    "actualDisplay": "Only a few million dollars in assets recovered/seized against alleged losses estimated from hundreds of millions to billions of dollars",
+    "targetLabel": "Advertised guaranteed returns",
+    "actualLabel": "Approximate recovery rate to date",
+    "note": "The 5% actualValue is illustrative, not a precisely sourced recovery percentage — total alleged losses are themselves disputed across sources (from roughly Rs 2,000 crore to figures exceeding $2 billion), and only a few million dollars in recovered assets has been publicly confirmed, making any precise recovery-rate percentage unverifiable from public sources."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": null,
+    "allocatedLabel": "Total alleged investor losses (disputed across sources)",
+    "released": 11.7,
+    "releasedLabel": "Assets found/attached by ED, reported April 2024, in millions of USD",
+    "spent": null,
+    "unit": "million (except allocated, which is disputed and left blank)",
+    "notes": "Estimates of the scheme's total size vary enormously across sources reviewed: early Indian police estimates ranged from roughly Rs 2,000 crore to Rs 13,000 crore (approximately US$300 million to over $1.5 billion at contemporary exchange rates), while later reporting cited figures as high as $2.1-2.7 billion, and some outlets have floated even higher, less-substantiated figures. This entry treats the total scale as genuinely disputed and unresolved rather than adopting any single number as authoritative.",
+    "sourceIds": [
+      "src-gainbitcoin-inc42",
+      "src-gainbitcoin-businesstoday"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015-01-01",
+      "label": "GainBitcoin launches",
+      "detail": "Amit Bhardwaj launches GainBitcoin and related cloud-mining/MLM schemes promising ~10% monthly Bitcoin returns.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-04-05",
+      "label": "Amit Bhardwaj arrested",
+      "detail": "Pune Police's cyber cell arrests Bhardwaj in Delhi along with associates, alleging a large-scale Bitcoin Ponzi scheme.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-04-07",
+      "label": "ED registers money-laundering case",
+      "detail": "The Enforcement Directorate opens its own case against GainBitcoin.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-06-14",
+      "label": "Second chargesheet filed",
+      "detail": "Pune Police files a second chargesheet against Amit Bhardwaj and associates.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-01-15",
+      "label": "Amit Bhardwaj dies",
+      "detail": "Bhardwaj dies of cardiac arrest before the case against him concludes; investigation continues against his network of associates.",
+      "type": "status"
+    },
+    {
+      "date": "2024-04-01",
+      "label": "ED finds $11.7 million in linked assets",
+      "detail": "The ED reports discovering immovable and movable properties worth roughly $11.7 million connected to the GainBitcoin scheme.",
+      "type": "status"
+    },
+    {
+      "date": "2024-11-20",
+      "label": "CBI files fresh FIR",
+      "detail": "The CBI registers its own FIR naming multiple individuals in the broader Bitcoin-Ponzi matter.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-02-25",
+      "label": "CBI conducts raids at 60+ locations",
+      "detail": "Nationwide raids are conducted as part of the ongoing cryptocurrency-scam investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-10",
+      "label": "Further arrest made",
+      "detail": "Ayush Varshney is intercepted at Mumbai airport before an alleged attempt to leave the country and is formally arrested by the CBI.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Multiple criminal proceedings are ongoing across different agencies: Pune Police filed chargesheets against Amit Bhardwaj and associates in 2018; the Enforcement Directorate has pursued a parallel money-laundering investigation, reporting fresh asset discoveries as recently as 2024; and the CBI opened its own FIR and raids in late 2024/early 2025 covering the wider Bitcoin-Ponzi network. Amit Bhardwaj died in 2022 before any verdict against him personally. Based on this entry's research, no final conviction in the core GainBitcoin case has been reported, and multiple individuals remain under investigation or trial.",
+    "keyIndividuals": [
+      {
+        "name": "Amit Bhardwaj",
+        "role": "Founder, GainBitcoin",
+        "outcome": "Arrested April 2018; died of cardiac arrest on 15 January 2022 before any final verdict."
+      },
+      {
+        "name": "Ajay Bhardwaj",
+        "role": "Brother and associate of Amit Bhardwaj",
+        "outcome": "Arrested in connection with the scheme; final case outcome not confirmed by this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "GainBitcoin is documented by multiple Indian law-enforcement agencies (Pune Police, ED, CBI) as a large-scale alleged cryptocurrency Ponzi scheme with real arrests, chargesheets, and ongoing asset seizures spanning 2018 to 2025. The precise scale of investor losses remains genuinely disputed across sources, ranging from roughly Rs 2,000 crore to multi-billion-dollar estimates, and recovery for victims has been minimal. With the founder deceased and the case still active against associates as of 2025, this remains legally unresolved.",
+    "confidence": "medium",
+    "reasoning": "The founding arrest, chargesheets, ED case, and 2024-2025 CBI action are corroborated across multiple independent reports including Business Standard, The Print, and crypto-industry press. However, total loss figures vary drastically across sources and could not be reconciled, and the Raj Kundra asset-linkage allegation in particular is treated here as unverified."
+  },
+  "incomplete": [
+    "The true total scale of investor losses is disputed across sources by more than an order of magnitude (from roughly Rs 2,000 crore to over $2 billion) and this entry has not been able to determine which, if any, figure is authoritative.",
+    "The alleged connection between ED-seized assets and entrepreneur Raj Kundra, reported in some 2024 coverage, has not been independently verified by this entry and should be treated as a specific, contested allegation only.",
+    "This is a stub entry; deeper research on the current (post-March 2025) status of CBI and ED proceedings, and any victim compensation/recovery process, is pending."
+  ],
+  "sources": [
+    {
+      "id": "src-gainbitcoin-theprint",
+      "label": "CBI makes first arrest in 'Rs 20,000-cr Bitcoin scam', accused held from airport before Sri Lanka escape",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2025-03-10",
+      "url": "https://theprint.in/india/cbi-makes-first-arrest-in-rs-20000-cr-bitcoin-scam-accused-held-from-airport-before-sri-lanka-escape/2875617/"
+    },
+    {
+      "id": "src-gainbitcoin-cbi-2024",
+      "label": "CBI files FIR in Bitcoin-based Ponzi 'scam', names many",
+      "type": "independent",
+      "publisher": "ANI",
+      "date": "2024-11-20",
+      "url": "https://www.aninews.in/news/national/general-news/cbi-files-fir-in-bitcoin-based-ponzi-scam-names-many20241120222735/"
+    },
+    {
+      "id": "src-gainbitcoin-ed-2024",
+      "label": "Enforcement Directorate registers case against GainBitcoin",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2018-04-07",
+      "url": "https://www.business-standard.com/amp/article/markets/enforcement-directorate-registers-case-against-gainbitcoin-118040700063_1.html"
+    },
+    {
+      "id": "src-gainbitcoin-wiki",
+      "label": "Amit Bhardwaj",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2025-01-01",
+      "url": "https://en.wikipedia.org/wiki/Amit_Bhardwaj"
+    },
+    {
+      "id": "src-gainbitcoin-inc42",
+      "label": "Amit Bhardwaj's Death - Who Will Return The Lost $2.7 Bn From His Ponzi Scheme",
+      "type": "independent",
+      "publisher": "Inc42",
+      "date": "2022-01-01",
+      "url": "https://inc42.com/features/amit-bhardwaj-death-who-will-return-the-lost-2-7-bn-from-his-ponzi-scheme/"
+    },
+    {
+      "id": "src-gainbitcoin-businesstoday",
+      "label": "Cryptocurrency guru arrested for bitcoin based ponzi schemes; scam could run into Rs 13,000 crore",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2018-04-06",
+      "url": "https://www.businesstoday.in/current/corporate/cryptocurrency-guru-arrested-for-bitcoin-ponzi-schemes-scam-could-run-into-rs-13000-crore/story/274255.html"
+    }
+  ]
+}

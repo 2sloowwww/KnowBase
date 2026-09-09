@@ -1,0 +1,99 @@
+{
+  "id": "KB-2303",
+  "slug": "pnb-gupta-power-infrastructure-fraud",
+  "title": "The Gupta Power Infrastructure Loan Fraud",
+  "dek": "An Odisha-based cable maker's account turned bad, and Punjab National Bank flagged over ₹270 crore of it as fraud in early 2025 — the same company a second public-sector bank separately reported for another ₹227 crore.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "minor",
+  "severityRank": 267,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-02-18",
+  "heroStat": {
+    "value": "₹270.57 cr",
+    "label": "loan fraud reported by Punjab National Bank against Gupta Power Infrastructure Ltd"
+  },
+  "promise": {
+    "quote": "Loan accounts sanctioned by the bank are expected to be repaid according to sanctioned terms, with borrowers using credit facilities for their stated purpose.",
+    "madeBy": "Gupta Power Infrastructure Ltd, an Odisha-based cable and conductor manufacturer, to Punjab National Bank",
+    "role": "Corporate borrower from PNB's Station Square branch, Bhubaneswar",
+    "date": "2020-01-01",
+    "context": "This reflects the standard borrower obligation under commercial lending terms rather than a specific loan agreement this entry has reviewed directly.",
+    "sourceIds": [
+      "src-gpi-pnb-fraud"
+    ]
+  },
+  "target": {
+    "description": "Repayment of sanctioned credit facilities according to terms, without diversion of funds or misrepresentation of the account's financial position to the lender.",
+    "standard": "RBI's fraud-classification norms for non-performing asset accounts and standard commercial lending covenants.",
+    "referenceDate": "2020-01-01"
+  },
+  "reality": {
+    "description": "Punjab National Bank reported a loan fraud of ₹270.57 crore involving Gupta Power Infrastructure Ltd's non-performing asset account, disclosing the matter to the Reserve Bank of India in February 2025 and stating it had already made full provisioning for the amount in accordance with prudential norms. Separately, Bank of India reported a fraud of ₹226.84 crore involving the same company to the RBI shortly after, indicating the company's stressed account affected multiple public sector lenders.",
+    "asOfDate": "2025-02-21",
+    "sourceIds": [
+      "src-gpi-pnb-fraud",
+      "src-gpi-boi-fraud"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Fraud amount reported by PNB vs. amount recovered",
+    "unit": "INR crore",
+    "targetValue": 271,
+    "actualValue": 0,
+    "targetDisplay": "₹270.57 cr flagged as fraud",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Flagged as fraud",
+    "actualLabel": "Recovered",
+    "note": "PNB stated it had fully provisioned for the loss, protecting its own financial position, but this entry has not located a figure for how much, if any, of the underlying amount has been recovered from Gupta Power Infrastructure."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-02-18",
+      "label": "PNB reports ₹270.57 crore fraud",
+      "detail": "Punjab National Bank discloses the fraud classification of Gupta Power Infrastructure's NPA account to the RBI and states it has fully provisioned for the amount.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-02-21",
+      "label": "Bank of India reports a separate ₹226.84 crore fraud",
+      "detail": "A second public sector lender discloses its own fraud classification involving the same company.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. This investigation has not established whether a CBI case or chargesheet has followed the banks' RBI fraud disclosures, or identified any individuals named as accused.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: two public sector banks' RBI fraud disclosures involving the same borrower are documented, but this investigation has not established whether any criminal investigation, chargesheet, or recovery has followed.",
+    "confidence": "low",
+    "reasoning": "This entry is based on February 2025 disclosure reporting from financial news outlets; it has not located any follow-up reporting on investigation, prosecution, or recovery status, and this may reflect either the case's recency or a genuine information gap."
+  },
+  "incomplete": [
+    "This is a stub entry, based only on the banks' initial RBI fraud disclosures in February 2025.",
+    "It is not established whether the CBI or any other agency has registered a criminal case over this fraud.",
+    "No named individuals (promoters, directors) have been confirmed as accused in sources reviewed for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-gpi-pnb-fraud",
+      "label": "PNB reports Rs 270.57 cr loan fraud by Gupta Power Infrastructure",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-02-18",
+      "url": "https://www.business-standard.com/companies/news/pnb-reports-rs-270-57-cr-loan-fraud-by-gupta-power-infrastructure-125021801166_1.html"
+    },
+    {
+      "id": "src-gpi-boi-fraud",
+      "label": "Bank of India reports Rs 226.84 cr loan fraud by Gupta Power Infrastructure",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-02-21",
+      "url": "https://www.business-standard.com/finance/news/bank-of-india-reports-rs-226-84-cr-loan-fraud-by-gupta-power-infrastructure-125022100793_1.html"
+    }
+  ]
+}

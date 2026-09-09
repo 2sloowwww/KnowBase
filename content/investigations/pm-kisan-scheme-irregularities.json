@@ -1,0 +1,168 @@
+{
+  "id": "KB-909",
+  "slug": "pm-kisan-scheme-irregularities",
+  "title": "PM-KISAN Scheme Irregularities",
+  "dek": "The government's flagship direct-cash-transfer scheme for small and marginal farmers has repeatedly been found by the government's own CAG auditors, state after state, to have paid income-tax payers, government employees, pensioners, landless residents, and even the deceased — while recovery of the wrongly paid amounts has moved at a fraction of the pace of disbursement.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 228,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-08-01",
+  "heroStat": {
+    "value": "₹416 cr",
+    "label": "recovered nationally from ineligible PM-KISAN beneficiaries since the scheme's 2019 launch, per the Agriculture Minister's own reply to Parliament (as of March 2025)"
+  },
+  "promise": {
+    "quote": "Every eligible small and marginal farmer family in India would receive ₹6,000 per year in three equal instalments directly into their bank accounts under Pradhan Mantri Kisan Samman Nidhi (PM-KISAN), with eligibility restricted to genuine farmer landholders and excluding income-tax payers, government employees, pensioners above a threshold, and other specified categories.",
+    "madeBy": "Ministry of Agriculture and Farmers Welfare, Government of India",
+    "role": "Central scheme administering ministry",
+    "date": "2019-02-24",
+    "context": "PM-KISAN was launched on 24 February 2019 as a direct benefit transfer scheme, with states and union territories responsible for identifying and uploading eligible beneficiary data for central disbursement.",
+    "sourceIds": [
+      "src-pmkisan-newsonair-disbursed"
+    ]
+  },
+  "target": {
+    "description": "That only farmer families meeting the scheme's eligibility criteria would receive payments, with robust verification preventing disbursement to excluded categories such as income-tax payers, government employees/pensioners, and non-farmers.",
+    "standard": "PM-KISAN scheme guidelines' own exclusion criteria, as issued by the Ministry of Agriculture and Farmers Welfare.",
+    "referenceDate": "2019-02-24"
+  },
+  "reality": {
+    "description": "Comptroller and Auditor General (CAG) audits conducted state-by-state have repeatedly found significant numbers of ineligible beneficiaries receiving PM-KISAN payments. In Assam, a CAG audit found roughly ₹567 crore had been claimed by ineligible beneficiaries, with only about 0.24% of the misappropriated funds recovered as of the audit period, and none of that returned to the central Ministry as of the report's cut-off. In Tripura, CAG found several thousand ineligible beneficiaries, including government employees, income-tax payers, and deceased persons, with 2,763 ineligible beneficiaries still receiving a combined ₹4.18 crore even after initial checks. In Haryana, a CAG report and the Public Accounts Committee found income-tax payers, state government pensioners, deceased farmers, and non-landowners had together received over ₹42 crore in benefits, with a subsequent PAC review citing roughly 89,000 ineligible farmers having received a combined ₹121 crore in that state alone; of amounts flagged for recovery, only a small fraction (reported as roughly ₹4.6 lakh out of ₹40.7 crore in one Haryana tranche) had actually been recovered. Himachal Pradesh similarly reported issuing recovery notices for about ₹5.72 crore wrongly disbursed. At the national level, in response to a Lok Sabha question, the Agriculture Minister stated the government had recovered a cumulative ₹416 crore from ineligible beneficiaries since the scheme's 2019 launch (as of around March 2025) — a figure that, while real, is small relative to the scheme's overall scale (the government has stated it disbursed over ₹3-4 lakh crore cumulatively to more than 11 crore-plus beneficiary farmers by 2025). In response, the government has since mandated 100% Aadhaar-based e-KYC verification of beneficiaries and has run periodic 'weeding out' drives to remove ineligible names from the rolls, alongside a parallel nationwide saturation drive since November 2023 that added over 1.5 crore new (presumptively eligible) farmers.",
+    "asOfDate": "2025-03-22",
+    "sourceIds": [
+      "src-pmkisan-assam-cag",
+      "src-pmkisan-tripura-cag",
+      "src-pmkisan-haryana-cag",
+      "src-pmkisan-recovery-416cr"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total recovered nationally from ineligible beneficiaries vs. cumulative scheme disbursement",
+    "unit": "INR crore",
+    "targetValue": 416,
+    "actualValue": 300000,
+    "targetDisplay": "₹416 cr recovered from ineligible beneficiaries (as of March 2025)",
+    "actualDisplay": "₹3+ lakh crore disbursed cumulatively under the scheme",
+    "targetLabel": "Recovered from ineligible beneficiaries",
+    "actualLabel": "Total scheme disbursement",
+    "note": "This comparison illustrates scale, not a claim that all disbursement was improper — the vast majority of PM-KISAN payments have gone to intended beneficiaries. The point of concern, repeatedly flagged by CAG audits, is that identified leakage to ineligible beneficiaries has been recovered only slowly and partially relative to what audits found was wrongly paid out in individual states."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": 300000,
+    "releasedLabel": "approximate cumulative disbursement under PM-KISAN nationally by 2025, per government statements (over ₹3 lakh crore to 11+ crore beneficiaries)",
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ₹416 crore recovered-from-ineligible-beneficiaries figure is a national aggregate per the Agriculture Minister's Lok Sabha reply; state-level CAG audits (Assam ₹567 cr claimed by ineligible beneficiaries, Haryana ₹42-121 cr depending on report, Tripura ₹4.18 cr, Himachal Pradesh ₹5.72 cr) are separate, state-specific figures from different audit periods and are not simply additive to the national recovery figure.",
+    "sourceIds": [
+      "src-pmkisan-recovery-416cr",
+      "src-pmkisan-newsonair-disbursed"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019-02-24",
+      "label": "PM-KISAN launched",
+      "detail": "The scheme begins direct cash transfers of ₹6,000/year to eligible small and marginal farmer families, with states responsible for beneficiary verification.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-08-01",
+      "label": "CAG flags Assam irregularities",
+      "detail": "A CAG audit finds roughly ₹567 crore claimed by ineligible beneficiaries in Assam, with minimal recovery.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-01-01",
+      "label": "CAG flags Tripura and Haryana irregularities",
+      "detail": "Separate CAG audits find thousands of ineligible beneficiaries, including government employees, income-tax payers and deceased persons, in Tripura and Haryana.",
+      "type": "status"
+    },
+    {
+      "date": "2023-08-01",
+      "label": "Mandatory Aadhaar-based e-KYC introduced",
+      "detail": "From the scheme's 15th instalment cycle, the government makes Aadhaar-based e-KYC verification mandatory for all beneficiaries in response to identified irregularities.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-11-15",
+      "label": "Nationwide saturation drive begins",
+      "detail": "A coordinated central-state drive to identify and add eligible farmers left out of the scheme begins, adding over 1.5 crore new beneficiaries.",
+      "type": "status"
+    },
+    {
+      "date": "2024-11-06",
+      "label": "Assam fraud scale reported at ₹567 crore",
+      "detail": "Media reporting citing the CAG findings quantifies Assam's ineligible-beneficiary losses at ₹567 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-22",
+      "label": "Government reports ₹416 crore recovered nationally",
+      "detail": "The Agriculture Minister tells the Lok Sabha the government has recovered a cumulative ₹416 crore from ineligible beneficiaries since the scheme's launch.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is fundamentally an audit and administrative-accountability matter rather than a criminal case: CAG reports and Public Accounts Committee reviews in multiple states have repeatedly documented disbursement to ineligible beneficiaries, and the central government has confirmed a national recovery figure in Parliament. This entry has not identified any criminal prosecution, FIR, or chargesheet arising from these findings; the government's response has been administrative (e-KYC mandates, recovery notices, and beneficiary list clean-ups) rather than punitive against individual officials.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "PM-KISAN's irregularities are real and repeatedly confirmed by the government's own supreme audit institution across multiple states, but they reflect verification and recovery failures in a large administrative scheme rather than a centralised, orchestrated fraud. The recovered amounts, while genuine, remain small relative to both the sums individual state audits found were wrongly disbursed and the scheme's overall multi-lakh-crore scale — a gap the government has itself acknowledged and moved to address through tightened Aadhaar-based verification.",
+    "confidence": "medium",
+    "reasoning": "The CAG findings for Assam, Tripura, and Haryana are corroborated by dedicated news coverage of each state's CAG/PAC reports (Millennium Post, Assam Tribune, India Today NE, NewsClick), and the national ₹416 crore recovery figure comes directly from a government minister's reply reported by multiple financial outlets. Confidence is not higher because this entry has not reviewed the underlying CAG audit reports directly, has not compiled a single authoritative national-level 'total ineligible beneficiaries/total wrongly disbursed' figure (state figures come from different audit periods and cannot simply be summed), and has not covered every state where CAG or PAC reviews may have found similar irregularities."
+  },
+  "incomplete": [
+    "This entry has not reviewed the underlying CAG audit reports for Assam, Tripura, or Haryana directly, relying on news coverage summarising their findings.",
+    "No single, authoritative, nationally consolidated figure for total ineligible beneficiaries or total wrongly disbursed amount (as opposed to the ₹416 crore recovered figure) was found; state-level figures are from different audit periods and years and should not be added together.",
+    "This entry has not surveyed every state's CAG or Public Accounts Committee findings on PM-KISAN; only Assam, Tripura, Haryana, and Himachal Pradesh are covered based on the sources found, and irregularities may exist in other states not covered here.",
+    "Whether any officials (state or central) responsible for beneficiary verification lapses have faced administrative or disciplinary action has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-pmkisan-newsonair-disbursed",
+      "label": "Centre says ₹3.24 lakh crore disbursed to more than 11 crore beneficiary farmers under PM-KISAN scheme",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2025-02-04",
+      "url": "https://newsonair.gov.in/centre-says-3-24-lakh-crore-rupees-disbursed-to-more-than-11-crore-beneficiary-farmers-under-pm-kisan-scheme"
+    },
+    {
+      "id": "src-pmkisan-assam-cag",
+      "label": "Assam's PM-KISAN scheme marred by major fraud, Rs 567 crore lost to fake beneficiaries",
+      "type": "independent",
+      "publisher": "India Today NE",
+      "date": "2024-11-06",
+      "url": "https://www.indiatodayne.in/assam/story/assams-pm-kisan-scheme-marred-by-major-fraud-rs-567-crore-lost-to-fake-beneficiaries-1116545-2024-11-06"
+    },
+    {
+      "id": "src-pmkisan-tripura-cag",
+      "label": "CAG uncovers massive irregularities in PM-Kisan disbursals in Tripura",
+      "type": "independent",
+      "publisher": "Assam Tribune",
+      "date": "2024-01-01",
+      "url": "https://assamtribune.com/north-east/cag-uncovers-massive-irregularities-in-pm-kisan-disbursals-in-tripura-1575060"
+    },
+    {
+      "id": "src-pmkisan-haryana-cag",
+      "label": "Haryana: CAG Report Says Benefits Worth Rs 42 Cr Under PM KISAN Disbursed to Non-Eligible Beneficiaries",
+      "type": "independent",
+      "publisher": "NewsClick",
+      "date": "2023-01-01",
+      "url": "https://www.newsclick.in/haryana-cag-report-says-benefits-worth-rs-42-cr-under-pm-kisan-disbursed-non-eligible-beneficiaries"
+    },
+    {
+      "id": "src-pmkisan-recovery-416cr",
+      "label": "PM KISAN scheme: Govt retrieves Rs 416 cr from ineligible beneficiaries",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2025-03-22",
+      "url": "https://www.businesstoday.in/personal-finance/news/story/pm-kisan-scheme-govt-retrieves-rs-416-cr-from-ineligible-beneficiaries-check-who-can-claim-funds-468891-2025-03-22"
+    }
+  ]
+}

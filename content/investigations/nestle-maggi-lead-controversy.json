@@ -1,0 +1,131 @@
+{
+  "id": "KB-3019",
+  "slug": "nestle-maggi-lead-controversy",
+  "title": "The Nestle Maggi Noodles Lead Contamination Controversy",
+  "dek": "India's food safety regulator declared the country's best-selling instant noodle brand unsafe, citing lead levels far above the legal limit, and banned it nationwide. Courts later found the government's own testing had not followed proper procedure — leaving the underlying safety question less settled than either side's public claims suggested.",
+  "category": "Employment & Welfare",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 257,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2015-01-01",
+  "heroStat": {
+    "value": "5 months",
+    "label": "Maggi noodles were off Indian shelves nationwide after a June 2015 government ban, before returning after a Bombay High Court order"
+  },
+  "promise": {
+    "quote": "Maggi noodles contain 'No added MSG' and are safe for consumption, meeting all applicable Indian food safety standards for lead and other contaminants.",
+    "madeBy": "Nestle India Limited",
+    "role": "Manufacturer and marketer of Maggi instant noodles in India",
+    "date": "2014-01-01",
+    "context": "Maggi noodles had been sold in India for decades as a mass-market convenience food, marketed in part on a 'No added MSG' claim, when a food inspector in Barabanki, Uttar Pradesh raised concerns in early 2015 that triggered wider regulatory testing.",
+    "sourceIds": [
+      "src-maggi-medium"
+    ]
+  },
+  "target": {
+    "description": "Packaged food products sold in India containing contaminant levels (including lead) within limits set by Indian food safety law, with any safety-related product claims (such as 'No added MSG') being accurate, and any regulatory testing used to justify a ban following proper accredited-laboratory procedure.",
+    "standard": "Food Safety and Standards Act, 2006 and associated regulations on permissible lead content and labelling claims.",
+    "referenceDate": "2015-06-05"
+  },
+  "reality": {
+    "description": "On 5 June 2015, India's Food Safety and Standards Authority (FSSAI) banned the manufacture, sale and distribution of Maggi noodles nationwide, citing around 30 government laboratory tests that it said found lead levels exceeding permissible limits and disputing the 'No added MSG' claim. Nestle recalled and destroyed an estimated $50 million worth of product and halted production. Nestle challenged the ban in the Bombay High Court, which on 13 August 2015 struck down the nationwide ban in a 145-page judgment, finding FSSAI had acted arbitrarily and without following its own procedure — including that the government's test samples had not been examined at laboratories accredited by the National Accreditation Board for Testing and Calibration Laboratories (NABL). The court ordered fresh testing at three NABL-accredited labs; all 90 samples tested passed, with lead levels reported within safety limits, and Maggi returned to Indian shelves on 9 November 2015. FSSAI's appeal to the Supreme Court did not succeed in reinstating the ban. A separate consumer class-action-style complaint pursued by the Indian government before the National Consumer Disputes Redressal Commission continued for years afterward; sources reviewed do not confirm a final, conclusive resolution establishing which side's lead-testing claims were correct.",
+    "asOfDate": "2015-11-09",
+    "sourceIds": [
+      "src-maggi-justfood",
+      "src-maggi-fortune"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Government lab tests alleging excess lead vs. accredited retests",
+    "unit": "count",
+    "targetValue": 30,
+    "actualValue": 90,
+    "targetDisplay": "~30 government lab tests originally cited as finding excess lead",
+    "actualDisplay": "90 samples retested at NABL-accredited labs by court order all passed within safety limits",
+    "targetLabel": "Original tests (failed)",
+    "actualLabel": "Accredited retests (passed)",
+    "note": "The Bombay High Court did not rule that no contamination had ever existed; it ruled that FSSAI's original ban process was procedurally invalid, and separately ordered fresh accredited testing that came back clean. This entry reports both facts without asserting a single definitive resolution of the underlying safety question at the time of the original tests."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2015-01-01",
+      "label": "Uttar Pradesh food inspector raises concern",
+      "detail": "A food inspector in Barabanki became suspicious of Maggi's 'No added MSG' labelling claim, triggering wider state-level testing.",
+      "type": "announcement"
+    },
+    {
+      "date": "2015-06-05",
+      "label": "FSSAI bans Maggi nationwide",
+      "detail": "India's food safety regulator ordered Maggi noodles off the market nationwide, citing lab results it said showed excess lead.",
+      "type": "status"
+    },
+    {
+      "date": "2015-06-01",
+      "label": "Nestle recalls and destroys stock",
+      "detail": "Nestle India withdrew Maggi from shelves and destroyed an estimated $50 million worth of product.",
+      "type": "status"
+    },
+    {
+      "date": "2015-08-13",
+      "label": "Bombay High Court strikes down the ban",
+      "detail": "The court found FSSAI's ban process procedurally invalid, in part because test samples were not examined at NABL-accredited labs, and ordered fresh accredited testing.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-11-09",
+      "label": "Maggi returns to shelves",
+      "detail": "Following clean results from accredited retesting, Maggi noodles returned to the Indian market five months after the ban.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal conviction of Nestle India or its executives resulted from the controversy. The Bombay High Court quashed FSSAI's ban on procedural grounds and the Supreme Court did not reinstate it; a separate government consumer complaint before the National Consumer Disputes Redressal Commission continued for years, but this investigation could not confirm its final resolution.",
+    "keyIndividuals": [
+      {
+        "name": "Nestle India Limited (corporate entity)",
+        "role": "Manufacturer of Maggi noodles",
+        "outcome": "No criminal conviction; nationwide ban on its product was quashed by the Bombay High Court in August 2015; product later cleared by accredited retesting and returned to market."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The facts of what happened procedurally are well documented: a ban was imposed on the basis of testing that a court later found did not meet accreditation standards, and subsequent accredited testing found the product within safety limits. Whether the original, unaccredited tests were nonetheless substantively correct about lead levels at that specific point in time was never conclusively established either way, which is why this case remains genuinely disputed rather than a clean vindication for either side.",
+    "confidence": "medium",
+    "reasoning": "The regulatory ban, its procedural rejection by the Bombay High Court, and the subsequent clean accredited retest results are extensively and consistently documented. Confidence is not 'high' because the underlying scientific question — whether the original disputed test batches genuinely contained excess lead — was not authoritatively resolved in the sources reviewed, and a long-running separate consumer commission case does not appear to have reached a clearly reported final conclusion."
+  },
+  "incomplete": [
+    "This investigation could not confirm the final outcome of the Indian government's separate consumer complaint against Nestle before the National Consumer Disputes Redressal Commission.",
+    "Whether the specific product batches originally tested by government labs in 2015 did or did not, in fact, contain excess lead at that time was not conclusively resolved by either the Bombay High Court judgment (which focused on process) or the later accredited retests (which tested different, later-produced samples).",
+    "The exact final financial cost to Nestle India (destroyed stock, lost sales, and any settlement) beyond the widely cited $50 million initial write-off figure was not independently verified for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-maggi-medium",
+      "label": "Nestle India Limited v. Food Safety And Standards Authority Of India & Others (2015)",
+      "type": "independent",
+      "publisher": "Medium (Criminal Laws)",
+      "date": "2020-01-01",
+      "url": "https://medium.com/criminal-laws/nestle-india-limited-v-food-safety-and-standards-authority-of-india-others-2015-9ed1bcad41be"
+    },
+    {
+      "id": "src-maggi-justfood",
+      "label": "India court rejects government claim over Nestle Maggi affair",
+      "type": "independent",
+      "publisher": "Just Food",
+      "date": "2015-08-14",
+      "url": "https://www.just-food.com/news/nestle-2015-maggi-noodles-controversy-india-dismissed/"
+    },
+    {
+      "id": "src-maggi-fortune",
+      "label": "Nestle's Half-Billion-Dollar Noodle Debacle in India",
+      "type": "independent",
+      "publisher": "Fortune",
+      "date": "2016-01-01",
+      "url": "https://fortune.com/longform/nestle-maggi-noodle-crisis/"
+    }
+  ]
+}

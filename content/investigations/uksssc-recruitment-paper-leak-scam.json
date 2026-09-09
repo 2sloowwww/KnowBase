@@ -1,0 +1,147 @@
+{
+  "id": "KB-165",
+  "slug": "uksssc-recruitment-paper-leak-scam",
+  "title": "The UKSSSC Recruitment Paper Leak Scam",
+  "dek": "Uttarakhand's subordinate services commission handed graduate-level exam papers to a private outsourcing firm — twice, three years apart, they leaked. The state has now handed the second leak to the CBI, and passed a law making paper leaks punishable by life imprisonment.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 114,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-08-01",
+  "heroStat": {
+    "value": "2 leaks, 3 years apart",
+    "label": "graduate-level UKSSSC exams (2021-22 and September 2025) both compromised, despite a life-imprisonment anti-cheating law passed after the first"
+  },
+  "promise": {
+    "quote": "Recruitment through the Uttarakhand Subordinate Service Selection Commission will be conducted on the basis of a secure question paper, prepared and distributed without leaks or unfair means.",
+    "madeBy": "Uttarakhand Subordinate Service Selection Commission (UKSSSC)",
+    "role": "State body responsible for recruitment to subordinate-level Uttarakhand government posts",
+    "date": "2022-01-01",
+    "context": "This reflects UKSSSC's standard institutional mandate for its graduate-level recruitment exams, rather than a verified quotation from a specific UKSSSC statement, which this entry has not located.",
+    "sourceIds": [
+      "src-uksssc-overview"
+    ]
+  },
+  "target": {
+    "description": "Graduate-level recruitment exams conducted on the basis of question papers that remain confidential from the outsourced examination-conduct agency through to the test itself.",
+    "standard": "UKSSSC's own examination-security protocols, including confidentiality obligations of its contracted examination-conduct agencies.",
+    "referenceDate": "2022-01-01"
+  },
+  "reality": {
+    "description": "UKSSSC had engaged Lucknow-based RMS Technosolutions Pvt Ltd to conduct its graduate-level recruitment examinations. In 2022, allegations of large-scale malpractice in these exams surfaced, and a joint Dehradun Police–STF investigation led to 35 arrests, including a relative of the firm's owner; UKSSSC issued show-cause notices to 115 candidates accused of receiving leaked papers from a cheating network, and the state government cancelled the graduate-level exam, promising to hold it again within three months. A joint secretary-level officer, Santosh Badoni, was suspended in September 2022 over alleged negligence but was reinstated after roughly two years when the government found no evidence linking him to the leak. Partly in response, Uttarakhand enacted a stringent anti-copying law providing for up to life imprisonment for those found to have leaked or facilitated the use of unfair means in recruitment exams. Despite this, a further leak occurred during a UKSSSC graduate-level exam held on 21 September 2025, for around 416 posts across various departments, sat by more than one lakh candidates: three pages of a question paper were reportedly leaked from an examination centre in Haridwar. After student protests at Dehradun's Parade Ground, Chief Minister Pushkar Singh Dhami approved handing the investigation to the CBI, which registered a case and began its probe around late September/October 2025. UKSSSC cancelled the September 2025 exam, with a fresh exam promised within three months.",
+    "asOfDate": "2025-10-27",
+    "sourceIds": [
+      "src-uksssc-2022",
+      "src-uksssc-badoni",
+      "src-uksssc-2025-cbi"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years between the first UKSSSC graduate-level leak (2022) and the second, despite a new life-imprisonment anti-cheating law in between",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 3,
+    "targetDisplay": "0 — a new life-imprisonment law was meant to deter recurrence",
+    "actualDisplay": "~3 years until a comparable leak recurred",
+    "targetLabel": "Promised deterrence",
+    "actualLabel": "Actual recurrence",
+    "note": "This metric captures the recurrence itself: Uttarakhand passed one of India's toughest anti-paper-leak laws after the 2022 scandal, yet a comparable leak, allegedly from an exam centre rather than a printing press, recurred in September 2025."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2022-08-01",
+      "label": "2022 graduate-level leak surfaces",
+      "detail": "Allegations of malpractice in UKSSSC's graduate-level exams, conducted via contracted firm RMS Technosolutions, become public.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-01",
+      "label": "Official suspended; exam cancelled",
+      "detail": "Joint secretary Santosh Badoni is suspended over alleged negligence; the state cancels the graduate-level exam and pledges to reconduct it within three months.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-01-06",
+      "label": "Badoni reinstated",
+      "detail": "The state government withdraws Badoni's suspension, citing procedural issues and no evidence linking him to the leak.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-21",
+      "label": "Second graduate-level exam leaked",
+      "detail": "A UKSSSC graduate-level exam for around 416 posts, sat by over one lakh candidates, is compromised after three pages leak from a Haridwar exam centre.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-01",
+      "label": "CM approves CBI probe",
+      "detail": "Pushkar Singh Dhami, after meeting protesting students, approves handing the investigation to the CBI.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-27",
+      "label": "CBI headquarters approves and begins probe",
+      "detail": "CBI formally takes over investigation of the September 2025 UKSSSC leak.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The 2022 leak produced 35 arrests via a joint Dehradun Police-STF probe; the 2025 leak has been referred to the CBI, whose investigation was ongoing as of the sources reviewed. This investigation has not confirmed any chargesheets, trial stage, or convictions in either matter.",
+    "keyIndividuals": [
+      {
+        "name": "Santosh Badoni",
+        "role": "Joint Secretary-level officer, Uttarakhand Secretariat Administration Department",
+        "outcome": "Suspended in September 2022 over alleged negligence in the 2022 leak; reinstated after roughly two years when no evidence was found linking him to the leak."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a stub entry, pending fuller research. Two separate, well-documented leaks of UKSSSC graduate-level exams occurred roughly three years apart, despite a life-imprisonment anti-cheating law enacted after the first. This entry treats the pattern of recurrence itself as the central verified fact; it has not yet confirmed the legal outcome of either investigation.",
+    "confidence": "low",
+    "reasoning": "The 2022 leak, arrests, exam cancellation, and the 2025 leak and CBI referral are each corroborated by multiple independent reports, including state government statements reported via ETV Bharat and India TV. However, this entry has not confirmed chargesheets or trial outcomes for either the 2022 or 2025 matter."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on chargesheets, trial stage, and convictions in both the 2022 and 2025 leaks is pending.",
+    "The current status of the 35 people arrested in 2022, including any trial outcomes, has not been confirmed.",
+    "Whether the September 2025 exam has since been rescheduled and conducted has not been confirmed as of this entry's research.",
+    "The specific provisions and first invocations of Uttarakhand's anti-cheating law have not been independently verified here."
+  ],
+  "sources": [
+    {
+      "id": "src-uksssc-overview",
+      "label": "Uttarakhand Job Aspirants Erupt in Protest Over Alleged UKSSSC Paper Leak, Demand CBI Probe, Exam Cancellation",
+      "type": "independent",
+      "publisher": "The Logical Indian",
+      "date": "2022-08-05",
+      "url": "https://thelogicalindian.com/uttarakhand-job-aspirants-erupt-in-protest-over-alleged-uksssc-paper-leak-demand-cbi-probe-exam-cancellation/"
+    },
+    {
+      "id": "src-uksssc-2022",
+      "label": "UKSSSC Paper Leak: Uttarakhand government cancels graduate-level examination; to be held within 3 months",
+      "type": "independent",
+      "publisher": "Careers360",
+      "date": "2022-09-01",
+      "url": "https://news.careers360.com/uksssc-paper-leak-uttarakhand-government-cancels-graduate-level-examination-to-be-held-within-3-months"
+    },
+    {
+      "id": "src-uksssc-badoni",
+      "label": "UKSSSC Paper Leak: Uttarakhand Govt On Backfoot, Reinstates Suspended Official After 2 Years",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2025-01-06",
+      "url": "https://www.etvbharat.com/en/!state/2022-uksssc-paper-leak-case-santosh-badoni-gets-clean-chit-by-uttarakhand-govt-enn25010605719"
+    },
+    {
+      "id": "src-uksssc-2025-cbi",
+      "label": "CBI Takes Over UKSSSC Exam Paper Leak Scam Investigation",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2025-10-27",
+      "url": "https://www.etvbharat.com/en/state/cbi-central-headquarters-approves-cbi-probe-into-uttarakhand-uksssc-paper-leak-case-enn25102705931"
+    }
+  ]
+}

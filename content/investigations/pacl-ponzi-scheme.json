@@ -1,0 +1,144 @@
+{
+  "id": "KB-046",
+  "slug": "pacl-ponzi-scheme",
+  "title": "The PACL Ponzi Scheme",
+  "dek": "A Punjab-based agro company collected an estimated ₹49,100 crore from 5.5 crore investors — twice the size of Sahara's scheme — through land-purchase plans regulators eventually ruled were illegal.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 14,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2014-08-22",
+  "heroStat": {
+    "value": "5.5 crore",
+    "label": "investors PACL is alleged to have collected money from"
+  },
+  "promise": {
+    "quote": "Funds collected by PACL Ltd. (formerly Pearls Agrotech Corporation) under its land-purchase and investment schemes will be used to acquire the promised land or returned with agreed returns.",
+    "madeBy": "PACL Ltd., under chairman Nirmal Singh Bhangoo",
+    "role": "Private agro-real estate company operating collective investment schemes nationwide",
+    "date": "1996-01-01",
+    "context": "PACL ran land-purchase-linked investment schemes across India for nearly two decades before SEBI ruled the scheme an illegal, unregistered collective investment scheme.",
+    "sourceIds": [
+      "src-pacl-overview"
+    ]
+  },
+  "target": {
+    "description": "Deposits collected only through SEBI-registered collective investment schemes, with funds genuinely deployed and returns or land delivered as promised.",
+    "standard": "SEBI (Collective Investment Schemes) Regulations.",
+    "referenceDate": "1996-01-01"
+  },
+  "reality": {
+    "description": "SEBI ordered PACL on 22 August 2014 to wind up its schemes and refund roughly ₹49,100 crore to about 5.5 crore investors. PACL's appeal to the Securities Appellate Tribunal was dismissed in August 2015, which similarly ordered a refund within three months. As of the most recent reporting reviewed, close to 21 lakh investors with claims up to ₹19,000 each had been paid a total of ₹1,021.84 crore, with the Supreme Court overseeing further refunds through two monitoring committees. Bhangoo, arrested in 2016, died on 26 August 2024 with the refund process still incomplete.",
+    "asOfDate": "2024-08-26",
+    "sourceIds": [
+      "src-pacl-refund",
+      "src-pacl-death"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount SEBI ordered refunded vs. amount actually paid out to claimants",
+    "unit": "₹ crore",
+    "targetValue": 49100,
+    "actualValue": 1022,
+    "targetDisplay": "₹49,100 cr ordered refunded",
+    "actualDisplay": "₹1,021.84 cr paid to ~21 lakh claimants",
+    "targetLabel": "Ordered",
+    "actualLabel": "Paid",
+    "note": "The low payout rate partly reflects the process of verifying claims among 5.5 crore alleged investors, which the Supreme Court's monitoring committees have been working through for years; it should not be read as implying most of the ordered amount is confirmed unrecoverable."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 49100,
+    "allocatedLabel": "SEBI-ordered refund",
+    "released": 1022,
+    "releasedLabel": "Paid to verified claimants so far",
+    "spent": null,
+    "spentLabel": "Amount still owed",
+    "unit": "crore",
+    "notes": "This is, by claimed investor count, one of the largest deposit-taking schemes ever investigated in India, roughly twice the scale claimed in the Sahara case. Refunds are being processed by Supreme-Court-appointed committees rather than through a single lump-sum settlement.",
+    "sourceIds": [
+      "src-pacl-refund"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1996-01-01",
+      "label": "Scheme launches",
+      "detail": "Pearls Agrotech Corporation begins its land-linked investment schemes.",
+      "type": "announcement"
+    },
+    {
+      "date": "2014-08-22",
+      "label": "SEBI orders refund",
+      "detail": "The regulator directs PACL to wind up its schemes and refund ₹49,100 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2015-08-12",
+      "label": "SAT dismisses appeal",
+      "detail": "The Securities Appellate Tribunal upholds the refund order.",
+      "type": "status"
+    },
+    {
+      "date": "2016-01-01",
+      "label": "Bhangoo arrested",
+      "detail": "PACL's chairman is taken into custody.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-26",
+      "label": "Bhangoo dies",
+      "detail": "He dies in a Delhi hospital with the refund process still ongoing.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "SEBI's finding that the scheme was illegal is final and was upheld on appeal. Nirmal Singh Bhangoo was arrested and spent years in custody but died before this investigation could confirm a completed criminal trial.",
+    "keyIndividuals": [
+      {
+        "name": "Nirmal Singh Bhangoo",
+        "role": "Chairman, PACL Ltd.",
+        "outcome": "Arrested 2016; died 26 August 2024. This investigation has not confirmed whether a criminal trial against him concluded before his death."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "SEBI's and the Securities Appellate Tribunal's finding that this was an illegal, unregistered scheme is settled and final. What remains genuinely unresolved is restitution at scale: roughly a decade after the refund order, only about 2% of the ordered amount has reached verified claimants, out of a claimed investor base larger than almost any other scheme on this site.",
+    "confidence": "medium",
+    "reasoning": "The regulatory finding of illegality is not in dispute. Confidence is not higher because this investigation has not verified the current, most up-to-date total refund figure or the criminal case's final status following Bhangoo's death."
+  },
+  "incomplete": [
+    "The most current total refund figure, beyond the ₹1,021.84 crore reported at one point, has not been confirmed for this entry.",
+    "Whether any criminal conviction was recorded against Bhangoo or other PACL officials before his death has not been established.",
+    "It is not established how the Supreme Court's monitoring committees plan to verify and pay the remaining claims among 5.5 crore alleged investors."
+  ],
+  "sources": [
+    {
+      "id": "src-pacl-overview",
+      "label": "Pearls Group",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Pearls_Group"
+    },
+    {
+      "id": "src-pacl-refund",
+      "label": "Refund Rs 49,000 cr to investors: Sebi to PACL",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2014-08-22",
+      "url": "https://www.business-standard.com/amp/article/companies/sebi-asks-pacl-to-refund-rs-49-000-cr-to-investors-114082201088_1.html"
+    },
+    {
+      "id": "src-pacl-death",
+      "label": "How Punjab-based milkman pulled a Rs 50,000 crore scam; duped more than 5 crore people across India",
+      "type": "independent",
+      "publisher": "Zee Business",
+      "date": "2024-08-26",
+      "url": "https://www.zeebiz.com/trending/news-pacl-scam-exposed-55-crore-people-duped-india-biggest-ponzi-scheme-milkman-to-mastermind-nirmal-singh-bhangoo-full-story-sebi-311045"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "KB-1512",
+  "slug": "tasmac-liquor-corporation-scam",
+  "title": "The TASMAC Liquor Corporation Scam",
+  "dek": "The ED alleges a ₹1,000-crore network of manipulated tenders and unaccounted cash ran through Tamil Nadu's state liquor monopoly, implicating a sitting minister — but the Supreme Court has since stayed the agency's own investigation.",
+  "category": "Public Spending",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 157,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-03-13",
+  "heroStat": {
+    "value": "₹1,000 cr",
+    "label": "in unaccounted cash and irregularities the ED alleges it found in TASMAC's tender and supply dealings"
+  },
+  "promise": {
+    "quote": "TASMAC, as Tamil Nadu's state monopoly for liquor retail, will award transport, bottling, and bar-licence tenders transparently and on merit, with all revenue properly accounted for the state exchequer.",
+    "madeBy": "Tamil Nadu State Marketing Corporation (TASMAC), a Government of Tamil Nadu undertaking",
+    "role": "State-owned monopoly liquor retailer and revenue generator for Tamil Nadu",
+    "date": "2025-03-13",
+    "context": "The Enforcement Directorate began investigating alleged large-scale corruption in TASMAC's dealings with distillery and bottling suppliers, ultimately implicating officials and a sitting minister linked to the ruling DMK.",
+    "sourceIds": [
+      "src-tasmac-organiser"
+    ]
+  },
+  "target": {
+    "description": "Transport, distillery-supply, and bar-licence tenders awarded transparently, with all cash transactions accounted for and no collusion between suppliers and officials to secure undue favours.",
+    "standard": "Tamil Nadu government procurement and excise regulations governing TASMAC's operations.",
+    "referenceDate": "2025-03-13"
+  },
+  "reality": {
+    "description": "The ED alleges that a network involving politicians, bureaucrats, and distillery owners siphoned off more than ₹1,000 crore through manipulated tenders, inflated expenses, and illegal cash transactions in TASMAC's dealings, with irregularities found in transport and bar-licence tenders involving fake documentation. Distillery companies including SNJ, Kals, Accord, SAIFL, and Shiva Distillery, along with bottling entities Devi Bottles, Crystal Bottles, and GLR Holding, are alleged to have colluded with senior officials. The ED conducted raids at TASMAC's headquarters and supplier offices, and in a fresh case, raided premises linked to Tamil Nadu minister V. Senthil Balaji and others connected to TASMAC. On 23 May 2025, the Supreme Court stayed the ED's investigation, and the Tamil Nadu government has denied the allegations, calling the ED's related 'cash-for-jobs' claims in a separate state department politically motivated.",
+    "asOfDate": "2025-05-23",
+    "sourceIds": [
+      "src-tasmac-organiser",
+      "src-tasmac-dh-1000cr",
+      "src-tasmac-dh-senthilbalaji"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged unaccounted cash and irregularities vs. confirmed recovery or conviction",
+    "unit": "₹ crore",
+    "targetValue": 1000,
+    "actualValue": 0,
+    "targetDisplay": "₹1,000 cr alleged irregularities",
+    "actualDisplay": "No confirmed recovery or conviction; probe stayed by Supreme Court",
+    "targetLabel": "Alleged irregularities",
+    "actualLabel": "Confirmed outcome",
+    "note": "The Supreme Court's stay of the ED's investigation means the allegations remain untested; this investigation found no confirmed recovery, chargesheet-stage conviction, or asset-attachment total specific to this case."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-03-13",
+      "label": "ED raids TASMAC offices",
+      "detail": "The ED raids TASMAC's headquarters and multiple distillery and bottling supplier offices, alleging ₹1,000 crore in unaccounted cash dealings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-05-16",
+      "label": "ED raids film producer's residence, TASMAC offices",
+      "detail": "The agency raids the Chennai residence of film producer Akash Baskaran and TASMAC offices as part of the widening ₹1,000 crore scam probe.",
+      "type": "status"
+    },
+    {
+      "date": "2025-05-01",
+      "label": "Fresh case against Senthil Balaji",
+      "detail": "The ED conducts raids in a fresh case linked to Tamil Nadu minister V. Senthil Balaji and others connected to TASMAC.",
+      "type": "status"
+    },
+    {
+      "date": "2025-05-23",
+      "label": "Supreme Court stays ED probe",
+      "detail": "The Supreme Court of India stays the Enforcement Directorate's investigation into the TASMAC allegations.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The ED's investigation has been stayed by the Supreme Court; this investigation found no chargesheet or trial outcome, and the Tamil Nadu government disputes the allegations.",
+    "keyIndividuals": [
+      {
+        "name": "V. Senthil Balaji",
+        "role": "Tamil Nadu minister",
+        "outcome": "Named in a fresh ED case linked to TASMAC; no chargesheet or conviction confirmed in this matter as of this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the ED has alleged a large-scale, politically connected corruption network within a state liquor monopoly, but the investigation's stay by the Supreme Court leaves the core allegations formally unresolved, and the state government disputes them entirely.",
+    "confidence": "low",
+    "reasoning": "This entry synthesises several independent reports of ED raids and the subsequent Supreme Court stay from March-May 2025, but has not reviewed the ED's underlying case documents or the Supreme Court's stay order directly."
+  },
+  "incomplete": [
+    "This is a stub entry; the Supreme Court's specific grounds for staying the ED probe have not been researched.",
+    "The current status of the stay and any subsequent hearings as of September 2026 has not been confirmed.",
+    "The relationship between the TASMAC tender-fraud allegations and the separately reported 'cash-for-jobs' allegations against the Tamil Nadu government has not been fully disentangled here."
+  ],
+  "sources": [
+    {
+      "id": "src-tasmac-organiser",
+      "label": "Tamil Nadu: ED raids reveal Rs. 1,000 crore irregularities in TASMAC dealings",
+      "type": "independent",
+      "publisher": "Organiser",
+      "date": "2025-03-14",
+      "url": "https://organiser.org/2025/03/14/282240/bharat/tamil-nadu-ed-raids-reveal-rs-1000-crore-irregularities-in-tasmac-dealings/"
+    },
+    {
+      "id": "src-tasmac-dh-1000cr",
+      "label": "ED detects unaccounted cash deals worth Rs 1,000 crore in TASMAC operations in Tamil Nadu",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-03-13",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/ed-detects-unaccounted-cash-deals-worth-rs-1000-crore-in-tasmac-operations-in-tamil-nadu-3445762"
+    },
+    {
+      "id": "src-tasmac-dh-senthilbalaji",
+      "label": "Tamil Nadu: ED raids in fresh case against Senthil Balaji, others linked to TASMAC",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-05-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Ftamil-nadu%2Ftamil-nadu-ed-raids-in-fresh-case-against-senthil-balaji-others-linked-to-tasmac-3434522"
+    },
+    {
+      "id": "src-tasmac-dh-newsonair",
+      "label": "ED raids film producer Akash Baskaran's Chennai residence, TASMAC offices in ₹1,000 crore scam probe",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2025-05-16",
+      "url": "https://www.newsonair.gov.in/ed-raids-film-producer-akash-baskarans-chennai-residence-tasmac-offices-in-%E2%82%B91000-crore-scam-probe"
+    }
+  ]
+}

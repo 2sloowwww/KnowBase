@@ -1,0 +1,150 @@
+{
+  "id": "KB-2901",
+  "slug": "2012-delhi-gangrape-nirbhaya-case",
+  "title": "The 2012 Delhi Gang Rape and the Promise of a Safer Capital",
+  "dek": "The brutal gang rape and murder of a 23-year-old physiotherapy student on a moving Delhi bus in December 2012 shattered the government's standing assurances about women's safety in the capital. It forced the fastest criminal-law reform in independent India's history -- yet more than a decade later, Delhi's own crime data show sexual violence against women remains a persistent, unresolved problem.",
+  "category": "Public Spending",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 59,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2012-12-16",
+  "heroStat": {
+    "value": "29 days",
+    "label": "the time the Justice Verma Committee took to produce sweeping criminal-law reform recommendations after the attack"
+  },
+  "promise": {
+    "quote": "There can be no meaningful development without the active participation of half the population, and this participation simply cannot take place if their security and safety is not assured.",
+    "madeBy": "Manmohan Singh",
+    "role": "Prime Minister of India",
+    "date": "2012-12-24",
+    "context": "Televised address to the nation amid nationwide protests following the December 16, 2012 gang rape, in which the Prime Minister pledged reforms to protect women's safety.",
+    "sourceIds": [
+      "src-nirbhaya-pmvow"
+    ]
+  },
+  "target": {
+    "description": "A national capital, and a country, where women could use public transport and public space without a realistic fear of gang sexual assault, backed by a criminal justice system capable of fast, effective prosecution of sexual offences.",
+    "standard": "The government's own December 2012 commitments to reform laws and policing practices, and the specific recommendations of the Justice J.S. Verma Committee report of January 23, 2013.",
+    "referenceDate": "2013-01-23"
+  },
+  "reality": {
+    "description": "On the night of December 16, 2012, a 23-year-old physiotherapy student, later widely known by the pseudonym 'Nirbhaya', was gang-raped and brutally assaulted by six men on a moving private bus in Delhi; she died of her injuries on December 29, 2012. The attack triggered weeks of nationwide protests demanding safer cities and tougher laws. The government moved with unusual speed: a three-member committee led by former Chief Justice J.S. Verma, with Justice Leila Seth and former Solicitor General Gopal Subramanium, was constituted on December 23, 2012 and delivered its report on January 23, 2013 after reviewing roughly 80,000 public submissions. Many of its recommendations were incorporated into the Criminal Law (Amendment) Act, 2013, which broadened the definition of rape, created new offences (acid attacks, stalking, voyeurism, disrobing), and mandated fast-track trials for sexual offences. One of the six attackers died in judicial custody in 2013 in circumstances officially ruled a suicide; a juvenile attacker was tried separately and released in 2015 after serving the maximum three-year term then permitted under juvenile law; the four adult convicts were executed by hanging on March 20, 2020, after exhausting appeals. Despite these reforms, subsequent NCRB data have continued to record thousands of reported rape cases annually in Delhi, and women's safety surveys have continued to rank the city poorly, indicating the deeper promise of a demonstrably safer capital remains only partly fulfilled.",
+    "asOfDate": "2020-03-20",
+    "sourceIds": [
+      "src-nirbhaya-verma",
+      "src-nirbhaya-clcl2013",
+      "src-nirbhaya-scc"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Justice Verma Committee's core recommendations enacted into the 2013 law vs. recommendations left out",
+    "unit": "recommendations",
+    "targetValue": 1,
+    "actualValue": 1,
+    "targetDisplay": "Comprehensive reform including police accountability and marital rape criminalisation",
+    "actualDisplay": "Criminal Law (Amendment) Act 2013 enacted most substantive recommendations, but marital rape was not criminalised and police reform/accountability recommendations were largely not implemented",
+    "targetLabel": "Recommended",
+    "actualLabel": "Enacted",
+    "note": "This gap is qualitative rather than a precise count: the Verma Committee's report ran to hundreds of recommendations across policing, education and law; this entry does not attempt to enumerate all of them, but notes that marital rape criminalisation and police accountability reforms -- two of its most significant recommendations -- were not adopted in the 2013 Act."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2012-12-16",
+      "label": "Gang rape on moving bus in Delhi",
+      "detail": "A 23-year-old student is gang-raped and assaulted by six men on a private bus in South Delhi; she succumbs to her injuries on December 29, 2012.",
+      "type": "status"
+    },
+    {
+      "date": "2012-12-23",
+      "label": "Justice Verma Committee constituted",
+      "detail": "The central government sets up a three-member committee under former Chief Justice J.S. Verma to recommend criminal law reforms, amid nationwide protests.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-01-23",
+      "label": "Verma Committee report submitted",
+      "detail": "The committee submits its report after 29 days, having reviewed around 80,000 public suggestions, recommending sweeping reforms to sexual offence law and policing.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-04-02",
+      "label": "Criminal Law (Amendment) Act 2013 receives assent",
+      "detail": "The Act broadens the definition of rape and creates new offences including acid attacks, stalking, voyeurism and disrobing; it comes into force the next day.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-12-20",
+      "label": "Juvenile convict released",
+      "detail": "The youngest of the six attackers, tried as a juvenile, is released after serving the then-maximum three-year term, prompting further public debate over juvenile sentencing that fed into the Juvenile Justice Act, 2015.",
+      "type": "status"
+    },
+    {
+      "date": "2020-03-20",
+      "label": "Four adult convicts executed",
+      "detail": "The four adult convicts are hanged at Tihar Jail after the Supreme Court rejects their final appeals and curative/mercy petitions.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Of the six accused, four adult convicts were sentenced to death and executed in March 2020; one accused died in judicial custody in 2013; the juvenile offender was tried under juvenile law and released in 2015 after the maximum permissible term at the time.",
+    "keyIndividuals": [
+      {
+        "name": "Mukesh Singh, Pawan Gupta, Vinay Sharma, Akshay Thakur",
+        "role": "Convicted adult attackers",
+        "outcome": "Sentenced to death; executed by hanging on 20 March 2020"
+      },
+      {
+        "name": "Ram Singh",
+        "role": "Accused, driver of the bus",
+        "outcome": "Died in Tihar Jail custody in March 2013, officially ruled a suicide"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The government's promise of a fast, comprehensive legal response was substantially kept -- the Verma Committee and the 2013 Act represent one of the most rapid and far-reaching criminal law reforms in India's post-independence history, and the convicts were eventually executed. The broader promise of a capital where women are safe from such violence remains unmet: reported sexual offences against women in Delhi have continued at high levels in the years since, and some Verma Committee recommendations, including on marital rape and police accountability, were never enacted.",
+    "confidence": "high",
+    "reasoning": "The legislative and judicial timeline is extensively documented by primary legal texts and multiple independent sources. The claim about persistently high reported sexual-offence numbers in Delhi is based on recurring NCRB and city crime data reporting rather than a single authoritative post-2013 audit, so this entry treats that part of the picture as well-supported but not exhaustively quantified here."
+  },
+  "incomplete": [
+    "This entry does not include a full year-by-year count of NCRB rape/sexual-assault statistics for Delhi from 2013 to the present; it relies on widely reported patterns rather than an original statistical analysis.",
+    "The Justice Verma Committee's recommendations on police reform and marital rape criminalisation were not enacted in the 2013 Act; the current status of related pending litigation on marital rape before Indian courts is not tracked in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-nirbhaya-pmvow",
+      "label": "Indian PM appeals for calm, vows to protect women",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2012-12-24",
+      "url": "https://www.aljazeera.com/news/2012/12/24/india-pm-appeals-for-calm-after-rape-protests"
+    },
+    {
+      "id": "src-nirbhaya-verma",
+      "label": "Report of the Committee on Amendments to Criminal Law (Justice Verma Committee)",
+      "type": "primary",
+      "publisher": "Government of India",
+      "date": "2013-01-23",
+      "url": "http://cafi-online.org/iec/JusticeVermaCommittee-and-Criminal-Law.pdf"
+    },
+    {
+      "id": "src-nirbhaya-clcl2013",
+      "label": "Criminal Law (Amendment) Act, 2013",
+      "type": "independent",
+      "publisher": "iPleaders",
+      "date": "2013-04-02",
+      "url": "https://blog.ipleaders.in/criminal-law-amendment-act-2013/"
+    },
+    {
+      "id": "src-nirbhaya-scc",
+      "label": "The Criminal Law (Amendment) Act 2013 -- legal resource summary",
+      "type": "independent",
+      "publisher": "Cornell Law School, Legal Information Institute (Gender Justice Uganda resource)",
+      "date": "2013-04-02",
+      "url": "https://www.law.cornell.edu/gender-justice/resource/the_criminal_law_(amendment)_act_2013"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "KB-1008",
+  "slug": "go-first-airlines-insolvency",
+  "title": "Go First: Grounded by Engines, Ended in Liquidation",
+  "dek": "Go First blamed Pratt & Whitney's faulty engines for grounding half its fleet and filed for voluntary insolvency in May 2023 — even though it had not defaulted on any loan. Nearly two years, dozens of repossessed aircraft, and one failed revival attempt later, the NCLT ordered the airline liquidated.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 142,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-05-02",
+  "heroStat": {
+    "value": "₹11,000 cr",
+    "label": "approximate total debt owed by Go First to lenders, vendors, aircraft lessors and customers at the time of its insolvency filing, including roughly ₹6,522 crore to its four main lending banks"
+  },
+  "promise": {
+    "quote": "Go First (Go Airlines India Ltd), as a scheduled domestic carrier, was expected to operate its fleet reliably using airworthy engines maintained per its supplier agreements, to meet its financial obligations to lenders, lessors and vendors, and — having voluntarily sought insolvency protection rather than defaulting — to be revived as a going concern through the IBC process rather than liquidated.",
+    "madeBy": "Go Airlines (India) Ltd management, under the Wadia Group promoters",
+    "role": "Promoter group (Wadia Group) and management, Go First",
+    "date": "2021-01-01",
+    "context": "This reflects the general operational and financial standard expected of a scheduled airline and the stated purpose of a voluntary IBC filing (revival, not liquidation), rather than a specific public quotation by Go First's management.",
+    "sourceIds": [
+      "src-gofirst-overview"
+    ]
+  },
+  "target": {
+    "description": "That Go First's fleet would remain airworthy and available using functioning engines per its Pratt & Whitney supply agreement, that the airline would meet its debt and lease obligations, and that its voluntary insolvency filing — made while the airline said it had not defaulted on any lender repayment — would lead to revival under a resolution plan rather than a shutdown.",
+    "standard": "Aircraft-engine supply and maintenance agreements with Pratt & Whitney; the Insolvency and Bankruptcy Code, 2016's stated objective of reorganisation and revival over liquidation.",
+    "referenceDate": "2023-05-02"
+  },
+  "reality": {
+    "description": "On 2 May 2023, Go Airlines (India) Ltd — flying as Go First — filed for voluntary insolvency resolution before the NCLT's Delhi bench, blaming defective Pratt & Whitney (P&W) geared turbofan engines for grounding roughly half its Airbus A320neo fleet. In its filing, Go First alleged P&W supplied 'inherently defective engines' and failed proper maintenance, causing available fleet capacity to fall from 96% in FY2015 to 54% in FY2023, with 50% of its P&W engines unavailable for flying as of March 2023; Go First said this had already cost it over ₹10,800 crore in the preceding years and sought interim relief compelling P&W to release spare engines, which a US arbitrator initially ordered but which Go First's own emergency-arbitration bid over broader enforcement was later denied by a US court. Pratt & Whitney disputed the airline's account, attributing its collapse instead to 'its own poor management and events like Covid.' NCLT admitted Go First's insolvency plea on 10 May 2023 over opposition from aircraft lessors, several of whom sought repossession of over 20 aircraft; lenders, who noted Go First had not defaulted on any loan repayment before filing, considered ordering a forensic audit to check for any fund diversion prior to the filing, though this entry has not found a public forensic-audit report confirming or ruling out diversion. Total debts were reported at roughly ₹11,000 crore, including about ₹6,522 crore owed to its four main lending banks, ₹2,000 crore to aircraft lessors, and further sums owed to vendors, travel agents and customers awaiting refunds. The Wadia Group, Go First's promoter since its 2005 founding, did not participate in the bidding process for the airline's revival. With no viable bids, the Committee of Creditors voted unanimously in August 2024 to liquidate the airline, and NCLT formally ordered liquidation under Section 33(2) of the IBC on 20 January 2025. Lessors progressively repossessed and deregistered the grounded fleet — 28 of 56 aircraft had been deregistered and returned by December 2024 — following an April 2024 Delhi High Court ruling permitting deregistration.",
+    "asOfDate": "2025-01-20",
+    "sourceIds": [
+      "src-gofirst-filing",
+      "src-gofirst-forensic",
+      "src-gofirst-liquidation"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total debt owed by Go First vs. the value ultimately recoverable through liquidation rather than a going-concern revival",
+    "unit": "INR crore",
+    "targetValue": 11000,
+    "actualValue": 0,
+    "targetDisplay": "~₹11,000 cr total debt (lenders, lessors, vendors, customers)",
+    "actualDisplay": "No going-concern resolution plan was found viable; NCLT ordered liquidation in January 2025",
+    "targetLabel": "Total debt at time of filing",
+    "actualLabel": "Value recovered via revival (none — liquidated instead)",
+    "note": "Liquidation typically recovers only a fraction of a company's value compared to a going-concern sale; this entry has not obtained a final, confirmed liquidation-recovery figure across all creditor classes."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 11000,
+    "allocatedLabel": "Approximate total debt owed by Go First across lenders, lessors, vendors and customers at insolvency filing",
+    "released": null,
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "Go First separately claimed cumulative losses of over ₹10,800 crore attributable to grounded aircraft from defective Pratt & Whitney engines, a figure disputed by Pratt & Whitney. This entry has not found a confirmed final liquidation-recovery amount for creditors.",
+    "sourceIds": [
+      "src-gofirst-filing"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-05-02",
+      "label": "Go First files for voluntary insolvency",
+      "detail": "Go First applies to NCLT for voluntary insolvency resolution, blaming Pratt & Whitney's defective engines for grounding about half its fleet; the airline says it had not defaulted on any lender repayment.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-05-10",
+      "label": "NCLT admits the insolvency plea",
+      "detail": "NCLT admits Go First's insolvency application over objections from aircraft lessors, several of whom seek repossession of more than 20 aircraft.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-06-19",
+      "label": "Lenders weigh forensic audit",
+      "detail": "Lenders consider a forensic audit of Go First's accounts to check for any fund diversion prior to the insolvency filing, given the airline had not been in default when it filed.",
+      "type": "status"
+    },
+    {
+      "date": "2024-04-01",
+      "label": "Delhi HC permits aircraft deregistration",
+      "detail": "The Delhi High Court allows lessors to deregister and repossess their leased aircraft from Go First's grounded fleet, effectively ending near-term revival hopes.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-08-04",
+      "label": "Creditors vote to liquidate",
+      "detail": "Go First's Committee of Creditors unanimously decides to liquidate the airline after failing to secure viable revival bids.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-01-20",
+      "label": "NCLT orders liquidation",
+      "detail": "NCLT formally orders Go First's liquidation under Section 33(2) of the IBC, ending the insolvency process without a revival.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a corporate insolvency matter, not a criminal fraud case. NCLT ordered liquidation in January 2025 after no viable revival bid emerged. Lenders reportedly considered (but this entry has not confirmed the outcome of) a forensic audit to examine possible fund diversion prior to the filing; no criminal charges against Go First's promoters (the Wadia Group) tied to fund diversion have been confirmed by this entry. Separately, Go First's arbitration and litigation against Pratt & Whitney over the defective-engine allegations continued in parallel in US and other courts.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Go First's core claim — that Pratt & Whitney's defective engines crippled its fleet — is well documented in the airline's own regulatory filings and figures, though P&W disputes the airline bears no responsibility itself. What is clear and undisputed is the outcome: a carrier that said it had not defaulted on any loan nonetheless ended up liquidated after nearly two years of failed revival efforts, leaving lenders, lessors, vendors and customers with unresolved claims. Allegations of possible pre-filing fund diversion by promoters were raised by lenders but this entry found no confirmed forensic-audit findings either way.",
+    "confidence": "medium",
+    "reasoning": "The insolvency filing, NCLT admission, lessor disputes, and eventual liquidation are well corroborated by multiple independent sources. The fund-diversion angle remains an open question — lenders reportedly considered a forensic audit but this entry could not confirm its findings were ever made public, so that allegation is flagged as unresolved rather than established."
+  },
+  "incomplete": [
+    "Whether lenders' proposed forensic audit of Go First's pre-filing accounts was completed, and what (if anything) it found regarding fund diversion, has not been confirmed by this entry.",
+    "The final outcome of Go First's arbitration/litigation against Pratt & Whitney over the defective-engine allegations, and any damages recovered, has not been confirmed.",
+    "Exact final recovery amounts for each creditor class (lenders, lessors, vendors, customers awaiting refunds) under liquidation have not been confirmed as of this entry's sourcing.",
+    "This entry has not independently reviewed the primary NCLT liquidation order or Go First's original insolvency application — all facts are drawn from secondary business-press reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-gofirst-overview",
+      "label": "Go First at NCLT: What are the airline's allegations against Pratt & Whitney?",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2023-05-04",
+      "url": "https://www.businesstoday.in/industry/aviation/story/go-first-at-nclt-what-are-the-airlines-allegations-against-pratt-whitney-380026-2023-05-04"
+    },
+    {
+      "id": "src-gofirst-filing",
+      "label": "Go First cancels flights for three days from May 3, files for voluntary insolvency resolution proceedings",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2023-05-02",
+      "url": "https://www.deccanherald.com/business/go-first-cancels-flights-for-three-days-from-may-3-files-for-voluntary-insolvency-resolution-proceedings-1214961.html"
+    },
+    {
+      "id": "src-gofirst-forensic",
+      "label": "Lenders considering forensic audit of Go First to check on funds",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-06-19",
+      "url": "https://www.business-standard.com/companies/news/lenders-considering-forensic-audit-of-go-first-to-check-on-funds-123061900249_1.html"
+    },
+    {
+      "id": "src-gofirst-liquidation",
+      "label": "Tribunal orders liquidation of India's Go First",
+      "type": "independent",
+      "publisher": "ch-aviation",
+      "date": "2025-01-21",
+      "url": "https://www.ch-aviation.com/news/149462-tribunal-orders-liquidation-of-indias-go-first"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "KB-2609",
+  "slug": "maha-kumbh-2025-stampede",
+  "title": "The Maha Kumbh 2025 Sangam Stampede",
+  "dek": "Uttar Pradesh promised the 'best-ever managed' Maha Kumbh for the roughly 400 million pilgrims expected in Prayagraj. In the early hours of Mauni Amavasya, a barricade collapse under crowd pressure at the Sangam killed dozens — with the state's official death toll disputed by independent investigations reporting far higher numbers.",
+  "category": "Public Spending",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 47,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-01-29",
+  "heroStat": {
+    "value": "30-82",
+    "label": "reported death toll range: official figures cite around 30, while a BBC investigation identified evidence of at least 82 deaths"
+  },
+  "promise": {
+    "quote": "This will be the most well-organised and best-managed Kumbh in history, with foolproof crowd management arrangements for the safety of every pilgrim.",
+    "madeBy": "Yogi Adityanath",
+    "role": "Chief Minister of Uttar Pradesh",
+    "date": "2025-01-01",
+    "context": "Statements made in the lead-up to the 2025 Maha Kumbh Mela at Prayagraj, a 45-day Hindu festival the state government said would draw over 400 million pilgrims, billed as an unprecedented feat of crowd management and infrastructure.",
+    "sourceIds": [
+      "src-kumbh-wikipedia"
+    ]
+  },
+  "target": {
+    "description": "Safe crowd management at the Sangam and other bathing ghats, particularly on the most auspicious bathing dates when the largest crowds were expected, with no loss of life from crowd-control failures.",
+    "standard": "The state government's own stated 'foolproof' safety commitments and its extensive published crowd-management plan for the mela.",
+    "referenceDate": "2025-01-01"
+  },
+  "reality": {
+    "description": "In the pre-dawn hours of January 29, 2025 — Mauni Amavasya, the most auspicious bathing day — barricades gave way under pressure from a crowd of an estimated one to two million people converging on the Sangam for the Amrit Snan, triggering a crush. Uttar Pradesh police put the official death toll at 30, with 60 injured, and the state announced ex gratia payments of ₹25 lakh per deceased family alongside a judicial inquiry ordered by Chief Minister Yogi Adityanath. Independent reporting disputed the official count: a sting operation by the 4PM news network put the toll at 58, and a BBC investigation identified evidence of at least 82 deaths — figures the state government has not accepted.",
+    "asOfDate": "2025-02-01",
+    "sourceIds": [
+      "src-kumbh-deccan-tollconfirm",
+      "src-kumbh-abc"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Official death toll vs. independently investigated death toll",
+    "unit": "deaths",
+    "targetValue": 30,
+    "actualValue": 82,
+    "targetDisplay": "30 (Uttar Pradesh Police's official figure)",
+    "actualDisplay": "82 (BBC investigation's documented minimum)",
+    "note": "The state government disputes the higher independent figures; this entry reports both rather than treating either as conclusively correct, and flags the discrepancy as unresolved."
+  },
+  "money": {
+    "currency": "INR",
+    "released": 25,
+    "releasedLabel": "Ex gratia compensation announced per deceased family (lakh)",
+    "unit": "lakh",
+    "notes": "This figure reflects only the announced per-family ex gratia compensation based on the state's official death toll of 30; it does not reflect any compensation that may or may not have been paid to families in cases outside the officially acknowledged toll.",
+    "sourceIds": [
+      "src-kumbh-deccan-tollconfirm"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025-01-01",
+      "label": "'Best-ever' Kumbh promised",
+      "detail": "Uttar Pradesh's government promotes the 2025 Maha Kumbh as the largest and best-managed gathering of its kind in history, expecting over 400 million pilgrims over 45 days.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-01-29",
+      "label": "Stampede at Sangam",
+      "detail": "Barricades collapse under crowd pressure during the pre-dawn Amrit Snan on Mauni Amavasya; a crush kills dozens and injures dozens more.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-30",
+      "label": "Official toll and inquiry announced",
+      "detail": "UP Police confirm 30 dead and 60 injured; Chief Minister Yogi Adityanath orders a judicial inquiry and announces ₹25 lakh ex gratia per deceased family.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-03-01",
+      "label": "Independent tolls dispute official count",
+      "detail": "A 4PM news network sting and a separate BBC investigation report substantially higher death tolls (58 and at least 82 respectively) than the official figure of 30.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A state judicial inquiry was ordered into the stampede; this entry has not yet traced whether that inquiry's findings have been published or whether any officials have faced accountability for crowd-management failures.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: a real and serious crowd-safety failure occurred despite extensive advance publicity about 'foolproof' arrangements, and there is a significant, unresolved discrepancy between the government's official death toll and figures reported by independent investigations.",
+    "confidence": "low",
+    "reasoning": "The core facts of the stampede are well corroborated, but this entry has not been able to verify which death-toll figure is more accurate, nor has it traced the outcome of the state's judicial inquiry, which was not public in the sources reviewed."
+  },
+  "incomplete": [
+    "The state judicial inquiry's final findings and any recommendations have not been located or incorporated into this entry.",
+    "This entry has not reconciled the wide range of reported death tolls (30 to 82, with figures like 37 and 58 also cited in different reports) into a single confident figure.",
+    "Whether any officials responsible for crowd-control planning faced disciplinary or legal consequences has not been established here."
+  ],
+  "sources": [
+    {
+      "id": "src-kumbh-wikipedia",
+      "label": "2025 Prayag Maha Kumbh Mela crowd crush",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2025-02-01",
+      "url": "https://en.wikipedia.org/wiki/2025_Prayag_Maha_Kumbh_Mela_crowd_crush"
+    },
+    {
+      "id": "src-kumbh-deccan-tollconfirm",
+      "label": "Maha Kumbh 2025: UP Police confirms 30 killed in stampede, 60 injured",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-01-30",
+      "url": "https://www.deccanherald.com/india/uttar-pradesh/maha-kumbh-2025-up-police-confirms-30-killed-in-stampede-60-injured-3378362"
+    },
+    {
+      "id": "src-kumbh-abc",
+      "label": "30 dead in stampede as over 100 million people gather at India's Maha Kumbh festival",
+      "type": "independent",
+      "publisher": "ABC News",
+      "date": "2025-01-29",
+      "url": "https://abcnews.com/International/7-dead-stampede-100-million-people-gather-indias/story?id=118208547"
+    }
+  ]
+}

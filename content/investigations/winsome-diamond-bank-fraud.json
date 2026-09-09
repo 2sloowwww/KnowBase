@@ -1,0 +1,119 @@
+{
+  "id": "KB-042",
+  "slug": "winsome-diamond-bank-fraud",
+  "title": "The Winsome Diamond Bank Fraud",
+  "dek": "A jeweller defaulted on thousands of crores owed to Indian banks, then acquired Caribbean citizenship before the walls closed in — leaving lenders to honour billion-dollar guarantees to international bullion suppliers instead.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 98,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "₹4,627 cr",
+    "label": "alleged bank fraud (broader estimates range up to ₹7,000 cr)"
+  },
+  "promise": {
+    "quote": "Credit facilities extended to Winsome Diamonds and Jewellery Ltd. and Forever Precious Jewellery and Diamonds Ltd. will be repaid according to sanctioned terms.",
+    "madeBy": "Winsome Diamonds and Jewellery Ltd. and Forever Precious Jewellery and Diamonds Ltd., under promoter Jatin Mehta",
+    "role": "Diamond and jewellery export companies; borrowers from a consortium of public sector banks",
+    "date": "2013-01-01",
+    "context": "Mehta's companies defaulted on loans just as international bullion suppliers invoked bank guarantees, forcing Indian banks to honour liabilities reported at more than ₹6,800 crore at the time.",
+    "sourceIds": [
+      "src-winsome-overview"
+    ]
+  },
+  "target": {
+    "description": "Loan and guarantee obligations honoured according to their terms, with the borrower remaining within reach of Indian courts and regulators.",
+    "standard": "Standard consortium lending covenants and India's Fugitive Economic Offenders Act, 2018.",
+    "referenceDate": "2013-01-01"
+  },
+  "reality": {
+    "description": "Jatin Mehta left India with his family as defaults cascaded, and by 2014 had acquired citizenship of Saint Kitts and Nevis, placing himself beyond India's easy extradition reach. The CBI has filed fresh FIRs against him over the years, most recently reported at ₹587 crore in one specific filing, and reported figures for the total fraud range from ₹4,627 crore to roughly ₹7,000 crore depending on the source and date.",
+    "asOfDate": "2019-06-11",
+    "sourceIds": [
+      "src-winsome-fir",
+      "src-winsome-uk"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Lower reported fraud estimate vs. higher reported estimate",
+    "unit": "₹ crore",
+    "targetValue": 4627,
+    "actualValue": 7000,
+    "targetDisplay": "₹4,627 cr (CBI-linked figure)",
+    "actualDisplay": "~₹7,000 cr (broader consortium estimate)",
+    "targetLabel": "Lower estimate",
+    "actualLabel": "Higher estimate",
+    "note": "This investigation has not reconciled the different figures cited across multiple CBI FIRs filed over several years and reports the range rather than a single number."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-01-01",
+      "label": "Defaults cascade",
+      "detail": "Winsome and Forever Precious default on bank loans as bullion suppliers invoke guarantees.",
+      "type": "status"
+    },
+    {
+      "date": "2014-01-01",
+      "label": "Mehta acquires Caribbean citizenship",
+      "detail": "He becomes a citizen of Saint Kitts and Nevis, complicating extradition.",
+      "type": "status"
+    },
+    {
+      "date": "2019-06-11",
+      "label": "Fresh CBI FIRs filed",
+      "detail": "The agency files two additional FIRs against the absconding Mehta, including one citing a ₹587 crore loan fraud.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Jatin Mehta has not returned to India to face trial. A UK court has separately passed a worldwide freezing order against him in related civil litigation, but this investigation has not confirmed any Indian criminal conviction.",
+    "keyIndividuals": [
+      {
+        "name": "Jatin Mehta",
+        "role": "Promoter, Winsome Diamonds and Forever Precious Jewellery",
+        "outcome": "Left India amid the defaults; acquired Saint Kitts and Nevis citizenship, 2014; multiple CBI FIRs filed against him over the years. No Indian trial verdict; reported to be based in the Caribbean or London."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the defaults and Mehta's departure from India are well documented, as is his acquisition of a second citizenship that has complicated extradition. This investigation has not established a single authoritative fraud figure or the case's current trial status in India.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases, and reported fraud figures vary significantly across sources."
+  },
+  "incomplete": [
+    "This is a stub entry. A single, reconciled fraud figure across the multiple CBI FIRs has not been established.",
+    "Mehta's exact current location and any extradition efforts have not been confirmed as of the sources reviewed.",
+    "The outcome of the UK worldwide freezing order and its relationship to the Indian criminal cases has not been detailed here."
+  ],
+  "sources": [
+    {
+      "id": "src-winsome-overview",
+      "label": "Jatin Mehta: the quiet fugitive behind a billion-dollar vanishing act",
+      "type": "independent",
+      "publisher": "TradingView News",
+      "date": "2023-01-01",
+      "url": "https://www.tradingview.com/news/moodys:df0fc3c0cf643:0-jatin-mehta-the-quiet-fugitive-behind-a-billion-dollar-vanishing-act/"
+    },
+    {
+      "id": "src-winsome-fir",
+      "label": "Rs 587 cr loan fraud case: Fresh FIRs against fugitive jeweller Jatin Mehta",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2019-06-11",
+      "url": "https://www.business-standard.com/article/pti-stories/cbi-files-two-fresh-firs-against-absconding-diamantaire-jatin-mehta-119061100338_1.html"
+    },
+    {
+      "id": "src-winsome-uk",
+      "label": "Winsome Diamonds case — why a UK court passed 'worldwide freezing order' against Indian merchant",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2023-01-01",
+      "url": "https://theprint.in/india/winsome-diamonds-case-why-a-uk-court-passed-worldwide-freezing-order-against-indian-merchant/1063686/"
+    }
+  ]
+}

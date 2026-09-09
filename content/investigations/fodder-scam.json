@@ -1,0 +1,125 @@
+{
+  "id": "KB-024",
+  "slug": "fodder-scam",
+  "title": "The Fodder Scam",
+  "dek": "Government treasuries in undivided Bihar paid out for animal feed, medicine, and equipment that were never actually purchased — a scheme running for years before raids exposed it, and one that eventually sent the state's sitting Chief Minister to prison, across five separate cases.",
+  "category": "Public Spending",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 106,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "1996-01-11",
+  "heroStat": {
+    "value": "₹950 cr",
+    "label": "fraudulently withdrawn from Bihar's animal husbandry treasuries"
+  },
+  "promise": {
+    "quote": "Funds disbursed from state treasuries for the Animal Husbandry Department will be spent on genuine purchases of fodder, medicine, and livestock-related equipment.",
+    "madeBy": "Government of Bihar, Animal Husbandry Department",
+    "role": "State government department administering livestock-support spending",
+    "date": "1996-01-01",
+    "context": "Over roughly a decade, officials and contractors are alleged to have fraudulently withdrawn funds from district treasuries across undivided Bihar (including areas now in Jharkhand) using fake bills for supplies that were never delivered.",
+    "sourceIds": [
+      "src-fodder-overview"
+    ]
+  },
+  "target": {
+    "description": "Treasury disbursements made only against genuine, verified purchases and deliveries, following standard state government financial controls.",
+    "standard": "Standard treasury and financial-control rules governing state government departmental spending.",
+    "referenceDate": "1996-01-01"
+  },
+  "reality": {
+    "description": "Investigations found roughly ₹950 crore fraudulently withdrawn from treasuries in districts including Chaibasa, Deoghar, Dumka, and Doranda. Then-Chief Minister Lalu Prasad Yadav was named as an accused and has been convicted multiple times across different treasury cases, with combined sentences across four cases reported at 14 years, plus a further 5-year sentence and ₹60 lakh fine in a fifth case (the Doranda treasury case) in 2022. The Supreme Court has separately heard appeals concerning suspension of sentences in the case.",
+    "asOfDate": "2022-02-21",
+    "sourceIds": [
+      "src-fodder-doranda",
+      "src-fodder-appeal"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total alleged fraudulent withdrawal vs. amount specifically covered in Lalu Prasad Yadav's fifth (Doranda) conviction",
+    "unit": "₹ crore",
+    "targetValue": 950,
+    "actualValue": 139,
+    "targetDisplay": "₹950 cr total alleged, across all treasury cases",
+    "actualDisplay": "₹139 cr in the Doranda case specifically",
+    "targetLabel": "Total alleged",
+    "actualLabel": "One case",
+    "note": "The scam spans multiple separate treasury cases prosecuted individually; the Doranda case is only one of several, so this is not a claim that only ₹139 crore in total was proven."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1996-01-11",
+      "label": "Raids expose the scam",
+      "detail": "Raids on Animal Husbandry Department offices uncover the scale of fraudulent withdrawals.",
+      "type": "status"
+    },
+    {
+      "date": "2013-09-30",
+      "label": "First conviction",
+      "detail": "Lalu Prasad Yadav is convicted in the Chaibasa treasury case, among the first of several.",
+      "type": "status"
+    },
+    {
+      "date": "2022-02-21",
+      "label": "Doranda case conviction",
+      "detail": "A special CBI court sentences Yadav to five years and a ₹60 lakh fine in the fifth and largest treasury case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-04-01",
+      "label": "Supreme Court hears sentence-suspension appeals",
+      "detail": "The Court considers CBI appeals against a Jharkhand High Court order suspending sentences in the case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Lalu Prasad Yadav has been convicted across multiple separate treasury cases within the broader scam; this investigation has not yet compiled a complete, case-by-case account of every conviction, sentence, and appeal outcome.",
+    "keyIndividuals": [
+      {
+        "name": "Lalu Prasad Yadav",
+        "role": "Chief Minister of Bihar at the time of the scheme",
+        "outcome": "Convicted across multiple separate treasury cases, with combined sentencing reported at 14 years across four cases plus a further 5 years and a ₹60 lakh fine in a fifth (Doranda) case, 2022. Appeals concerning sentence suspension have continued."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: this is one of the more clearly adjudicated cases on this site — multiple criminal convictions across several separate treasury cases are a matter of court record. This investigation has not yet compiled a complete, reconciled account of every case, sentence, and current appeal status.",
+    "confidence": "medium",
+    "reasoning": "The convictions themselves are well documented and consistently reported. Confidence is not marked higher only because this entry has not yet fully reconciled the multiple separate treasury cases into one complete account."
+  },
+  "incomplete": [
+    "This is a stub entry. A complete, case-by-case account of every treasury case, conviction, and sentence has not yet been compiled.",
+    "The current status of appeals against sentence suspension, including the Supreme Court proceedings noted above, has not been resolved in this entry.",
+    "Other named co-accused beyond Lalu Prasad Yadav have not been detailed here."
+  ],
+  "sources": [
+    {
+      "id": "src-fodder-overview",
+      "label": "Lalu Prasad Yadav Convicted In Fodder Scam: 5 Facts To Know",
+      "type": "independent",
+      "publisher": "Outlook India",
+      "date": "2017-01-01",
+      "url": "https://www.outlookindia.com/national/lalu-prasad-yadav-convicted-in-fodder-scam-5-facts-to-know-news-182554"
+    },
+    {
+      "id": "src-fodder-doranda",
+      "label": "Lalu Prasad Yadav sentenced to five years in jail in fifth fodder scam case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-02-21",
+      "url": "https://www.business-standard.com/article/current-affairs/cbi-court-sentences-lalu-to-five-years-in-prison-in-fodder-scam-case-122022100592_1.html"
+    },
+    {
+      "id": "src-fodder-appeal",
+      "label": "Supreme Court To Hear CBI's Appeal Against Suspension Of Lalu Prasad Yadav's Sentence",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2026-04-01",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-cbi-appeal-lalu-prasad-yadav-suspension-523451"
+    }
+  ]
+}

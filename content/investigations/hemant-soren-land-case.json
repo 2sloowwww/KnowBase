@@ -1,0 +1,152 @@
+{
+  "id": "KB-205",
+  "slug": "hemant-soren-land-case",
+  "title": "The Hemant Soren Land Case",
+  "dek": "The Enforcement Directorate arrested a sitting Chief Minister on allegations he used his office to unlawfully acquire land in Ranchi. He spent five months in custody, was granted bail after the High Court found the ED's case did not hold up, and was reinstated as Chief Minister — while the underlying case continues.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 216,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-01-01",
+  "heroStat": {
+    "value": "8.86 acres",
+    "label": "of land in Ranchi's Bargain area the ED alleges Hemant Soren unlawfully acquired and possessed"
+  },
+  "promise": {
+    "quote": "A Chief Minister's office must not be used to unlawfully acquire or benefit from land or property.",
+    "madeBy": "Standard expectation of public office under Indian anti-corruption and prevention-of-money-laundering law",
+    "role": "Chief Minister of Jharkhand",
+    "date": "2019-12-29",
+    "context": "Hemant Soren took office as Jharkhand's Chief Minister in December 2019, heading a Jharkhand Mukti Morcha-led coalition government.",
+    "sourceIds": [
+      "src-soren-background"
+    ]
+  },
+  "target": {
+    "description": "That land transactions and possession involving the Chief Minister would follow due legal process and not amount to abuse of official position for personal gain.",
+    "standard": "Prevention of Money Laundering Act, 2002, as applied by the ED to alleged proceeds of illegally acquired land, and Jharkhand's land revenue and registration laws.",
+    "referenceDate": "2023-01-01"
+  },
+  "reality": {
+    "description": "The ED began investigating alleged irregularities in land records and illegal mining leases in Jharkhand, and by 2023 was probing Soren's alleged acquisition of roughly 8.86 acres of land in Ranchi's Bargain area, which it said he came to possess by allegedly manipulating land records while in office. After repeatedly summoning him through late 2023 and January 2024, the ED arrested Hemant Soren on 31 January 2024, shortly after he resigned as Chief Minister. He spent over five months in judicial custody. On 28 June 2024, the Jharkhand High Court granted him bail, and the Supreme Court on 29 July 2024 dismissed the ED's challenge to that bail order, calling the High Court's reasoning sound. Soren was sworn in again as Chief Minister on 4 July 2024. Separately, in January 2026, the Jharkhand High Court allowed a related trial — concerning Soren's alleged non-compliance with earlier ED summonses — to proceed in the special MP/MLA court, while exempting him from personal appearance; this is a distinct proceeding from the core land-case merits trial, whose status this entry has not separately confirmed.",
+    "asOfDate": "2026-01-15",
+    "sourceIds": [
+      "src-soren-bail",
+      "src-soren-sc-bail",
+      "src-soren-hc-2026"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Days Hemant Soren spent in ED custody vs. any conviction secured",
+    "unit": "days",
+    "targetValue": 150,
+    "actualValue": 0,
+    "targetDisplay": "~150 days in custody (Jan-June 2024)",
+    "actualDisplay": "0 convictions secured",
+    "targetLabel": "Time in custody",
+    "actualLabel": "Convictions",
+    "note": "Soren was arrested, held for roughly five months, then bailed by a High Court whose reasoning the Supreme Court itself endorsed as sound when the ED sought to challenge it — an outcome that, while not an acquittal, is a significant judicial pushback on the ED's case as it stood at that stage."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-12-29",
+      "label": "Hemant Soren becomes Chief Minister",
+      "detail": "Soren is sworn in as Jharkhand's Chief Minister, heading a JMM-led coalition.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "ED probe into Jharkhand land/mining irregularities widens",
+      "detail": "The ED's ongoing investigation into alleged land-record manipulation and illegal mining leases in Jharkhand begins to focus on Soren personally.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-31",
+      "label": "ED arrests Hemant Soren",
+      "detail": "Soren resigns as Chief Minister shortly before his arrest over the alleged 8.86-acre Ranchi land acquisition.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-28",
+      "label": "Jharkhand High Court grants bail",
+      "detail": "After roughly five months in custody, Soren is granted bail.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-07-04",
+      "label": "Soren reinstated as Chief Minister",
+      "detail": "Soren is sworn in again as Jharkhand's Chief Minister days after his release.",
+      "type": "status"
+    },
+    {
+      "date": "2024-07-29",
+      "label": "Supreme Court dismisses ED's challenge to bail",
+      "detail": "The Court calls the High Court's bail order 'very well reasoned' and rejects the ED's plea to set it aside.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-15",
+      "label": "Jharkhand High Court allows related trial to proceed",
+      "detail": "The High Court dismisses Soren's petition to quash proceedings over alleged non-compliance with ED summonses, while exempting him from personal appearance.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Hemant Soren is out on bail and remains Chief Minister of Jharkhand. The core ED money-laundering case over the alleged land acquisition remains under trial, with no verdict reported. A related but distinct proceeding over his alleged non-compliance with ED summonses was allowed to continue by the Jharkhand High Court in January 2026.",
+    "keyIndividuals": [
+      {
+        "name": "Hemant Soren",
+        "role": "Chief Minister of Jharkhand",
+        "outcome": "Arrested by ED, January 2024; granted bail by Jharkhand High Court, June 2024 (upheld by Supreme Court, July 2024); reinstated as CM; core case still under trial as of the most recent reporting reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case involves a real ED arrest of a sitting Chief Minister and a real, roughly five-month period of pre-trial detention — but it has not produced a conviction, and the bail-granting High Court's reasoning was explicitly endorsed by the Supreme Court when the ED tried to challenge it. This site reports the arrest and the subsequent judicial pushback with equal weight, rather than treating the initial allegations as settled fact.",
+    "confidence": "medium",
+    "reasoning": "The arrest, custody period, bail grant, Supreme Court's dismissal of the ED's appeal, and Soren's reinstatement as CM are corroborated across LiveLaw, India TV, National Herald, and News on Air reporting. Confidence is not higher because this entry has not reviewed the ED's chargesheet or the High Court's bail order directly, and the current status of the core merits trial (distinct from the 2026 summons-related proceeding) has not been independently confirmed."
+  },
+  "incomplete": [
+    "This entry has not confirmed the current stage of the core ED money-laundering trial on the land-acquisition allegations themselves, as distinct from the separate 2026 proceeding over alleged non-compliance with summonses.",
+    "The ED's full chargesheet and the High Court's June 2024 bail order have not been reviewed directly; this entry relies on legal-affairs reporting summarising them.",
+    "This entry does not adjudicate the truth of the underlying land-acquisition allegations, which Soren denies and which remain contested."
+  ],
+  "sources": [
+    {
+      "id": "src-soren-background",
+      "label": "ED summons Jharkhand CM Hemant Soren in alleged land scam case",
+      "type": "independent",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2024-01-01",
+      "url": "https://www.newsonair.gov.in/ed-summons-jharkhand-cm-hemant-soren-in-alleged-land-scam-case/"
+    },
+    {
+      "id": "src-soren-bail",
+      "label": "Jharkhand HC grants bail to former CM Hemant Soren in land scam case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-06-28",
+      "url": "https://www.business-standard.com/india-news/jharkhand-hc-grants-bail-to-former-cm-hemant-soren-in-land-scam-case-124062800375_1.html"
+    },
+    {
+      "id": "src-soren-sc-bail",
+      "label": "'Very Well Reasoned Judgment': Supreme Court Dismisses ED's Challenge To HC Order Granting Bail To Hemant Soren",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2024-07-29",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-jharkhand-land-scam-ed-plea-against-hemant-soren-bail-264883"
+    },
+    {
+      "id": "src-soren-hc-2026",
+      "label": "Jharkhand CM Hemant Soren faces setback as High Court allows ED summons case trial to continue",
+      "type": "independent",
+      "publisher": "News on Air (All India Radio / Prasar Bharati)",
+      "date": "2026-01-15",
+      "url": "https://www.newsonair.gov.in/jharkhand-cm-hemant-soren-faces-setback-as-high-court-allows-ed-summons-case-trial-to-continue"
+    }
+  ]
+}

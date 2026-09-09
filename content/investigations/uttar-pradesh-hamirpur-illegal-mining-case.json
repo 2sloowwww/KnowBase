@@ -1,0 +1,143 @@
+{
+  "id": "KB-2103",
+  "slug": "uttar-pradesh-hamirpur-illegal-mining-case",
+  "title": "The Uttar Pradesh Hamirpur Illegal Mining Case",
+  "dek": "A court-ordered e-tender policy for sand mining leases was meant to stop backroom allocations. Investigators allege a district magistrate granted leases in violation of that very policy, with the state's mining portfolio then held by a future chief minister — who has since been summoned as a witness, not an accused.",
+  "category": "Natural Resources",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 250,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2016-07-01",
+  "heroStat": {
+    "value": "14",
+    "label": "mining leases the CBI alleges were granted in Hamirpur district in violation of the state's own 2012 e-tender policy for sand mining"
+  },
+  "promise": {
+    "quote": "Mining leases for sand and other minor minerals shall be allotted only through a transparent e-tendering process, as directed by the Allahabad High Court.",
+    "madeBy": "Government of Uttar Pradesh, under its 2012 e-tender mining policy",
+    "role": "State government policy governing allocation of minor-mineral mining leases",
+    "date": "2012-01-01",
+    "context": "This reflects the substance of the Allahabad High Court-mandated e-tender policy that the CBI's case alleges was violated, rather than a verified verbatim quotation from the policy document itself, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-uphamirpur-federal"
+    ]
+  },
+  "target": {
+    "description": "That sand-mining leases in Hamirpur district would be allocated only through the mandated competitive e-tender process, without leases being granted to favoured applicants outside that process.",
+    "standard": "The Allahabad High Court-directed e-tender policy for minor-mineral mining leases in Uttar Pradesh, in force from 2012.",
+    "referenceDate": "2012-01-01"
+  },
+  "reality": {
+    "description": "The CBI alleges that on 17 February 2013, B. Chandrakala, then District Magistrate of Hamirpur, sanctioned mining leases to 14 individuals in violation of the 2012 e-tender policy, with approval said to have come from the office of the then Chief Minister, Akhilesh Yadav, who held the mining portfolio at the time. Following directions from the Allahabad High Court to investigate illegal mining in the state between 2012 and 2016, the CBI registered an FIR in January 2019 against Chandrakala and Samajwadi Party MLC Ramesh Kumar Mishra, and the Enforcement Directorate opened a parallel money-laundering case the same month. The ED and CBI have since summoned Chandrakala, Mishra and others for questioning; two IAS officers were reportedly transferred from sensitive postings in 2019 amid the case. Akhilesh Yadav has been summoned and questioned by the CBI as a witness — most recently in February 2024 — rather than named as an accused. As of this entry, no chargesheet outcome, closure report, or trial verdict in the case has been confirmed.",
+    "asOfDate": "2024-02-28",
+    "sourceIds": [
+      "src-uphamirpur-federal",
+      "src-uphamirpur-statesman",
+      "src-uphamirpur-businesstoday"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Mining leases alleged to have bypassed the e-tender policy vs. leases whose allocation has been judicially confirmed as unlawful",
+    "unit": "count",
+    "targetValue": 14,
+    "actualValue": 0,
+    "targetDisplay": "14 leases alleged (CBI FIR)",
+    "actualDisplay": "0 confirmed unlawful by a court verdict as of this entry",
+    "targetLabel": "Alleged violation",
+    "actualLabel": "Judicially confirmed",
+    "note": "More than a decade after the leases were granted and over five years after the CBI's FIR, the case remains at the investigation stage, with the CBI still questioning witnesses as of 2024."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2012-01-01",
+      "label": "E-tender mining policy introduced",
+      "detail": "Uttar Pradesh adopts a competitive e-tender system for minor-mineral mining leases, following Allahabad High Court directions.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-02-17",
+      "label": "Hamirpur leases granted",
+      "detail": "District Magistrate B. Chandrakala allegedly sanctions mining leases to 14 individuals outside the e-tender process.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-07-01",
+      "label": "Allahabad High Court orders CBI probe",
+      "detail": "The Court directs a CBI investigation into illegal sand mining across Uttar Pradesh between 2012 and 2016.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-17",
+      "label": "CBI registers FIR",
+      "detail": "The CBI books B. Chandrakala and SP MLC Ramesh Kumar Mishra over the Hamirpur leases; the ED opens a parallel PMLA case.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-01-18",
+      "label": "ED summons Chandrakala",
+      "detail": "The Enforcement Directorate summons Chandrakala and others for questioning in the money-laundering angle of the case.",
+      "type": "status"
+    },
+    {
+      "date": "2024-02-28",
+      "label": "Akhilesh Yadav questioned as witness",
+      "detail": "The CBI summons the former Chief Minister for questioning as a witness, not as an accused, in the ongoing probe.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CBI's 2019 FIR and the ED's parallel PMLA case remain under investigation. Akhilesh Yadav has been questioned as a witness, not an accused. No chargesheet outcome, closure report, or trial verdict has been confirmed as of this entry. All named individuals are presumed innocent pending any trial.",
+    "keyIndividuals": [
+      {
+        "name": "B. Chandrakala",
+        "role": "IAS officer; former District Magistrate, Hamirpur",
+        "outcome": "Named in the 2019 CBI FIR and summoned by the ED. No verdict; presumed innocent pending investigation and any trial."
+      },
+      {
+        "name": "Akhilesh Yadav",
+        "role": "Former Uttar Pradesh Chief Minister; held the mining portfolio in 2012–13",
+        "outcome": "Summoned and questioned by the CBI as a witness, not named as an accused."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, court-ordered investigation into a documented departure from the state's own competitive mining-lease policy in one district, now over a decade old and still at the investigation stage — a slow-moving case rather than a resolved one, with no individual convicted and the most politically prominent figure treated as a witness rather than an accused.",
+    "confidence": "low",
+    "reasoning": "The CBI FIR, the ED's parallel case, and the pattern of summons are corroborated across multiple independent news reports, but this entry has not reviewed the FIR, any chargesheet, or court order directly, and could not confirm the case's current status beyond the February 2024 questioning of Akhilesh Yadav."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CBI's 2019 FIR, any chargesheet, or the Allahabad High Court's original mining-related orders directly.",
+    "Whether a chargesheet has since been filed, or the case closed, after the February 2024 questioning has not been confirmed.",
+    "The roles and outcomes for the two IAS officers reportedly transferred in 2019 in connection with the case have not been independently verified by name."
+  ],
+  "sources": [
+    {
+      "id": "src-uphamirpur-federal",
+      "label": "Explained: UP illegal mining case and why CBI is at Akhilesh's door",
+      "type": "independent",
+      "publisher": "The Federal",
+      "date": "2019-07-01",
+      "url": "https://thefederal.com/category/explainers-2/explained-up-illegal-mining-case-and-why-cbi-is-at-akhileshs-door-111976"
+    },
+    {
+      "id": "src-uphamirpur-statesman",
+      "label": "IAS officer B Chandrakala, three others summoned by ED in UP sand mining case",
+      "type": "independent",
+      "publisher": "The Statesman",
+      "date": "2019-01-18",
+      "url": "https://www.thestatesman.com/india/ias-officer-b-chandrakala-three-others-summoned-by-ed-in-up-sand-mining-case-1502725613.html"
+    },
+    {
+      "id": "src-uphamirpur-businesstoday",
+      "label": "CBI summons Akhilesh Yadav as witness in illegal mining case",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2024-02-28",
+      "url": "https://www.businesstoday.in/india/story/cbi-summons-akhilesh-yadav-as-witness-in-illegal-mining-case-419342-2024-02-28"
+    }
+  ]
+}

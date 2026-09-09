@@ -1,0 +1,118 @@
+{
+  "id": "KB-2505",
+  "slug": "kargil-1999-intelligence-failure",
+  "title": "Kargil: India Won the War. Its Own Review Committee Found the Intrusion Should Never Have Been a Surprise",
+  "dek": "India's intelligence and military establishment operated on the assumption that Pakistani forces would not attempt a large-scale incursion across the Line of Control in the high-altitude Kargil sector. The Kargil Review Committee, set up by the government within weeks of the 1999 conflict, found the intrusion came as a complete surprise -- and traced that surprise to intelligence agencies working in silos with no mechanism to combine what they each knew.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 39,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2000-02-23",
+  "heroStat": {
+    "value": "3",
+    "label": "Separate intelligence agencies (R&AW, Intelligence Bureau, Military Intelligence) the Kargil Review Committee found were working in silos with no mechanism to synthesise their assessments"
+  },
+  "promise": {
+    "quote": "India's intelligence and military assessment held that a large-scale Pakistani military intrusion across the Line of Control in the Kargil sector was not a credible or expected threat.",
+    "madeBy": "Government of India's intelligence agencies and military command, in their operational assessments through 1998 and early 1999",
+    "role": "Research and Analysis Wing, Intelligence Bureau, Military Intelligence and Army command responsible for monitoring the Line of Control",
+    "date": "1998-01-01",
+    "context": "Through 1998 and into 1999, Pakistani army regulars and irregulars occupied vacated high-altitude posts on the Indian side of the Line of Control in the Kargil sector, an operation that went undetected by Indian intelligence and military monitoring until it was discovered in May 1999.",
+    "sourceIds": [
+      "src-kargil-vajiram",
+      "src-kargil-nuclearweaponarchive"
+    ]
+  },
+  "target": {
+    "description": "Accurate, coordinated intelligence assessment of troop movements and induction/de-induction of Pakistani battalions along the Line of Control, sufficient to detect and pre-empt a large-scale intrusion before it was fully established.",
+    "standard": "The Indian intelligence and military establishment's own operational responsibility for monitoring the Line of Control and providing timely warning of hostile troop movements",
+    "referenceDate": "1998-01-01"
+  },
+  "reality": {
+    "description": "The Kargil Review Committee, constituted on 29 July 1999 and chaired by strategic analyst K. Subrahmanyam, completed its report on 15 December 1999, which was tabled in Parliament on 23 February 2000 (with some sections withheld on security grounds). The Committee found overwhelming evidence that the Pakistani intrusion came as a complete and total surprise to the Indian government, army and intelligence agencies, identifying an absence of any information on the induction and de-induction of Pakistani battalions opposite Kargil during 1998, and no accurate data on which units were present in the area. It found that India's intelligence agencies -- R&AW, the Intelligence Bureau and Military Intelligence -- worked in silos, with no institutional mechanism to combine and synthesise their separate assessments into a coherent picture. The report identified broader, longstanding deficiencies in India's security management system across intelligence coordination, border management and defence management, and its recommendations led to subsequent reforms including the creation of the position of a National Security Adviser-led coordination structure and later a Defence Intelligence Agency. India ultimately recovered the intruded posts and won the conflict militarily by July 1999, but at a cost of several hundred Indian soldiers killed in high-altitude combat to retake terrain Pakistani forces had occupied largely undetected.",
+    "asOfDate": "2000-02-23",
+    "sourceIds": [
+      "src-kargil-vajiram",
+      "src-kargil-nuclearweaponarchive"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Assumed threat assessment (large-scale intrusion not credible) versus what the Kargil Review Committee found had actually occurred undetected",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Timely intelligence detection of hostile troop movement across the Line of Control",
+    "actualDisplay": "Complete surprise, per the Kargil Review Committee, due to siloed intelligence agencies with no synthesis mechanism",
+    "targetLabel": "Expected intelligence coverage",
+    "actualLabel": "Committee's finding",
+    "note": "Reflects the Kargil Review Committee's own qualitative conclusion regarding the intelligence failure, rather than a single quantified metric."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1998-01-01",
+      "label": "Pakistani forces begin occupying vacated posts",
+      "detail": "Pakistani army regulars and irregulars begin occupying high-altitude posts on the Indian side of the Line of Control in the Kargil sector, undetected by Indian intelligence.",
+      "type": "status"
+    },
+    {
+      "date": "1999-05-03",
+      "label": "Intrusion discovered",
+      "detail": "Indian forces discover the scale of the Pakistani intrusion in the Kargil sector, triggering a major military response.",
+      "type": "status"
+    },
+    {
+      "date": "1999-07-26",
+      "label": "India declares Kargil operation complete",
+      "detail": "India announces the successful recapture of intruded positions, effectively ending the conflict, later commemorated as Kargil Vijay Diwas.",
+      "type": "milestone"
+    },
+    {
+      "date": "1999-07-29",
+      "label": "Kargil Review Committee constituted",
+      "detail": "The Government of India sets up the Kargil Review Committee, chaired by K. Subrahmanyam, to examine the sequence of events and the intelligence and security failures that allowed the intrusion.",
+      "type": "announcement"
+    },
+    {
+      "date": "2000-02-23",
+      "label": "Report tabled in Parliament",
+      "detail": "The Kargil Review Committee's report, completed in December 1999, is tabled in Parliament, with some sensitive sections withheld from public release.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a policy and intelligence-reform matter examined by a government-appointed review committee, not a criminal proceeding. No individual was prosecuted specifically over the intelligence failures identified; the report's recommendations were directed at institutional and structural reform of India's intelligence and defence coordination apparatus.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's own government-appointed review committee found that the assumption underlying its Kargil-sector defence posture -- that a large-scale Pakistani intrusion was not a credible threat -- was wrong, and that this failure traced directly to intelligence agencies operating in isolation from one another with no mechanism to combine what they separately knew, a structural gap the Committee's recommendations later sought to address.",
+    "confidence": "high",
+    "reasoning": "The Kargil Review Committee's core findings on the intelligence failure are corroborated across multiple independent summaries and the publicly available portions of the report itself. Confidence is not higher because significant sections of the original report were withheld from public release on security grounds, and this entry has not independently reviewed the complete unredacted document."
+  },
+  "incomplete": [
+    "Significant portions of the Kargil Review Committee's full report remain officially withheld or were not made public; this entry relies on the publicly tabled sections and independent summaries of them.",
+    "The extent to which the Committee's institutional recommendations (e.g. on intelligence coordination structures) were fully implemented in subsequent years has not been comprehensively verified in this entry.",
+    "Precise casualty figures for both sides during the conflict vary across sources and are not independently reconciled here."
+  ],
+  "sources": [
+    {
+      "id": "src-kargil-vajiram",
+      "label": "Kargil Review Committee 1999, Observations, Recommendations",
+      "type": "independent",
+      "publisher": "Vajiram & Ravi",
+      "date": "2024-01-01",
+      "url": "https://vajiramandravi.com/current-affairs/kargil-review-committee/"
+    },
+    {
+      "id": "src-kargil-nuclearweaponarchive",
+      "label": "Kargil Review Committee Report",
+      "type": "primary",
+      "publisher": "Nuclear Weapon Archive",
+      "date": "2000-02-23",
+      "url": "https://nuclearweaponarchive.org/India/KargilRCB.html"
+    }
+  ]
+}

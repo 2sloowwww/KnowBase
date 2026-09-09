@@ -1,0 +1,104 @@
+{
+  "id": "KB-2009",
+  "slug": "sebi-irda-ulip-turf-war",
+  "title": "The SEBI–IRDA ULIP Turf War",
+  "dek": "Millions of Indians bought unit-linked insurance policies believing they were properly regulated, transparent investment products. When one regulator finally tried to crack down on their mis-selling, a second regulator's counter-claim to jurisdiction — resolved only by a midnight ordinance — left the underlying mis-selling problem largely untouched.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 249,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2010-04-09",
+  "heroStat": {
+    "value": "14",
+    "label": "life insurance companies SEBI barred from selling or renewing ULIPs in April 2010, before the ban was itself overturned by government ordinance within months"
+  },
+  "promise": {
+    "quote": "Unit-linked insurance policies (ULIPs) sold to the public will be regulated with adequate investor-protection disclosures, and mis-selling — where agents fail to explain policyholders' loss of cover on non-renewal, or the investment risk being passed to the buyer — will be checked by the appropriate financial regulator.",
+    "madeBy": "Securities and Exchange Board of India (SEBI) and the Insurance Regulatory and Development Authority (IRDA)",
+    "role": "India's securities markets regulator and insurance sector regulator, respectively, both claiming jurisdiction over ULIPs",
+    "date": "2010-04-09",
+    "context": "ULIPs combine an insurance cover with a market-linked investment component; SEBI argued the investment portion made them a security requiring its registration, while IRDA maintained they were insurance products under its exclusive regulation.",
+    "sourceIds": [
+      "src-ulip-sebi-ban"
+    ]
+  },
+  "target": {
+    "description": "A single, clear regulatory framework for ULIPs that protects policyholders from mis-selling, with disclosure requirements enforced by an unambiguous regulatory authority.",
+    "standard": "Securities Contracts (Regulation) Act and SEBI Act provisions on regulation of securities, as against the Insurance Act's provisions on regulation of insurance products.",
+    "referenceDate": "2010-04-09"
+  },
+  "reality": {
+    "description": "On 9 April 2010, SEBI barred 14 life insurers, including Aegon Religare, ICICI Prudential, and others, from selling or renewing ULIPs unless the products were registered with SEBI, citing investor-protection concerns including mis-selling — where agents allegedly failed to disclose loss of cover on non-renewal, or that investment risk was borne entirely by the policyholder. IRDA publicly disputed SEBI's authority to regulate ULIPs and directed insurers to disregard the SEBI order. Rather than resolving the dispute through adjudication, the Union government issued an ordinance — signed by President Pratibha Patil on 18 June 2010 — amending the RBI Act, Insurance Act, SEBI Act, and Securities Contracts (Regulation) Act to clarify that life insurance business, including ULIPs, would fall under IRDA's jurisdiction, and separately empowered a coordination body (the Joint Committee, later formalised as the Financial Stability and Development Council) to resolve future regulatory turf disputes. The ordinance ended the immediate stand-off in IRDA's favour but did not, on the evidence reviewed, resolve the underlying ULIP mis-selling complaints that had prompted SEBI's intervention in the first place.",
+    "asOfDate": "2010-06-18",
+    "sourceIds": [
+      "src-ulip-sebi-ban",
+      "src-ulip-ordinance"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Regulatory action taken on ULIP jurisdiction vs. on the underlying mis-selling complaints",
+    "unit": "count",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "1 coordinated mis-selling crackdown",
+    "actualDisplay": "0 confirmed mis-selling resolution",
+    "targetLabel": "Expected outcome",
+    "actualLabel": "Outcome confirmed by this entry",
+    "note": "The 2010 dispute was resolved as a jurisdictional question — which regulator controls ULIPs — rather than as a consumer-protection question about the mis-selling practices that triggered SEBI's original intervention; this entry did not find confirmation that those specific mis-selling practices were subsequently addressed through a dedicated enforcement action."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2010-04-09",
+      "label": "SEBI bars 14 insurers from selling ULIPs",
+      "detail": "SEBI orders 14 life insurance companies to stop selling or renewing ULIPs without SEBI registration, citing investor-protection and mis-selling concerns.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-04-15",
+      "label": "IRDA disputes SEBI's jurisdiction",
+      "detail": "IRDA publicly contests SEBI's authority over ULIPs and directs insurers to continue selling the products, deepening the regulatory stand-off.",
+      "type": "status"
+    },
+    {
+      "date": "2010-06-18",
+      "label": "Government issues ordinance favouring IRDA",
+      "detail": "President Pratibha Patil signs an ordinance amending four financial-sector laws to place ULIPs under IRDA's jurisdiction and create a mechanism for resolving future inter-regulator disputes.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was a regulatory and legislative dispute rather than a criminal or enforcement case; it was resolved through government ordinance rather than adjudication, and this entry has not found confirmation of any subsequent, dedicated regulatory action specifically targeting the ULIP mis-selling practices that prompted SEBI's original 2010 order."
+  },
+  "verdict": {
+    "summary": "A real and unusual case of two Indian financial regulators publicly contradicting each other's directions to the same set of companies, resolved not by courts but by a same-week government ordinance — an outcome that settled who regulates ULIPs without a confirmed, separate resolution of the mis-selling complaints that had triggered the dispute in the first place.",
+    "confidence": "medium",
+    "reasoning": "The SEBI order, IRDA's public rebuttal, and the government ordinance are corroborated across multiple contemporaneous Moneylife and Business Standard reports; this entry has not reviewed SEBI's or IRDA's original orders directly, nor any post-ordinance enforcement data on ULIP mis-selling complaint volumes or resolutions."
+  },
+  "incomplete": [
+    "Whether IRDA or any successor body took a dedicated, verifiable enforcement action specifically addressing the ULIP mis-selling practices SEBI cited in its 2010 order has not been confirmed.",
+    "The total scale of ULIP mis-selling (number of policyholders affected, amounts involved) was not verified against a primary regulatory data source for this entry.",
+    "This entry has not reviewed the text of the June 2010 ordinance or its eventual replacement legislation (the Securities and Insurance Laws (Amendment and Validation) Act) directly."
+  ],
+  "sources": [
+    {
+      "id": "src-ulip-sebi-ban",
+      "label": "Sebi-IRDA spat over Ulips can impact business: Aegon Religare",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-05-28",
+      "url": "https://www.business-standard.com/amp/article/companies/sebi-irda-spat-over-ulips-can-impact-business-aegon-religare-110052800171_1.html"
+    },
+    {
+      "id": "src-ulip-ordinance",
+      "label": "No more turf war. Ordinance forces all four financial regulators to coordinate their moves",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2010-06-19",
+      "url": "https://www.moneylife.in/article/no-more-turf-war-ordinance-forces-all-four-financial-regulators-to-coordinate-their-moves/6313.html"
+    }
+  ]
+}

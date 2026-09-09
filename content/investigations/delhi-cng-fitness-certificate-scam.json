@@ -1,0 +1,126 @@
+{
+  "id": "KB-2107",
+  "slug": "delhi-cng-fitness-certificate-scam",
+  "title": "The Delhi CNG Fitness Certificate Scam",
+  "dek": "A contract to certify commercial vehicles as roadworthy was handed to a private company without any tender, allegedly costing Delhi over ₹100 crore. Two retired IAS officers were chargesheeted — three years after the FIR, and more than a decade after the contract itself.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 243,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2012-06-01",
+  "heroStat": {
+    "value": "₹100 cr",
+    "label": "loss Delhi's Anti-Corruption Branch alleges the city government suffered from an un-tendered CNG vehicle fitness-certification contract"
+  },
+  "promise": {
+    "quote": "Contracts for public services, including vehicle fitness certification, shall be awarded through a competitive tender process, not handed out directly to a chosen private party.",
+    "madeBy": "Government of NCT of Delhi, Transport Department",
+    "role": "State department responsible for regulating commercial vehicle fitness certification",
+    "date": "2002-01-01",
+    "context": "This reflects the ordinary public-procurement standard the scam is alleged to have violated, rather than a specific quoted departmental commitment, since this entry has not reviewed the original contract or tender rules directly.",
+    "sourceIds": [
+      "src-cngscam-india"
+    ]
+  },
+  "target": {
+    "description": "That the contract to operate and certify CNG-fitted commercial vehicles as roadworthy at Delhi's Burari transport authority would be awarded competitively, to a qualified operator, at a fair price reflecting the tests actually performed.",
+    "standard": "Ordinary public-procurement tendering norms applicable to Delhi government contracts.",
+    "referenceDate": "2002-01-01"
+  },
+  "reality": {
+    "description": "Delhi's Anti-Corruption Branch (ACB) found that the contract to operate and certify CNG commercial-vehicle fitness at the Burari transport authority had been awarded to ESP India Private Limited without any competitive tender, and alleged the arrangement cost the Delhi government over ₹100 crore, with a further roughly ₹7 crore linked to eight additional test lanes. The scam, dating to the contract's award, surfaced publicly in June 2012 after a complaint by an RTI activist, and the ACB registered an FIR on 17 December 2012. The ACB filed its chargesheet on 3 September 2015, naming nine people including two retired IAS officers who had served under then-Chief Minister Sheila Dixit, alongside ESP India. The matter became politically contentious: the Aam Aadmi Party government's proposal for a judicial Commission of Inquiry into the scam was contested by the Union Home Ministry, which called the Commission's constitution by the Delhi government 'illegal,' and disputes over the appointment of a special public prosecutor followed. As of this entry, court proceedings in the case continue to appear on Delhi High Court cause lists, but no trial verdict has been confirmed.",
+    "asOfDate": "2015-09-03",
+    "sourceIds": [
+      "src-cngscam-india",
+      "src-cngscam-deccanherald"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged loss to the Delhi government vs. amount recovered or established at trial to date",
+    "unit": "INR crore",
+    "targetValue": 100,
+    "actualValue": 0,
+    "targetDisplay": "₹100 cr+ alleged loss (ACB)",
+    "actualDisplay": "₹0 recovered or proven at trial as of this entry",
+    "targetLabel": "Alleged loss",
+    "actualLabel": "Recovered / proven",
+    "note": "More than a decade after the ACB's own chargesheet, this site could not confirm any trial verdict, underscoring how long a chargesheeted case can remain unresolved even after the investigation stage is complete."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 100,
+    "spentLabel": "Alleged loss to the Delhi government from the un-tendered contract (ACB estimate)",
+    "unit": "crore",
+    "notes": "This figure is the Anti-Corruption Branch's own investigative estimate as reported in the press; this entry has not reviewed the ACB chargesheet directly to confirm it.",
+    "sourceIds": [
+      "src-cngscam-india"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2002-01-01",
+      "label": "CNG fitness contract awarded",
+      "detail": "The Delhi government awards the CNG commercial-vehicle fitness certification contract at Burari to ESP India Private Limited without a competitive tender.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-06-01",
+      "label": "Scam surfaces via RTI complaint",
+      "detail": "An RTI activist's complaint prompts Delhi's Anti-Corruption Branch to examine the contract, which it estimates cost the government over ₹100 crore.",
+      "type": "announcement"
+    },
+    {
+      "date": "2012-12-17",
+      "label": "ACB registers FIR",
+      "detail": "The Anti-Corruption Branch formally opens a criminal case into the contract award and certification practices.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-09-03",
+      "label": "ACB files chargesheet",
+      "detail": "The ACB charges nine people, including two retired IAS officers who served under former CM Sheila Dixit, along with ESP India.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A chargesheet was filed in September 2015 against nine accused, including two retired IAS officers and the private contractor ESP India. Disputes over a judicial Commission of Inquiry and a special public prosecutor followed. No trial verdict has been confirmed as of this entry. All named individuals and the company are presumed innocent pending trial.",
+    "keyIndividuals": [
+      {
+        "name": "Unnamed retired IAS officers (two)",
+        "role": "Former senior transport/administrative officials under the Sheila Dixit government",
+        "outcome": "Chargesheeted in September 2015. No verdict; presumed innocent pending trial. Names were not specified in the sources reviewed for this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, chargesheeted procurement scandal — an un-tendered contract, an ACB-estimated nine-figure loss, and named accused — that nonetheless illustrates how a case can stall for a decade after the chargesheet stage without a public trial verdict.",
+    "confidence": "low",
+    "reasoning": "The scam's core facts (the contract, the FIR, and the 2015 chargesheet) are corroborated by contemporaneous reporting, but this entry could not confirm the accused officials' names, the case's current stage in court, or any verdict, and relies on a single detailed news article for the chargesheet's specifics."
+  },
+  "incomplete": [
+    "The names of the two retired IAS officers chargesheeted in 2015 were not available in the sources reviewed for this entry.",
+    "This entry has not reviewed the ACB's FIR or chargesheet directly, nor confirmed the case's current stage before the trial court or Delhi High Court.",
+    "The outcome of the Union Home Ministry's objection to the Delhi government's proposed Commission of Inquiry has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-cngscam-india",
+      "label": "CNG fitness scam: 2 IAS officers also chargesheeted",
+      "type": "independent",
+      "publisher": "India.com",
+      "date": "2015-09-04",
+      "url": "https://www.india.com/news/india/cng-fitness-scam-2-ias-officers-also-chargesheetedupdate-532799/"
+    },
+    {
+      "id": "src-cngscam-deccanherald",
+      "label": "CM orders judicial probe into CNG scam",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2015-01-01",
+      "url": "https://www.deccanherald.com/archives/cm-order-judicial-probe-cng-2144541"
+    }
+  ]
+}

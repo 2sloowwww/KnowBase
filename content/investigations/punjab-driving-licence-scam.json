@@ -1,0 +1,116 @@
+{
+  "id": "KB-2106",
+  "slug": "punjab-driving-licence-scam",
+  "title": "The Punjab Driving Licence Scam",
+  "dek": "Automated driving test tracks were meant to remove human discretion — and the bribes that came with it — from getting a licence. Investigators found agents and RTO staff were simply copy-pasting old footage of drivers who had actually passed onto the files of new applicants who never took the test at all.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 246,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-04-01",
+  "heroStat": {
+    "value": "16 FIRs",
+    "label": "registered and 24 people arrested after Punjab's Vigilance Bureau found driving licences being issued without applicants ever taking the automated test"
+  },
+  "promise": {
+    "quote": "Automated driving test tracks will ensure every licence applicant is tested objectively on their driving ability, removing discretion and the scope for corruption from licence issuance.",
+    "madeBy": "Punjab Transport Department",
+    "role": "State department responsible for regional transport authorities and driving-test infrastructure",
+    "date": "2020-01-01",
+    "context": "This reflects the general rationale publicly given for automating driving tests across Punjab's RTOs, rather than a specific quoted departmental pledge, since this entry has not reviewed a specific departmental order or press statement to that effect.",
+    "sourceIds": [
+      "src-punjabdl-tribune-explainer"
+    ]
+  },
+  "target": {
+    "description": "That driving licences would be issued only to applicants who actually passed a genuine, unmanipulated automated driving test at one of Punjab's RTO test tracks.",
+    "standard": "Central Motor Vehicles Rules governing the issuance of driving licences, and Punjab's own automated-test infrastructure introduced to enforce them.",
+    "referenceDate": "2020-01-01"
+  },
+  "reality": {
+    "description": "In early April 2025, Punjab's Vigilance Bureau conducted raids across Regional Transport Officer (RTO) offices and driving-test centres statewide and found that agents, working in collusion with RTO officials, were issuing licences to applicants who had never taken a genuine test — in many cases by copy-pasting old video footage of candidates who had actually passed the automated test and uploading it under the names of new applicants, or by using proxy drivers to take the test on an applicant's behalf. A total of 16 FIRs were registered and 24 people arrested, including private agents and government employees; Nawanshahr Assistant Transport Officer Ramandeep Singh Dhillon was among those arrested, while RTO officials Pardeep Singh Dhillon (Mohali) and Ravinder Kumar Bansal (Nawanshahr) were named as absconding. On 25 April 2025, the state government suspended the Vigilance Bureau's own Chief Director, SPS Parmar, along with an SSP and an AIG, over an alleged failure to act promptly on the scam despite being aware of it. Functioning at the state's 32 automated driving-test tracks was reportedly disrupted in the aftermath of the raids.",
+    "asOfDate": "2025-04-25",
+    "sourceIds": [
+      "src-punjabdl-tribune-explainer",
+      "src-punjabdl-tribune-suspension"
+    ]
+  },
+  "gap": {
+    "metricLabel": "People arrested vs. convictions secured to date",
+    "unit": "count",
+    "targetValue": 24,
+    "actualValue": 0,
+    "targetDisplay": "24 people arrested across 16 FIRs",
+    "actualDisplay": "0 convictions confirmed as of this entry",
+    "targetLabel": "Arrested",
+    "actualLabel": "Convicted",
+    "note": "Beyond the arrests, the case also produced its own internal fallout: the Vigilance Bureau's own leadership was suspended for allegedly sitting on the scam, a detail this site treats as part of the story rather than incidental."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-04-01",
+      "label": "Vigilance Bureau raids RTO offices statewide",
+      "detail": "Raids across Punjab's RTOs and driving-test centres uncover licences issued using copy-pasted footage and proxy test-takers.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-04-01",
+      "label": "16 FIRs, 24 arrests",
+      "detail": "The Bureau registers 16 FIRs and arrests 24 people, including agents and RTO staff; two RTO officials are named as absconding.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-25",
+      "label": "Vigilance Bureau's own chief suspended",
+      "detail": "The state government suspends Vigilance Bureau Chief Director SPS Parmar and two other officers for failing to act on the scam despite being aware of it.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sixteen FIRs remain under investigation or trial, with 24 people arrested and at least two RTO officials named as absconding as of this entry. No trial verdict has been confirmed. The suspended Vigilance Bureau officials' cases are a separate departmental matter. All named individuals are presumed innocent pending trial.",
+    "keyIndividuals": [
+      {
+        "name": "Ramandeep Singh Dhillon",
+        "role": "Assistant Transport Officer, Nawanshahr",
+        "outcome": "Arrested. No verdict; presumed innocent pending trial."
+      },
+      {
+        "name": "Pardeep Singh Dhillon",
+        "role": "Regional Transport Officer, Mohali",
+        "outcome": "Named as absconding as of this entry. No verdict; presumed innocent pending trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, well-documented scam in which the specific anti-corruption safeguard — automated, video-recorded driving tests — was itself defeated through video-file manipulation, compounded by the Vigilance Bureau's own leadership being suspended for allegedly sitting on the evidence.",
+    "confidence": "medium",
+    "reasoning": "The raids, FIR and arrest counts, and the subsequent suspension of Vigilance Bureau officials are corroborated across multiple Tribune reports, though this entry has not reviewed the FIRs themselves and could not confirm the trial's current status beyond April 2025."
+  },
+  "incomplete": [
+    "This entry has not reviewed any of the 16 FIRs or subsequent chargesheets directly.",
+    "The current trial status of the 24 people arrested, and whether the two absconding RTO officials have since been apprehended, has not been confirmed beyond April 2025.",
+    "No rupee estimate of total bribes collected across the scheme was available in the sources reviewed for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-punjabdl-tribune-explainer",
+      "label": "Explainer: What is the driving licence scam all about?",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2025-04-15",
+      "url": "https://www.tribuneindia.com/news/punjab/explainer-what-is-the-driving-licence-scam-all-about"
+    },
+    {
+      "id": "src-punjabdl-tribune-suspension",
+      "label": "Punjab driving licence scam: Vigilance chief SPS Parmar suspended",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2025-04-25",
+      "url": "https://www.tribuneindia.com/news/punjab/punjab-driving-licence-scam-vigilance-chief-sps-parmar-suspended/"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "KB-565",
+  "slug": "home-trade-dot-com-scam",
+  "title": "The Home Trade.com Government-Securities Scam",
+  "dek": "A dot-com-era brokerage promised cooperative banks extra returns on government-bond trades. Instead it allegedly pocketed roughly ₹600 crore meant for gilt purchases from more than two dozen cooperative banks — and it took SEBI almost two decades to issue a final penalty order.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 143,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2002-04-30",
+  "heroStat": {
+    "value": "~₹600 cr",
+    "label": "reportedly swindled from more than 25 cooperative banks — 13 in Maharashtra and 12 in Gujarat — under the pretext of government-securities (gilt) trading"
+  },
+  "promise": {
+    "quote": "Invest your bank's surplus funds in government securities through Home Trade for returns 2-7 percentage points higher than market rates.",
+    "madeBy": "Home Trade Limited, under chairman and CEO Sanjay Agarwal",
+    "role": "Mumbai-based online brokerage describing itself as India's first 'FMFG' (first-moving financial goods) company, launched 22 January 2002",
+    "date": "2002-01-22",
+    "context": "This reflects the general nature of Home Trade's pitch to cooperative bank treasuries as described in contemporaneous reporting, rather than a verified quotation from a specific Home Trade offer document, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-hometrade-upi"
+    ]
+  },
+  "target": {
+    "description": "That funds cooperative banks transferred to Home Trade and its affiliated brokers for the purchase of government securities would actually be invested in those securities, and that the physical or dematerialised gilt certificates would be delivered to the banks as agreed.",
+    "standard": "RBI guidelines governing cooperative banks' investment of surplus funds in government securities, and basic obligations against cheating and criminal breach of trust under the Indian Penal Code.",
+    "referenceDate": "2002-01-22"
+  },
+  "reality": {
+    "description": "Home Trade and four affiliated brokers allegedly persuaded roughly 25 cooperative banks — about 13 in Maharashtra and 12 in Gujarat — to route funds through them for government-securities purchases, offering 2-7 percentage points above prevailing returns and, per contemporaneous reporting, additional inducements to bank office-bearers. The banks' money was allegedly not fully invested in the securities promised; the Nagpur District Central Cooperative Bank alone reportedly handed over ₹124-125 crore for gilts that were never delivered. The Vardha (Wardha) Central Cooperative Bank's criminal complaint helped bring the scheme to light, and on 30 April 2002, SEBI barred Home Trade from dealing in securities for violations in government-securities transactions. The affair triggered political uproar in Maharashtra's state assembly given cooperative banks' ties to local politicians. SEBI's formal adjudication proceeded slowly: as of November 2021, SEBI issued an adjudication order against 12 entities in the matter of Home Trade Ltd — nearly two decades after the scandal broke — reflecting how long the regulatory process took to conclude even at the administrative level. Separate criminal and enforcement proceedings, including matters involving the Directorate of Enforcement, continued into the 2020s.",
+    "asOfDate": "2021-11-01",
+    "sourceIds": [
+      "src-hometrade-upi",
+      "src-hometrade-sebi-2021"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time between the scandal breaking and SEBI's adjudication order",
+    "unit": "years",
+    "targetValue": 1,
+    "actualValue": 19,
+    "targetDisplay": "Expected: adjudication within a reasonable period of the 2002 scandal",
+    "actualDisplay": "Actual: SEBI adjudication order issued November 2021",
+    "targetLabel": "Reasonable regulatory timeline",
+    "actualLabel": "Actual time to SEBI adjudication order",
+    "note": "This gap reflects the delay in SEBI's own regulatory-securities-law adjudication, not the separate criminal cheating cases pursued by cooperative banks and police, whose current status this entry has not confirmed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The widely cited ~₹600 crore figure covers funds allegedly diverted from cooperative banks across Maharashtra and Gujarat combined; the Nagpur District Central Cooperative Bank figure of ~₹124-125 crore is the single largest reported instance. This entry has not confirmed a final, audited total loss figure.",
+    "sourceIds": [
+      "src-hometrade-upi"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2002-01-22",
+      "label": "Home Trade launches",
+      "detail": "Sanjay Agarwal's Home Trade Limited begins operations, styling itself India's first online 'financial goods' brokerage.",
+      "type": "announcement"
+    },
+    {
+      "date": "2002-04-01",
+      "label": "Cooperative banks allege non-delivery of securities",
+      "detail": "Banks including the Nagpur District Central Cooperative Bank say funds handed over for government-securities purchases were not matched by delivery of the securities.",
+      "type": "milestone"
+    },
+    {
+      "date": "2002-04-30",
+      "label": "SEBI bars Home Trade from securities market",
+      "detail": "SEBI issues an order barring Home Trade from dealing in securities, citing violations in government-securities transactions.",
+      "type": "milestone"
+    },
+    {
+      "date": "2002-05-14",
+      "label": "Scandal draws national and political attention",
+      "detail": "Reports describe the scam as roughly ₹600 crore across more than 25 cooperative banks; Maharashtra's state assembly sees uproar over the affair.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-11-01",
+      "label": "SEBI issues adjudication order",
+      "detail": "Nearly two decades after the scandal, SEBI's Adjudication Order against 12 entities in the matter of Home Trade Ltd. is issued.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "SEBI's securities-law adjudication concluded with a November 2021 order against 12 entities — a remarkably delayed administrative resolution relative to the 2002 scandal. This entry has not confirmed the outcome of the separate criminal cheating cases filed by cooperative banks and police against Sanjay Agarwal and others, nor of a later Enforcement Directorate matter referenced in a 2022 court record; both should be treated as unresolved absent further confirmation.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjay Agarwal",
+        "role": "Chairman and CEO, Home Trade Limited",
+        "outcome": "Barred by SEBI from securities dealing in 2002; named in a later Enforcement Directorate-related court matter (2022) whose outcome this entry has not confirmed; no criminal conviction confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, substantial diversion of cooperative-bank funds under the guise of government-securities trading is well documented from 2002 reporting and confirmed by SEBI's own (very delayed) 2021 adjudication order. This is written as a stub because this entry could not confirm the final disposition of the criminal cheating cases or establish with confidence whether Sanjay Agarwal or others were ever criminally convicted.",
+    "confidence": "low",
+    "reasoning": "The 2002 events are corroborated across multiple contemporaneous outlets (UPI, Tribune, Business Standard, People's Democracy), and the 2021 SEBI order is confirmed on SEBI's own website. However, this entry has not reviewed the SEBI order's text, any criminal court records, or the 2022 Enforcement Directorate-related case directly, and cannot confirm final criminal outcomes."
+  },
+  "incomplete": [
+    "This entry has not reviewed SEBI's November 2021 adjudication order text directly — only its existence and title are confirmed via SEBI's own order-listing page.",
+    "The outcome of criminal cheating cases filed against Sanjay Agarwal and Home Trade by cooperative banks and police (starting 2002) is not confirmed.",
+    "A 2022 Delhi High Court record referencing 'Sanjay Agarwal vs The Directorate of Enforcement' suggests a later PMLA-related proceeding, but this entry has not reviewed that record and cannot confirm what it concerns or its outcome.",
+    "The precise, final total amount lost has not been confirmed from a single authoritative source; this entry uses the commonly cited ~₹600 crore estimate."
+  ],
+  "sources": [
+    {
+      "id": "src-hometrade-upi",
+      "label": "Financial scams back with a bang in India",
+      "type": "independent",
+      "publisher": "UPI",
+      "date": "2002-05-14",
+      "url": "https://www.upi.com/Business_News/2002/05/14/Financial-scams-back-with-a-bang-in-India/27141021406246/"
+    },
+    {
+      "id": "src-hometrade-sebi-2021",
+      "label": "Adjudication Order against 12 entities in the matter of Home Trade Ltd.",
+      "type": "primary",
+      "publisher": "Securities and Exchange Board of India (SEBI)",
+      "date": "2021-11-01",
+      "url": "https://www.sebi.gov.in/enforcement/orders/nov-2021/adjudication-order-against-12-entities-in-the-matter-of-home-trade-ltd-_54235.html"
+    },
+    {
+      "id": "src-hometrade-peoplesdemocracy",
+      "label": "Home trade scam",
+      "type": "independent",
+      "publisher": "People's Democracy",
+      "date": "2002-05-19",
+      "url": "https://archives.peoplesdemocracy.in/2002/may19/05192002_eco.html"
+    }
+  ]
+}

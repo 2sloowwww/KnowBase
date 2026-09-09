@@ -1,0 +1,143 @@
+{
+  "id": "KB-2906",
+  "slug": "balakot-airstrike-disputed-claims",
+  "title": "The Balakot Airstrike and the Battle Over What Was Actually Destroyed",
+  "dek": "After the Pulwama suicide bombing killed 40 CRPF personnel in February 2019, India said its air force struck a Jaish-e-Mohammed training camp in Balakot, Pakistan, killing a large number of militants. Independent satellite imagery and on-the-ground reporting have since disputed the scale of destruction and casualties India claimed -- a gap between official claims and independently verifiable battle damage that, three years later, resurfaced in a similar form after Operation Sindoor.",
+  "category": "Defence & Security",
+  "status": "disputed",
+  "severity": "critical",
+  "severityRank": 65,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2019-02-26",
+  "heroStat": {
+    "value": "300+",
+    "label": "militants India's ruling party publicly claimed were killed in the strike -- a figure the government itself never officially confirmed and independent assessments have not corroborated"
+  },
+  "promise": {
+    "quote": "a very large number of JeM terrorists, trainers, senior commanders and groups of jihadis who were being trained for fidayeen action were eliminated.",
+    "madeBy": "Vijay Gokhale",
+    "role": "Foreign Secretary of India",
+    "date": "2019-02-26",
+    "context": "Official government statement on the morning after Indian Air Force Mirage 2000 jets struck a site near Balakot, Khyber Pakhtunkhwa, Pakistan, days after the Pulwama attack; the government did not give a precise casualty figure in this statement, though ruling party leaders separately cited figures in the hundreds.",
+    "sourceIds": [
+      "src-balakot-gokhale-text"
+    ]
+  },
+  "target": {
+    "description": "A precision airstrike that destroyed a specific, identified Jaish-e-Mohammed training camp and killed a substantial number of militants, as officially described by the government -- a claim capable of being corroborated by independent, third-party evidence such as satellite imagery.",
+    "standard": "The government's own public description of the strike's target and effect, as given by the Foreign Secretary's statement and subsequent statements by ruling party leaders citing specific casualty figures.",
+    "referenceDate": "2019-02-26"
+  },
+  "reality": {
+    "description": "In the early hours of February 26, 2019, Indian Air Force Mirage 2000 jets struck a site near Balakot, Pakistan, days after a Jaish-e-Mohammed suicide bomber killed 40 CRPF personnel in Pulwama, Kashmir. India's government said it had hit a Jaish training camp and killed a large number of militants, though its formal statement avoided giving a specific death toll; ruling BJP leaders separately cited figures such as '300 terrorists killed.' High-resolution satellite images taken by Planet Labs and reviewed by Reuters on March 4, 2019 -- six days after the strike -- showed buildings on the site still standing, without visible roof damage, scorching or blown-out walls consistent with a major aerial bombing. Reuters reporters who visited the area found no clear physical evidence of mass casualties. Some Indian outlets and analysts disputed this reading, citing evidence of smaller bomb entry points and arguing India used penetration munitions designed to cause internal rather than external damage, making surface-level satellite assessment inconclusive. Pakistan, for its part, said the Indian jets dropped their payload on a largely empty hillside after being intercepted. Independent battle-damage assessment was hampered by lack of access to the site by neutral observers, and no comprehensive independent casualty count was ever established with confidence by either side's critics.",
+    "asOfDate": "2019-04-06",
+    "sourceIds": [
+      "src-balakot-wiki",
+      "src-balakot-reuters-quint",
+      "src-balakot-scroll",
+      "src-balakot-newslaundry"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Militants India's ruling party said were killed vs. casualties independently corroborated by satellite imagery or ground reporting",
+    "unit": "people",
+    "targetValue": 300,
+    "actualValue": 0,
+    "targetDisplay": "300+ (widely cited political claim, not the government's own formal figure)",
+    "actualDisplay": "0 independently corroborated casualties, per Reuters' satellite and ground investigation",
+    "targetLabel": "Claimed",
+    "actualLabel": "Independently corroborated",
+    "note": "The Indian government's own formal statement did not cite a specific casualty number; the widely circulated '300+' figure originated with ruling party politicians rather than an official military or government count. This entry treats the independent-corroboration figure as reflecting what could be confirmed by outside reporting, not as proof that zero people were killed -- battle damage assessment here is genuinely disputed and inconclusive, not conclusively resolved in either direction."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-02-14",
+      "label": "Pulwama attack",
+      "detail": "A Jaish-e-Mohammed suicide bomber kills 40 CRPF personnel in a convoy in Pulwama, Jammu & Kashmir.",
+      "type": "status"
+    },
+    {
+      "date": "2019-02-26",
+      "label": "Balakot airstrike",
+      "detail": "Indian Air Force Mirage 2000 jets strike a site near Balakot, Pakistan; the Foreign Secretary announces a 'non-military, pre-emptive' strike on a Jaish training camp.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-02-27",
+      "label": "Aerial engagement and pilot capture",
+      "detail": "Pakistan's air force responds the next day; an Indian MiG-21 is shot down and pilot Abhinandan Varthaman is captured, then returned on March 1.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-04",
+      "label": "Satellite images raise doubts",
+      "detail": "Reuters publishes analysis of Planet Labs satellite imagery from March 4 showing the Balakot site's buildings apparently intact, contradicting claims of major destruction.",
+      "type": "status"
+    },
+    {
+      "date": "2019-04-06",
+      "label": "Battle-damage assessment remains contested",
+      "detail": "Indian and international commentators continue to dispute the scale of the strike's actual effect, with no independently agreed casualty figure or damage assessment ever settled.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This entry concerns a disputed military claim rather than a prosecutable case; there is no legal proceeding to report on.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's government carried out a real airstrike inside Pakistani territory in response to a real terror attack, but the specific, large casualty figures publicly associated with the strike -- chiefly by ruling party politicians rather than the government's own formal statement -- have not been independently corroborated, and available satellite evidence has been read in sharply conflicting ways by different analysts. The truth of what was actually destroyed and who, if anyone, was killed remains genuinely unresolved based on public evidence.",
+    "confidence": "low",
+    "reasoning": "The strike itself, the diplomatic and military sequence of events, and the existence of the Reuters satellite-imagery dispute are well documented. Confidence on the underlying factual question -- what was actually destroyed and how many people, if any, were killed -- is low because neither side's claims have been independently verified by neutral, on-the-ground investigators with access to the site, and satellite evidence has been interpreted differently by credible analysts on different sides of the debate."
+  },
+  "incomplete": [
+    "No neutral, independent, on-the-ground forensic investigation of the Balakot site has been conducted or made public; all assessments rely on remote satellite imagery or contested local reporting.",
+    "This entry does not adjudicate between the competing 'penetration bomb, internal damage' and 'no significant damage' interpretations of the satellite imagery; both are presented as contested claims.",
+    "The Indian government's own official casualty figure, if any exists beyond the general description of 'a very large number' of terrorists eliminated, was not identified in the sources reviewed for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-balakot-wiki",
+      "label": "2019 Balakot airstrike",
+      "type": "independent",
+      "publisher": "Wikipedia (cross-checked secondary reference)",
+      "date": "2019-02-26",
+      "url": "https://en.wikipedia.org/wiki/2019_Balakot_airstrike"
+    },
+    {
+      "id": "src-balakot-gokhale-text",
+      "label": "Full Text: Indian Foreign Secretary Vijay Gokhale's Statement on Strike on Jaish Camp",
+      "type": "primary",
+      "publisher": "The Wire (reproducing MEA statement text)",
+      "date": "2019-02-26",
+      "url": "https://thewire.in/security/india-pakistan-balakot-airstrike-iaf-jaish-camp"
+    },
+    {
+      "id": "src-balakot-reuters-quint",
+      "label": "Satellite Images vs Bunker Buster Ammo: Contrary Claims on Balakot",
+      "type": "independent",
+      "publisher": "The Quint (citing Reuters satellite imagery analysis)",
+      "date": "2019-03-06",
+      "url": "https://www.thequint.com/news/india/satellite-images-show-balakot-jaish-madrasa-standing-reuters-report"
+    },
+    {
+      "id": "src-balakot-scroll",
+      "label": "What does the satellite imagery tell us about the Indian airstrike on Balakot?",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2019-03-07",
+      "url": "https://scroll.in/article/915548/what-does-the-satellite-imagery-tell-us-about-the-indian-airstrike-on-balakot"
+    },
+    {
+      "id": "src-balakot-newslaundry",
+      "label": "Balakot and the problem of Battle Damage Assessment",
+      "type": "independent",
+      "publisher": "Newslaundry",
+      "date": "2019-04-06",
+      "url": "https://www.newslaundry.com/2019/04/06/balakot-and-and-the-problem-of-battle-damage-assessment"
+    }
+  ]
+}

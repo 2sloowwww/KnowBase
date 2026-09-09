@@ -1,0 +1,152 @@
+{
+  "id": "KB-742",
+  "slug": "madhya-pradesh-scholarship-scam",
+  "title": "Ghost Students: Madhya Pradesh's Fake-Beneficiary Scholarship Scam",
+  "dek": "A Bhopal police complaint over 972 non-existent minority scholarship recipients at 40 schools and madrasas turned out to be one visible piece of a national scholarship fraud in which auditors found more than half of over 1,500 scrutinised institutes to be fake, partly fake or simply not running.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 232,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-06-17",
+  "heroStat": {
+    "value": "830 of 1,572",
+    "label": "minority-scholarship institutes examined nationally by NCAER that were found fake, partially fake, or non-operational — with Madhya Pradesh among the states most affected"
+  },
+  "promise": {
+    "quote": "Pre-Matric and Post-Matric Scholarship funds disbursed to minority students through recognised schools and madrasas in Madhya Pradesh will reach only genuinely enrolled, eligible students, verified by the institutions and the state's Backward Classes and Minority Welfare Board before being forwarded to the Union Ministry of Minority Affairs.",
+    "madeBy": "Madhya Pradesh Backward Classes and Minority Welfare Board / Union Ministry of Minority Affairs",
+    "role": "State and central authorities jointly administering the Pre-Matric and Post-Matric Minority Scholarship Scheme",
+    "date": "2017-01-01",
+    "context": "This reflects the scheme's basic verification design as described in subsequent government and press accounts, rather than a verified quotation from a specific official statement, which this entry has not located.",
+    "sourceIds": [
+      "src-mp-opindia"
+    ]
+  },
+  "target": {
+    "description": "Scholarship disbursals under the Pre-Matric and Post-Matric Minority Scholarship Scheme that reach only students who are actually enrolled at the claiming institution and genuinely belong to an eligible minority community, with institutions and officials verifying enrolment before forwarding claims.",
+    "standard": "The scheme's own eligibility and institutional-verification requirements, as administered via the National Scholarship Portal.",
+    "referenceDate": "2017-01-01"
+  },
+  "reality": {
+    "description": "The scholarship scheme's fraud problem is national in scope: a National Council of Applied Economic Research (NCAER) third-party evaluation covering 2017-18 to 2021-22 examined 1,572 institutes across states and found 830 of them fake, partially fake, or non-operational, with an estimated loss of roughly ₹144.33 crore from those 830 institutes alone; a further pool of 6,055 institutes flagged by the National Scholarship Portal as suspicious yielded 609 confirmed fake or partially fake after inspection. Because the scheme's finances were thrown into doubt, the Pre-Matric, Post-Matric and Merit-cum-Means minority scholarship schemes have not been approved by the Centre beyond 2021-22 and have effectively been frozen since 2022-23, leaving genuinely eligible students without payments for years while the fraud investigation continued. Madhya Pradesh is one of the more heavily affected states: by the time a parliamentary standing committee report was tabled in March 2026, 55 FIRs had been filed in Madhya Pradesh alone, though only around ₹14 lakh had been recovered outside official channels. A concrete, dated local example surfaced in Bhopal: on 17 June 2025, the state's Backward Classes and Minority Welfare Board — acting on anomalies flagged by the Union Ministry of Minority Affairs — filed a formal police complaint alleging that 23 private schools and 17 madrasas (40 institutions in Bhopal) had listed 972 students, most or all of whom did not exist or were not actually enrolled, to siphon off roughly ₹57.78 lakh in scholarship money at ₹5,700 per student. Bhopal's Crime Branch opened an investigation under IPC provisions covering forgery, cheating, breach of trust and embezzlement, and by mid-2025 a further 104 institutions across Madhya Pradesh were under scrutiny for similar patterns, including fake addresses shared by multiple institutions in a single building. As of this writing, no arrests or convictions arising from the Bhopal complaint have been confirmed by this entry, and nationally only a small fraction of the estimated loss has been recovered.",
+    "asOfDate": "2026-03-14",
+    "sourceIds": [
+      "src-mp-opindia",
+      "src-mp-organiser",
+      "src-mp-theprint"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Minority-scholarship institutes examined nationally by NCAER vs. found fake, partially fake, or non-operational (2017-18 to 2021-22)",
+    "unit": "institutes",
+    "targetValue": 1572,
+    "actualValue": 830,
+    "targetDisplay": "1,572 institutes examined",
+    "actualDisplay": "830 found fake / partly fake / non-operational",
+    "targetLabel": "Examined",
+    "actualLabel": "Found fraudulent or non-operational",
+    "note": "This is the national picture from the NCAER third-party audit, not an Madhya-Pradesh-only figure; Madhya Pradesh is one of the states with the largest number of resulting FIRs (55, as of the March 2026 parliamentary standing committee report), but this entry has not obtained a Madhya-Pradesh-specific institute count from the same audit."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 57.78,
+    "spentLabel": "Alleged amount siphoned via 972 fake/ineligible students across 40 Bhopal institutions (₹5,700 per student), per the June 2025 police complaint",
+    "unit": "lakh",
+    "notes": "This is the Bhopal-specific figure from the local FIR. At the national level, NCAER estimated a roughly ₹144.33 crore loss from the 830 institutes it found fraudulent or non-operational, of which only a small amount (around ₹29 lakh against portal-flagged cases nationally, and about ₹14 lakh in Madhya Pradesh specifically, deposited outside official channels) had been recovered as of the March 2026 parliamentary report.",
+    "sourceIds": [
+      "src-mp-organiser",
+      "src-mp-theprint"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-11-01",
+      "label": "Minority scholarship fraud first surfaces nationally",
+      "detail": "Media reports and a government review first flag suspicious institutes under the minority scholarship scheme; the Centre initially directs five states (Assam, Bihar, Jharkhand, Chhattisgarh, Punjab) to investigate, later expanding scrutiny nationwide.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-01-01",
+      "label": "Scheme funding frozen",
+      "detail": "The Pre-Matric, Post-Matric and Merit-cum-Means minority scholarship schemes are not approved by the Centre beyond 2021-22, effectively freezing disbursals amid the fraud investigation.",
+      "type": "delay"
+    },
+    {
+      "date": "2023-07-01",
+      "label": "Ministry complaint leads to a chargesheet",
+      "detail": "A complaint by the Ministry of Minority Affairs' secretary leads to a chargesheet against 10 accused in a portal-fraud case, part of the wider national investigation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-06-17",
+      "label": "Bhopal FIR: 972 fake students at 40 institutions",
+      "detail": "Madhya Pradesh's Backward Classes and Minority Welfare Board files a formal complaint alleging 23 private schools and 17 madrasas in Bhopal listed 972 non-existent or non-enrolled students to claim roughly ₹57.78 lakh in scholarships.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-07-16",
+      "label": "104 more institutions flagged statewide",
+      "detail": "Press reports describe scrutiny expanding to 104 institutions across Madhya Pradesh for similar patterns, including shared fake addresses.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-01",
+      "label": "6,055 suspicious institutes sent to states nationally",
+      "detail": "The Centre sends 6,055 portal-flagged suspicious institutes to states for verification as part of the ongoing national clean-up.",
+      "type": "status"
+    },
+    {
+      "date": "2026-03-14",
+      "label": "Parliamentary standing committee report tabled",
+      "detail": "The report records 830 of 1,572 NCAER-examined institutes as fraudulent or non-operational nationally, 55 FIRs filed in Madhya Pradesh, and only partial recovery of the estimated losses.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No convictions arising from the Bhopal complaint or the broader Madhya Pradesh FIRs have been confirmed by this entry. Nationally, at least one CBI chargesheet (against 10 accused, filed following a 2023 ministry complaint) has been reported, and 193 FIRs had been filed across all states combined as of the March 2026 parliamentary report, alongside 33 departmental proceedings. All individuals and institutions named in FIRs are presumed innocent unless and until convicted.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a confirmed, government-audited fraud — NCAER's own evaluation found more than half of the institutes it examined nationally to be fake, partly fake, or non-operational, and Madhya Pradesh has generated more FIRs (55) than most other states — but resolution remains incomplete: the underlying scheme has been frozen since 2022-23, recovery of siphoned funds is minimal, and this entry could not confirm any conviction tied specifically to the Bhopal complaint or the wider Madhya Pradesh FIRs.",
+    "confidence": "low",
+    "reasoning": "The Bhopal FIR's institution and student counts are corroborated by two independent outlets (OpIndia and Organiser) citing the same police complaint, and the national NCAER figures and Madhya Pradesh FIR count come from a parliamentary standing committee report as summarised by The Print. This entry has not read the standing committee report, the NCAER evaluation, or the Bhopal FIR directly, and has not confirmed any arrests, chargesheets, or convictions specific to Madhya Pradesh."
+  },
+  "incomplete": [
+    "This entry has not confirmed any arrests, chargesheets, or convictions arising specifically from the 17 June 2025 Bhopal complaint.",
+    "The precise Madhya-Pradesh-specific breakdown of the NCAER's 1,572-institute national audit (how many of the 830 fake/non-operational institutes were in Madhya Pradesh) has not been obtained.",
+    "This entry has not read the parliamentary standing committee report or the NCAER evaluation directly; figures are drawn from a secondary summary (The Print, citing the March 2026 report).",
+    "An earlier and separate scholarship-fraud episode in Madhya Pradesh — a 2013 Lokayukta probe into tribal-welfare scholarships involving fake paramedical colleges — is a distinct case from the 2020s minority-scholarship fraud described here and has not been folded into this entry; its final legal outcome (if any) has also not been confirmed.",
+    "Whether the frozen minority scholarship schemes have since been restored or replaced, and the current (September 2026) status of genuinely eligible students who went unpaid, has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-mp-opindia",
+      "label": "MP Scholarship Scam: Ghost students, fake schools, and Rs 57 lakhs vanished",
+      "type": "independent",
+      "publisher": "OpIndia",
+      "date": "2025-07-01",
+      "url": "https://www.opindia.com/2025/07/ghost-students-fake-schools-rs-57-lakh-vanished-the-mp-scholarship-scam/"
+    },
+    {
+      "id": "src-mp-organiser",
+      "label": "Bhopal: Fake schools and madrasas caught pocketing govt funds",
+      "type": "independent",
+      "publisher": "Organiser",
+      "date": "2025-07-16",
+      "url": "https://organiser.org/2025/07/16/302962/bharat/mp-over-100-fake-missionary-schools-madrasas-swindled-rs-57-lakh-from-govt-scholarships-using-ghost-students/"
+    },
+    {
+      "id": "src-mp-theprint",
+      "label": "Govt's minority scholarship scheme frozen 3 yrs as probe into fraud meanders, students pay price",
+      "type": "independent",
+      "publisher": "The Print",
+      "date": "2026-03-14",
+      "url": "https://theprint.in/india/education/govts-minority-scholarship-scheme-frozen-3-yrs-as-probe-into-fraud-meanders-students-pay-price/2877988/"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "KB-601",
+  "slug": "bihar-shikshak-bahali-fake-certificate-scam",
+  "title": "Bihar's Fake-Degree Teachers",
+  "dek": "Bihar hired around 2.5 lakh contractual teachers over a decade on the strength of submitted mark sheets, with no written exam. A vigilance verification drive is now moving to dismiss 3,035 of them for forged or fake degrees, with 1,830 FIRs registered.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 120,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2016-01-19",
+  "heroStat": {
+    "value": "3,035",
+    "label": "government school teachers in Bihar the state education department is moving to dismiss over fake degrees and forged certificates, as of the state's verification drive"
+  },
+  "promise": {
+    "quote": "Around 2.5 lakh school teachers were appointed after Nitish Kumar took over as Bihar Chief Minister in 2005; candidates were required to submit mark sheets or degrees, without a written examination, to be recruited as contractual (Shikshak Bahali) teachers.",
+    "madeBy": "Government of Bihar, Education Department",
+    "role": "State government running successive Shikshak Bahali (teacher recruitment) drives between 2006 and 2015",
+    "date": "2006-01-01",
+    "context": "This describes the general design of Bihar's large-scale contractual-teacher recruitment programme rather than a specific public commitment on a fixed date; the recruitment relied on document verification rather than a competitive written test, which is the structural weakness later exploited to submit forged credentials.",
+    "sourceIds": [
+      "src-bihar-newsgram"
+    ]
+  },
+  "target": {
+    "description": "That teachers recruited into Bihar's government school system between 2006 and 2015 would hold genuine educational qualifications and teaching-eligibility credentials, verified against the issuing institutions, as a baseline condition of public employment in the classroom.",
+    "standard": "Bihar's own teacher-recruitment eligibility rules requiring genuine, verifiable academic degrees and, following the National Council for Teacher Education framework, valid Teacher Eligibility Test (TET) qualification for later recruitment cycles.",
+    "referenceDate": "2006-01-01"
+  },
+  "reality": {
+    "description": "Following a long-running vigilance investigation into the 2006–2015 contractual-teacher recruitment drives, Bihar's Education Department has moved to dismiss 3,035 government school teachers found, on state-wide document verification, to have secured their jobs using fake degrees or forged certificates. As of the reported crackdown, 1,830 First Information Reports had been registered against affected teachers, and the department has separately undertaken re-verification of more than one lakh more recently recruited teachers after complaints of impersonation (with 4,000 randomly re-checked and at least three impersonators identified). The state has said it will recover salaries and honorariums paid to the dismissed teachers, with interest, once departmental proceedings conclude.",
+    "asOfDate": "2026-07-10",
+    "sourceIds": [
+      "src-bihar-newsgram",
+      "src-bihar-global-edu"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Teachers recruited via the 2006–2015 drives vs. teachers so far found to have used fake/forged credentials",
+    "unit": "teachers",
+    "targetValue": 250000,
+    "actualValue": 3035,
+    "targetDisplay": "~2.5 lakh teachers recruited, 2006–2015",
+    "actualDisplay": "3,035 confirmed for dismissal over fake degrees",
+    "targetLabel": "Total contractual teachers recruited",
+    "actualLabel": "Confirmed fake-credential dismissals",
+    "note": "3,035 is the number the verification drive has confirmed and acted on so far, not necessarily the full extent of fraud in the recruitment pool; other reporting has referenced far larger at-risk figures (including one report citing up to 24,000 candidates facing scrutiny), which this entry has not been able to independently confirm and flags below as unresolved."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "label": "Large-scale contractual teacher recruitment begins",
+      "detail": "Bihar government begins hiring roughly 2.5 lakh contractual (Shikshak Bahali) teachers over the following decade based on submitted mark sheets/degrees rather than a written exam.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-01-19",
+      "label": "Early fake-degree crackdown reported",
+      "detail": "Reporting on roughly 200 teachers facing action over fake degrees in an earlier phase of scrutiny, an early sign of the credential-verification problem later addressed at much larger scale.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "Re-verification of newly recruited teachers ordered",
+      "detail": "Bihar Education Department orders re-verification of over one lakh recently recruited teachers after complaints that some appointees were impersonators; 4,000 selected teachers called for random re-verification, with at least three impersonators identified.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-07-10",
+      "label": "3,035 teachers to be dismissed, 1,830 FIRs registered",
+      "detail": "State-wide verification of the 2006–2015 recruitment drives concludes that 3,035 teachers used fake degrees or forged certificates; the Education Department begins the dismissal process and 1,830 FIRs have been registered.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Departmental dismissal proceedings are underway against 3,035 teachers, and 1,830 criminal FIRs have been registered in connection with fake or forged credentials. This entry has not found confirmation of any criminal convictions arising from these FIRs, and the recovery of past salaries is described as pending completion of the departmental process.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "A real, large-scale credential-verification failure in Bihar's teacher-recruitment system, now the subject of an active administrative and criminal crackdown, but not yet a closed case: the FIRs are recent and this entry has not found reporting of trial outcomes, and the true scale of fraud within the roughly 2.5 lakh teachers recruited 2006–2015 remains contested across different reports.",
+    "confidence": "low",
+    "reasoning": "The 3,035 dismissal figure and 1,830 FIR count are corroborated by multiple contemporaneous outlets, but this entry has not reviewed the underlying vigilance report, any court records, or an official Bihar government press release directly, and figures for the total scale of the fraud vary between sources."
+  },
+  "incomplete": [
+    "This entry has not located and reviewed the original Bihar Vigilance Bureau report or an official Education Department order/press release; all facts are drawn from news reporting summarising them.",
+    "One source references up to 24,000 candidates as being 'at risk' of losing their jobs in a related or overlapping context; this entry has not been able to reconcile that figure with the 3,035 confirmed dismissals and flags it as unverified rather than including it as fact.",
+    "No criminal trial outcomes, convictions, or acquittals arising from the 1,830 FIRs have been found as of this entry's research; the matter should be treated as an active administrative/criminal process, not a concluded one.",
+    "The exact scope of 'Shikshak Bahali' as used here (which specific recruitment phases/cadres are covered) has not been independently confirmed against an official government definition."
+  ],
+  "sources": [
+    {
+      "id": "src-bihar-newsgram",
+      "label": "Bihar Fake Degree Scam: 3,035 Teachers to Lose Jobs, 1,830 FIRs Registered",
+      "type": "independent",
+      "publisher": "NewsGram",
+      "date": "2026-07-10",
+      "url": "https://www.newsgram.com/education/2026/07/10/bihar-fake-degrees-over-3000-teachers-to-be-removed-1830-firs-registered"
+    },
+    {
+      "id": "src-bihar-global-edu",
+      "label": "Bihar to Dismiss 3,035 Government Teachers Over Fake Degrees: Massive Verification Drive Exposes Recruitment Fraud",
+      "type": "independent",
+      "publisher": "Global Education News",
+      "date": "2026-07-10",
+      "url": "https://globaleducationnews.org/bihar-to-dismiss-3035-government-teachers-over-fake-degrees-massive-verification-drive-exposes-recruitment-fraud/"
+    }
+  ]
+}

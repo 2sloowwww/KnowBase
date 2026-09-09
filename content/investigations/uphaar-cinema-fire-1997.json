@@ -1,0 +1,139 @@
+{
+  "id": "KB-2709",
+  "slug": "uphaar-cinema-fire-1997",
+  "title": "Uphaar Cinema's Owners Blocked Exit Doors to Add Extra Seats. Fifty-Nine People Died Because of It, and the Men Responsible Served Barely a Year",
+  "dek": "A fire in the electrical transformer room of Delhi's Uphaar cinema on 13 June 1997 killed 59 people, most by suffocation as they tried to flee through exits that investigators found had been narrowed or blocked to fit more seats into the balcony. It took a decade for a court to convict the theatre's owners, the Ansal brothers, of criminal negligence -- and even then, the sentence eventually served for the underlying deaths amounted to roughly a year, with a separate evidence-tampering conviction adding a further, harsher term only in 2021, 24 years after the fire.",
+  "category": "Public Spending",
+  "status": "convicted",
+  "severity": "moderate",
+  "severityRank": 181,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1997-06-13",
+  "heroStat": {
+    "value": "59",
+    "label": "People who died in the Uphaar cinema fire in Delhi on 13 June 1997, most from suffocation while trying to exit through blocked or narrowed passages"
+  },
+  "promise": {
+    "quote": "Cinema halls licensed to operate in Delhi are required to maintain clear, code-compliant fire exits, functioning emergency lighting and public address systems, and electrical installations compliant with safety regulations, as conditions of their operating licence.",
+    "madeBy": "Municipal Corporation of Delhi and Delhi Fire Service, as licensing and safety-oversight authorities",
+    "role": "Civic and fire-safety regulators responsible for licensing and inspecting cinema halls including Uphaar",
+    "date": "1997-06-13",
+    "context": "Uphaar cinema in Green Park, South Delhi, was owned and operated by Sushil Ansal and Gopal Ansal; subsequent investigation found the balcony seating had been illegally expanded by narrowing gangways and effectively blocking one of the exit routes, in violation of the safety standards implicit in the cinema's operating licence.",
+    "sourceIds": [
+      "src-uphaar-wion"
+    ]
+  },
+  "target": {
+    "description": "Clear, unobstructed emergency exits, functioning emergency lighting and a public address system enabling patrons to evacuate safely in the event of a fire, as required for a licensed public cinema hall.",
+    "standard": "Fire-safety and building-code standards implicit in Delhi cinema licensing requirements at the time",
+    "referenceDate": "1997-06-13"
+  },
+  "reality": {
+    "description": "A fire broke out in a transformer installed in the cinema's parking area, and smoke spread into the auditorium, particularly the balcony, through the air-conditioning ducts. Investigations by police, the Delhi Fire Service and the CBI found multiple violations: exit doors and gangways in the balcony had been narrowed or blocked to accommodate additional seating installed without proper approval, there was no functioning public address system to guide patrons during the emergency, and emergency lighting was absent, all of which contributed to 59 deaths, mostly from suffocation among balcony patrons unable to find their way out. It took until 2007 -- a decade after the fire -- for a trial court to convict Sushil and Gopal Ansal of criminal negligence, sentencing them to two years' imprisonment, the maximum available under the relevant provision; the Delhi High Court later reduced this to one year, and the Supreme Court in 2015 upheld a two-year term but allowed one year of it to be substituted with a fine of Rs 30 crore each (Rs 60 crore combined), meaning neither brother served the full custodial term originally imposed for the deaths themselves. Separately, in a case concerning tampering with evidence during the original investigation, a Delhi court convicted the Ansal brothers again in 2021 and sentenced them to seven years' imprisonment, a sentence upheld on later appeal -- meaning meaningful custodial punishment in this case came only through the evidence-tampering conviction, 24 years after the fire, rather than through the negligence conviction tied to the deaths themselves.",
+    "asOfDate": "2021-11-08",
+    "sourceIds": [
+      "src-uphaar-deccanherald-guilty",
+      "src-uphaar-scroll-sentenced"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years between the fire and any meaningful custodial sentence actually served over the underlying deaths",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 24,
+    "targetDisplay": "Prompt accountability for the safety violations that caused the deaths",
+    "actualDisplay": "24 years, with the negligence conviction's custodial component ultimately substituted by a fine and meaningful jail time coming only from the separate 2021 evidence-tampering conviction",
+    "targetLabel": "Fire occurred",
+    "actualLabel": "Meaningful custodial sentence upheld",
+    "note": "This reflects the drawn-out and partial nature of the accountability process rather than a claim that no legal consequences occurred; the Ansal brothers did face convictions, fines, and some imprisonment across multiple proceedings."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 600000000,
+    "spentLabel": "Rs 60 crore combined fine imposed by the Supreme Court in 2015 on Sushil and Gopal Ansal, in lieu of one year of their two-year negligence sentence",
+    "unit": "INR",
+    "notes": "This figure is the fine substituted for custodial time in the criminal negligence case; it is distinct from any separate civil compensation paid to victims' families, which this entry has not independently itemised.",
+    "sourceIds": [
+      "src-uphaar-wion"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1997-06-13",
+      "label": "Fire breaks out at Uphaar cinema",
+      "detail": "A transformer fire in the parking area sends smoke into the auditorium; 59 patrons, mostly in the balcony, die largely from suffocation while trying to exit through narrowed or blocked passages.",
+      "type": "status"
+    },
+    {
+      "date": "2007-11-20",
+      "label": "Ansal brothers convicted of criminal negligence",
+      "detail": "A trial court convicts Sushil and Gopal Ansal and others of criminal negligence, sentencing the Ansals to two years' imprisonment, the maximum available under the relevant law.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-01-13",
+      "label": "Supreme Court modifies sentence",
+      "detail": "The Supreme Court upholds a two-year sentence but permits one year to be substituted with a fine of Rs 30 crore each, reducing actual custodial time served for the negligence conviction.",
+      "type": "revision"
+    },
+    {
+      "date": "2021-11-08",
+      "label": "Ansal brothers convicted of evidence tampering",
+      "detail": "A separate Delhi court proceeding convicts the Ansal brothers of tampering with evidence during the original fire investigation, sentencing them to seven years' imprisonment.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sushil Ansal and Gopal Ansal were convicted of criminal negligence in 2007 in connection with the fire deaths (sentence later modified to a mix of reduced custody and fines) and separately convicted in 2021 of tampering with evidence during the investigation, receiving a seven-year sentence in that case, later upheld on appeal.",
+    "keyIndividuals": [
+      {
+        "name": "Sushil Ansal",
+        "role": "Co-owner of Uphaar cinema",
+        "outcome": "Convicted of criminal negligence (2007, sentence later modified) and of evidence tampering (2021, seven-year sentence upheld on appeal)."
+      },
+      {
+        "name": "Gopal Ansal",
+        "role": "Co-owner of Uphaar cinema",
+        "outcome": "Convicted of criminal negligence (2007, sentence later modified) and of evidence tampering (2021, seven-year sentence upheld on appeal)."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Uphaar fire killed 59 people because of documented, illegal modifications to the cinema's exits and a lack of basic emergency systems, violations attributed to the theatre's owners. It took a decade to secure a criminal negligence conviction, and even then the custodial sentence for the underlying deaths was substantially reduced and partly commuted to a fine; meaningful prison time for the Ansal brothers ultimately came from a separate evidence-tampering conviction handed down 24 years after the fire.",
+    "confidence": "high",
+    "reasoning": "The cause of the fire, the safety violations found by investigators, and the full sequence of convictions and sentence modifications are well documented in judicial records and consistent independent news reporting across multiple stages of the litigation spanning over two decades."
+  },
+  "incomplete": [
+    "Total civil compensation paid to victims' families, separate from the criminal fines discussed here, has not been independently itemised in this entry.",
+    "This entry does not detail the roles or outcomes for other individuals and officials (including municipal and licensing officials) who faced related proceedings in connection with the fire.",
+    "Later stages of appeal in the evidence-tampering case beyond the 2021 conviction are noted only briefly and not tracked in full detail here."
+  ],
+  "sources": [
+    {
+      "id": "src-uphaar-wion",
+      "label": "Netflix's 'Trial by Fire': Everything about the Uphaar cinema fire of 1997",
+      "type": "independent",
+      "publisher": "WION",
+      "date": "2023-01-01",
+      "url": "https://www.wionews.com/india-news/netflixs-trial-by-fire-everything-about-the-uphaar-cinema-fire-of-1997-552696"
+    },
+    {
+      "id": "src-uphaar-deccanherald-guilty",
+      "label": "Ansals held guilty in Delhi's Uphaar cinema fire case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2007-11-20",
+      "url": "https://www.deccanherald.com/india/ansals-held-guilty-in-delhis-uphaar-cinema-fire-case-379480.html"
+    },
+    {
+      "id": "src-uphaar-scroll-sentenced",
+      "label": "Uphaar cinema fire: Ansal brothers sentenced to seven years in jail for tampering with evidence",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2021-11-08",
+      "url": "https://scroll.in/latest/1010062/uphaar-fire-tragedy-ansal-brothers-sentenced-to-seven-years-in-jail-for-tampering-with-evidence"
+    }
+  ]
+}

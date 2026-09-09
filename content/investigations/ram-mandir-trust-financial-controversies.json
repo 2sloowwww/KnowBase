@@ -1,0 +1,166 @@
+{
+  "id": "KB-051",
+  "slug": "ram-mandir-trust-financial-controversies",
+  "title": "The Ram Mandir Trust's Land Deal and Donation-Counting Scandal",
+  "dek": "Two separate financial controversies have touched the trust that built the Ram temple in Ayodhya: a 2021 land resale at more than nine times its purchase price within minutes, and a 2026 donation cash-counting scandal that led to eight arrests and the resignation of the trust's General Secretary.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 214,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-06-15",
+  "heroStat": {
+    "value": "₹3,264 cr",
+    "label": "in total donations the Trust publicly disclosed after a cash-counting scandal forced its General Secretary and a trustee to resign, July 2026"
+  },
+  "promise": {
+    "quote": "The Trust is accountable for every rupee and every item of the donations it receives for the Ram temple, which are independently audited.",
+    "madeBy": "Shri Ram Janmabhoomi Teerth Kshetra Trust",
+    "role": "Trust responsible for constructing and managing donations for the Ram temple in Ayodhya",
+    "date": "2020-08-27",
+    "context": "Reflects the Trust's publicly reported position on the accountability and auditing of donations, as described in its own disclosures and in reporting on the 2026 donation-counting scandal; this is a paraphrase of the Trust's stated position rather than a verbatim quotation from a single document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-ram-resignation"
+    ]
+  },
+  "target": {
+    "description": "That public donations for the Ram temple are collected, counted, and accounted for transparently, with all cash and in-kind offerings properly recorded and verified, and used solely for the temple's construction and upkeep — not diverted by individuals with access to the counting process — and that land purchased using Trust funds is acquired at fair, arm's-length prices.",
+    "standard": "Standard charitable-trust accounting norms, including the Trust's own internal audit process using an independent chartered accountancy firm; standard expectations of fair-market, arm's-length pricing in property transactions funded by public donations.",
+    "referenceDate": "2020-08-27"
+  },
+  "reality": {
+    "description": "Two distinct, verified controversies have touched the Trust. First, in 2021, journalists documented that a 1.2-hectare Ayodhya plot bought by two businessmen for ₹2 crore was resold to the Trust roughly ten minutes later for ₹18.5 crore — witnessed by Ayodhya's BJP mayor, Rishikesh Upadhyay, and Trust member Anil Mishra. A separate plot bought by the mayor's nephew for ₹20 lakh was resold to the Trust for ₹2.5 crore three months later. The mayor called the pricing allegations false, saying the deal followed a pre-existing 2011 agreement between the original parties; no criminal case is known to have been filed over the land pricing itself. Second, in June 2026, a donation cash-counting scandal broke: eight people — including current and former cash-counting staff and a former bank official — were arrested, and roughly ₹80 lakh in cash and foreign currency was recovered from six of them. State Bank of India had reportedly flagged concerns about the counting staff about three months before the arrests. Opposition politicians alleged that over ₹200 crore in donations may have been misappropriated — an allegation not confirmed by the state-appointed Special Investigation Team's findings as reported. Following the SIT's preliminary report, the Trust's General Secretary, Champat Rai, and trustee Anil Mishra — the same Anil Mishra who witnessed the 2021 land deal — resigned on 6 July 2026 'on moral grounds,' and the Trust publicly disclosed total donation receipts of ₹3,264 crore.",
+    "asOfDate": "2026-07-06",
+    "sourceIds": [
+      "src-ram-land",
+      "src-ram-mayor-nephew",
+      "src-ram-donation-arrests",
+      "src-ram-sbi-flag",
+      "src-ram-resignation"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Land purchase price vs. resale price to the Trust, roughly ten minutes later",
+    "unit": "INR crore",
+    "targetValue": 2,
+    "actualValue": 18.5,
+    "targetDisplay": "₹2 cr",
+    "actualDisplay": "₹18.5 cr",
+    "targetLabel": "Bought for",
+    "actualLabel": "Resold to the Trust for",
+    "note": "This gap concerns only the 2021 land deal. The separate, 2026 donation cash-counting scandal — arrests, ~₹80 lakh recovered, and an unconfirmed opposition allegation of over ₹200 crore missing — is described in Reality above. No criminal case is known to have been filed over the land pricing itself."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2020-08-27",
+      "label": "Trust announces public donation drive",
+      "detail": "Public appeals begin for funds to construct the Ram temple.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-03-18",
+      "label": "Land bought for ₹2 crore, resold to the Trust for ₹18.5 crore",
+      "detail": "A plot near Ayodhya railway station changes hands twice within about ten minutes, witnessed by the Ayodhya mayor and a Trust member.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-06-19",
+      "label": "Further land purchases reported",
+      "detail": "Investigative reporting finds the Ayodhya mayor's nephew bought a separate plot for ₹20 lakh and resold it to the Trust for ₹2.5 crore three months later.",
+      "type": "status"
+    },
+    {
+      "date": "2026-03-26",
+      "label": "SBI reportedly flags counting-staff concerns",
+      "detail": "Reported as occurring roughly three months before the June 2026 arrests; exact date not independently confirmed here.",
+      "type": "status"
+    },
+    {
+      "date": "2026-06-26",
+      "label": "Eight arrested in donation-counting scandal",
+      "detail": "Current and former cash-counting staff and a former bank official arrested; roughly ₹80 lakh in cash and foreign currency recovered from six of them.",
+      "type": "status"
+    },
+    {
+      "date": "2026-07-06",
+      "label": "Champat Rai and Anil Mishra resign",
+      "detail": "Both resign 'on moral grounds' following the SIT's preliminary report; the Trust discloses ₹3,264 crore in total donation receipts.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The 2021 land-pricing controversy did not result in any known criminal case. The 2026 donation-counting scandal is under active investigation by a state-government Special Investigation Team; eight people have been arrested and two senior Trust office-bearers have resigned, but no chargesheet outcome or trial verdict exists yet.",
+    "keyIndividuals": [
+      {
+        "name": "Champat Rai",
+        "role": "General Secretary, Shri Ram Janmabhoomi Teerth Kshetra Trust",
+        "outcome": "Resigned 6 July 2026 'on moral grounds' following the SIT's preliminary report into the donation-counting scandal; not personally accused of taking money in the reporting reviewed for this entry."
+      },
+      {
+        "name": "Anil Mishra",
+        "role": "Trustee; witness to the 2021 land purchase",
+        "outcome": "Resigned as trustee on 6 July 2026 alongside Champat Rai, following the SIT's preliminary report."
+      },
+      {
+        "name": "Lavkush Mishra",
+        "role": "Donation cash-counting staff member",
+        "outcome": "Arrested in June 2026; cash was recovered from his residence during the investigation, per reporting."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Two separate, real financial controversies have touched India's highest-profile temple trust: a 2021 land resale at more than nine times its purchase price within minutes, and a 2026 donation cash-counting scandal that led to eight arrests and the resignation of the Trust's General Secretary and a trustee. Neither has produced a court verdict. The scale of any actual embezzlement — opposition claims exceed ₹200 crore — has not been confirmed by the SIT's findings as reported, and the land deal's pricing was defended by the Ayodhya mayor as following a pre-existing agreement.",
+    "confidence": "medium",
+    "reasoning": "The 2021 land deal's price figures and witnesses are corroborated by multiple independent investigative reports from that year. The 2026 arrests, resignations, and ₹3,264 crore disclosure are reported by multiple outlets, but the SIT's full findings and any resulting chargesheet have not been reviewed directly, and the ₹200 crore misappropriation figure is an opposition allegation, not a confirmed finding."
+  },
+  "incomplete": [
+    "The SIT's full report into the donation-counting scandal, and any resulting chargesheet, had not been made public in the sources reviewed for this entry.",
+    "No outcome is recorded here for whether the 2021 land-pricing controversy was ever formally investigated by any law-enforcement or tax authority.",
+    "The opposition's claim that over ₹200 crore in donations may be missing has not been independently confirmed and is reported here only as an allegation."
+  ],
+  "sources": [
+    {
+      "id": "src-ram-land",
+      "label": "Ram mandir trust says Ayodhya land deal is clean, but questions galore for 'missing' owners",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2021-06-15",
+      "url": "https://theprint.in/india/ram-mandir-trust-says-ayodhya-land-deal-is-clean-but-questions-galore-for-missing-owners/678000/"
+    },
+    {
+      "id": "src-ram-mayor-nephew",
+      "label": "Exclusive: Ayodhya BJP mayor's nephew bought land for 20 lakh, sold it to Ram temple trust for 2.5 crore",
+      "type": "independent",
+      "publisher": "Newslaundry",
+      "date": "2021-06-19",
+      "url": "https://www.newslaundry.com/2021/06/19/exclusive-bjp-mayors-nephew-bought-land-for-20-lakh-sold-it-to-ram-temple-trust-for-25-crore"
+    },
+    {
+      "id": "src-ram-donation-arrests",
+      "label": "Ram Temple donation row: 8 arrested include cash counting staff, ex-bank official",
+      "type": "independent",
+      "publisher": "The Shillong Times",
+      "date": "2026-06-26",
+      "url": "https://theshillongtimes.com/2026/06/26/ram-temple-donation-row-8-arrested-include-cash-counting-staff-ex-bank-official/"
+    },
+    {
+      "id": "src-ram-sbi-flag",
+      "label": "Ram Mandir donation scam: SBI flagged cash counting staff 3 months before arrests",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2026-07-01",
+      "url": "https://www.businesstoday.in/latest/trends/story/ram-mandir-donation-scam-sbi-flagged-cash-counting-staff-3-months-before-arrests-540273-2026-07-01"
+    },
+    {
+      "id": "src-ram-resignation",
+      "label": "Ram Mandir Trust discloses ₹3,264 crore receipts, accepts Champat Rai's resignation",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2026-07-06",
+      "url": "https://www.businesstoday.in/india/story/ram-mandir-trust-discloses-rs3264-crore-receipts-accepts-champat-rais-resignation-541288-2026-07-06"
+    }
+  ]
+}

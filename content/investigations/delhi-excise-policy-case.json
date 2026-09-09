@@ -1,0 +1,154 @@
+{
+  "id": "KB-028",
+  "slug": "delhi-excise-policy-case",
+  "title": "The Delhi Excise Policy Case",
+  "dek": "A liquor licensing policy was withdrawn amid allegations that it was designed to funnel kickbacks to a group of favoured liquor businesses. Years of arrests and headlines later, a trial court discharged every accused, finding no evidence the CBI's case could actually support.",
+  "category": "Public Spending",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 91,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-07-01",
+  "heroStat": {
+    "value": "23 of 23",
+    "label": "accused discharged by the trial court, February 2026"
+  },
+  "promise": {
+    "quote": "Delhi's new excise policy will end the cartelisation of liquor licences, increase government revenue, and be implemented transparently.",
+    "madeBy": "Government of the National Capital Territory of Delhi, under the Aam Aadmi Party",
+    "role": "State government implementing a new liquor retail licensing regime",
+    "date": "2021-11-17",
+    "context": "Delhi's Excise Policy 2021-22 restructured liquor retail licensing; it was withdrawn in mid-2022 after allegations that its design favoured a group of private liquor businesses referred to in the case as the 'South Group,' in exchange for kickbacks.",
+    "sourceIds": [
+      "src-excise-timeline"
+    ]
+  },
+  "target": {
+    "description": "A licensing policy designed and implemented without favouritism toward specific private parties, and without kickbacks influencing its terms.",
+    "standard": "Standard public procurement and policy-making norms requiring transparent, non-discriminatory treatment of private parties.",
+    "referenceDate": "2021-11-17"
+  },
+  "reality": {
+    "description": "The CBI and ED alleged the policy was designed to benefit the 'South Group' in exchange for illegal gratification quantified at roughly ₹90–100 crore, and arrested Deputy Chief Minister Manish Sisodia in February 2023 and Chief Minister Arvind Kejriwal in March 2024, among others. On 27 February 2026, a trial court discharged Kejriwal, Sisodia, and 21 others, finding the CBI had failed to substantiate its allegations with credible evidence and that no prima facie case of criminal conspiracy existed. The CBI has filed a revision petition in the Delhi High Court challenging the discharge, which was pending as of the most recent reporting reviewed.",
+    "asOfDate": "2026-03-09",
+    "sourceIds": [
+      "src-excise-discharge",
+      "src-excise-hc-notice"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Accused named in the case vs. accused discharged by the trial court",
+    "unit": "people",
+    "targetValue": 23,
+    "actualValue": 23,
+    "targetDisplay": "23 accused",
+    "actualDisplay": "23 discharged",
+    "targetLabel": "Named",
+    "actualLabel": "Discharged",
+    "note": "Every named accused in this case was discharged by the trial court in February 2026 — a stronger outcome for the accused than an acquittal after trial, since it means the court found insufficient evidence even to proceed to trial. The CBI's challenge to this finding was pending at the time of publication."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-11-17",
+      "label": "New excise policy takes effect",
+      "detail": "Delhi's restructured liquor licensing regime begins.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-07-01",
+      "label": "Policy withdrawn",
+      "detail": "The Delhi government scraps the policy amid allegations of irregularities.",
+      "type": "status"
+    },
+    {
+      "date": "2022-08-17",
+      "label": "CBI registers FIR",
+      "detail": "The agency opens a criminal case over the policy's formulation.",
+      "type": "status"
+    },
+    {
+      "date": "2023-02-26",
+      "label": "Manish Sisodia arrested",
+      "detail": "The Deputy Chief Minister is arrested by the CBI.",
+      "type": "status"
+    },
+    {
+      "date": "2024-03-21",
+      "label": "Arvind Kejriwal arrested",
+      "detail": "The Chief Minister is arrested by the ED.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-09",
+      "label": "Sisodia granted bail",
+      "detail": "The Supreme Court grants him bail after roughly 17 months in custody.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-27",
+      "label": "All 23 accused discharged",
+      "detail": "A trial court finds the CBI's case does not survive judicial scrutiny and discharges everyone named.",
+      "type": "status"
+    },
+    {
+      "date": "2026-03-09",
+      "label": "CBI challenges the discharge",
+      "detail": "The Delhi High Court issues notice on the CBI's revision petition against the discharge order.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "As of publication, every person named in this case has been discharged by the trial court, which found the prosecution's evidence insufficient even to proceed to trial. That finding is being challenged by the CBI and is not yet final.",
+    "keyIndividuals": [
+      {
+        "name": "Arvind Kejriwal",
+        "role": "then Chief Minister of Delhi",
+        "outcome": "Arrested March 2024; discharged by the trial court, February 2026, which found no prima facie evidence against him. CBI revision petition against the discharge pending."
+      },
+      {
+        "name": "Manish Sisodia",
+        "role": "then Deputy Chief Minister of Delhi",
+        "outcome": "Arrested February 2023; granted bail August 2024 after roughly 17 months in custody; discharged by the trial court, February 2026. CBI revision petition pending."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case's most important fact, and one easy to miss in year-old headlines, is its most recent development: a trial court did not merely acquit the accused after a trial — it discharged all 23 of them, finding the CBI's evidence insufficient to even proceed, and explicitly rebuked the agency's case. That finding is under challenge and not final, but as of publication it is the actual legal status, and this site reports it as such rather than defaulting to the more dramatic, better-known arrest narrative.",
+    "confidence": "medium",
+    "reasoning": "The discharge order and the CBI's pending challenge to it are both documented in contemporaneous legal reporting. Confidence is not higher only because the matter remains open pending the High Court's ruling on the CBI's revision petition, and this investigation has not reviewed the discharge order's full text directly."
+  },
+  "incomplete": [
+    "The Delhi High Court had not ruled on the CBI's revision petition against the discharge as of this entry's publication.",
+    "The ED's separate money-laundering case, and its current status relative to the CBI matter's discharge, has not been fully detailed here.",
+    "This investigation has not reviewed the trial court's discharge order directly, relying instead on legal-affairs reporting of its content."
+  ],
+  "sources": [
+    {
+      "id": "src-excise-timeline",
+      "label": "Arvind Kejriwal's Arrest-To-Discharge Journey: Delhi Excise Policy Case Timeline Explained",
+      "type": "independent",
+      "publisher": "LawChakra",
+      "date": "2026-03-01",
+      "url": "https://lawchakra.in/legal-updates/arvind-kejriwal-delhi-excise-policy/"
+    },
+    {
+      "id": "src-excise-discharge",
+      "label": "Delhi excise policy case: Arvind Kejriwal, Manish Sisodia get relief; CBI to approach Delhi High Court",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2026-02-27",
+      "url": "https://www.businesstoday.in/india/story/delhi-excise-policy-case-arvind-kejriwal-manish-sisodia-get-relief-cbi-to-approach-delhi-high-court-518293-2026-02-27"
+    },
+    {
+      "id": "src-excise-hc-notice",
+      "label": "Delhi Excise Policy Case | Delhi High Court issues notice to Arvind Kejriwal, Manish Sisodia and 21 others on CBI's plea challenging discharge",
+      "type": "independent",
+      "publisher": "SCC Online",
+      "date": "2026-03-09",
+      "url": "https://www.scconline.com/blog/post/2026/03/09/del-hc-issues-notice-cbis-challenge-to-discharge-delhi-excise-policy-case/"
+    }
+  ]
+}

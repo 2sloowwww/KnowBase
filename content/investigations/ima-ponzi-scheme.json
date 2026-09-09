@@ -1,0 +1,180 @@
+{
+  "id": "KB-562",
+  "slug": "ima-ponzi-scheme",
+  "title": "The I-Monetary Advisory (IMA) 'Halal' Ponzi Collapse",
+  "dek": "IMA promised Bengaluru's Muslim community high, interest-free 'halal' returns on gold and commodity investments. When payments stopped in mid-2019, tens of thousands of mostly middle- and lower-income investors were left with nothing — and a state minister and police officers were accused of taking bribes to look away.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 131,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-06-09",
+  "heroStat": {
+    "value": "~40,000",
+    "label": "investors, mostly middle- and lower-middle-class Muslims, estimated to have been affected by the IMA scheme; loss estimates in reporting range from roughly ₹1,500 crore to ₹2,900 crore"
+  },
+  "promise": {
+    "quote": "IMA offers Sharia-compliant, interest-free investment schemes with monthly, quarterly, and yearly returns of 36 to 64 percent, invested in gold, real estate, and halal businesses.",
+    "madeBy": "I Monetary Advisory (IMA) Jewels / I Monetary Advisory Group, under founder and CEO Mohammed Mansoor Khan",
+    "role": "Bengaluru-based investment firm marketing itself specifically to Muslims seeking interest-free ('halal') investment options",
+    "date": "2015-01-01",
+    "context": "This reflects the general nature of IMA's marketed returns as described in multiple news reports, rather than a verified quotation from IMA's own promotional material, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-ima-newsminute"
+    ]
+  },
+  "target": {
+    "description": "That IMA would generate real returns from halal (Sharia-compliant, non-interest-bearing) investments in gold, real estate, and other businesses sufficient to pay the extraordinarily high returns it promised, rather than paying earlier investors with money from new investors.",
+    "standard": "Basic obligations against cheating and criminal breach of trust under IPC Sections 420 and 406, and against operating unauthorised/unregistered collective investment or deposit-taking schemes.",
+    "referenceDate": "2015-01-01"
+  },
+  "reality": {
+    "description": "IMA operated for several years promising Sharia-compliant returns of 36-64% to mostly Muslim, middle- and lower-income investors in Bengaluru. The scheme unravelled in June 2019: the first complaint was filed on 9 June 2019 by Mohammed Khalid Ahmed, a friend and business associate of founder Mansoor Khan, alleging he had been cheated of ₹4.5 crore. Within days, thousands of investors gathered outside IMA's offices after a purported audio clip of Khan threatening suicide went viral, and roughly 20,000-23,000 complaints were filed with Bengaluru police in a matter of days. Khan fled to Dubai around 8-14 June 2019 (reports vary on the exact date); the Karnataka government formed a Special Investigation Team (SIT), and Khan was tracked to Dubai, persuaded to surrender, and arrested by the Enforcement Directorate at Delhi airport in late June 2019. Investigators allege the scheme also involved bribery of public officials: Bengaluru urban district deputy commissioner B.M. Vijay Shankar was arrested on charges of accepting a ₹1.5 crore bribe from Khan, and former Karnataka minister Roshan Baig was separately arrested in connection with the case. The CBI took over the investigation from the SIT in August 2019 and filed its first chargesheet in September 2019, with further chargesheets against other individuals and officials following, including two Karnataka government officials in September 2020. Mansoor Khan was granted bail by the Karnataka High Court around October 2020 on health grounds, with the Supreme Court later dismissing the Enforcement Directorate's challenge to that bail.",
+    "asOfDate": "2022-06-01",
+    "sourceIds": [
+      "src-ima-newsminute",
+      "src-ima-deccanherald-baig",
+      "src-ima-lawbeat"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Promised annual returns vs. money ultimately recovered by investors",
+    "unit": "percent",
+    "targetValue": 50,
+    "actualValue": 0,
+    "targetDisplay": "36-64% promised annual returns",
+    "actualDisplay": "No confirmed full recovery for the bulk of ~40,000 investors",
+    "targetLabel": "Promised return range",
+    "actualLabel": "Reported recovery status",
+    "note": "This entry has not found a reliable, dated figure for what share of the roughly ₹1,500-2,900 crore in investor funds has actually been returned via asset sales or court-ordered restitution; that gap is flagged rather than estimated."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Loss estimates vary significantly across reporting: some 2019 reports cite roughly ₹1,500 crore, others cite ₹2,900 crore, and some later estimates go higher. This entry has not identified a single authoritative, court-confirmed total.",
+    "sourceIds": [
+      "src-ima-newsminute",
+      "src-ima-deccanherald-baig"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019-06-09",
+      "label": "First complaint filed against Mansoor Khan",
+      "detail": "Mohammed Khalid Ahmed, a friend and business partner of Khan, files a complaint alleging he was cheated of ₹4.5 crore.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-06-12",
+      "label": "Mass investor protests and viral audio clip",
+      "detail": "Thousands of investors gather outside IMA's Bengaluru offices after an audio clip purportedly of Khan threatening suicide circulates; tens of thousands of complaints are filed with police within days.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-06-14",
+      "label": "Karnataka government forms SIT",
+      "detail": "A Special Investigation Team is set up to investigate the scheme after Khan is reported to have fled to Dubai.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-06-21",
+      "label": "Mansoor Khan arrested at Delhi airport",
+      "detail": "The Enforcement Directorate arrests Khan after the SIT tracks him to Dubai and persuades him to surrender.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-08-30",
+      "label": "CBI takes over investigation",
+      "detail": "The Central Bureau of Investigation registers its own case against Khan and others after the Karnataka government hands over the probe from the SIT.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-09-07",
+      "label": "CBI files first chargesheet",
+      "detail": "A chargesheet is filed against Khan and associates under IPC sections including cheating and criminal breach of trust.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-09-07",
+      "label": "CBI chargesheets two Karnataka government officials",
+      "detail": "Officials are chargesheeted in connection with alleged bribery linked to the scheme, following the earlier arrest of a deputy commissioner accused of taking a ₹1.5 crore bribe from Khan.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-10-01",
+      "label": "Karnataka High Court grants Mansoor Khan bail",
+      "detail": "Khan is released on bail citing deteriorating health, with conditions to appear regularly before the trial court.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Multiple criminal cases (CBI and Enforcement Directorate, covering cheating, criminal breach of trust, and money laundering, plus separate bribery cases against public officials) remain in the trial stage. Mansoor Khan was granted bail by the Karnataka High Court in 2020 on health grounds; the Supreme Court later declined to disturb that bail. This entry has not confirmed any final convictions in the case as of the period it covers. All individuals named are presumed innocent unless and until convicted by a court.",
+    "keyIndividuals": [
+      {
+        "name": "Mohammed Mansoor Khan",
+        "role": "Founder and CEO, I Monetary Advisory",
+        "outcome": "Arrested June 2019; chargesheeted by CBI; granted bail by Karnataka High Court in 2020 on health grounds; trial ongoing as of the period covered by this entry."
+      },
+      {
+        "name": "B.M. Vijay Shankar",
+        "role": "Then-Deputy Commissioner, Bengaluru Urban district",
+        "outcome": "Arrested on allegations of accepting a ₹1.5 crore bribe from Khan; case status as of this entry's writing not confirmed."
+      },
+      {
+        "name": "Roshan Baig",
+        "role": "Former Karnataka minister",
+        "outcome": "Arrested by CBI in connection with the case; case status as of this entry's writing not confirmed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real, well-documented Ponzi collapse that combined an affinity-fraud pitch to a specific religious community with alleged bribery of public officials to delay scrutiny. It is included here as a stub: the core facts (scheme, collapse, arrests, chargesheets, bail) are corroborated across multiple independent outlets, but this entry has not reviewed the CBI or ED chargesheets directly, and final case outcomes are not yet established.",
+    "confidence": "low",
+    "reasoning": "Multiple independent news outlets (The News Minute, Deccan Herald, LawBeat, Bar and Bench) consistently corroborate the scheme's collapse, arrests, and chargesheets, but this entry relies entirely on secondary reporting rather than primary CBI/ED/court documents, and total loss figures are inconsistent across sources."
+  },
+  "incomplete": [
+    "The exact total amount defrauded is disputed across sources (figures from ₹1,500 crore to ₹2,900 crore appear in reporting) and has not been resolved by this entry.",
+    "This entry has not reviewed the CBI chargesheet(s), ED prosecution complaint, or any court order directly.",
+    "Current trial status and any verdicts reached after 2022 are not confirmed by this entry — later developments should be checked before treating this as up to date.",
+    "The exact date Mansoor Khan left India is inconsistently reported (some sources say around 8 June 2019, others around 12-14 June 2019) and is not resolved here."
+  ],
+  "sources": [
+    {
+      "id": "src-ima-newsminute",
+      "label": "Ponzi scam: IMA owner Mansoor Khan, directors asked to appear before ED on June 24",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2019-06-20",
+      "url": "https://www.thenewsminute.com/karnataka/ponzi-scam-ima-owner-mansoor-khan-directors-asked-appear-ed-june-24-104001"
+    },
+    {
+      "id": "src-ima-deccanherald-baig",
+      "label": "CBI arrests ex-Karnataka minister Roshan Baig in Rs 2,900 crore IMA Ponzi scam",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-11-09",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fcbi-arrests-ex-karnataka-minister-roshan-baig-in-rs-2900-crore-ima-ponzi-scam-918702.html"
+    },
+    {
+      "id": "src-ima-lawbeat",
+      "label": "Supreme Court upholds bail granted to multi-crore ponzi scheme accused Mohammad Mansoor Khan",
+      "type": "independent",
+      "publisher": "LawBeat",
+      "date": "2022-01-01",
+      "url": "https://lawbeat.in/top-stories/supreme-court-upholds-bail-granted-multi-crore-ponzi-scheme-accused-mohammad-mansoor"
+    },
+    {
+      "id": "src-ima-barandbench",
+      "label": "IMA Scam: Karnataka High Court grants bail to prime accused Mansoor Khan on account of deteriorating health",
+      "type": "independent",
+      "publisher": "Bar and Bench",
+      "date": "2020-10-01",
+      "url": "https://www.barandbench.com/news/litigation/ima-scam-karnataka-high-court-bail-to-mansoor-khan"
+    }
+  ]
+}

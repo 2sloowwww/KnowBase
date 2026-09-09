@@ -1,0 +1,125 @@
+{
+  "id": "KB-1510",
+  "slug": "pmkvy-skill-development-fake-beneficiaries",
+  "title": "The PMKVY Fake Beneficiaries Audit",
+  "dek": "A CAG audit found that 94-95% of sampled beneficiaries under India's flagship skill-training scheme had fake or invalid bank accounts — including account numbers like '11111111111' — raising questions over where a ₹10,000-crore-plus programme's money actually went.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 156,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-12-30",
+  "heroStat": {
+    "value": "94-95%",
+    "label": "of audited PMKVY beneficiaries found by the CAG to have fake or invalid bank accounts"
+  },
+  "promise": {
+    "quote": "The Pradhan Mantri Kaushal Vikas Yojana will train and certify India's youth with industry-relevant skills, verify their training through independent assessors, and place them in genuine jobs, with funds reaching real, uniquely identifiable trainees.",
+    "madeBy": "Ministry of Skill Development and Entrepreneurship, Government of India",
+    "role": "Implementing ministry for the Pradhan Mantri Kaushal Vikas Yojana",
+    "date": "2015-07-15",
+    "context": "PMKVY was launched as the flagship scheme of the Skill India mission, aiming to certify and place millions of youth in skilled employment through training partners and centres nationwide.",
+    "sourceIds": [
+      "src-pmkvy-newsgram"
+    ]
+  },
+  "target": {
+    "description": "Trainee records built on genuine, unique, verifiable identity and bank-account data; training independently assessed; placement claims substantiated with verifiable employer records.",
+    "standard": "Comptroller and Auditor General performance-audit standards applied to a centrally sponsored scheme.",
+    "referenceDate": "2015-07-15"
+  },
+  "reality": {
+    "description": "A CAG performance audit of PMKVY, reported in December 2025, found that 94-95% of audited beneficiaries had fake bank accounts, including patently invalid numbers such as '11111111111'; that one crore candidates shared identical email addresses and phone numbers; and that records for 6.1 million trainers were incomplete. The audit found training assessors — responsible for verifying that training actually occurred — were missing or untraceable in 97% of cases, and that placement claims by implementing agencies were largely unverifiable. The report noted implausible training dates, including references to a non-existent '31 February', and the same photograph used for multiple distinct beneficiaries. A large share of the roughly ₹10,000 crore disbursed under the scheme went to beneficiaries with invalid or fake bank accounts. The Congress party has since sought a formal investigation, citing the CAG findings as evidence of large-scale fund misuse and data manipulation.",
+    "asOfDate": "2025-12-30",
+    "sourceIds": [
+      "src-pmkvy-newsgram",
+      "src-pmkvy-the420",
+      "src-pmkvy-careers360"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Audited beneficiaries found to have fake bank accounts vs. genuine, verifiable beneficiaries",
+    "unit": "%",
+    "targetValue": 100,
+    "actualValue": 5,
+    "targetDisplay": "100% genuine beneficiaries (target)",
+    "actualDisplay": "~5% verified as having valid accounts, per CAG's sample",
+    "targetLabel": "Genuine beneficiaries expected",
+    "actualLabel": "Verified genuine (approx.)",
+    "note": "The 94-95% fake-account figure comes from the CAG's audited sample, not a full census of all PMKVY beneficiaries nationwide; this investigation treats it as indicative rather than a precise national fraud rate."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 10000,
+    "allocatedLabel": "approximate total disbursed under PMKVY, per reporting on the CAG audit",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The CAG found a vast share of the roughly ₹10,000 crore disbursed went to beneficiaries with invalid or fake bank accounts; an exact misspent total was not given in the sources reviewed.",
+    "sourceIds": [
+      "src-pmkvy-newsgram"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015-07-15",
+      "label": "PMKVY launched",
+      "detail": "The scheme launches under the Skill India mission to train and certify youth nationwide.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-12-30",
+      "label": "CAG audit findings reported",
+      "detail": "Reports detail the CAG's performance audit findings on fake bank accounts, missing assessors, and unverifiable placement claims.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Congress seeks investigation",
+      "detail": "The opposition Congress party cites the CAG report to demand a formal probe into alleged fund misuse and data manipulation under PMKVY.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry describing a CAG performance-audit finding, not a criminal or regulatory prosecution. This investigation has not confirmed whether any criminal investigation or parliamentary committee action has followed.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the CAG's own performance audit documents pervasive data and verification failures across a flagship skill-development scheme, strongly suggesting large-scale fund leakage or fabrication, though it does not by itself establish deliberate criminal fraud versus severe administrative negligence.",
+    "confidence": "medium",
+    "reasoning": "This entry is based on a CAG performance audit — a primary, authoritative government source — as reported by multiple independent outlets, though this investigation has not directly reviewed the full CAG report text."
+  },
+  "incomplete": [
+    "This is a stub entry; the full CAG report has not been directly reviewed, only press summaries.",
+    "Whether the government's official response to the CAG report acknowledges fraud versus attributing findings to data-entry errors has not been detailed here.",
+    "Whether any parliamentary committee (such as the Public Accounts Committee) has since acted on the report has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-pmkvy-newsgram",
+      "label": "CAG Flags Major Irregularities in Pradhan Mantri Kaushal Vikas Yojana (PMKVY), Finds Gaps in Payments, Training and Placements",
+      "type": "independent",
+      "publisher": "NewsGram",
+      "date": "2025-12-30",
+      "url": "https://www.newsgram.com/corruption-files/2025/12/30/cag-flags-major-irregularities-pmkvy-centre-scheme"
+    },
+    {
+      "id": "src-pmkvy-the420",
+      "label": "CAG Flags Fake Bank Accounts, Closed Centres, Payment Delays in PMKVY Skill Scheme Audit",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2025-12-30",
+      "url": "https://the420.in/cag-report-pmkvy-fake-bank-accounts-closed-training-centres/"
+    },
+    {
+      "id": "src-pmkvy-careers360",
+      "label": "PMKVY: Congress flags alleged fund misuse and data manipulation, seeks probe citing CAG report",
+      "type": "independent",
+      "publisher": "Careers360",
+      "date": "2026-01-01",
+      "url": "https://news.careers360.com/congress-cag-report-pmkvy-corruption-allegations-fake-beneficiaries-enrolment-placement-funds-investigation"
+    }
+  ]
+}

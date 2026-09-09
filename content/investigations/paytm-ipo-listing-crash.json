@@ -1,0 +1,140 @@
+{
+  "id": "KB-2803",
+  "slug": "paytm-ipo-listing-crash",
+  "title": "Paytm's ₹18,300-Crore IPO and the Listing-Day Crash That Followed",
+  "dek": "India's biggest IPO at the time was pitched as a fintech growth story worth ₹1.39 lakh crore. It closed its first trading day 27% below the offer price and had shed roughly three-quarters of its listing value within a year — reviving questions about how such issues get priced.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 56,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2021-11-18",
+  "heroStat": {
+    "value": "-27.4%",
+    "label": "Paytm's closing-day loss against its IPO offer price on 18 November 2021 — one of the worst listing-day performances by a large Indian IPO"
+  },
+  "promise": {
+    "quote": "The issue was priced in a band of ₹2,080 to ₹2,150 per share, valuing One97 Communications (Paytm) at approximately ₹1.39 lakh crore, positioning it as India's largest-ever IPO.",
+    "madeBy": "One97 Communications Ltd (Paytm), with merchant bankers managing the issue",
+    "role": "Issuer and lead managers pricing India's largest public offering at the time",
+    "date": "2021-11-08",
+    "context": "The ₹18,300 crore IPO was sold on a growth and market-leadership narrative for India's digital-payments and financial-services sector, despite the company reporting sustained net losses in the years leading up to listing.",
+    "sourceIds": [
+      "src-taxguru-paytm"
+    ]
+  },
+  "target": {
+    "description": "An IPO price that reflects a defensible valuation of the underlying business and its path to profitability, such that public market investors buying at the offer price are not immediately and substantially under water once ordinary trading begins.",
+    "standard": "SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, governing IPO pricing, disclosure, and merchant-banker due diligence.",
+    "referenceDate": "2021-11-08"
+  },
+  "reality": {
+    "description": "Paytm shares listed on 18 November 2021 at a discount to the ₹2,150 offer price and closed the day about 27.4% below it, wiping out roughly ₹38,000 crore of the ₹1.39 lakh crore valuation assigned at issue in a single session — one of the steepest listing-day falls for a large Indian IPO. The decline continued over the following year: by late November 2022, the stock traded around ₹441, down roughly 75% from its debut levels, a first-year slide independent reporting (Business Standard, citing Bloomberg data) described as the worst in a decade among large global IPOs, comparable to Spain's Bankia SA in 2012. Commentary at the time and since (Moneylife, TaxGuru) has argued the issue was priced aggressively relative to the company's continuing losses and cash-burn, and that SEBI and the lead merchant bankers did not adequately flag valuation risk to public investors. SEBI subsequently said it planned to examine the investment banks involved in the IPO's pricing and marketing.",
+    "asOfDate": "2022-11-24",
+    "sourceIds": [
+      "src-yahoo-paytm-listing",
+      "src-bs-paytm-38kcr",
+      "src-bs-paytm-75pct",
+      "src-taxguru-paytm"
+    ]
+  },
+  "gap": {
+    "metricLabel": "IPO-implied valuation vs. valuation roughly one year after listing",
+    "unit": "₹ lakh crore",
+    "targetValue": 1.39,
+    "actualValue": 0.42,
+    "targetDisplay": "₹1.39 lakh crore valuation at IPO pricing",
+    "actualDisplay": "~₹0.42 lakh crore (₹42,000 cr) market capitalisation about a year after listing",
+    "targetLabel": "IPO valuation",
+    "actualLabel": "Market value ~1 year later",
+    "note": "This implies roughly ₹97,000 crore in market value erased within a year of listing; some press accounts describe the loss in round terms as 'nearly ₹1 lakh crore,' while others cite a narrower ₹38,000 crore figure for the listing-day loss alone — the two figures measure different periods and should not be conflated."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "IPO size: ₹18,300 crore. Valuation at issue price: approximately ₹1,39,000 crore. Market value lost on listing day alone: approximately ₹38,000 crore. Market capitalisation roughly a year after listing: approximately ₹42,000 crore, implying a loss of roughly ₹97,000 crore from the IPO valuation over that period.",
+    "sourceIds": [
+      "src-bs-paytm-38kcr",
+      "src-bs-paytm-75pct"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-11-08",
+      "label": "IPO price band set",
+      "detail": "One97 Communications sets its ₹18,300 crore IPO price band at ₹2,080-2,150 per share, implying a valuation of about ₹1.39 lakh crore.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-11-18",
+      "label": "Listing-day crash",
+      "detail": "Paytm shares list at a discount and close the day about 27.4% below the offer price, erasing roughly ₹38,000 crore in value.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-11-20",
+      "label": "SEBI signals scrutiny of bankers",
+      "detail": "Reports indicate SEBI planned to question the investment banks that managed Paytm's IPO over the listing debacle.",
+      "type": "status"
+    },
+    {
+      "date": "2022-11-24",
+      "label": "One year on: ~75% below debut",
+      "detail": "Paytm shares trade around ₹441, roughly 75% below their initial listing-day close, in what Bloomberg-sourced reporting called the worst first-year slide for a large global IPO in a decade.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No SEBI enforcement order, penalty, or formal finding of wrongdoing against One97 Communications or its IPO merchant bankers over the pricing of the issue has been identified in the sources reviewed. Reported SEBI scrutiny in late 2021 concerned questioning the bankers, not a confirmed adjudicated violation.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The IPO's steep listing-day fall and continued year-long decline are well-documented facts, not in dispute. Whether the pricing itself constituted a regulatory or due-diligence failure, as some commentators argue, remains a matter of debate and market commentary rather than an adjudicated finding — SEBI has not been shown in the sources reviewed to have penalised the issuer or bankers over IPO pricing.",
+    "confidence": "high",
+    "reasoning": "The listing-day and one-year price/valuation figures are corroborated across multiple independent outlets (Business Standard citing Bloomberg data, Yahoo Finance/Reuters-sourced reporting) and are consistent with each other. The characterisation of the pricing as a regulatory failure is opinion/commentary (TaxGuru, Moneylife) rather than an established finding, and is presented here as such."
+  },
+  "incomplete": [
+    "No SEBI order or adjudicated finding on Paytm's IPO pricing practices has been identified; claims that pricing was deliberately aggressive or that due diligence was inadequate are attributed to named commentators/publications, not treated as proven fact.",
+    "The 'nearly ₹1 lakh crore' one-year value-loss figure is this entry's own calculation from two separately reported figures (₹1.39 lakh crore IPO valuation and ~₹42,000 crore market cap about a year later) and has not been independently confirmed as a single reported statistic.",
+    "Whether any specific SEBI IPO-pricing rule changes after 2021 (e.g., anchor investor lock-ins, disclosure requirements) were a direct response to the Paytm listing specifically, versus a broader post-2021 tech-IPO reassessment, has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-yahoo-paytm-listing",
+      "label": "Paytm Sinks 27% on First Trading Day After Biggest India IPO",
+      "type": "independent",
+      "publisher": "Bloomberg via Yahoo Finance",
+      "date": "2021-11-18",
+      "url": "https://finance.yahoo.com/news/ant-group-backed-paytm-dives-044744949.html"
+    },
+    {
+      "id": "src-bs-paytm-38kcr",
+      "label": "Paytm crashes 27% on market debut, wipes out Rs 38K-cr in investor wealth",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2021-11-18",
+      "url": "https://www.business-standard.com/amp/article/companies/paytm-wipes-out-rs-38-000-crore-in-investor-wealth-on-market-debut-121111801087_1.html"
+    },
+    {
+      "id": "src-bs-paytm-75pct",
+      "label": "Paytm's 75% share slump is world's worst for large IPOs in a decade",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-11-24",
+      "url": "https://www.business-standard.com/amp/article/markets/paytm-s-75-share-slump-is-world-s-worst-for-large-ipos-in-a-decade-122112400294_1.html"
+    },
+    {
+      "id": "src-taxguru-paytm",
+      "label": "Analyzing Paytm IPO Controversy: Exaggerated Valuations, Regulatory Gaps & Impact on Investor's Trust",
+      "type": "independent",
+      "publisher": "TaxGuru",
+      "date": "2023-01-01",
+      "url": "https://taxguru.in/sebi/analyzing-paytm-ipo-valuation-concerns-regulatory-gap-investor-trust.html"
+    }
+  ]
+}

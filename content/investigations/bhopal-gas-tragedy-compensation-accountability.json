@@ -1,0 +1,134 @@
+{
+  "id": "KB-2504",
+  "slug": "bhopal-gas-tragedy-compensation-accountability",
+  "title": "Bhopal: A Pesticide Plant Called Safe, a Gas Leak That Killed Thousands, and a $470 Million Settlement Victims' Groups Still Call Inadequate",
+  "dek": "Union Carbide operated its Bhopal plant under Indian safety regulations and its own assurances of adequate safeguards. In December 1984 a leak of methyl isocyanate gas killed thousands within days. A 1989 Supreme Court-brokered settlement of $470 million closed the civil case, but victims' groups and Indian government petitions have argued for decades that the compensation and accountability fell far short of the disaster's true scale.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 38,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1984-12-03",
+  "heroStat": {
+    "value": "$470 million",
+    "label": "Total settlement paid by Union Carbide Corporation, finalised by the Supreme Court of India in February 1989 to resolve all civil claims arising from the disaster"
+  },
+  "promise": {
+    "quote": "The Bhopal plant's methyl isocyanate storage and handling systems incorporated adequate safety safeguards to prevent a large-scale toxic gas release.",
+    "madeBy": "Union Carbide Corporation and Union Carbide India Limited",
+    "role": "Plant operator, in its safety design, operating procedures and representations to regulators and the public prior to the disaster",
+    "date": "1984-12-01",
+    "context": "Union Carbide operated the pesticide plant in Bhopal under Indian industrial safety regulations, with the company's own engineering standards and safety systems presented as adequate to contain the highly toxic methyl isocyanate gas used in production.",
+    "sourceIds": [
+      "src-bhopal-scobserver"
+    ]
+  },
+  "target": {
+    "description": "A pesticide plant operated with safety systems adequate to prevent a toxic gas leak affecting the surrounding densely populated city, and, after any disaster, compensation and accountability proportionate to the harm caused.",
+    "standard": "Applicable Indian industrial and environmental safety regulations of the time, and ordinary standards of corporate safety assurance for a facility handling a highly toxic chemical",
+    "referenceDate": "1984-12-01"
+  },
+  "reality": {
+    "description": "On the night of 2-3 December 1984, a leak of an estimated 42 tonnes of methyl isocyanate gas from the plant killed approximately 3,828 people within days according to official figures, with independent estimates of eventual deaths and long-term health effects (including chronic respiratory illness, birth defects and other conditions linked to gas exposure) running considerably higher over subsequent decades. In February 1989, Union Carbide Corporation and the Union of India reached a settlement, facilitated and confirmed by the Supreme Court of India, of $470 million, which resolved the civil litigation and also quashed pending criminal proceedings against the company and its officials at the time (criminal proceedings were later revived by the Supreme Court). In 2010, the Government of India filed a curative petition seeking an additional $1.3 billion in compensation, citing evidence of a larger number of victims and inadequacy of the original settlement; in 2023 the Supreme Court held that the government had not shown sufficient grounds to reopen the settlement amount, finding a surplus remained even after processing claims. Union Carbide's US parent, and later Dow Chemical (which acquired Union Carbide in 2001), have maintained that the 1989 settlement was full and final and have declined further liability; extradition requests for former Union Carbide chairman Warren Anderson, who died in 2014, were not successfully executed by the United States. Site remediation and groundwater contamination around the former plant have remained subjects of ongoing legal and public health concern for decades after the settlement.",
+    "asOfDate": "2023-03-14",
+    "sourceIds": [
+      "src-bhopal-scobserver",
+      "src-bhopal-chemworld"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Compensation sought by the Government of India's 2010 curative petition versus the amount the Supreme Court ultimately upheld",
+    "unit": "USD",
+    "targetValue": 1300000000,
+    "actualValue": 0,
+    "targetDisplay": "$1.3 billion in additional compensation sought (on top of the original $470 million settlement)",
+    "actualDisplay": "$0 additional awarded; Supreme Court held the original 1989 settlement was sufficient",
+    "targetLabel": "Additional compensation sought (2010)",
+    "actualLabel": "Additional compensation awarded",
+    "note": "Figures reflect the Government of India's 2010 curative petition seeking a top-up to the original 1989 settlement, and the Supreme Court's 2023 ruling declining to reopen or increase it."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 470000000,
+    "allocatedLabel": "Total 1989 settlement paid by Union Carbide Corporation",
+    "spent": 470000000,
+    "spentLabel": "Amount disbursed toward victim compensation claims over subsequent decades",
+    "unit": "absolute",
+    "notes": "The $470 million figure was the total 1989 settlement; the Government of India's 2010 attempt to secure an additional $1.3 billion was rejected by the Supreme Court in 2023, which found a surplus remained in the settlement fund even after processing claims.",
+    "sourceIds": [
+      "src-bhopal-scobserver"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1984-12-03",
+      "label": "Methyl isocyanate gas leak",
+      "detail": "A leak from the Union Carbide pesticide plant in Bhopal releases an estimated 42 tonnes of toxic gas, killing thousands within days.",
+      "type": "status"
+    },
+    {
+      "date": "1989-02-14",
+      "label": "Supreme Court confirms $470 million settlement",
+      "detail": "Union Carbide Corporation and the Union of India reach a settlement, confirmed by the Supreme Court, resolving civil claims and quashing then-pending criminal proceedings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-06-07",
+      "label": "Bhopal court convicts former UCIL officials",
+      "detail": "A Bhopal court convicts seven former Union Carbide India Limited officials of criminal negligence, more than 25 years after the disaster; the convictions carry limited sentences.",
+      "type": "status"
+    },
+    {
+      "date": "2010-12-03",
+      "label": "Government files curative petition for more compensation",
+      "detail": "The Government of India petitions the Supreme Court seeking an additional $1.3 billion in compensation, citing evidence of a larger victim toll than accounted for in 1989.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-03-14",
+      "label": "Supreme Court declines to reopen settlement",
+      "detail": "The Supreme Court holds that the Union of India has not shown sufficient grounds to increase the 1989 settlement, finding a surplus remained in the compensation fund.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The 1989 civil settlement was confirmed by the Supreme Court of India and criminal proceedings, after being quashed and later revived, resulted in 2010 convictions of seven former Union Carbide India Limited officials on lesser charges of criminal negligence rather than the more serious charges originally sought. Union Carbide Corporation's former chairman Warren Anderson was declared a fugitive from Indian courts and was never extradited from the United States before his death in 2014; Dow Chemical, which acquired Union Carbide in 2001, has maintained it bears no further liability.",
+    "keyIndividuals": [
+      {
+        "name": "Warren Anderson",
+        "role": "Chairman of Union Carbide Corporation at the time of the disaster",
+        "outcome": "Declared a fugitive by Indian courts over non-appearance; the United States did not extradite him; he died in 2014 without facing Indian criminal proceedings"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Union Carbide's assurances of adequate plant safety were followed by one of the world's worst industrial disasters, and while a Supreme Court-brokered settlement and later criminal convictions closed the formal legal case, the compensation amount, the lesser criminal charges actually applied, and the non-extradition of the company's then-chairman have left victims' groups and, at one point, the Indian government itself arguing that accountability and compensation did not match the disaster's scale.",
+    "confidence": "high",
+    "reasoning": "The core facts of the disaster, the 1989 settlement amount, the 2010 convictions, and the 2023 Supreme Court ruling are well-documented across independent legal reporting and court records referenced by Supreme Court Observer and other outlets. Confidence is not higher because this entry has not independently reconciled competing death-toll and long-term health-impact estimates, which vary significantly between official figures and victims' group estimates."
+  },
+  "incomplete": [
+    "Death toll and long-term health impact estimates vary substantially between official Indian government figures and estimates from victims' advocacy groups and independent researchers; this entry does not adjudicate between them.",
+    "This entry has not independently reviewed the full text of the 1989 settlement or the 2023 Supreme Court curative petition ruling, relying on legal reporting summarising them.",
+    "The status of site remediation and groundwater contamination around the former plant as of 2026 has not been independently verified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-bhopal-scobserver",
+      "label": "Additional Compensation for Bhopal Gas Tragedy Victims: Judgement Summary",
+      "type": "independent",
+      "publisher": "Supreme Court Observer",
+      "date": "2023-03-14",
+      "url": "https://www.scobserver.in/reports/judgement-in-plain-english/"
+    },
+    {
+      "id": "src-bhopal-chemworld",
+      "label": "Indian supreme court ruling effectively ends Bhopal compensation claims from Dow",
+      "type": "independent",
+      "publisher": "Chemistry World",
+      "date": "2023-03-15",
+      "url": "https://www.chemistryworld.com/news/indian-supreme-court-ruling-effectively-ends-bhopal-compensation-claims-from-dow/4017197.article"
+    }
+  ]
+}

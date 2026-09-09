@@ -1,0 +1,155 @@
+{
+  "id": "KB-1402",
+  "slug": "aakash-educational-services-promoter-dispute",
+  "title": "The Aakash Educational Services Ownership Battle",
+  "dek": "Byju's bought coaching giant Aakash for about $1 billion in 2021 as its flagship offline bet. Within three years, Byju's had defaulted on the deal's own payments, lost control to a rival investor group, and triggered an NCLT shareholder dispute that has left Aakash's ownership — and a promised IPO — in limbo.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 235,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-11-10",
+  "heroStat": {
+    "value": "$1 bn",
+    "label": "approximate value of Byju's 2021 acquisition of Aakash Educational Services, since contested amid Byju's payment defaults and a shift in control to other investors"
+  },
+  "promise": {
+    "quote": "Byju's plans to list its offline coaching subsidiary Aakash Educational Services through an initial public offering by mid-2024.",
+    "madeBy": "Byju's (Think & Learn Pvt Ltd) management",
+    "role": "Parent company of Aakash Educational Services",
+    "date": "2023-06-05",
+    "context": "Announced as Byju's own financial troubles deepened, an Aakash IPO was floated as a way to raise capital and demonstrate the value of the 2021 acquisition; the plan required resolving Aakash's ownership structure first.",
+    "sourceIds": [
+      "src-aakash-ipo-plan"
+    ]
+  },
+  "target": {
+    "description": "That Byju's, having acquired roughly 100% of Aakash Educational Services for approximately $1 billion in 2021 (in a mix of cash and stock), would service the deal's payment obligations, maintain stable governance and shareholder agreements at Aakash, and be positioned to execute a public listing of the business as promised.",
+    "standard": "Ordinary contractual and share-purchase-agreement obligations; Companies Act governance norms for a subsidiary with outside minority investors including Blackstone.",
+    "referenceDate": "2021-04-01"
+  },
+  "reality": {
+    "description": "Byju's acquired Aakash Educational Services in April 2021 for close to $1 billion, partly in Byju's own stock. As Byju's broader financial crisis deepened through 2023, it defaulted on payments related to the Aakash deal, including amounts owed to Blackstone, a minority shareholder in Aakash from before the acquisition. In November 2023, Ranjan Pai's family office (MEMG/Manipal group) stepped in, converting roughly $300 million of debt investment into equity and becoming a major shareholder in Aakash, diluting Byju's controlling position. Byju's separately cleared a reported $230 million payment to Blackstone tied to the deal. Through 2024, a boardroom dispute emerged over proposed amendments to Aakash's Articles of Association: Blackstone and other minority shareholders filed an oppression-and-mismanagement petition at the NCLT, alleging the proposed changes — pushed by parties aligned with the Manipal group, which had become the largest shareholder — would erode minority shareholder rights established under the original merger framework agreement. In March 2025, the NCLT ordered a status quo on Aakash's shareholding pending resolution of the dispute. In November 2024 the Karnataka High Court had separately stayed an NCLT order that had barred Aakash from passing the AoA amendment resolution. The IPO originally promised for mid-2024 has not occurred, and as of this entry's sourcing, ownership and control of Aakash remained contested among Byju's, the Manipal/Ranjan Pai group, and Blackstone.",
+    "asOfDate": "2025-03-27",
+    "sourceIds": [
+      "src-aakash-nclt-2025",
+      "src-aakash-pai-2023",
+      "src-aakash-blackstone-payment"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Promised Aakash IPO date vs. actual listing status",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "IPO promised by mid-2024",
+    "actualDisplay": "No IPO filed as of this entry's sourcing; ownership dispute ongoing",
+    "targetLabel": "Promised",
+    "actualLabel": "Delivered",
+    "note": "The IPO delay reflects an unresolved shareholder dispute rather than a proven fraud; no party has been found by a court to have acted unlawfully as of this entry's sourcing."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 1000,
+    "allocatedLabel": "Approximate value of Byju's 2021 acquisition of Aakash Educational Services",
+    "released": 300,
+    "releasedLabel": "Approximate debt-to-equity conversion by Ranjan Pai's family office (MEMG/Manipal group), November 2023",
+    "spent": 230,
+    "spentLabel": "Reported payment Byju's made to Blackstone tied to the Aakash deal",
+    "unit": "USD million",
+    "notes": "These figures come from separate news reports and have not been reconciled into a single audited account of the Aakash transaction's total cash flows.",
+    "sourceIds": [
+      "src-aakash-pai-2023",
+      "src-aakash-blackstone-payment"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-04-01",
+      "label": "Byju's acquires Aakash",
+      "detail": "Byju's completes its roughly $1 billion acquisition of Aakash Educational Services, its largest offline bet, funded partly in Byju's own stock.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-06-05",
+      "label": "Byju's announces Aakash IPO plan",
+      "detail": "Byju's says it plans to list Aakash via IPO by mid-2024, as its own funding crisis deepens.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-11-10",
+      "label": "Byju's loses Aakash control to Ranjan Pai group",
+      "detail": "Ranjan Pai's family office converts roughly $300 million of debt into equity in Aakash after Byju's payment defaults, becoming a dominant shareholder and diluting Byju's control; Byju's separately clears a reported $230 million payment to minority shareholder Blackstone.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-11-25",
+      "label": "Karnataka High Court stays NCLT order",
+      "detail": "The Karnataka High Court stays an NCLT order that had barred Aakash from passing a resolution to amend its Articles of Association, a dispute pitting the Manipal-aligned group against Blackstone and other minority shareholders.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-27",
+      "label": "NCLT orders status quo on Aakash shareholding",
+      "detail": "The NCLT orders that Aakash's shareholding structure remain unchanged pending resolution of the oppression-and-mismanagement dispute among its shareholders.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is an active civil shareholder dispute before the NCLT and Karnataka High Court over control and governance of Aakash Educational Services, not a fraud or criminal matter. No court has yet ruled on the merits of the oppression-and-mismanagement allegations; the case remained unresolved as of this entry's most recent sourcing.",
+    "keyIndividuals": [
+      {
+        "name": "Ranjan Pai",
+        "role": "Chairman, Manipal Education and Medical Group; investor in Aakash via family office",
+        "outcome": "Converted debt into equity to become a dominant Aakash shareholder in late 2023; involved in the ongoing NCLT dispute over Aakash's Articles of Association. No adverse finding against him has been reported."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Aakash deal illustrates how Byju's broader financial collapse spread into and destabilised a previously stable, profitable acquisition: control shifted away from Byju's, a promised IPO did not materialise, and minority shareholders are now fighting over governance changes in NCLT. This is a distinct, separately documented consequence of the Byju's crisis rather than a duplicate of the main Byju's insolvency story, but it remains an unresolved civil dispute with no finding of wrongdoing against any party.",
+    "confidence": "low",
+    "reasoning": "This is a stub entry built from business-press reporting on the Ranjan Pai debt-to-equity conversion, the Blackstone payment, and the NCLT/Karnataka High Court proceedings. This entry has not reviewed the underlying share-purchase agreement, the NCLT petition, or any court order directly, and the dispute's final resolution remains unknown as of this entry's sourcing."
+  },
+  "incomplete": [
+    "This is a stub entry pending fuller research. The precise current (as of 2026) ownership percentages held by Byju's, the Manipal/Ranjan Pai group, and Blackstone in Aakash have not been confirmed.",
+    "The final outcome of the NCLT oppression-and-mismanagement proceeding and the Karnataka High Court appeal has not been found in sources reviewed for this entry.",
+    "Whether or when an Aakash IPO might still proceed is unknown.",
+    "This entry has not independently verified the exact terms of the 2021 Byju's-Aakash acquisition agreement or the amounts in dispute."
+  ],
+  "sources": [
+    {
+      "id": "src-aakash-ipo-plan",
+      "label": "Byju's announces plans for Aakash IPO in 2024 amid funding crunch",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-06-05",
+      "url": "https://www.business-standard.com/markets/ipo/edtech-giant-byju-s-to-list-subsidiary-aakash-education-by-mid-2024-123060500551_1.html"
+    },
+    {
+      "id": "src-aakash-pai-2023",
+      "label": "Edtech major Byju's loses unit in US, gains Ranjan Pai as an ally in Aakash",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-11-10",
+      "url": "https://www.business-standard.com/companies/news/edtech-major-byju-s-loses-unit-in-us-gains-ranjan-pai-as-an-ally-in-aakash-123111001416_1.html"
+    },
+    {
+      "id": "src-aakash-blackstone-payment",
+      "label": "Byju's clears $230 million payment to Blackstone for $1 billion Aakash deal",
+      "type": "independent",
+      "publisher": "AOL / Reuters",
+      "date": "2023-11-01",
+      "url": "https://www.aol.com/news/byju-clears-230-million-payment-181835293.html"
+    },
+    {
+      "id": "src-aakash-nclt-2025",
+      "label": "NCLT orders status quo on shareholding of Aakash Educational Services",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-03-27",
+      "url": "https://www.business-standard.com/companies/start-ups/nclt-orders-status-quo-on-shareholding-of-aakash-educational-services-125032701086_1.html"
+    }
+  ]
+}

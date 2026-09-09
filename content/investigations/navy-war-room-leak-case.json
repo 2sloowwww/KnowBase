@@ -1,0 +1,153 @@
+{
+  "id": "KB-3033",
+  "slug": "navy-war-room-leak-case",
+  "title": "The Navy War Room Leak: Classified Files Sold Out of the Naval Headquarters Itself",
+  "dek": "Thousands of pages of sensitive naval deployment and procurement documents were found leaking out of the Indian Navy's own war room to arms dealers. Two decades on, one convicted officer is serving a prison term while the alleged mastermind has twice beaten extradition from Britain.",
+  "category": "Defence & Security",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 902,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2006-03-01",
+  "heroStat": {
+    "value": "7,000+ pages",
+    "label": "of classified naval war room and air defence documents found to have leaked to private arms dealers"
+  },
+  "promise": {
+    "quote": "Classified deployment plans, procurement details and other sensitive documents held in the Indian Navy's war room and Integrated Headquarters would remain restricted to authorised personnel, consistent with the Official Secrets Act and the Navy's own information-security protocols.",
+    "madeBy": "Indian Navy and Ministry of Defence, as custodians of classified naval information",
+    "role": "Custodians of classified defence information under the Official Secrets Act, 1923",
+    "date": "2005-01-01",
+    "context": "In early 2005-2006, investigators discovered that thousands of pages of sensitive naval documents -- covering ship and submarine deployment, weapons acquisition plans and other classified material -- had been systematically copied and passed out of the Navy's war room and Integrated Headquarters, allegedly to private arms dealers and middlemen.",
+    "sourceIds": [
+      "src-navy-wiki-shankaran"
+    ]
+  },
+  "target": {
+    "description": "Classified naval information restricted strictly to personnel with the appropriate clearance, with no leakage to private arms dealers or foreign parties.",
+    "standard": "Official Secrets Act, 1923, and Navy internal information-security regulations",
+    "referenceDate": "2005-01-01"
+  },
+  "reality": {
+    "description": "The CBI's investigation found that officers and staff in the Navy's war room and Integrated Headquarters had leaked more than 7,000 pages of classified documents, allegedly funnelled to arms dealers including London-based businessman Ravi Shankaran, a relative of a former Navy chief, who was accused of masterminding the racket for commercial gain. Two Navy commanders, V.K. Jha and Virendra Rana, were dismissed from service in 2005 after a Board of Enquiry found them involved; their subsequent legal challenges to the dismissal were ultimately rejected, with the Supreme Court upholding the dismissals in 2017. On the criminal side, a Delhi special CBI court convicted retired naval captain Kashyap alias Salam Singh Rathore under the Official Secrets Act and sentenced him to seven years' rigorous imprisonment in July 2018. Ravi Shankaran, the alleged key figure, fought extradition from the United Kingdom for years; a UK court initially cleared the way for his extradition in 2013, but the England and Wales High Court overturned that decision in 2014, finding the CBI's evidence against him doubtful, and he has not been extradited to India.",
+    "asOfDate": "2018-07-11",
+    "sourceIds": [
+      "src-navy-scroll-rathore",
+      "src-navy-tribune-sc"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Officers implicated in the leak versus those actually convicted or extradited to face trial in India",
+    "unit": "count",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Alleged mastermind extradited and tried in India",
+    "actualDisplay": "Alleged mastermind Ravi Shankaran remains in the UK after twice defeating extradition; only one retired officer has been criminally convicted in India",
+    "targetLabel": "Expected accountability",
+    "actualLabel": "Actual outcome",
+    "note": "Two officers were administratively dismissed from service and one retired officer was criminally convicted, but the person the CBI identified as the network's central figure has never faced an Indian court."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2005-01-01",
+      "label": "Leak suspected, internal enquiry begins",
+      "detail": "The Navy begins an internal Board of Enquiry after suspecting classified war room documents were being leaked.",
+      "type": "status"
+    },
+    {
+      "date": "2005-10-01",
+      "label": "Two commanders dismissed",
+      "detail": "Commanders V.K. Jha and Virendra Rana are dismissed from service after the Board of Enquiry finds them involved in the leak.",
+      "type": "status"
+    },
+    {
+      "date": "2006-03-01",
+      "label": "CBI takes over the investigation",
+      "detail": "The Central Bureau of Investigation registers a case and takes over the probe into the leak of over 7,000 pages of classified naval documents.",
+      "type": "status"
+    },
+    {
+      "date": "2013-03-01",
+      "label": "UK court initially clears Shankaran's extradition",
+      "detail": "A UK court rules in favour of extraditing Ravi Shankaran to India to face trial.",
+      "type": "status"
+    },
+    {
+      "date": "2014-04-01",
+      "label": "UK High Court blocks extradition",
+      "detail": "The England and Wales High Court overturns the earlier ruling, finding the CBI's evidence against Shankaran doubtful, and he remains in the UK.",
+      "type": "revision"
+    },
+    {
+      "date": "2017-02-23",
+      "label": "Supreme Court upholds dismissal of two officers",
+      "detail": "The Supreme Court of India upholds the dismissal from service of commanders Jha and Rana.",
+      "type": "status"
+    },
+    {
+      "date": "2018-07-11",
+      "label": "Rathore convicted and sentenced",
+      "detail": "A special CBI court convicts retired naval captain Salam Singh Rathore under the Official Secrets Act and sentences him to seven years' rigorous imprisonment.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "One retired naval officer has been criminally convicted under the Official Secrets Act. Two other officers were dismissed from service through an administrative Board of Enquiry process (not a criminal conviction), a dismissal the Supreme Court upheld. The alleged central figure in the case, Ravi Shankaran, has never been tried in India after successfully resisting extradition from the UK.",
+    "keyIndividuals": [
+      {
+        "name": "Salam Singh Rathore (Kashyap)",
+        "role": "Retired Indian Navy captain",
+        "outcome": "Convicted under the Official Secrets Act by a special CBI court and sentenced to seven years' rigorous imprisonment in July 2018."
+      },
+      {
+        "name": "Ravi Shankaran",
+        "role": "London-based businessman; alleged principal figure in the leak network",
+        "outcome": "Never extradited to India; a UK court blocked his extradition in 2014 after finding the CBI's evidence doubtful. No Indian trial has taken place."
+      },
+      {
+        "name": "V.K. Jha and Virendra Rana",
+        "role": "Indian Navy commanders",
+        "outcome": "Dismissed from service in 2005 following an internal Board of Enquiry; their challenge to the dismissal was rejected, with the Supreme Court upholding it in 2017."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That classified naval documents leaked out of the war room to private arms dealers is well established -- it led to dismissals, a criminal conviction, and years of extradition proceedings. But the case also shows the limits of that accountability: the person the CBI identified as the network's central figure has never been tried in India, having twice defeated extradition from Britain.",
+    "confidence": "high",
+    "reasoning": "The dismissals, Supreme Court ruling, and Rathore's 2018 conviction are documented in multiple independent reports and are matters of public record. Confidence is not higher only because this entry has not independently verified every detail of the alleged commercial motive behind the leak or the full extent of documents recovered."
+  },
+  "incomplete": [
+    "The precise commercial arrangements or payments allegedly made to officers in exchange for leaked documents have not been comprehensively verified in this entry.",
+    "The final legal status of any charges the CBI may still hold against Ravi Shankaran, absent extradition, is unclear from public reporting reviewed here.",
+    "This entry does not cover every individual named across the multiple offshoot cases connected to the original war room leak investigation."
+  ],
+  "sources": [
+    {
+      "id": "src-navy-wiki-shankaran",
+      "label": "Ravi Shankaran",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Ravi_Shankaran"
+    },
+    {
+      "id": "src-navy-scroll-rathore",
+      "label": "2005 Navy War Room leak case: CBI court sentences retired captain to 7 years' rigorous imprisonment",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2018-07-11",
+      "url": "https://scroll.in/latest/886126/2005-navy-war-room-leak-case-cbi-court-sentences-retired-captain-to-7-years-rigorous-imprisonment"
+    },
+    {
+      "id": "src-navy-tribune-sc",
+      "label": "SC upholds dismissal of 2 senior officers in Navy war room leak case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2017-02-24",
+      "url": "https://www.tribuneindia.com/news/archive/nation/sc-upholds-dismissal-of-2-senior-officers-in-navy-war-room-leak-case-368474"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "KB-2908",
+  "slug": "2008-financial-crisis-sensex-crash",
+  "title": "The 2008 Global Financial Crisis and the Sensex's 63% Collapse",
+  "dek": "As Lehman Brothers collapsed and panic swept global markets in 2008, India's regulators and finance ministry repeatedly assured investors that the country's financial system and fundamentals were sound. The Sensex fell anyway -- from a January 2008 peak near 21,000 to under 8,000 by year's end -- as foreign investors pulled out and a market long insulated from Western-style crises learned it was not decoupled after all.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 62,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2008-01-21",
+  "heroStat": {
+    "value": "63%",
+    "label": "the Sensex's fall in calendar year 2008, from around 20,300 at the start of the year to under 7,700 by December"
+  },
+  "promise": {
+    "quote": "Indian financial system is strong and healthy, and our economic fundamentals are strong. Once the global situation is managed and calm and confidence are restored, we will return to our higher growth trajectory.",
+    "madeBy": "Reserve Bank of India",
+    "role": "India's central bank, in its mid-term review of Annual Monetary Policy for 2008-09, cited approvingly by Finance Minister P. Chidambaram",
+    "date": "2008-10-24",
+    "context": "Official reassurance issued as global markets, including India's, were in steep decline following the September 2008 collapse of Lehman Brothers, intended to calm investors amid fears of financial contagion.",
+    "sourceIds": [
+      "src-2008crisis-bs-calm"
+    ]
+  },
+  "target": {
+    "description": "A domestic financial system resilient enough that the assurances of soundness given by the RBI and finance ministry would be reflected in relative market stability, or at minimum a controlled, well-managed decline rather than a rout comparable to the worst-hit global markets.",
+    "standard": "The government and RBI's own repeated public statements in 2008 that the Indian economy was fundamentally sound and that growth of near 8% would continue despite global turmoil.",
+    "referenceDate": "2008-10-24"
+  },
+  "reality": {
+    "description": "The BSE Sensex, which had crossed 20,000 for the first time in October 2007 and touched roughly 21,000 in early January 2008, fell through the course of 2008 to close the year under 8,000 -- a decline of about 63%, among the steepest of any major global index that year. The immediate trigger was the global financial crisis, particularly the September 2008 collapse of Lehman Brothers, which caused foreign institutional investors to pull large sums out of Indian equities amid a broader flight to safety, compounding a slowdown that had already begun earlier in 2008. The rupee depreciated sharply and exports declined as global demand contracted. Throughout this period, the Reserve Bank of India and the finance ministry repeatedly stated that India's banking system was well-capitalised and that its economic fundamentals remained strong -- statements that proved broadly correct about the banking sector's solvency (no major Indian bank failed, unlike in the US and parts of Europe) but did not prevent the stock market itself from crashing in line with global panic. The RBI and government did respond with substantial monetary easing (repeated repo rate cuts) and fiscal stimulus packages from December 2008 onward, which are credited with helping the Sensex and the broader economy begin recovering through 2009.",
+    "asOfDate": "2008-12-31",
+    "sourceIds": [
+      "src-2008crisis-hdfcsky",
+      "src-2008crisis-motilal",
+      "src-2008crisis-bs-calm"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Sensex level in early January 2008 vs. Sensex level by end of December 2008",
+    "unit": "index points",
+    "targetValue": 21078,
+    "actualValue": 7697,
+    "targetDisplay": "~21,078 (Sensex peak, January 8, 2008)",
+    "actualDisplay": "~7,697 (Sensex close, late 2008)",
+    "targetLabel": "Peak",
+    "actualLabel": "Trough",
+    "note": "Figures are approximate, drawn from financial-history summaries rather than exact minute-by-minute exchange data, and represent the broad peak-to-trough move rather than the precise January 1 and December 31 closing values."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-01-08",
+      "label": "Sensex peaks near 21,000",
+      "detail": "The BSE Sensex reaches roughly 21,078, a record high, having crossed 20,000 for the first time only months earlier in October 2007.",
+      "type": "status"
+    },
+    {
+      "date": "2008-09-15",
+      "label": "Lehman Brothers collapses",
+      "detail": "The collapse of Lehman Brothers in the US triggers a global financial panic, accelerating capital flight from emerging markets including India.",
+      "type": "status"
+    },
+    {
+      "date": "2008-10-24",
+      "label": "RBI and finance ministry issue reassurances",
+      "detail": "The RBI's mid-term monetary policy review states that the Indian financial system and economic fundamentals remain strong; the finance minister publicly endorses this assessment.",
+      "type": "announcement"
+    },
+    {
+      "date": "2008-12-01",
+      "label": "Government announces stimulus measures",
+      "detail": "The government and RBI begin a series of interest-rate cuts and fiscal stimulus measures to support liquidity and growth amid the deepening downturn.",
+      "type": "status"
+    },
+    {
+      "date": "2008-12-31",
+      "label": "Sensex ends the year near 7,700",
+      "detail": "The Sensex closes 2008 down roughly 63% from its January peak, one of the worst annual performances among major global indices.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This entry concerns a macroeconomic and market event rather than a prosecutable case; there is no legal proceeding to report on.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The government and RBI's assurances about the fundamental soundness of India's financial system proved largely accurate in the narrow sense that no major Indian bank collapsed and the economy avoided a US/European-style banking crisis. But the broader implicit promise of relative insulation from global market turmoil was not kept: the Sensex fell by roughly the same order of magnitude as the worst-affected global markets, exposing how thoroughly integrated Indian equity markets had become with global capital flows.",
+    "confidence": "high",
+    "reasoning": "The Sensex's decline and its rough magnitude are well documented across multiple independent financial-history sources and are not seriously disputed. The RBI and government statements quoted are drawn from contemporaneous press reporting rather than the full original RBI policy document, though the substance is corroborated by multiple sources."
+  },
+  "incomplete": [
+    "This entry does not attempt a full accounting of every monetary and fiscal stimulus measure taken in response to the crisis, focusing instead on the market outcome and the reassurance-versus-reality gap.",
+    "Exact Sensex opening and closing values for January 1 and December 31, 2008 vary slightly by source depending on adjustment methodology; this entry uses widely cited approximate peak and trough figures."
+  ],
+  "sources": [
+    {
+      "id": "src-2008crisis-hdfcsky",
+      "label": "India at 80: How Crises Shaped Its Stock Market",
+      "type": "independent",
+      "publisher": "HDFC Sky",
+      "date": "2025-08-01",
+      "url": "https://hdfcsky.com/news/80-years-10-major-market-crashes-the-shocks-that-tested-independent-india"
+    },
+    {
+      "id": "src-2008crisis-motilal",
+      "label": "Stock Market Crashes in India: Key Events & Lessons",
+      "type": "independent",
+      "publisher": "Motilal Oswal",
+      "date": "2025-05-01",
+      "url": "https://www.motilaloswal.com/learning-centre/2025/5/history-of-stock-market-crashes-in-india"
+    },
+    {
+      "id": "src-2008crisis-bs-calm",
+      "label": "Necessary to be calm and confident to ride the current crisis: FM",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2008-10-24",
+      "url": "https://www.business-standard.com/amp/article/finance/necessary-to-be-calm-and-confident-to-ride-the-current-crisis-fm-108102400028_1.html"
+    }
+  ]
+}

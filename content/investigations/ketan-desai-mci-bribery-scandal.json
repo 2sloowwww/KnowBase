@@ -1,0 +1,140 @@
+{
+  "id": "KB-2001",
+  "slug": "ketan-desai-mci-bribery-scandal",
+  "title": "The Ketan Desai Medical Council Bribery Scandal",
+  "dek": "The president of India's medical education regulator was arrested for allegedly taking a bribe to grant a private college recognition to admit students — a case that exposed how medical college accreditation itself could be bought.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 160,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2010-04-22",
+  "heroStat": {
+    "value": "8 FIRs",
+    "label": "filed against the Medical Council of India's president over college-recognition bribery; six ended in acquittal or closure, two remained pending years later"
+  },
+  "promise": {
+    "quote": "Recognition and renewal of permission for medical colleges will be granted strictly on the basis of verified infrastructure, faculty, and teaching standards inspected by the Medical Council of India.",
+    "madeBy": "Medical Council of India (MCI), under president Dr Ketan Desai",
+    "role": "Statutory body responsible for accrediting medical colleges and regulating medical education in India",
+    "date": "2010-04-22",
+    "context": "The MCI's recognition process determined whether a private medical college could legally admit students for a given academic year — making its inspectors and leadership powerful gatekeepers over hundreds of crores in college revenue.",
+    "sourceIds": [
+      "src-ketan-cbi-arrest"
+    ]
+  },
+  "target": {
+    "description": "Medical college inspections and recognition decisions made solely on documented educational merit, free of payments to MCI officials.",
+    "standard": "Indian Medical Council Act, 1956, and the Prevention of Corruption Act, 1988, governing the MCI's statutory accreditation function.",
+    "referenceDate": "2010-04-22"
+  },
+  "reality": {
+    "description": "The CBI arrested Ketan Desai on 22 April 2010, alleging he and associates had taken a bribe of roughly ₹2 crore from Gyan Sagar Medical College in Patiala, Punjab, in exchange for MCI permission to admit a fresh batch of students; a further allegation involved a payment reportedly linked to a Kolkata hospital's academic-session extension. The Union government dissolved the MCI itself days after the arrest and replaced it with a nominated Board of Governors. Assets described in press reporting as worth roughly ₹1,800 crore were separately said to have been traced to Desai and associates during the wider investigation, though the figure has not been independently verified by this entry against a primary CBI or court filing. Of eight FIRs eventually filed against Desai, six ended in acquittal or CBI closure reports; two cases — being tried in Delhi and Lucknow — remained pending years after the arrest. Desai went on to be elected president of the World Medical Association in 2016 despite the pending cases, drawing criticism from Indian and international medical publications.",
+    "asOfDate": "2017-01-01",
+    "sourceIds": [
+      "src-ketan-cbi-arrest",
+      "src-ketan-acquittals",
+      "src-ketan-wma"
+    ]
+  },
+  "gap": {
+    "metricLabel": "FIRs filed against Ketan Desai vs. cases still pending trial",
+    "unit": "count",
+    "targetValue": 8,
+    "actualValue": 2,
+    "targetDisplay": "8 FIRs filed",
+    "actualDisplay": "2 still pending, 6 acquitted/closed",
+    "targetLabel": "Total FIRs filed since 2010",
+    "actualLabel": "Cases still active years later",
+    "note": "Most of the criminal cases arising from Desai's 2010 arrest did not result in a sustained prosecution — a pattern of acquittals and closure reports that this entry flags rather than treats as exoneration on the merits, since court reasoning for each closure was not independently reviewed."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 2,
+    "spentLabel": "₹2 crore bribe alleged in the Gyan Sagar Medical College case that triggered Desai's arrest",
+    "unit": "crore",
+    "notes": "Press reporting has separately referenced assets worth roughly ₹1,800 crore said to be linked to Desai and associates across the wider investigation into MCI corruption; this figure could not be verified by this entry against a primary CBI charge sheet or court order and should be treated as unconfirmed.",
+    "sourceIds": [
+      "src-ketan-cbi-arrest"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-04-22",
+      "label": "CBI arrests Ketan Desai",
+      "detail": "Desai and three others are arrested under the Prevention of Corruption Act over an alleged bribe from Gyan Sagar Medical College, Patiala.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-05-15",
+      "label": "Medical Council of India dissolved",
+      "detail": "The Union government dissolves the MCI and replaces it with a Board of Governors, citing the corruption allegations against its leadership.",
+      "type": "status"
+    },
+    {
+      "date": "2016-10-01",
+      "label": "Desai elected president of World Medical Association",
+      "detail": "Desai's election, while criminal cases against him remained pending in India, draws criticism in Indian and international medical journals.",
+      "type": "status"
+    },
+    {
+      "date": "2017-01-01",
+      "label": "Six of eight FIRs end in acquittal or closure",
+      "detail": "Press reporting states six of the eight FIRs against Desai concluded in acquittal or CBI closure reports, with two cases still being tried in Delhi and Lucknow.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Of the eight FIRs filed against Ketan Desai since his 2010 arrest, six had ended in acquittal or CBI closure reports as of the most recent reporting reviewed for this entry, with two cases still pending trial in Delhi and Lucknow. This entry has not reviewed the underlying court judgments or closure reports directly and does not have confirmation of any final, unappealed verdict in the remaining cases.",
+    "keyIndividuals": [
+      {
+        "name": "Dr Ketan Desai",
+        "role": "President, Medical Council of India (at time of arrest)",
+        "outcome": "Arrested 2010; six of eight FIRs against him ended in acquittal or closure by the most recent reporting reviewed, with two cases reported pending. No final conviction has been confirmed by this entry."
+      },
+      {
+        "name": "Alka Desai",
+        "role": "Wife of Ketan Desai",
+        "outcome": "Charge-sheeted by the CBI as a co-conspirator; final outcome not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, high-profile arrest of India's top medical-education regulator on bribery charges led to the dissolution of the MCI itself — but the criminal cases that followed largely did not stick, with most FIRs against Desai ending in acquittal or closure rather than conviction. The case illustrates both a genuine governance failure (a regulator's own head allegedly monetising college accreditation) and the difficulty of prosecuting it to a conviction.",
+    "confidence": "medium",
+    "reasoning": "The 2010 arrest and MCI's dissolution are well documented in contemporaneous and retrospective reporting. The claim that six of eight FIRs ended in acquittal or closure comes from press summaries rather than court records this entry has reviewed directly, and the ₹1,800 crore asset figure is unverified — both are flagged in incomplete[]."
+  },
+  "incomplete": [
+    "The exact court outcomes (acquittal reasoning, or content of CBI closure reports) for the six concluded FIRs have not been reviewed directly — only press summaries.",
+    "The current status of the two FIRs reported pending in Delhi and Lucknow has not been confirmed as of a recent date; this entry's 'reality' section reflects reporting current only to around 2017.",
+    "The widely cited ₹1,800 crore asset figure has not been traced to a primary CBI or court source and may reflect a different phase of the investigation than the Gyan Sagar bribery FIR itself."
+  ],
+  "sources": [
+    {
+      "id": "src-ketan-cbi-arrest",
+      "label": "Dr. Ketan Desai: MCI President, turned King of corruption",
+      "type": "independent",
+      "publisher": "MedBound Times",
+      "date": "2023-01-01",
+      "url": "https://www.medboundtimes.com/medbound-blog/dr-ketan-desai-head-of-mci-dismissed-for-corruption"
+    },
+    {
+      "id": "src-ketan-acquittals",
+      "label": "Ketan Desai and the Medical Council of India: the road to perdition?",
+      "type": "independent",
+      "publisher": "Indian Journal of Medical Ethics / Issues in Medical Ethics",
+      "date": "2017-01-01",
+      "url": "https://www.issuesinmedicalethics.org/articles/ketan-desai-and-the-medical-council-of-india-the-road-to-perdition/?galley=print"
+    },
+    {
+      "id": "src-ketan-wma",
+      "label": "Corruption no bar: Tainted Indian doctor Ketan Desai becomes head of World Medical Association",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2016-10-20",
+      "url": "https://www.thenewsminute.com/news/corruption-no-bar-tainted-indian-doctor-ketan-desai-becomes-head-world-medical-association"
+    }
+  ]
+}

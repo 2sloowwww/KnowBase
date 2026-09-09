@@ -1,0 +1,140 @@
+{
+  "id": "KB-2607",
+  "slug": "gst-2-0-reform-2025",
+  "title": "The GST 2.0 Rate Rationalisation",
+  "dek": "Billed as independent India's biggest tax reform, the September 2025 GST overhaul collapsed four tax slabs into two and cut rates on hundreds of items to boost consumption. Two months in, GST collections were growing barely above last year's pace, well short of the 8% GDP growth surrounding them.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 173,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-08-15",
+  "heroStat": {
+    "value": "0.7%",
+    "label": "year-on-year growth in November 2025 GST collections, against 8% GDP growth in the same half-year"
+  },
+  "promise": {
+    "quote": "This is the biggest tax reform of independent India, and it will put more money in the hands of the common man while boosting consumption and investment.",
+    "madeBy": "Narendra Modi",
+    "role": "Prime Minister of India",
+    "date": "2025-09-05",
+    "context": "Remarks around the 56th GST Council meeting of September 3, 2025, which approved collapsing the 12% and 28% GST slabs into a simplified two-rate structure of 5% and 18%, alongside a new 40% rate for sin/luxury goods.",
+    "sourceIds": [
+      "src-gst-newsonair-modi"
+    ]
+  },
+  "target": {
+    "description": "Lower prices on everyday goods and simplified compliance would meaningfully boost consumer demand and investment, offsetting the estimated revenue loss from the rate cuts.",
+    "standard": "The government's own stated rationale for the reform, and the Finance Ministry's published estimate of the net revenue impact.",
+    "referenceDate": "2025-09-05"
+  },
+  "reality": {
+    "description": "The new rates took effect on September 22, 2025, cutting GST on 516 items to 5% and simplifying the standard rate to 18% for 640 items, while creating a new 40% slab for sin and luxury goods. The Finance Ministry itself estimated a net revenue loss of roughly ₹48,000 crore against FY23-24 consumption levels. Early data showed October 2025 collections up 4.6% year-on-year, boosted by the festive season, but November 2025 collections grew only 0.7% year-on-year — a pace far below the 8% GDP growth reported for the same half-year, suggesting the promised consumption surge had not yet clearly shown up in tax receipts. The reform also created inverted duty structures in some sectors (packaging, farming inputs, pharmaceuticals), prompting a wave of refund claims.",
+    "asOfDate": "2025-12-01",
+    "sourceIds": [
+      "src-gst-cleartax-nov",
+      "src-gst-taxtmi-growth"
+    ]
+  },
+  "gap": {
+    "metricLabel": "GST collection growth vs. concurrent GDP growth",
+    "unit": "percent",
+    "targetValue": 8,
+    "actualValue": 0.7,
+    "targetDisplay": "8% (reported GDP growth, H1 FY2025-26)",
+    "actualDisplay": "0.7% (year-on-year GST collection growth, November 2025)",
+    "note": "This gap compares two different measures (GDP growth vs. tax collection growth) as a rough proxy for whether the promised consumption boost was showing up in receipts within the first two months; it is not a formal government target-vs-actual comparison."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 48000,
+    "spentLabel": "Estimated net annual revenue loss to the exchequer from the rate cuts (Finance Ministry estimate, FY23-24 consumption base)",
+    "unit": "crore",
+    "notes": "The Finance Ministry separately estimated roughly ₹93,000 crore in revenue foregone from rate cuts, partly offset by an estimated ₹45,000 crore in additional revenue from the new 40% slab on sin/luxury goods, netting to about ₹48,000 crore.",
+    "sourceIds": [
+      "src-gst-vajiram-estimate"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025-08-15",
+      "label": "Reform announced",
+      "detail": "The government announces plans for 'next-generation' GST reforms focused on structural simplification, rate rationalisation, and ease of doing business.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-09-03",
+      "label": "GST Council approves new slabs",
+      "detail": "The 56th GST Council meeting approves collapsing four slabs into two main rates (5% and 18%) plus a new 40% rate for sin/luxury goods.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-09-22",
+      "label": "New rates take effect",
+      "detail": "Revised GST rates and exemptions come into force nationwide.",
+      "type": "status"
+    },
+    {
+      "date": "2025-11-01",
+      "label": "October collections released",
+      "detail": "October 2025 gross GST collections come in at ₹1,95,936 crore, up 4.6% year-on-year, aided by festive-season demand.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-01",
+      "label": "November collections underwhelm",
+      "detail": "November 2025 gross GST collections of ₹1,70,276 crore show only 0.7% year-on-year growth, well below concurrent GDP growth.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry covering a fiscal policy reform, not a legal case. There is no prosecutable wrongdoing at issue; the entry tracks the gap between the reform's stated consumption-boosting rationale and early collection data.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the reform delivered on its structural simplification promise (fewer, clearer slabs) and did cut prices on many goods, but the hoped-for consumption surge had not clearly materialised in aggregate tax collections within the first two months, and the government's own revenue-loss estimate had not yet been offset by higher volumes.",
+    "confidence": "low",
+    "reasoning": "This entry relies on only the first two months of post-reform collection data (October-November 2025), which is too short a window to draw firm conclusions about the reform's medium-term effect on consumption or revenue. Later data may show a different picture."
+  },
+  "incomplete": [
+    "Collection and consumption data beyond November 2025 has not been incorporated into this entry and may show a different trend as festive-season effects fade or businesses complete GST 2.0 transition adjustments.",
+    "The scale and resolution timeline of the inverted duty structure refund claims created in sectors like packaging and pharmaceuticals has not been detailed here.",
+    "Independent (non-government) economic assessments of GST 2.0's net welfare effect on consumers versus its fiscal cost have not yet been incorporated."
+  ],
+  "sources": [
+    {
+      "id": "src-gst-newsonair-modi",
+      "label": "PM Modi describes GST rationalisation as 'biggest reform of independent India'",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio)",
+      "date": "2025-09-05",
+      "url": "https://www.newsonair.gov.in/pm-modi-describes-gst-rationalisation-as-biggest-reform-of-independent-india"
+    },
+    {
+      "id": "src-gst-cleartax-nov",
+      "label": "GST Collections November 2025: State Wise Break-up",
+      "type": "independent",
+      "publisher": "ClearTax",
+      "date": "2025-12-01",
+      "url": "https://cleartax.in/s/gst-collection-november-2025"
+    },
+    {
+      "id": "src-gst-taxtmi-growth",
+      "label": "0.7% growth in GST Collections for November 2025 on the sidelines of an 8% GDP growth tailwind",
+      "type": "independent",
+      "publisher": "TaxTMI",
+      "date": "2025-12-01",
+      "url": "https://www.taxtmi.com/article/detailed?id=15541"
+    },
+    {
+      "id": "src-gst-vajiram-estimate",
+      "label": "GST 2.0 - Rate Rationalisation and Structural Reforms",
+      "type": "independent",
+      "publisher": "Vajiram & Ravi",
+      "date": "2025-09-23",
+      "url": "https://vajiramandravi.com/current-affairs/gst-2-0-rate-rationalisation-and-structural-reforms/"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "KB-2306",
+  "slug": "sahara-aamby-valley-asset-saga",
+  "title": "The Sahara Aamby Valley Asset-Seizure Saga",
+  "dek": "The Supreme Court ordered Sahara's flagship 10,000-acre hill township auctioned in 2017 to repay investors. Eight years, one failed auction and dozens of attached properties later, it may finally be sold — not through the auction, but in a distress sale to the Adani group.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 89,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2017-04-17",
+  "heroStat": {
+    "value": "₹37,392 cr",
+    "label": "reserve price set for the court-ordered auction of Sahara's Aamby Valley property, which drew no bidders"
+  },
+  "promise": {
+    "quote": "Sahara group companies would refund, with 15% interest, the roughly ₹24,000 crore raised from small investors through bonds SEBI had ruled illegal — and would deposit sufficient funds and assets to satisfy that order.",
+    "madeBy": "Sahara India Pariwar and its chairman Subrata Roy, under Supreme Court directions arising from the SEBI-Sahara case",
+    "role": "Conglomerate ordered to refund investors following SEBI and Supreme Court findings against its bond-raising companies",
+    "date": "2012-08-31",
+    "context": "This entry concerns specifically the seizure and attempted sale of Sahara's Aamby Valley township and related properties to satisfy that refund order — a distinct strand of the broader Sahara-SEBI saga covered in this site's dedicated Sahara-SEBI case entry.",
+    "sourceIds": [
+      "src-sahara-sc-auction-order"
+    ]
+  },
+  "target": {
+    "description": "Liquidation of sufficient Sahara group assets, including the Aamby Valley township, to fund the court-ordered refund to investors, through a transparent auction process overseen by a court-appointed liquidator.",
+    "standard": "Supreme Court orders in the SEBI-Sahara matter directing refund of investor money with interest, enforced through asset attachment and auction.",
+    "referenceDate": "2017-04-17"
+  },
+  "reality": {
+    "description": "After Subrata Roy failed to deposit court-ordered sums toward the investor refund, the Supreme Court in April 2017 ordered the auction of Sahara's roughly 10,000-acre Aamby Valley township near Lonavala, valued at the time around ₹34,000–37,392 crore reserve price; the auction process that followed drew no bidders. In 2018, the court permitted piecemeal sales of the property overseen by a court-appointed liquidator, and hospitality operators have since run resorts on parts of the site while its ownership and lease status remain unresolved. As of September 2025, only around ₹2,314 crore had been distributed to roughly 13 lakh depositors through a separate cooperative-society refund portal launched in 2023 — a small fraction of the roughly ₹25,000 crore originally ordered refunded. In late 2025, reporting indicated that Aamby Valley and dozens of other attached Sahara properties (over 80 parcels, including the Sahara Star hotel) were being considered for a distress sale to the Adani group, pending Supreme Court approval; a bench headed by the Chief Justice adjourned the matter for six weeks in November 2025 after the central government sought more time to respond. Separately, the Enforcement Directorate filed a money-laundering chargesheet in September 2025 against Subrata Roy's widow, son, and other Sahara officials in a ₹1.74 lakh crore case, and municipal authorities in Lucknow sealed a separate Sahara property citing lease violations in October 2025.",
+    "asOfDate": "2025-11-17",
+    "sourceIds": [
+      "src-sahara-sc-auction-order",
+      "src-sahara-adani-distress-sale"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Aamby Valley reserve auction price vs. confirmed sale/transfer value realised",
+    "unit": "INR crore",
+    "targetValue": 37392,
+    "actualValue": 0,
+    "targetDisplay": "₹37,392 cr reserve price (2017 auction)",
+    "actualDisplay": "No confirmed sale as of late 2025",
+    "targetLabel": "Reserve price set",
+    "actualLabel": "Value realised",
+    "note": "The 2017 court-ordered auction drew no bidders at its reserve price. As of the most recent reporting reviewed, a prospective distress sale to the Adani group was still pending Supreme Court approval, and no confirmed transaction value has been established."
+  },
+  "money": {
+    "currency": "INR",
+    "unit": "crore",
+    "notes": "Roughly ₹25,000 crore was the original Supreme Court-ordered investor refund liability (with 15% interest); as of September 2025, approximately ₹2,314 crore had been distributed to about 13 lakh depositors via the CRCS-Sahara Refund Portal.",
+    "sourceIds": [
+      "src-sahara-adani-distress-sale"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017-04-17",
+      "label": "Supreme Court orders Aamby Valley auction",
+      "detail": "After Sahara fails to deposit ordered sums, the court directs auction of the roughly 10,000-acre township.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-08-14",
+      "label": "Auction begins at ₹37,392 crore reserve price",
+      "detail": "The court-appointed liquidator invites bids; the auction ultimately draws no buyers.",
+      "type": "status"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "Court permits piecemeal sales",
+      "detail": "With no auction winner, the Supreme Court allows sale of the property in parts under liquidator oversight.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "CRCS-Sahara Refund Portal launched",
+      "detail": "A separate government-run portal begins processing refund claims from Sahara's cooperative society depositors.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-09-01",
+      "label": "₹2,314 crore refunded to date",
+      "detail": "About 13 lakh depositors have received refunds through the portal, a small fraction of the total ordered.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-01",
+      "label": "ED files ₹1.74 lakh crore money-laundering chargesheet",
+      "detail": "The Enforcement Directorate names Subrata Roy's widow, son, and other Sahara officials in Kolkata.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-11-17",
+      "label": "Supreme Court adjourns Adani distress-sale matter",
+      "detail": "A bench headed by the Chief Justice grants the central government six more weeks to respond to the proposed sale of over 80 Sahara properties, including Aamby Valley, to the Adani group.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This matter remains unresolved. The Aamby Valley property has not been sold through the court-ordered auction process eight years after it was first directed; a prospective distress sale to the Adani group was pending Supreme Court approval as of late 2025, and refunds to investors remain a small fraction of the amount originally ordered.",
+    "keyIndividuals": [
+      {
+        "name": "Subrata Roy",
+        "role": "Founder and former Chairman, Sahara India Pariwar",
+        "outcome": "Died in November 2023; the refund and asset-liquidation proceedings he was ordered to comply with have continued after his death, now involving his widow and son."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real and still-unresolved case: courts ordered the auction of Sahara's marquee asset in 2017 to fund investor refunds, the auction failed to attract bidders, and as of late 2025 the property's fate — a possible distress sale to the Adani group — remained before the Supreme Court, with only a small fraction of the underlying investor refund liability paid out.",
+    "confidence": "medium",
+    "reasoning": "The auction order, its failure, and the pending 2025 distress-sale reporting are corroborated by independent reporting including a detailed 2025 ground report; this entry has not independently reviewed the underlying Supreme Court orders or verified the precise current ownership status of the property."
+  },
+  "incomplete": [
+    "The current legal/ownership status of Aamby Valley — whether any parcels have actually changed hands via piecemeal sale since 2018 — is not fully established.",
+    "Whether the Adani group's prospective acquisition of Sahara properties has received Supreme Court approval, and on what terms, remains unresolved as of the most recent reporting reviewed.",
+    "The relationship between this asset-liquidation process and the separate ₹1.74 lakh crore money-laundering chargesheet against Sahara officials has not been clarified."
+  ],
+  "sources": [
+    {
+      "id": "src-sahara-sc-auction-order",
+      "label": "Sahara failed to deposit money, Aamby Valley auction to continue: SC",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2018-05-16",
+      "url": "https://www.moneylife.in/article/sahara-failed-to-deposit-money-aamby-valley-auction-to-continue-sc/54068.html"
+    },
+    {
+      "id": "src-sahara-adani-distress-sale",
+      "label": "What's left of the Sahara Empire? Ghost towns, graveyard of cars, empty pools",
+      "type": "independent",
+      "publisher": "The Print",
+      "date": "2025-11-20",
+      "url": "https://theprint.in/ground-reports/sahara-subrata-roy-sebi-refund-adani-distress-sale/2784105/"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "KB-2301",
+  "slug": "bank-of-baroda-hong-kong-forex-scam",
+  "title": "The Bank of Baroda ₹6,000 Crore Hong Kong Forex Scam",
+  "dek": "A single Delhi branch of a public-sector bank pushed through roughly 8,000 remittances to Hong Kong in a year, disguised as payment for cashew, pulses and rice that investigators say never existed. A decade on, the trial is still running.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 85,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2015-10-10",
+  "heroStat": {
+    "value": "₹6,172 cr",
+    "label": "in foreign exchange allegedly remitted to Hong Kong and other jurisdictions disguised as payment for non-existent imports"
+  },
+  "promise": {
+    "quote": "Outward remittances for import payments will be made only against genuine underlying trade transactions, in compliance with the Foreign Exchange Management Act and RBI's know-your-customer and anti-money-laundering norms.",
+    "madeBy": "Bank of Baroda, a majority government-owned public sector bank",
+    "role": "Authorised dealer bank processing foreign exchange remittances for its account holders",
+    "date": "2014-08-01",
+    "context": "This reflects the standard regulatory obligation on an RBI-authorised dealer bank processing forex remittances, rather than a specific internal Bank of Baroda policy document this entry has reviewed.",
+    "sourceIds": [
+      "src-bob-scroll-explainer"
+    ]
+  },
+  "target": {
+    "description": "Foreign exchange remittances processed by the bank's branches would correspond to genuine, verifiable underlying imports, with due diligence performed on account holders and transaction documentation as required under Indian foreign exchange and anti-money-laundering law.",
+    "standard": "Foreign Exchange Management Act, 1999, and RBI's know-your-customer/anti-money-laundering directions for authorised dealer banks.",
+    "referenceDate": "2014-08-01"
+  },
+  "reality": {
+    "description": "Between roughly August 2014 and August 2015, Bank of Baroda's Ashok Vihar branch in Delhi — a branch that had only received forex-dealing authorisation in 2013 — processed close to 8,000 remittances totalling around ₹6,172 crore to some 400 overseas parties, mostly in Hong Kong, purportedly as payment for imports of cashew, pulses and rice that investigators allege never took place. The branch's forex business had ballooned to roughly ₹21,529 crore within a year of receiving that authorisation. The CBI registered a case in October 2015 and arrested the branch head, an assistant general manager, and the branch's forex-desk officer, along with several current-account holders; the Enforcement Directorate opened a parallel money-laundering case and the Serious Fraud Investigation Office (SFIO) also began a probe. India's Financial Intelligence Unit separately penalised Bank of Baroda for anti-money-laundering lapses connected to the case. The CBI has since filed multiple supplementary chargesheets — including two in December 2021 against eight individuals and a private company — and as of the most recent reporting reviewed, the matter remains under trial in special CBI and PMLA courts, with no final verdict reported.",
+    "asOfDate": "2025-06-01",
+    "sourceIds": [
+      "src-bob-scroll-explainer",
+      "src-bob-supplementary-chargesheet",
+      "src-bob-trial-status"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged illicit remittance vs. amount recovered or confirmed lost",
+    "unit": "INR crore",
+    "targetValue": 6172,
+    "actualValue": 0,
+    "targetDisplay": "₹6,172 cr allegedly remitted",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged",
+    "actualLabel": "Confirmed recovered/lost",
+    "note": "This is a foreign-exchange-control and money-laundering case rather than a direct loan default, so there is no single lender loss figure comparable to a bank-fraud case; this entry has not located a reliable, consolidated recovery or loss figure and reports it as unestablished."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-01-01",
+      "label": "Ashok Vihar branch authorised for forex dealing",
+      "detail": "The Delhi branch receives permission to handle foreign exchange transactions; its forex business grows rapidly within a year.",
+      "type": "status"
+    },
+    {
+      "date": "2015-10-10",
+      "label": "CBI registers case, conducts raids",
+      "detail": "The CBI books Bank of Baroda officials and account holders over roughly ₹6,000 crore in suspicious remittances to Hong Kong and other jurisdictions.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-10-22",
+      "label": "CVC seeks report from CBI and bank",
+      "detail": "The Central Vigilance Commission asks for a status report on the investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2021-12-25",
+      "label": "CBI files two supplementary chargesheets",
+      "detail": "Chargesheets are filed against eight individuals and a private company in connection with the scam.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-06-01",
+      "label": "Trial ongoing",
+      "detail": "As of the most recent reporting reviewed, the case remains under trial in special CBI and PMLA courts with no final verdict.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Multiple accused, including bank officials and account holders, were arrested and chargesheeted across CBI and ED proceedings; this investigation has not established a final trial verdict for any accused.",
+    "keyIndividuals": [
+      {
+        "name": "S.K. Garg",
+        "role": "Branch head, Bank of Baroda Ashok Vihar branch",
+        "outcome": "Arrested by the CBI; this investigation has not confirmed his current case status."
+      },
+      {
+        "name": "Jainis Dubey",
+        "role": "Forex desk officer, Bank of Baroda Ashok Vihar branch",
+        "outcome": "Arrested by the CBI; this investigation has not confirmed his current case status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the alleged remittances, the CBI/ED/SFIO investigations, and the arrests of branch officials are well documented. This investigation has not yet reviewed the underlying chargesheets or established whether any accused has been convicted, acquitted, or the case otherwise resolved.",
+    "confidence": "low",
+    "reasoning": "This entry draws on contemporaneous and retrospective independent reporting on the scam's scale and the investigation's progress; it has not independently reviewed CBI or ED court filings, and search results reviewed did not surface a final verdict as of the most recent date checked."
+  },
+  "incomplete": [
+    "This is a stub entry. The current trial status and final disposition, if any, for each named accused has not been established.",
+    "The exact FIU penalty amount and date against Bank of Baroda for related anti-money-laundering lapses has not been independently confirmed.",
+    "It is not established what portion, if any, of the alleged ₹6,172 crore has been recovered or frozen."
+  ],
+  "sources": [
+    {
+      "id": "src-bob-scroll-explainer",
+      "label": "Explainer: What you need to know about the Bank of Baroda forex scam",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2015-10-14",
+      "url": "https://scroll.in/article/763548/explainer-what-you-need-to-know-about-the-bank-of-baroda-forex-scam"
+    },
+    {
+      "id": "src-bob-supplementary-chargesheet",
+      "label": "Rs 6,000-cr Bank of Baroda scam: CBI files 2 supplementary chargesheets",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2021-12-25",
+      "url": "https://www.business-standard.com/article/companies/rs-6-000-cr-bank-of-baroda-scam-cbi-files-2-supplementary-chargesheets-121122500556_1.html"
+    },
+    {
+      "id": "src-bob-trial-status",
+      "label": "5 things to know about the Bank of Baroda forex scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2015-10-15",
+      "url": "https://www.business-standard.com/article/companies/5-things-to-know-about-the-bank-of-baroda-forex-scam-115101500367_1.html"
+    }
+  ]
+}

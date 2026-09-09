@@ -1,0 +1,155 @@
+{
+  "id": "KB-1201",
+  "slug": "lic-housing-finance-loan-for-bribe-scam",
+  "title": "The LIC Housing Finance Loan-for-Bribe Scam — Bankers, a Broker, and Builders",
+  "dek": "In November 2010, the CBI arrested the CEO of LIC Housing Finance and top officials of three public-sector banks, alleging they took bribes routed through a Mumbai financial-services firm to sanction large corporate loans to real-estate developers. The arrests wiped out a fifth of LIC Housing Finance's market value in a day — but no public record of a final trial verdict has surfaced since.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 147,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2010-11-24",
+  "heroStat": {
+    "value": "₹1,000+ cr",
+    "label": "in corporate/real-estate loans the CBI initially said were linked to an alleged bribery racket involving LIC Housing Finance and three public-sector banks, exposed by arrests on 24 November 2010"
+  },
+  "promise": {
+    "quote": "Loans are sanctioned strictly on the merits of the proposal, in accordance with board-approved credit appraisal norms, collateral and documentation requirements — not on the basis of any payment or favour to the sanctioning officer.",
+    "madeBy": "LIC Housing Finance Ltd. and the public-sector banks named in the case (Bank of India, Central Bank of India, Punjab National Bank), along with their parent, LIC",
+    "role": "Public-sector housing finance company and public-sector banks extending corporate/project loans, including to real-estate developers",
+    "date": "2010-01-01",
+    "context": "This reflects the standard credit-appraisal and integrity representations public financial institutions make to depositors, policyholders and regulators, rather than a verified quotation from a specific LIC Housing Finance or bank document, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-lichf-wiki"
+    ]
+  },
+  "target": {
+    "description": "That loan-sanctioning officials at LIC Housing Finance, LIC, Bank of India, Central Bank of India and Punjab National Bank would evaluate corporate and project loan applications from real-estate developers strictly on their merits, under RBI/board-mandated credit appraisal and documentation norms, without accepting bribes or favours from loan-syndication intermediaries.",
+    "standard": "RBI prudential lending and corporate-governance norms for banks and housing finance companies, and the Prevention of Corruption Act, 1988, which bars officers of public financial institutions from accepting gratification for an official act.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "On 24 November 2010, the CBI's Economic Offences Wing raided offices in several cities and arrested eight people: Ramachandran Nair, CEO of LIC Housing Finance; Naresh K. Chopra, LIC's Secretary (Investment); R.N. Tayal, General Manager, Bank of India, Delhi; Maninder Singh Johar, a director at Central Bank of India; a Deputy General Manager of Punjab National Bank, Delhi; and Rajesh Sharma, CMD of Mumbai-based Money Matters Financial Services Ltd, along with two of its employees, Suresh Gattani and Sanjay Sharma. The CBI's allegation was that these bank and LIC Housing Finance officials received illegal gratification, routed through Money Matters acting as an intermediary/loan syndicator, in exchange for sanctioning large-scale corporate loans to real-estate developers, reportedly overriding mandatory credit-appraisal conditions; media reports at the time cited loans exceeding roughly ₹1,000 crore as potentially linked to the racket, and the CBI registered five separate cases across the institutions involved. LIC Housing Finance's stock fell by a record margin — reported at up to 18% intraday and closing down sharply — the day the arrests became public, with other named banks' shares also falling 5-15%; LIC announced it would hold an internal enquiry. All eight accused were produced before a special CBI court and granted bail within days on personal bonds/sureties of ₹2 lakh each, with the court noting further custody was not required, while directing them not to tamper with evidence or leave the country. This entry has not located a subsequently reported final chargesheet outcome, trial verdict, conviction or acquittal for any of the accused.",
+    "asOfDate": "2010-12-03",
+    "sourceIds": [
+      "src-lichf-wiki",
+      "src-lichf-dna",
+      "src-lichf-bs-inquiry",
+      "src-lichf-gulfnews"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Value of corporate/real-estate loans the CBI initially said were linked to the alleged bribery racket",
+    "unit": "INR crore",
+    "targetValue": 0,
+    "actualValue": 1000,
+    "targetDisplay": "₹0 — loans should be sanctioned solely on documented merit",
+    "actualDisplay": "₹1,000+ crore in loans initially flagged by the CBI as potentially bribery-linked",
+    "targetLabel": "Expected lending integrity",
+    "actualLabel": "CBI's initial estimate of affected lending",
+    "note": "The ₹1,000+ crore figure is the widely reported early CBI/media estimate of the scale of loans potentially connected to the racket; this entry has not seen a later, precisely quantified or judicially confirmed figure."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 1000,
+    "allocatedLabel": "Approximate value of corporate loans CBI initially said were linked to the alleged bribery racket (early estimate, not judicially confirmed)",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "This figure reflects contemporaneous media reporting of the CBI's early estimate at the time of the November 2010 arrests. This entry has not found a later, audited or court-confirmed total.",
+    "sourceIds": [
+      "src-lichf-wiki",
+      "src-lichf-dna"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-11-24",
+      "label": "CBI arrests eight officials in nationwide raids",
+      "detail": "CBI's Economic Offences Wing arrests LIC Housing Finance CEO Ramachandran Nair, LIC's Naresh K. Chopra, officials of Bank of India, Central Bank of India and Punjab National Bank, and Money Matters CMD Rajesh Sharma with two employees, alleging bribes for large corporate loans to real-estate developers. Five separate CBI cases are registered.",
+      "type": "milestone"
+    },
+    {
+      "date": "2010-11-25",
+      "label": "LIC Housing Finance stock crashes; internal enquiry ordered",
+      "detail": "LIC Housing Finance shares fall sharply (reported up to around 18% intraday) and LIC announces it will hold an internal enquiry into the affair.",
+      "type": "status"
+    },
+    {
+      "date": "2010-12-03",
+      "label": "All eight accused granted bail",
+      "detail": "A special CBI court grants bail to all eight accused on personal bonds/sureties of ₹2 lakh each, finding further custody unnecessary, while barring them from leaving the country or tampering with evidence.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CBI registered multiple cases against the accused, reportedly under IPC provisions for criminal conspiracy and cheating together with the Prevention of Corruption Act, 1988. All eight initial accused were granted bail within roughly a week of arrest. This entry has not located public reporting of a subsequent chargesheet outcome, trial progress, conviction, or acquittal in the years since — the matter should be treated as unresolved/under-trial rather than concluded, pending further verification.",
+    "keyIndividuals": [
+      {
+        "name": "Ramachandran Nair",
+        "role": "CEO and Managing Director, LIC Housing Finance Ltd.",
+        "outcome": "Arrested by the CBI on 24 November 2010 and granted bail days later; this entry has not confirmed any subsequent conviction, acquittal, or current case status."
+      },
+      {
+        "name": "Rajesh Sharma",
+        "role": "Chairman and Managing Director, Money Matters Financial Services Ltd.",
+        "outcome": "Arrested alongside two employees of his firm on 24 November 2010 and granted bail days later; this entry has not confirmed any subsequent conviction, acquittal, or current case status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real, CBI-documented bribery allegation involving senior officials of a major public-sector housing finance company and public-sector banks, which caused an immediate and severe market reaction. It is written as a stub because this entry could not confirm what happened after the initial bail order in December 2010 — no chargesheet outcome, trial verdict, conviction or acquittal for any of the accused has been located.",
+    "confidence": "low",
+    "reasoning": "The arrests, the identities of those arrested, the bribery allegation, the stock-market reaction, and the bail order are corroborated across multiple independent contemporaneous reports (Business Standard, DNA India, Gulf News, and Wikipedia's aggregation of the episode). However, this entry has not reviewed the CBI FIRs or any chargesheet directly, and could not verify the case's outcome or current status."
+  },
+  "incomplete": [
+    "This entry has not located reporting on the CBI chargesheet's contents, the trial's progress, or any final verdict (conviction/acquittal) for any of the eight originally arrested individuals.",
+    "The ₹1,000+ crore figure for loans linked to the racket is an early, widely-reported estimate and has not been confirmed against a later audited or judicially established figure.",
+    "Specific real-estate developers named in contemporaneous media reporting as beneficiaries of loans under scrutiny have not been independently verified by this entry and are not named here to avoid presenting an unproven allegation as fact.",
+    "This entry has not reviewed a primary CBI or PIB press release directly; all facts are drawn from independent journalism."
+  ],
+  "sources": [
+    {
+      "id": "src-lichf-wiki",
+      "label": "2010 housing loan scam in India",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/2010_housing_loan_scam_in_India"
+    },
+    {
+      "id": "src-lichf-dna",
+      "label": "CBI arrests CEO of LIC Housing Finance and 7 others in Mumbai, unearths housing finance racket",
+      "type": "independent",
+      "publisher": "DNA India",
+      "date": "2010-11-24",
+      "url": "https://www.dnaindia.com/mumbai/report-cbi-arrests-ceo-of-lic-housing-finance-and-7-others-in-mumbai-unearths-housing-finance-racket-1471443"
+    },
+    {
+      "id": "src-lichf-bs-inquiry",
+      "label": "LIC to conduct internal enquiry into hsg loan scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-11-25",
+      "url": "https://www.business-standard.com/article/finance/lic-to-conduct-internal-enquiry-into-hsg-loan-scam-110112500135_1.html"
+    },
+    {
+      "id": "src-lichf-gulfnews",
+      "label": "Several arrested in India housing scandal",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2010-11-25",
+      "url": "https://gulfnews.com/business/several-arrested-in-india-housing-scandal-1.718116"
+    },
+    {
+      "id": "src-lichf-deccanherald",
+      "label": "All eight accused get bail in bribe-for-loan case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2010-12-03",
+      "url": "https://www.deccanherald.com/india/all-eight-accused-bribe-loan-2533986"
+    }
+  ]
+}

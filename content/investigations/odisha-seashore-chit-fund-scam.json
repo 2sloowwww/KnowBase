@@ -1,0 +1,172 @@
+{
+  "id": "KB-1302",
+  "slug": "odisha-seashore-chit-fund-scam",
+  "title": "The Seashore Group Chit Fund Collapse (Odisha)",
+  "dek": "A Bhubaneswar-based company promised depositors 36% annual returns and collected hundreds of crores of rupees without regulatory authorisation, becoming the first Odisha chit-fund firm the Supreme Court ordered the CBI to investigate. More than a decade later, assets worth ₹650 crore sit confiscated while the courts openly criticise the pace of the CBI's prosecution and the state's refunds to depositors.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 148,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-04-01",
+  "heroStat": {
+    "value": "₹578 cr",
+    "label": "allegedly collected from depositors by the Seashore Group without RBI or SEBI authorisation"
+  },
+  "promise": {
+    "quote": "Deposits with the Seashore Group of Companies will earn depositors a guaranteed 36% annual return.",
+    "madeBy": "Seashore Group of Companies, led by CMD Prashant Kumar Dash",
+    "role": "Private company soliciting public deposits through a network of agents across Odisha",
+    "date": "2006-01-01",
+    "context": "This reflects the Seashore Group's core sales pitch to depositors from around 2006 onward, not a single documented quotation; the group is alleged to have raised deposits under this promise without registering as a bank, NBFC or collective investment scheme with the RBI or SEBI.",
+    "sourceIds": [
+      "src-seashore-odishabytes-confiscation"
+    ]
+  },
+  "target": {
+    "description": "A deposit-taking scheme operating within RBI/SEBI regulatory oversight, honouring its promised returns, and refunding depositors' principal on demand as a lawfully authorised entity would be required to.",
+    "standard": "Reserve Bank of India and Securities and Exchange Board of India regulations governing deposit-taking and collective investment schemes; the Odisha Protection of Interests of Depositors (in Financial Establishments) Act, 1999.",
+    "referenceDate": "2006-01-01"
+  },
+  "reality": {
+    "description": "The Seashore Group is alleged to have collected approximately ₹578 crore from depositors, mostly in rural Odisha, through unauthorised deposit schemes promising high fixed returns, before its business collapsed and depositors stopped receiving payments. Odisha courts and the state government began acting against multiple chit-fund firms, including Seashore, under the state's depositor-protection law, and on 9 May 2014 the Supreme Court granted the CBI liberty to investigate all cases registered against the Seashore Group as part of a wider directive covering 44 (later more) Odisha chit-fund and deposit-taking firms. The CBI arrested CMD Prashant Kumar Dash, his brother Prabhat Dash and broker Subhankar/Subrat Nayak and filed a chargesheet against them; all were later released on bail. Courts under the Odisha Protection of Interests of Depositors Act ordered confiscation of the group's assets, valued at roughly ₹650 crore, including 197 acres of land, gold, silver and bank deposits, for eventual distribution to depositors. In January 2023, the Supreme Court expressed displeasure at the slow pace of both the CBI's prosecution and the Odisha government's refunds to depositors, directing both to file status reports; in July 2023, the Orissa High Court separately rejected a petition to transfer 19 related criminal cases to a CBI court. As of the most recent reporting reviewed, the CBI's prosecution remains ongoing and full depositor refunds have not been confirmed as complete.",
+    "asOfDate": "2023-07-19",
+    "sourceIds": [
+      "src-seashore-odishabytes-confiscation",
+      "src-seashore-cbi-list",
+      "src-seashore-hc-transfer"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the scheme's collapse vs. years to complete depositor refunds",
+    "unit": "years",
+    "targetValue": 1,
+    "actualValue": 10,
+    "targetDisplay": "Refunds owed since collapse (~2013)",
+    "actualDisplay": "10+ years, refunds not confirmed complete",
+    "targetLabel": "Expected refund timeline",
+    "actualLabel": "Years elapsed without confirmed full refunds",
+    "note": "Courts confiscated roughly ₹650 crore of Seashore Group assets for depositor repayment years ago, but as of the Supreme Court's own January 2023 rebuke of the state government's pace, full refunds to depositors had not been confirmed as complete."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 578,
+    "allocatedLabel": "Alleged amount collected from depositors",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Courts under the Odisha Protection of Interests of Depositors Act have ordered confiscation of Seashore Group assets valued at approximately ₹650 crore (land, gold, silver and bank deposits) for eventual distribution to depositors; this exceeds the ₹578 crore alleged to have been collected, though the extent of actual distribution to depositors as of publication is unconfirmed.",
+    "sourceIds": [
+      "src-seashore-odishabytes-confiscation"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "label": "Seashore Group begins collecting deposits",
+      "detail": "The Bhubaneswar-based group begins raising deposits from the public, promising high fixed annual returns, without RBI or SEBI authorisation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-04-01",
+      "label": "Scheme collapses; depositors stop being paid",
+      "detail": "Amid the broader wave of Odisha chit-fund collapses following the Saradha scandal in neighbouring West Bengal, Seashore Group's payments to depositors stop and complaints mount.",
+      "type": "status"
+    },
+    {
+      "date": "2014-05-09",
+      "label": "Supreme Court orders CBI investigation",
+      "detail": "The Supreme Court grants the CBI liberty to investigate all cases registered against the Seashore Group, as part of a wider order eventually covering more than 44 Odisha chit-fund and deposit-taking companies.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-10-28",
+      "label": "Seashore Group CMD remanded",
+      "detail": "The Enforcement Directorate is allowed to take Seashore Group CMD Prashant Kumar Dash into 14 days' remand as the money-laundering angle is pursued alongside the CBI's case.",
+      "type": "status"
+    },
+    {
+      "date": "2015-01-01",
+      "label": "CBI files chargesheet against Seashore Group",
+      "detail": "The CBI files a chargesheet naming CMD Prashant Dash, his brother Prabhat Dash and broker Subhankar Nayak in connection with the alleged ₹578 crore scheme.",
+      "type": "status"
+    },
+    {
+      "date": "2016-01-01",
+      "label": "Courts order confiscation of ₹650 crore in assets",
+      "detail": "The Odisha Protection of Interests of Depositors Act court directs confiscation of Seashore Group's movable and immovable assets, valued at roughly ₹650 crore, for depositor repayment.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "Supreme Court rebukes CBI and state over delays",
+      "detail": "A Supreme Court bench expresses displeasure over the slow pace of the CBI's prosecution and the Odisha government's refunds to depositors, directing both to file status reports.",
+      "type": "delay"
+    },
+    {
+      "date": "2023-07-19",
+      "label": "Orissa High Court rejects case-transfer petition",
+      "detail": "The Orissa High Court rejects a petition seeking to transfer 19 related criminal cases in the Seashore chit fund scam to a CBI court.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CBI's prosecution of the Seashore Group's principal accused, following its 2014 Supreme Court-ordered investigation and subsequent chargesheet, remains ongoing years later; the accused were granted bail. Confiscated assets worth roughly ₹650 crore remain available for depositor repayment, but the Supreme Court itself flagged the slow pace of both prosecution and refunds as recently as January 2023.",
+    "keyIndividuals": [
+      {
+        "name": "Prashant Kumar Dash",
+        "role": "Chairman-cum-Managing Director, Seashore Group of Companies",
+        "outcome": "Arrested by the CBI and separately remanded by the ED in 2014; chargesheeted; later released on bail. No conviction reported as of publication; presumed innocent pending trial."
+      },
+      {
+        "name": "Prabhat Dash",
+        "role": "Director, Seashore Group of Companies (brother of Prashant Dash)",
+        "outcome": "Chargesheeted by the CBI; released on bail. No conviction reported as of publication."
+      },
+      {
+        "name": "Subhankar Nayak",
+        "role": "Broker/middleman for the Seashore Group",
+        "outcome": "Arrested and chargesheeted by the CBI; released on bail. No conviction reported as of publication."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Seashore Group is a well-documented, court-confirmed case of an unauthorised deposit-taking scheme collapsing after collecting hundreds of crores of rupees from Odisha depositors, distinct from the Saradha-linked collapses in West Bengal, and it was the first such Odisha firm to draw a Supreme Court-ordered CBI investigation and confiscation of assets. More than a decade on, however, both the criminal prosecution and the actual return of confiscated assets to depositors remain unfinished, a delay the Supreme Court itself has criticised.",
+    "confidence": "low",
+    "reasoning": "The core facts — the scheme's scale, the 2014 Supreme Court order, the CBI chargesheet, and the ₹650 crore asset confiscation — are corroborated across multiple independent reports. Confidence is capped at low because this entry has not located reporting more recent than mid-2023, has not reviewed the CBI chargesheet, the confiscation orders, or any trial-court proceedings directly, and cannot confirm the current status of the trial, any conviction, or the extent of depositor repayment as of 2026."
+  },
+  "incomplete": [
+    "The current status of the CBI's trial against the Seashore Group accused, and whether it has concluded with any conviction or acquittal, was not confirmed beyond 2023 reporting.",
+    "The extent to which confiscated assets have actually been distributed to depositors, and the amount still outstanding, has not been verified.",
+    "This entry could not confirm precise dates for the CBI chargesheet or the OPID court's confiscation order beyond approximate years cited in secondary reporting; readers should treat 'chargesheet filed' and 'assets confiscated' dates in the timeline as approximate.",
+    "The distinction and any overlap between the CBI's criminal case and the Enforcement Directorate's money-laundering proceedings against the same accused has not been fully mapped."
+  ],
+  "sources": [
+    {
+      "id": "src-seashore-odishabytes-confiscation",
+      "label": "Odisha Chit Fund Scam: Rs 650-Crore Of Seashore Group Confiscated; Know The Details",
+      "type": "independent",
+      "publisher": "OdishaBytes",
+      "date": "2021-01-01",
+      "url": "https://odishabytes.com/chit-fund-scam-rs-650-crore-of-seashore-group-confiscated-know-the-details/"
+    },
+    {
+      "id": "src-seashore-cbi-list",
+      "label": "List of 44 chit fund firms to be probed by CBI",
+      "type": "independent",
+      "publisher": "The Pioneer",
+      "date": "2014-01-01",
+      "url": "https://www.dailypioneer.com/2014/state-editions/list-of-44-chit-fund-firms-to-be-probed-by-cbi.html"
+    },
+    {
+      "id": "src-seashore-hc-transfer",
+      "label": "Seashore Chit Fund Scam: Orissa High Court rejects Transfer petition of 19 Criminal cases to CBI Court",
+      "type": "independent",
+      "publisher": "SCC Online",
+      "date": "2023-07-19",
+      "url": "https://www.scconline.com/blog/post/2023/07/19/orissa-hc-rejects-transfer-petition-of-seashore-chit-fund-scam-to-cbi-court-legal-news/"
+    }
+  ]
+}

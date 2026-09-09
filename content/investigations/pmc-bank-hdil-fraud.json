@@ -1,0 +1,116 @@
+{
+  "id": "KB-014",
+  "slug": "pmc-bank-hdil-fraud",
+  "title": "The PMC Bank – HDIL Fraud",
+  "dek": "A co-operative bank allegedly hid over ₹4,300 crore in loans to a single struggling real-estate group using thousands of fictitious accounts, wiping out depositors' access to their own savings overnight.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 102,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-09-23",
+  "heroStat": {
+    "value": "₹4,355 cr",
+    "label": "in loans to HDIL allegedly concealed from RBI oversight"
+  },
+  "promise": {
+    "quote": "Punjab and Maharashtra Co-operative Bank's loan book, as reported to regulators and depositors, accurately reflects its lending exposure and asset quality.",
+    "madeBy": "Punjab and Maharashtra Co-operative Bank (PMC Bank) management",
+    "role": "Urban co-operative bank regulated by the Reserve Bank of India",
+    "date": "2019-09-23",
+    "context": "PMC Bank is alleged to have concealed a large concentration of loans to Housing Development and Infrastructure Ltd. (HDIL) and related entities using thousands of fictitious loan accounts, in breach of RBI single-borrower exposure limits.",
+    "sourceIds": [
+      "src-pmc-arrests"
+    ]
+  },
+  "target": {
+    "description": "Loan exposure reported accurately to the RBI, within regulatory single-borrower and group-exposure limits, with depositors' funds available on demand.",
+    "standard": "RBI prudential norms for urban co-operative banks, including exposure limits and accurate loan classification.",
+    "referenceDate": "2019-09-23"
+  },
+  "reality": {
+    "description": "The RBI imposed withdrawal restrictions on PMC Bank depositors in September 2019 after the concealed HDIL exposure came to light. Mumbai's Economic Offences Wing registered a case citing losses of ₹4,355.43 crore, while other filings reference a larger figure of roughly ₹6,118 crore. HDIL promoters Rakesh and Sarang Wadhawan were arrested in October 2019; the Bombay High Court granted them bail in 2024, citing lengthy incarceration and delay in trial.",
+    "asOfDate": "2024-01-01",
+    "sourceIds": [
+      "src-pmc-arrests",
+      "src-pmc-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged concealed exposure vs. assets seized by investigators",
+    "unit": "₹ crore",
+    "targetValue": 4355,
+    "actualValue": 3500,
+    "targetDisplay": "₹4,355 cr alleged concealed exposure",
+    "actualDisplay": "₹3,500 cr in HDIL assets seized (EOW)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Seized",
+    "note": "A separate, larger figure of roughly ₹6,118 crore for the total fraud also appears in reporting; this investigation has not yet reconciled the two figures and reports the more specifically-sourced ₹4,355.43 crore EOW figure as its headline number."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-09-23",
+      "label": "RBI imposes withdrawal restrictions",
+      "detail": "Depositors are suddenly unable to access their funds after regulators discover the concealed exposure.",
+      "type": "status"
+    },
+    {
+      "date": "2019-10-03",
+      "label": "HDIL promoters arrested",
+      "detail": "Mumbai's EOW arrests Rakesh and Sarang Wadhawan.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Bombay High Court grants bail",
+      "detail": "The court cites lengthy incarceration and delay in trial.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Both named HDIL promoters were arrested and later granted bail; this investigation has not yet examined the trial's current status in detail.",
+    "keyIndividuals": [
+      {
+        "name": "Rakesh Wadhawan",
+        "role": "Promoter, HDIL",
+        "outcome": "Arrested October 2019; granted bail by the Bombay High Court, 2024, citing delay in trial. No verdict reached."
+      },
+      {
+        "name": "Sarang Wadhawan",
+        "role": "Promoter, HDIL",
+        "outcome": "Arrested October 2019; granted bail by the Bombay High Court, 2024, citing delay in trial. No verdict reached."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the concealment of HDIL's exposure and the resulting depositor crisis are well documented, and both named promoters have been arrested and charged. This investigation has not yet verified how much of the seized ₹3,500 crore in assets has been liquidated for depositors, or the trial's current procedural status.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, sourced to reputable reporting. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. The bank management's specific role versus the HDIL promoters' role has not yet been distinguished in detail here.",
+    "It is not established how much of the depositors' frozen funds have since been made accessible through RBI-approved withdrawal schemes or bank mergers.",
+    "The discrepancy between the ₹4,355 crore and ₹6,118 crore figures cited in different reports has not been reconciled."
+  ],
+  "sources": [
+    {
+      "id": "src-pmc-arrests",
+      "label": "PMC Bank scam: EOW arrests HDIL's Rakesh Wadhawan, Sarang Wadhawan",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2019-10-03",
+      "url": "https://www.business-standard.com/article/finance/pmc-bank-scam-eow-arrests-hdil-s-rakesh-wadhawan-sarang-wadhawan-119100301458_1.html"
+    },
+    {
+      "id": "src-pmc-bail",
+      "label": "PMC Bank Fraud: Bombay HC Grants Bail to HDIL Promoters Rakesh & Sarang Wadhawan",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2024-01-01",
+      "url": "https://www.moneylife.in/article/pmc-bank-fraud-bombay-hc-grants-bail-to-hdil-promoters-rakesh-and-sarang-wadhawan/73890.html"
+    }
+  ]
+}

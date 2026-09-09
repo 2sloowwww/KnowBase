@@ -1,0 +1,135 @@
+{
+  "id": "KB-2404",
+  "slug": "barak-missile-deal-cbi-case",
+  "title": "The Barak Missile Deal Kickback Case — Closed Without Conviction",
+  "dek": "A 2001 sting recording alleged kickbacks on India's Barak anti-missile purchase named a sitting Defence Minister. The CBI investigated for seven years and ultimately found no evidence against anyone.",
+  "category": "Defence & Security",
+  "status": "acquitted-or-closed",
+  "severity": "minor",
+  "severityRank": 251,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2001-03-13",
+  "heroStat": {
+    "value": "7 yrs",
+    "label": "the CBI spent investigating alleged kickbacks in the ₹199.5 million Barak missile deal before closing the case for lack of evidence"
+  },
+  "promise": {
+    "quote": "This deal, like every defence procurement, was conducted at arm's length and free of any kickback or commission to public officials.",
+    "madeBy": "Ministry of Defence, Government of India",
+    "role": "Contracting authority for the Barak anti-missile system purchase from Israel",
+    "date": "2000-10-23",
+    "context": "This reflects the standard integrity assurance underlying Indian government defence contracts of this era, rather than a verified quotation from this specific deal's paperwork, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-barak-wiki"
+    ]
+  },
+  "target": {
+    "description": "That India's 2000 purchase of seven Barak anti-missile defence systems and 200 missiles from Israel, worth roughly $199.5 million and $69.13 million respectively, would be conducted without middlemen commissions or kickbacks to Indian officials, consistent with the government's defence procurement integrity norms and its post-Bofors ban on arms agents.",
+    "standard": "India's defence procurement integrity norms, including the post-Bofors-era restrictions on the use of agents/middlemen in government arms contracts.",
+    "referenceDate": "2000-10-23"
+  },
+  "reality": {
+    "description": "In 2001, the investigative outlet Tehelka's 'Operation West End' sting recorded arms dealer-linked figures, including Samata Party treasurer R.K. Jain, describing kickbacks paid across several defence deals, including the Barak purchase. The tapes were alleged to show that roughly 3% of the deal's value went as kickbacks to figures including then-Defence Minister George Fernandes and Samata Party leader Jaya Jaitly, funnelled through arms dealer and former naval officer Suresh Nanda. The CBI registered an FIR in October 2006 — five years after the sting — naming Fernandes, Jaitly, Jain, and Nanda. Nanda and his son were arrested in March 2008 on related conspiracy charges. After more than seven years investigating financial trails, bank records, and company links, the CBI closed the case in December 2013, stating it found 'no evidence' of the alleged kickbacks and could establish no link between Nanda or his companies and any commission payment. A CBI special court accepted the closure report, effectively clearing Fernandes, Jaitly, Jain, Admiral Sushil Kumar, and Nanda of the allegations.",
+    "asOfDate": "2013-12-24",
+    "sourceIds": [
+      "src-barak-wiki",
+      "src-barak-bs"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Allegation (kickbacks paid to secure the deal) vs. CBI's evidentiary finding after investigation",
+    "unit": "outcome",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Kickbacks alleged (2001 sting)",
+    "actualDisplay": "No evidence found (CBI closure, 2013)",
+    "targetLabel": "Allegation",
+    "actualLabel": "Investigation outcome",
+    "note": "This case is included specifically as an example of a serious, high-profile corruption allegation against senior officials that a full CBI investigation did not substantiate — an outcome this site reports rather than treating the original sting allegations as proven."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2000-10-23",
+      "label": "India signs Barak missile deal with Israel",
+      "detail": "Contract covers seven Barak anti-missile systems (~$199.5 million) and 200 missiles (~$69.13 million).",
+      "type": "announcement"
+    },
+    {
+      "date": "2001-03-13",
+      "label": "Tehelka's 'Operation West End' sting airs",
+      "detail": "Recordings allegedly capture defence-deal middlemen, including R.K. Jain, describing kickbacks across several arms purchases including Barak.",
+      "type": "milestone"
+    },
+    {
+      "date": "2006-10-10",
+      "label": "CBI registers FIR",
+      "detail": "FIR names George Fernandes, Jaya Jaitly, R.K. Jain, and Suresh Nanda over alleged Barak kickbacks.",
+      "type": "milestone"
+    },
+    {
+      "date": "2008-03-09",
+      "label": "Suresh Nanda and son arrested",
+      "detail": "Arrests made on related conspiracy charges as the CBI investigation continues.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-12-24",
+      "label": "CBI closes case citing lack of evidence",
+      "detail": "After more than seven years, CBI finds no evidence linking Nanda or his companies to any kickback payment; a special court later accepts the closure report.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case is fully closed. The CBI's closure report, filed in December 2013 and accepted by a CBI special court, found no evidence to support the kickback allegations against any of the named individuals. No conviction resulted, and this entry has found no reported appeal or reopening of the case since.",
+    "keyIndividuals": [
+      {
+        "name": "George Fernandes",
+        "role": "Defence Minister at the time of the deal",
+        "outcome": "Named in the 2006 FIR; cleared when CBI closed the case in 2013 for lack of evidence."
+      },
+      {
+        "name": "Suresh Nanda",
+        "role": "Arms dealer and former Indian Navy officer, alleged intermediary",
+        "outcome": "Arrested in 2008 on related conspiracy charges; cleared when CBI closed the case in 2013, finding no link between him or his companies and any commission payment."
+      },
+      {
+        "name": "Jaya Jaitly",
+        "role": "Samata Party leader, alleged recipient of kickback payment",
+        "outcome": "Named in the 2006 FIR; cleared when CBI closed the case in 2013 for lack of evidence."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a genuine, high-profile corruption allegation — arising from a real investigative sting naming a sitting Defence Minister — that a seven-year CBI investigation ultimately did not substantiate, resulting in a formal closure report accepted by the courts. It is included on this site specifically as a documented case where allegations did not hold up to investigation, distinct from convicted or still-pending defence procurement cases.",
+    "confidence": "high",
+    "reasoning": "The FIR, arrests, and 2013 closure are corroborated by Wikipedia's sourced timeline and independent press reporting (Business Standard) on the court's acceptance of the CBI's closure report; this entry has not reviewed the CBI's closure report or FIR directly."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CBI's FIR or its 2013 closure report directly — it relies on secondary reporting and a tertiary (Wikipedia) summary of the case timeline.",
+    "The original Tehelka sting recordings and their full transcripts have not been independently reviewed by this entry.",
+    "It is not established whether any departmental or parliamentary inquiry (as opposed to the CBI's criminal investigation) reached a different conclusion on the underlying allegations."
+  ],
+  "sources": [
+    {
+      "id": "src-barak-wiki",
+      "label": "Barak Missile scandal",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2026-01-01",
+      "url": "https://en.wikipedia.org/wiki/Barak_Missile_scandal",
+      "note": "Used for the overall timeline; cross-checked against the independent Business Standard report on case closure below."
+    },
+    {
+      "id": "src-barak-bs",
+      "label": "Court accepts closure report in Barak missile deal",
+      "type": "independent",
+      "publisher": "Business Standard (IANS)",
+      "date": "2013-12-24",
+      "url": "https://www.business-standard.com/article/news-ians/court-accepts-closure-report-in-barak-missile-deal-117020101010_1.html",
+      "note": "Article's own publication/URL date stamp appears to read 2017, which may reflect a republish or archive date rather than the original 2013 filing date; this entry has not resolved that discrepancy."
+    }
+  ]
+}

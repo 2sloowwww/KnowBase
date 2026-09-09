@@ -1,0 +1,143 @@
+{
+  "id": "KB-1504",
+  "slug": "jharkhand-bengal-gst-fake-invoice-scam",
+  "title": "The Jharkhand-Bengal Fake GST Invoice Racket",
+  "dek": "A network of roughly 135 shell companies across Jharkhand, West Bengal, and Delhi allegedly generated fake invoices to claim GST input tax credit without any real business behind them, draining the exchequer of hundreds of crores.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 151,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-09-01",
+  "heroStat": {
+    "value": "₹750 cr+",
+    "label": "in fake-invoice transactions in the ED's core case, part of a wider network reportedly running into thousands of crores"
+  },
+  "promise": {
+    "quote": "Input tax credit under the Goods and Services Tax will be claimed only against genuine underlying supplies of goods or services.",
+    "madeBy": "GST Input Tax Credit framework, administered by central and state tax authorities",
+    "role": "Revenue-protection safeguard within India's GST system",
+    "date": "2025-09-01",
+    "context": "Investigators allege a network of shell companies with no real business activity issued fake invoices purely to generate transferable input tax credit, which was then monetised or passed down supply chains.",
+    "sourceIds": [
+      "src-gst-uditvani"
+    ]
+  },
+  "target": {
+    "description": "GST input tax credit claimed strictly against real, verifiable supplies of goods or services, with shell-company networks unable to fabricate paper trails at scale.",
+    "standard": "GST Act provisions on input tax credit and invoice-matching, enforced by the Enforcement Directorate under the Prevention of Money Laundering Act where laundering is alleged.",
+    "referenceDate": "2025-09-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate raided over 28 locations across Ranchi, Kolkata, Mumbai, and Jamshedpur in a probe into an alleged ₹750-crore GST scam linked to individuals including Gyanchandra Jaiswal alias Bablu Jaiswal, Vicky Bhalotia of Jamshedpur, Kolkata businessman Shiv Kumar Deora, and Amit Gupta and Sumit Gupta. The agency alleges the accused operated a network of around 135 shell companies across Jharkhand, West Bengal, and Delhi to generate fake invoices and claim input tax credit without conducting any actual business. In a related or overlapping strand of the same broader investigation, the ED has separately searched sites in Kolkata, Ranchi, and Jamshedpur in connection with a fake GST invoice probe reportedly valued at ₹14,325 crore, and has provisionally attached properties worth over ₹15 crore belonging to Amit Gupta and associates in Kolkata and Howrah.",
+    "asOfDate": "2025-09-30",
+    "sourceIds": [
+      "src-gst-uditvani",
+      "src-gst-moneylife",
+      "src-gst-newsonair-14325"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Core ₹750 crore case vs. the larger ₹14,325 crore fake-invoice figure reported in a related ED probe",
+    "unit": "₹ crore",
+    "targetValue": 750,
+    "actualValue": 14325,
+    "targetDisplay": "₹750 cr (core case)",
+    "actualDisplay": "₹14,325 cr (related, larger probe figure)",
+    "targetLabel": "Core case value",
+    "actualLabel": "Related probe's larger figure",
+    "note": "This investigation could not confirm whether the ₹750 crore and ₹14,325 crore figures refer to the same shell-company network at different stages of investigation, or to two distinct but overlapping GST fraud networks operating in the same states."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹750 crore is the headline figure for the core case; a related ED probe cites fake invoices worth ₹14,325 crore. Properties worth over ₹15 crore have been provisionally attached.",
+    "sourceIds": [
+      "src-gst-moneylife"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025-09-01",
+      "label": "ED raids over 28 locations",
+      "detail": "Simultaneous searches are conducted across Ranchi, Kolkata, Mumbai, and Jamshedpur in the ₹750 crore GST scam probe.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-30",
+      "label": "Properties attached",
+      "detail": "The ED provisionally attaches immovable properties worth ₹15.41 crore belonging to Amit Gupta and associates in Kolkata and Howrah.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-01",
+      "label": "Related ₹14,325 crore probe surfaces",
+      "detail": "The ED searches nine sites in Kolkata, Ranchi, and Jamshedpur in connection with a larger fake GST invoice probe.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Multiple individuals have been named and arrested by the ED across related raids; this investigation has not confirmed a chargesheet or trial outcome.",
+    "keyIndividuals": [
+      {
+        "name": "Gyanchandra Jaiswal (Bablu Jaiswal)",
+        "role": "Accused",
+        "outcome": "Named in ED raids linked to the ₹750 crore GST scam probe; no trial outcome confirmed."
+      },
+      {
+        "name": "Amit Gupta",
+        "role": "Accused",
+        "outcome": "Had properties worth over ₹15 crore provisionally attached by the ED; no trial outcome confirmed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the ED has documented a substantial shell-company network used to fabricate GST paper trails across three states, but this investigation could not establish the full scale of the fraud or its resolution.",
+    "confidence": "low",
+    "reasoning": "This entry draws on several independent reports of ED raids and attachments from September and October 2025 but has not obtained primary tax-department or court filings, nor reconciled the differing scale figures reported across what may be related investigations."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research is pending on whether the ₹750 crore and ₹14,325 crore figures refer to the same or different shell-company networks.",
+    "The exact number of individuals arrested and the current stage of any prosecution have not been confirmed.",
+    "The revenue impact on the exchequer, as distinct from the gross value of fake invoices, has not been separately quantified."
+  ],
+  "sources": [
+    {
+      "id": "src-gst-uditvani",
+      "label": "ED Cracks Down on Rs 750 Crore GST Scam, Raids Multiple Locations Linked to Bablu Jaiswal",
+      "type": "independent",
+      "publisher": "Udit Vani",
+      "date": "2025-09-01",
+      "url": "https://uditvani.in/jharkhand/ed-raids-rs-750-crore-gst-scam/"
+    },
+    {
+      "id": "src-gst-moneylife",
+      "label": "Massive GST ITC Fraud: ED Attaches 10 Properties of Amit Gupta, Associates Linked to Rs734 Crore Fake Invoice Racket",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2025-09-30",
+      "url": "https://www.moneylife.in/article/massive-gst-itc-fraud-ed-attaches-10-properties-of-amit-gupta-associates-linked-to-rs734-crore-fake-invoice-racket/78451.html"
+    },
+    {
+      "id": "src-gst-newsonair-14325",
+      "label": "ED searches 9 sites in Kolkata, Ranchi, Jamshedpur in ₹14,325 crore fake GST invoice probe",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2025-10-01",
+      "url": "https://www.newsonair.gov.in/ed-searches-9-sites-in-kolkata-ranchi-jamshedpur-in-₹14325-crore-fake-gst-invoice-probe"
+    },
+    {
+      "id": "src-gst-dh",
+      "label": "GST fraud: ED raids in Jharkhand, West Bengal",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-09-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fjharkhand%2Fgst-fraud-ed-raids-in-jharkhand-west-bengal-3530438"
+    }
+  ]
+}

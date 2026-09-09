@@ -1,0 +1,133 @@
+{
+  "id": "KB-2206",
+  "slug": "covid-19-second-wave-oxygen-shortage-crisis-2021",
+  "title": "The 2021 Oxygen Crisis: When India's Health System Ran Out of Air",
+  "dek": "India's health ministry maintained it had adequate medical-oxygen production and a national plan for its distribution. In April-May 2021, as the COVID-19 second wave peaked, hospitals across Delhi and other cities ran out of oxygen with patients dying in wards, corridors and car parks, forcing the Supreme Court to call it a 'national emergency' and take charge of the response itself.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 82,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2021-04-21",
+  "heroStat": {
+    "value": "412,262",
+    "label": "New COVID-19 cases reported in India in a single 24-hour period during the peak of the crisis"
+  },
+  "promise": {
+    "quote": "It is a tsunami, not a wave.",
+    "madeBy": "Delhi High Court",
+    "role": "High Court bench hearing petitions from Delhi hospitals over the oxygen shortage",
+    "date": "2021-04-24",
+    "context": "The Delhi High Court's characterisation, in the course of hearings where hospitals told the court patients were dying for want of oxygen, of the scale of the crisis against the preparedness the central and state governments had earlier assured was in place; the court separately warned it would 'hang' anyone found obstructing oxygen supplies to hospitals.",
+    "sourceIds": [
+      "src-covid-hc-tsunami"
+    ]
+  },
+  "target": {
+    "description": "Adequate medical-oxygen production, buffer stock, and an interstate distribution and allocation plan sufficient to prevent hospitals from running out of life-saving oxygen during a foreseeable second wave of COVID-19 infections.",
+    "standard": "National Disaster Management Act, 2005 and the Centre's own COVID-19 pandemic management framework; Ministry of Health and Family Welfare oxygen-supply planning",
+    "referenceDate": "2021-04-01"
+  },
+  "reality": {
+    "description": "As COVID-19 case counts surged past 400,000 a day in late April 2021, hospitals across Delhi and other major cities ran out of medical oxygen, with reports and court hearings describing patients dying in hospital beds, ambulances and car parks for want of oxygen over a roughly two-week period. Hospitals moved courts directly for relief; the Delhi High Court, hearing the crisis, told the Centre it was facing a 'tsunami, not a wave' and warned it would treat any deliberate obstruction of oxygen supply as a hanging offence. The Supreme Court took suo motu cognisance of the crisis, calling it a national emergency, and ordered the Union government to present a national plan for medical-oxygen allocation; it later appointed a National Task Force, including an oxygen-audit committee, to examine allocation among states. That committee's audit found that Delhi's government had sought medical oxygen allocations more than four times its actual requirement between 25 April and 10 May 2021, concluding that supplying Delhi's full demanded quota risked triggering shortages in a dozen other high-caseload states, an assessment that became part of a wider political dispute between the Delhi and central governments over responsibility for the shortage and its death toll.",
+    "asOfDate": "2021-06-01",
+    "sourceIds": [
+      "src-covid-sc-national-emergency",
+      "src-covid-oxygen-audit",
+      "src-covid-hc-tsunami"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Oxygen allocation sought by Delhi vs. actual requirement, per the Supreme Court-appointed audit committee",
+    "unit": "multiple of requirement",
+    "targetValue": 1,
+    "actualValue": 4,
+    "targetDisplay": "1x actual requirement",
+    "actualDisplay": "Over 4x actual requirement sought",
+    "targetLabel": "Actual need",
+    "actualLabel": "Amount requested",
+    "note": "Finding of the Supreme Court-appointed oxygen-audit committee covering the period 25 April to 10 May 2021; the finding was contested by the Delhi government amid a broader dispute over the shortage's causes."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-04-21",
+      "label": "Hospitals move courts as oxygen runs critically low",
+      "detail": "Delhi hospitals approach the Delhi High Court directly seeking urgent relief as their medical-oxygen stocks near exhaustion amid the surging second wave.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-04-23",
+      "label": "India records over 330,000 daily cases",
+      "detail": "India's daily COVID-19 case count crosses 330,000, prompting the Delhi High Court to warn it will treat deliberate obstruction of oxygen supplies to hospitals as a capital matter.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-04-24",
+      "label": "Delhi High Court calls it a 'tsunami, not a wave'",
+      "detail": "The Delhi High Court characterises the unfolding oxygen and case-count crisis as a tsunami rather than a wave, in the course of hearings on hospital oxygen shortages.",
+      "type": "status"
+    },
+    {
+      "date": "2021-04-30",
+      "label": "Daily cases peak above 412,000",
+      "detail": "India reports over 412,000 new COVID-19 cases in a single day, among the highest daily case counts recorded anywhere in the world to that point.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-05-06",
+      "label": "Supreme Court calls crisis a 'national emergency'",
+      "detail": "The Supreme Court takes suo motu cognisance of the oxygen shortage, terms it a national emergency, and orders the Centre to present a national plan for medical-oxygen supply.",
+      "type": "status"
+    },
+    {
+      "date": "2021-06-01",
+      "label": "Supreme Court oxygen-audit committee finds Delhi over-requested supply",
+      "detail": "A Supreme Court-appointed National Task Force oxygen-audit committee finds Delhi sought oxygen allocations more than four times its actual requirement between late April and mid-May 2021.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a public-health governance failure examined primarily through Supreme Court and Delhi High Court proceedings, not a criminal prosecution. No individual official has been criminally convicted over the shortage; the Supreme Court's intervention resulted in the constitution of a National Task Force to reform oxygen allocation and distribution going forward, and its audit committee's findings on Delhi's requisitions became a point of continuing political and factual dispute rather than a settled legal finding of culpability.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's health administration did not have sufficient medical-oxygen buffer stock or a working interstate allocation mechanism to withstand a second COVID-19 wave whose scale had been repeatedly warned of by epidemiologists, resulting in courts intervening directly in hospital-level life-and-death oxygen allocation — an unprecedented judicial takeover of an executive public-health function that both the Delhi High Court and Supreme Court explicitly framed as a national emergency.",
+    "confidence": "medium",
+    "reasoning": "The scale of the crisis, and the Supreme Court and Delhi High Court's interventions, are well documented by contemporaneous court reporting and international press. Confidence is not higher because the underlying causes of the shortage — production capacity versus distribution and logistics failures versus alleged over-requisitioning by Delhi — remained genuinely disputed between the Centre and Delhi government, and this entry has not reviewed the National Task Force's full findings or final report."
+  },
+  "incomplete": [
+    "The Delhi government disputed the oxygen-audit committee's finding that it had over-requested supply; this entry has not adjudicated between the competing Centre and Delhi government accounts of the shortage's causes.",
+    "This entry has not reviewed the Supreme Court's full National Task Force report or its final recommendations and their implementation status.",
+    "A reliable, reconciled count of deaths directly attributable to oxygen shortage during the crisis (as distinct from COVID-19 deaths generally) has not been established and is not claimed here.",
+    "Whether any hospital, supplier or official was found responsible for oxygen black-marketeering or diversion during the crisis, and any resulting prosecutions, have not been detailed in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-covid-sc-national-emergency",
+      "label": "India reports over 412,000 new Covid cases as court demands plan to tackle oxygen shortage in Delhi",
+      "type": "independent",
+      "publisher": "CNBC",
+      "date": "2021-05-06",
+      "url": "https://www.cnbc.com/2021/05/06/india-covid-crisis-cases-fatalities-rise-as-oxygen-shortage-persists.html"
+    },
+    {
+      "id": "src-covid-oxygen-audit",
+      "label": "Delhi asked 4 times more oxygen than was required during 2nd Covid wave: Supreme Court panel",
+      "type": "independent",
+      "publisher": "India.com",
+      "date": "2021-06-01",
+      "url": "https://www.india.com/news/india/delhi-asked-for-more-oxygen-than-was-required-during-2nd-covid-wave-supreme-court-panel-4766665/"
+    },
+    {
+      "id": "src-covid-hc-tsunami",
+      "label": "It's tsunami, not wave, says Delhi High Court",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2021-04-24",
+      "url": "https://www.tribuneindia.com/news/delhi/its-tsunami-not-wave-says-delhi-high-court-243644"
+    }
+  ]
+}

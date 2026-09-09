@@ -1,0 +1,90 @@
+{
+  "id": "KB-038",
+  "slug": "reliance-communications-bob-fraud",
+  "title": "The Reliance Communications – Bank of Baroda Fraud",
+  "dek": "Four years after the Supreme Court found Anil Ambani in contempt over unpaid Ericsson dues, the CBI opened a fresh case alleging his telecom company defrauded a public sector bank of over ₹2,200 crore.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 96,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2026-02-26",
+  "heroStat": {
+    "value": "₹2,220 cr",
+    "label": "wrongful loss alleged to Bank of Baroda"
+  },
+  "promise": {
+    "quote": "Credit facilities extended to Reliance Communications will be used for their disclosed purpose and repaid according to sanctioned terms.",
+    "madeBy": "Reliance Communications Ltd., under chairman Anil Ambani",
+    "role": "Telecom company; borrower from a public sector bank",
+    "date": "2026-02-26",
+    "context": "This is a separate CBI case from the company's earlier, already-covered Supreme Court contempt proceedings over unpaid dues to Ericsson — this one concerns an alleged fraud against Bank of Baroda specifically.",
+    "sourceIds": [
+      "src-rcom-bob-overview"
+    ]
+  },
+  "target": {
+    "description": "Credit facilities used for their disclosed telecom-business purpose and repaid or restructured transparently, without cheating the lending bank.",
+    "standard": "Standard bank lending covenants and RBI fraud-classification norms.",
+    "referenceDate": "2026-02-26"
+  },
+  "reality": {
+    "description": "The CBI registered a fresh case against Anil Ambani and Reliance Communications in February 2026, alleging the company cheated Bank of Baroda and caused a wrongful loss of more than ₹2,220 crore. This is distinct from, though part of the same broader pattern as, the company's earlier Supreme Court contempt case over Ericsson dues and its promoter's separate Yes Bank-linked chargesheet, both of which are covered elsewhere on this site.",
+    "asOfDate": "2026-02-26",
+    "sourceIds": [
+      "src-rcom-bob-overview"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged wrongful loss to Bank of Baroda vs. amount confirmed recovered",
+    "unit": "₹ crore",
+    "targetValue": 2220,
+    "actualValue": 0,
+    "targetDisplay": "₹2,220 cr alleged loss",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged",
+    "actualLabel": "Recovered",
+    "note": "This investigation did not find a confirmed recovery or asset-attachment figure specific to this case and reports it as unestablished."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2026-02-26",
+      "label": "CBI registers fresh case",
+      "detail": "The agency books Anil Ambani and Reliance Communications over alleged fraud against Bank of Baroda.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A case has been registered; this investigation has not yet traced arrests, a chargesheet, or any trial outcome specific to this matter.",
+    "keyIndividuals": [
+      {
+        "name": "Anil Ambani",
+        "role": "Chairman, Reliance Communications",
+        "outcome": "Named in the CBI's February 2026 FIR. No chargesheet or trial verdict confirmed as of this entry's publication."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the registration of this case and its headline alleged-loss figure are documented. This investigation has not yet established how this matter has progressed beyond the initial FIR.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn from a single, recent report of the FIR's registration. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. Whether a chargesheet has since been filed in this specific case has not been confirmed.",
+    "This investigation has not distinguished the specific allegations here from the company's other, separately covered legal matters (the Ericsson contempt case and the Yes Bank-linked case).",
+    "No recovery or asset-attachment figure specific to this case was found."
+  ],
+  "sources": [
+    {
+      "id": "src-rcom-bob-overview",
+      "label": "CBI registers fresh case against Anil Ambani and Reliance Communications",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2026-02-26",
+      "url": "https://www.newsonair.gov.in/cbi-registers-fresh-case-against-anil-ambani-and-reliance-communications/"
+    }
+  ]
+}

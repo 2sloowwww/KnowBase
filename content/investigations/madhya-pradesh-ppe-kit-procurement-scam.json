@@ -1,0 +1,131 @@
+{
+  "id": "KB-403",
+  "slug": "madhya-pradesh-ppe-kit-procurement-scam",
+  "title": "Madhya Pradesh's COVID-19 Medical Equipment Procurement Irregularities",
+  "dek": "Unlike some states, Madhya Pradesh never had one unified, headline 'PPE kit scam.' What is documented is a scatter of smaller, verified failures — a district health office accused of a ₹33-lakh equipment-pricing fraud, thousands of PPE kits left to expire unused in a Bhopal warehouse, and a whistleblowing IAS officer who says he was punished for flagging oxygen-concentrator overpricing. This entry reports those documented pieces rather than a single scandal that available sources do not support.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 227,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-12-01",
+  "heroStat": {
+    "value": "₹33 lakh",
+    "label": "alleged illegal profit made by firms in the one COVID-era Madhya Pradesh equipment-procurement case that resulted in an FIR (Anuppur district, filed March 2024)"
+  },
+  "promise": {
+    "quote": "District health procurement for the pandemic response, including protective and medical equipment, will follow approved government rate contracts and competitive purchase norms.",
+    "madeBy": "Government of Madhya Pradesh health administration (district and state health departments)",
+    "role": "State and district health machinery responsible for COVID-19 emergency medical procurement",
+    "date": "2020-04-01",
+    "context": "Madhya Pradesh, like other states, relaxed procurement rules during the pandemic to rapidly acquire PPE kits, oxygen equipment and related medical supplies for district hospitals.",
+    "sourceIds": [
+      "src-mp-anuppur-scam"
+    ]
+  },
+  "target": {
+    "description": "Emergency medical equipment purchased at, or close to, government-approved rate-contract prices, through vetted suppliers, with usable stock deployed to patients rather than left to expire.",
+    "standard": "Madhya Pradesh Public Health Corporation's approved rate contracts and standard government procurement norms.",
+    "referenceDate": "2020-04-01"
+  },
+  "reality": {
+    "description": "The clearest documented case is in Anuppur district, where the Economic Offences Wing (EOW), Bhopal, registered an FIR in March 2024 — following a complaint filed in December 2020 — against the district's former Chief Medical and Health Officer (CMHO) Dr B.D. Sonwani and twelve others, including firm operators, alleging that of a ₹7.11-crore budget under the Prime Minister's Mineral Sector Welfare Scheme, equipment such as oxygen cylinders and RF kits was procured at markups of up to 61 times approved rates, netting firms an estimated ₹33 lakh in illegal profit. Separately, more than 10,000 PPE kits worth about ₹30 lakh were reported lying unused in a Central Warehousing Corporation godown in Bhopal for roughly three years before being destroyed — a case of wasted, rather than embezzled, procurement, but one that points to the same underlying planning failures. An IAS officer, Lokesh Jangid, also alleged corruption in the supply of oxygen concentrators and said he faced retaliatory transfer after raising it. This entry has not found evidence of a single, state-wide PPE-kit procurement scandal on the scale reported in Karnataka, Kerala or Delhi during the same period; the documented Madhya Pradesh cases are narrower and more localised.",
+    "asOfDate": "2024-03-27",
+    "sourceIds": [
+      "src-mp-anuppur-scam",
+      "src-mp-ias-threat"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Budget allocated for the Anuppur equipment procurement vs. amount the EOW alleges was fraudulently overpaid",
+    "unit": "INR lakh",
+    "targetValue": 711,
+    "actualValue": 33,
+    "targetDisplay": "₹7.11 crore budget",
+    "actualDisplay": "₹33 lakh alleged illegal profit",
+    "targetLabel": "Total budget",
+    "actualLabel": "Alleged illegal profit",
+    "note": "This gap reflects only the one documented, FIR-backed case (Anuppur district). It should not be read as a measure of a larger, unified state-wide scam, which available sources do not substantiate."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 7.11,
+    "allocatedLabel": "Budget for Anuppur district health equipment procurement under the Prime Minister's Mineral Sector Welfare Scheme (crore)",
+    "released": 5,
+    "releasedLabel": "Amount reportedly paid out to firms (crore)",
+    "spent": null,
+    "unit": "crore",
+    "notes": "The EOW alleges firms made about ₹33 lakh in illegal profit on the Anuppur purchases through inflated pricing (e.g., oxygen cylinders marked up from ₹10,999 to ₹16,900; RF kits from ₹68 to ₹4,156). Separately, roughly ₹30 lakh worth of PPE kits were destroyed after going unused and expiring in a Bhopal warehouse — a distinct instance of wasted rather than embezzled spending.",
+    "sourceIds": [
+      "src-mp-anuppur-scam"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-04-01",
+      "label": "Emergency COVID procurement begins",
+      "detail": "Madhya Pradesh's district health offices begin emergency purchases of PPE kits and medical equipment under relaxed pandemic procurement rules.",
+      "type": "announcement"
+    },
+    {
+      "date": "2020-12-01",
+      "label": "Complaint filed over Anuppur purchases",
+      "detail": "A complaint alleging overpriced equipment purchases at Anuppur District Hospital is filed, triggering a preliminary inquiry.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-03-01",
+      "label": "Zero FIR registered",
+      "detail": "An initial zero FIR is registered over the Anuppur procurement allegations.",
+      "type": "status"
+    },
+    {
+      "date": "2024-03-27",
+      "label": "EOW formally files FIR",
+      "detail": "The Economic Offences Wing, Bhopal, formally registers an FIR naming 13 individuals, including the former Anuppur CMHO and firm operators, alleging inflated pricing on 778 types of equipment.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Anuppur case is at the FIR/investigation stage before the Economic Offences Wing, Bhopal; no chargesheet, trial outcome or conviction has been confirmed as of publication. No other Madhya Pradesh COVID-era procurement case identified in this research has progressed to a comparable legal stage.",
+    "keyIndividuals": [
+      {
+        "name": "Dr B.D. Sonwani",
+        "role": "Former Chief Medical and Health Officer, Anuppur district",
+        "outcome": "Named in the March 2024 EOW FIR; case remains under investigation as of publication."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The available record does not support a single, state-wide 'Madhya Pradesh PPE kit scam' comparable to those documented in other states during COVID-19. What is verifiable is a smaller, district-level equipment procurement fraud case in Anuppur (still under investigation, not PPE kits specifically but related medical equipment), a documented instance of PPE kits being wasted rather than distributed, and a whistleblower's unresolved allegation about oxygen-concentrator supply. This entry reports those narrower, sourced facts rather than inflating them into a bigger scandal.",
+    "confidence": "low",
+    "reasoning": "This is a stub entry built from limited, fragmented reporting. Extensive searching did not surface a dedicated, well-documented state-wide PPE-kit procurement scandal in Madhya Pradesh of the kind seen in Karnataka, Kerala, Delhi or Assam during the same period; fuller research, including local Hindi-language reporting and any state assembly or CAG findings, is pending."
+  },
+  "incomplete": [
+    "No evidence was found of a unified, state-wide Madhya Pradesh PPE-kit procurement scandal; this entry documents the narrower, verifiable cases found instead.",
+    "The Anuppur EOW case's current status (chargesheet filing, trial progress) beyond the March 2024 FIR has not been confirmed.",
+    "The IAS officer Lokesh Jangid's oxygen-concentrator corruption allegations and his claimed retaliatory transfer have not been independently verified beyond initial reporting.",
+    "Any CAG audit of Madhya Pradesh's COVID-19 procurement, if one exists, has not been located or reviewed for this entry.",
+    "This entry relies on English-language secondary reporting; a fuller Hindi-language and RTI-based investigation could surface additional documented cases."
+  ],
+  "sources": [
+    {
+      "id": "src-mp-anuppur-scam",
+      "label": "Madhya Pradesh: Scam in the Purchase of Health Equipments, Case Registered Against CMHO and Others",
+      "type": "independent",
+      "publisher": "The Mooknayak",
+      "date": "2024-03-27",
+      "url": "https://en.themooknayak.com/health/madhya-pradesh-scam-in-the-purchase-of-health-equipments-case-registered-against-cmho-and-others"
+    },
+    {
+      "id": "src-mp-ias-threat",
+      "label": "MP: IAS Officer Who Alleged Corruption in Supply of Oxygen Concentrators Claims Threat to Life",
+      "type": "independent",
+      "publisher": "MSN / news agency syndication",
+      "date": "2021-05-01",
+      "url": "https://www.msn.com/en-in/news/other/mp-ias-officer-who-alleged-corruption-in-supply-of-oxygen-concentrators-claims-threat-to-life/ar-AALbXaS"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "KB-166",
+  "slug": "ugc-net-2024-cancellation-case",
+  "title": "The UGC-NET June 2024 Cancellation Case",
+  "dek": "A day after over 9 lakh candidates sat India's national eligibility test for university teaching and PhD admission, a cyber-crime unit flagged that the question paper had surfaced for sale on the darknet — forcing an unprecedented last-minute cancellation and a CBI probe.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 118,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2024-06-19",
+  "heroStat": {
+    "value": "9.08 lakh",
+    "label": "candidates who had already sat the UGC-NET June 2024 exam before it was cancelled a day later over darknet-leak concerns"
+  },
+  "promise": {
+    "quote": "The UGC-NET examination will be conducted with full transparency and sanctity, on the basis of a question paper that remains secure until the test itself.",
+    "madeBy": "National Testing Agency (NTA) and Ministry of Education, Government of India",
+    "role": "Central agency and ministry responsible for conducting UGC-NET, the eligibility test for Junior Research Fellowships, assistant professorships, and PhD admission",
+    "date": "2024-06-18",
+    "context": "This reflects the NTA and Ministry's standard institutional mandate for UGC-NET June 2024, rather than a verified quotation from a specific official statement, which this entry has not located.",
+    "sourceIds": [
+      "src-ugcnet-cancel"
+    ]
+  },
+  "target": {
+    "description": "A national eligibility exam, conducted in a single day for 83 subjects across 317 exam cities, on the basis of a question paper kept confidential until the scheduled test time for each candidate.",
+    "standard": "NTA's own examination-security protocols, applied nationally just weeks after the NEET-UG 2024 leak (covered separately on this site) had already drawn scrutiny to the agency.",
+    "referenceDate": "2024-06-18"
+  },
+  "reality": {
+    "description": "NTA conducted UGC-NET June 2024 in pen-and-paper mode on 18 June 2024 for 83 subjects across 317 cities; of over 11.21 lakh registered candidates, around 9.08 lakh appeared. On 19 June 2024, the Ministry of Education said it had received inputs from the Indian Cyber Crime Coordination Centre's (I4C) National Cyber Crime Threat Analytics Unit, under the Home Ministry, indicating the exam's integrity 'may have been compromised' — reported by officials, including Education Minister Dharmendra Pradhan, as the question paper having surfaced for sale on the darknet. The Ministry cancelled the already-conducted exam that same evening and referred the matter to the CBI, which registered a case against unknown persons. NTA rescheduled and conducted the exam in computer-based mode between 21 August and 4 September 2024. This entry has not confirmed any arrests, chargesheets, or the CBI investigation's outcome.",
+    "asOfDate": "2024-09-04",
+    "sourceIds": [
+      "src-ugcnet-cbi",
+      "src-ugcnet-reschedule"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Candidates who had already completed the exam vs. hours before the government cancelled it over the darknet-leak report",
+    "unit": "candidates",
+    "targetValue": 908000,
+    "actualValue": 24,
+    "targetDisplay": "9.08 lakh candidates already tested",
+    "actualDisplay": "~24 hours before cancellation",
+    "targetLabel": "Candidates tested",
+    "actualLabel": "Hours to cancellation",
+    "note": "The exam was cancelled not before or during the test, but roughly a day after nearly a million candidates had already completed it — underscoring that the security failure was detected only after the fact, via a cyber-crime unit's monitoring rather than NTA's own exam-day controls."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2024-06-18",
+      "label": "UGC-NET June 2024 conducted",
+      "detail": "NTA holds the exam in pen-and-paper mode for around 9.08 lakh candidates across 317 cities.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-19",
+      "label": "Exam cancelled over darknet-leak concerns",
+      "detail": "The Ministry of Education cancels the exam after I4C flags that its integrity may be compromised, and refers the matter to the CBI.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-06-20",
+      "label": "CBI registers case",
+      "detail": "The CBI registers a case against unknown persons over the alleged leak.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-08-21",
+      "label": "Rescheduled exam begins",
+      "detail": "NTA starts conducting the rescheduled UGC-NET in computer-based mode, running through 4 September 2024.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The CBI registered a case against unknown persons on 20 June 2024. This investigation has not confirmed any subsequent arrests, chargesheets, or the case's current status.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a stub entry, pending fuller research. The exam's cancellation, its basis (an I4C darknet-monitoring alert rather than an on-the-ground leak report), and the CBI referral are well documented through government statements. What is not established here is who, if anyone, has been identified, arrested, or convicted in the underlying breach.",
+    "confidence": "low",
+    "reasoning": "The exam date, candidate numbers, cancellation date and stated reason, and CBI referral are corroborated by contemporaneous government and independent reporting, including the Ministry of Education's own statements as reported via News on Air. However, this entry has not confirmed any arrests or chargesheets in the CBI's case, and has not independently verified the darknet-listing claim beyond officials' public statements."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on the CBI investigation's outcome, including any arrests or chargesheets, is pending.",
+    "The darknet-leak claim rests on government and ministerial statements reported by news outlets; this entry has not independently verified the underlying I4C technical findings.",
+    "Whether any candidates were compensated, or whether registration fees were refunded, for the cancelled 18 June exam has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-ugcnet-cancel",
+      "label": "UGC NET June 2024 cancelled, 'integrity of exam may be compromised': Education ministry",
+      "type": "independent",
+      "publisher": "Careers360",
+      "date": "2024-06-20",
+      "url": "https://news.careers360.com/ugc-net-june-2024-cancelled-nta-integrity-of-exam-may-be-compromised-education-ministry"
+    },
+    {
+      "id": "src-ugcnet-cbi",
+      "label": "UGC NET 2024 cancellation: CBI register case against unknown people",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-06-21",
+      "url": "https://www.deccanherald.com/india/ugc-net-2024-cancellation-cbi-register-case-against-unknown-people-3074656"
+    },
+    {
+      "id": "src-ugcnet-reschedule",
+      "label": "UGC NET June 2024 Examination cancelled due to security concerns, fresh dates awaited",
+      "type": "independent",
+      "publisher": "News on Air (Prasar Bharati)",
+      "date": "2024-06-20",
+      "url": "https://www.newsonair.gov.in/ugc-net-june-2024-examination-cancelled-due-to-security-concerns-fresh-dates-awaited"
+    }
+  ]
+}

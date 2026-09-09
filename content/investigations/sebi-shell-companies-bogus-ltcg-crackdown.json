@@ -1,0 +1,155 @@
+{
+  "id": "KB-2801",
+  "slug": "sebi-shell-companies-bogus-ltcg-crackdown",
+  "title": "SEBI's 2017 Freeze on 331 'Shell Companies' and the Bogus LTCG Scheme Behind It",
+  "dek": "After demonetisation, tax authorities traced a nationwide scheme using penny stocks to launder unaccounted cash into tax-free long-term capital gains. SEBI froze trading in 331 companies overnight — then tribunals forced it to walk much of the action back for skipping due process.",
+  "category": "Banking & Finance",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 58,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2017-08-07",
+  "heroStat": {
+    "value": "331",
+    "label": "listed companies whose trading SEBI froze overnight on suspicion of being shell entities used for laundering money via fake capital gains"
+  },
+  "promise": {
+    "quote": "Trading in the securities of the identified companies shall be through a trade-for-trade mechanism... to prevent instances of misuse of the securities market for money laundering and tax evasion.",
+    "madeBy": "Securities and Exchange Board of India",
+    "role": "Market regulator acting on a list of suspected shell companies forwarded by the Ministry of Corporate Affairs",
+    "date": "2017-08-07",
+    "context": "SEBI directed the BSE and NSE to place 331 companies into the most restrictive tier (Stage VI) of the Graded Surveillance Mechanism (GSM), freezing normal trading with immediate effect, days after the government's post-demonetisation drive against shell companies.",
+    "sourceIds": [
+      "src-businesstoday-shell"
+    ]
+  },
+  "target": {
+    "description": "A market where capital-gains tax exemptions on long-term equity holdings reward genuine, at-risk investment — not one where operationally hollow 'penny stock' companies are used to engineer artificial share-price rallies so that unaccounted cash can be recycled as tax-exempt long-term capital gains, and where any regulatory crackdown follows fair, individualised due process rather than blanket, undifferentiated freezes.",
+    "standard": "Prevention of Money Laundering Act, 2002; Income Tax Act provisions on long-term capital gains exemption (erstwhile Section 10(38)); principles of natural justice under the SEBI Act, 1992.",
+    "referenceDate": "2016-11-08"
+  },
+  "reality": {
+    "description": "The Income Tax Department's investigation wing, drawing on a detailed report by IRS officer Dhruv P Singh, identified bogus LTCG/STCL claims routed through BSE-listed penny stocks worth an estimated ₹38,000 crore, in which operators used circular trading among related entities to inflate a stock's price over more than a year, allowing investors to later sell and claim the gains as tax-exempt long-term capital gains, or, in reverse schemes, book fabricated short-term capital losses to offset other income. Acting on a Ministry of Corporate Affairs list rather than its own independent investigation of each company, SEBI's August 2017 order abruptly froze trading in 331 companies, disrupting an estimated ₹9,000 crore in investor holdings including mutual fund positions, and drew immediate criticism for treating listed, exchange-scrutinised companies as presumptively fraudulent without individual evidence. The Securities Appellate Tribunal subsequently found SEBI had acted 'without any investigation' and, calling the action a quasi-judicial order dressed up as an administrative circular, ordered trading restrictions lifted on at least six companies — Parsvnath Developers, Kavit Industries, Pincon Spirit, Signet Industries, SQS India BFSI, and Kkalpana Industries — with other companies separately securing relief. Separately, on the tax side, the Income Tax Department's additions of bogus LTCG income have had a mixed record in appellate litigation: the Calcutta High Court upheld findings against taxpayers in around 90 penny-stock cases, while various bench of the Income Tax Appellate Tribunal have set aside additions where the department could not establish a specific nexus between an individual taxpayer and the manipulation.",
+    "asOfDate": "2019-01-01",
+    "sourceIds": [
+      "src-businesstoday-shell",
+      "src-businessstandard-9000cr",
+      "src-regstreet-sat",
+      "src-moneylife-calcuttahc",
+      "src-taxscan-itat"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Companies SEBI initially froze in one blanket order vs. companies confirmed by SAT to have been wrongly restricted without individual evidence",
+    "unit": "companies",
+    "targetValue": 331,
+    "actualValue": 6,
+    "targetDisplay": "331 companies frozen in the August 2017 order",
+    "actualDisplay": "6+ companies confirmed by SAT to have had restrictions lifted for lack of individualised evidence",
+    "targetLabel": "Companies frozen",
+    "actualLabel": "Companies judicially cleared",
+    "note": "This is a partial count — SAT and SEBI's own subsequent review processes cleared additional companies beyond the six named in the sources reviewed here, but a complete tally was not available in the sources consulted."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Approximately ₹38,000 crore in penny-stock trades were flagged in the Income Tax Department's internal investigation as connected to bogus LTCG/STCL claims nationwide (a figure much broader than the 331-company list). The August 2017 SEBI freeze itself was reported to have trapped roughly ₹9,000 crore in investor holdings.",
+    "sourceIds": [
+      "src-businessstandard-9000cr"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016-11-08",
+      "label": "Demonetisation announced",
+      "detail": "The government's withdrawal of high-value currency notes triggers a wave of scrutiny into how unaccounted cash was being converted into legitimate-looking assets, including through the stock market.",
+      "type": "status"
+    },
+    {
+      "date": "2017-08-07",
+      "label": "SEBI freezes trading in 331 companies",
+      "detail": "Acting on a Ministry of Corporate Affairs list, SEBI directs exchanges to place 331 suspected shell companies under Stage VI of the Graded Surveillance Mechanism with immediate effect.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-08-10",
+      "label": "Securities Appellate Tribunal intervenes",
+      "detail": "SAT stays SEBI's restrictions on some companies, questioning the lack of individual investigation behind the blanket order.",
+      "type": "revision"
+    },
+    {
+      "date": "2017-08-11",
+      "label": "SAT lifts curbs on six companies",
+      "detail": "Parsvnath Developers, Kavit Industries, Pincon Spirit, Signet Industries, SQS India BFSI, and Kkalpana Industries have trading restrictions lifted.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Tax tribunals split on bogus LTCG additions",
+      "detail": "Appellate rulings diverge: the Calcutta High Court upholds the tax department's findings in a large batch of penny-stock cases, while other ITAT benches set aside additions for lack of individualised evidence.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was a dual-track regulatory and tax action, not a single criminal case: SEBI's market-freeze order was an administrative/surveillance measure later found by the Securities Appellate Tribunal to have exceeded fair process for at least some companies, while the Income Tax Department's bogus-LTCG additions against individual investors have been litigated company-by-company and taxpayer-by-taxpayer in tribunals and High Courts, with outcomes varying by case rather than a single nationwide verdict.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The underlying scheme — using thinly-traded penny stocks to convert black money into fake tax-exempt capital gains — is real, well-documented, and was investigated in earnest by tax authorities following demonetisation. But SEBI's response, a blanket freeze on 331 companies based on an external list rather than individualised evidence, was itself found by the Securities Appellate Tribunal to have violated due process for at least some of the companies caught up in it — meaning some genuine investors and operating companies were punished alongside likely bad actors.",
+    "confidence": "medium",
+    "reasoning": "This entry draws on contemporaneous, independent financial press coverage (Business Standard, Business Today) of SEBI's own order and the Securities Appellate Tribunal's rulings, plus tax-law commentary (Moneylife, TaxScan, ITATonline) describing the parallel Income Tax Department investigation and its uneven litigation record. The full list of companies ultimately cleared versus those where the shell-company finding held up was not independently reconstructed here."
+  },
+  "incomplete": [
+    "A complete, final list of which of the 331 companies were ultimately confirmed as genuine shell entities versus wrongly flagged has not been assembled in this entry.",
+    "The ₹38,000 crore penny-stock figure comes from an internal Income Tax Department investigation report as described in secondary tax-law commentary; the primary report itself was not reviewed directly.",
+    "Individual criminal or SEBI enforcement outcomes (if any) against the operators who ran the price-manipulation schemes behind specific penny stocks in this list have not been tracked here — this entry covers the systemic freeze-and-litigation episode, not any single operator's case.",
+    "Court/tribunal rulings on bogus LTCG additions continued for years after 2019 with mixed results; this entry does not attempt a full accounting of that ongoing litigation."
+  ],
+  "sources": [
+    {
+      "id": "src-businesstoday-shell",
+      "label": "Sebi imposes restrictions on 331 suspected shell firms: What will happen to them?",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2017-08-09",
+      "url": "https://www.businesstoday.in/latest/corporate/story/sebi-restrictions-331-shell-firms-parsvnath-developers-pincoin-spirit-84427-2017-08-09"
+    },
+    {
+      "id": "src-businessstandard-9000cr",
+      "label": "Sebi crackdown on trading in 331 shell companies blocks investors' Rs 9,000 cr",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-08-08",
+      "url": "https://www.business-standard.com/amp/article/markets/sebi-whip-on-shell-firms-blocks-investors-rs-9-000-cr-117080801469_1.html"
+    },
+    {
+      "id": "src-regstreet-sat",
+      "label": "Securities Appellate Tribunal allows two alleged shell companies to trade / SAT lifts curbs on Parsvnath, 5 others",
+      "type": "independent",
+      "publisher": "Regstreet Law Advisors / Business Standard",
+      "date": "2017-08-11",
+      "url": "https://regstreetlaw.com/news/securities-appellate-tribunal-allows-two-alleged-shell-companies-to-trade/"
+    },
+    {
+      "id": "src-moneylife-calcuttahc",
+      "label": "Penny Stock LTCG Scam: Calcutta HC Rules in Favour of I-T Dept; Rejects Common Order Passed by ITAT in 90 Cases",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2022-01-01",
+      "url": "https://www.moneylife.in/article/penny-stock-ltcg-scam-calcutta-hc-rules-in-favour-of-it-dept-rejects-common-order-passed-by-itat-in-90-cases/67508.html"
+    },
+    {
+      "id": "src-taxscan-itat",
+      "label": "Income Tax Dept Fails to Establish Nexus Between Alleged Penny Stock Scam and Taxpayer: ITAT sets aside LTCG Addition",
+      "type": "independent",
+      "publisher": "TaxScan",
+      "date": "2024-01-01",
+      "url": "https://www.taxscan.in/top-stories/income-tax-dept-fails-to-establish-nexus-between-alleged-penny-stock-scam-and-taxpayer-itat-sets-aside-ltcg-addition-1444906"
+    }
+  ]
+}

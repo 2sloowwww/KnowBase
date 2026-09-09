@@ -1,0 +1,154 @@
+{
+  "id": "KB-161",
+  "slug": "bpsc-70th-paper-leak-controversy",
+  "title": "The BPSC 70th CCE Paper Leak and Re-Exam Controversy",
+  "dek": "Bihar's civil services prelims exam was disrupted by chaos and paper-leak allegations at one Patna centre, prompting a re-exam limited to that centre alone — while candidates and Jan Suraaj founder Prashant Kishor demanded a state-wide cancellation the Commission and courts both refused.",
+  "category": "Employment & Welfare",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 220,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2024-12-13",
+  "heroStat": {
+    "value": "1 of 900+",
+    "label": "exam centres where BPSC ordered a re-test, out of the roughly 900 centres used for the 70th CCE prelims — despite state-wide allegations of a leak"
+  },
+  "promise": {
+    "quote": "Recruitment through the Bihar Public Service Commission's Combined Competitive Examination will be conducted fairly, with a secure question paper and orderly examination conditions for every candidate at every centre.",
+    "madeBy": "Bihar Public Service Commission (BPSC)",
+    "role": "State body responsible for recruiting Bihar's civil service officers through the Combined Competitive Examination",
+    "date": "2024-12-13",
+    "context": "This reflects the BPSC's standard institutional mandate for the 70th CCE preliminary exam, rather than a verified quotation from a specific BPSC statement on this date, which this entry has not located.",
+    "sourceIds": [
+      "src-bpsc-cancel"
+    ]
+  },
+  "target": {
+    "description": "A preliminary exam conducted smoothly, on schedule, with a secure and uncirculated question paper, across all roughly 900 examination centres used for the 70th CCE.",
+    "standard": "BPSC's own examination-conduct protocols for a state civil-services preliminary exam.",
+    "referenceDate": "2024-12-13"
+  },
+  "reality": {
+    "description": "On 13 December 2024, the 70th CCE prelims were held at around 900 centres across Bihar for roughly 4.8 lakh candidates. At the Bapu Pariksha Parisar centre in Patna, where about 12,000 candidates sat the exam, distribution of question papers was delayed, some candidates were seen photographing papers on phones, and an official on duty died of a heart attack amid the resulting commotion. Candidates at that centre, and later candidates state-wide, alleged the paper had leaked. BPSC's chairman initially ruled out cancelling the exam and issued show-cause notices to 34 candidates, but the Commission then cancelled and rescheduled the exam specifically for the Bapu centre, holding a re-test there on 4 January 2025 across 22 sub-centres, explicitly without the 'normalisation' scoring process candidates had also objected to. Jan Suraaj founder Prashant Kishor began a fast-unto-death at Gandhi Maidan demanding cancellation of the entire state-wide exam, and was later detained by Patna police. Petitioners took the matter to the Patna High Court and then the Supreme Court; on 23 April 2025 the Supreme Court dismissed the plea for a full retest, remarking that 'every exam is being challenged,' and allowed the Mains exam to proceed on 25 April 2025 as scheduled. BPSC declared prelims results on 23 January 2025, and the final result of the 70th CCE — 2,027 candidates selected against 2,035 advertised vacancies, with Shraddha Pandey topping the merit list — was declared on 20 June 2026, following interviews held between January and April 2026.",
+    "asOfDate": "2026-06-20",
+    "sourceIds": [
+      "src-bpsc-cancel",
+      "src-bpsc-kishor",
+      "src-bpsc-sc",
+      "src-bpsc-final"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Candidates at the one centre BPSC agreed had a compromised exam vs. total candidates state-wide whose exam was left standing",
+    "unit": "candidates",
+    "targetValue": 12000,
+    "actualValue": 480000,
+    "targetDisplay": "~12,000 candidates re-tested (Bapu centre only)",
+    "actualDisplay": "~4.8 lakh candidates state-wide, uncontested",
+    "targetLabel": "Re-tested",
+    "actualLabel": "Total candidates",
+    "note": "BPSC and the courts treated the disruption as confined to one Patna examination centre; petitioners argued the leak allegations were state-wide. Neither the Supreme Court nor the Patna High Court found evidence to support a state-wide leak, so this gap reflects a genuinely disputed question rather than a settled fact."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2024-12-13",
+      "label": "70th CCE prelims held; chaos at Bapu centre",
+      "detail": "Roughly 4.8 lakh candidates sit the exam statewide. At Patna's Bapu Pariksha Parisar, delayed paper distribution, phone-photography allegations, and an official's death amid the commotion trigger paper-leak claims.",
+      "type": "status"
+    },
+    {
+      "date": "2024-12-19",
+      "label": "Re-exam announced for Bapu centre",
+      "detail": "BPSC announces a rescheduled prelims exam for Bapu centre candidates only, set for 4 January 2025, without normalisation.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-01-04",
+      "label": "Re-exam held",
+      "detail": "The rescheduled exam is conducted at 22 sub-centres in Patna for affected candidates; over half reportedly skip it.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-01-23",
+      "label": "Prelims results declared",
+      "detail": "BPSC declares the 70th CCE preliminary results.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-23",
+      "label": "Supreme Court dismisses retest plea",
+      "detail": "The Court declines to order a state-wide retest and allows the Mains exam to proceed as scheduled.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-25",
+      "label": "Mains exam held",
+      "detail": "The 70th CCE Main examination proceeds as scheduled.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-06-20",
+      "label": "Final result declared",
+      "detail": "BPSC declares the 70th CCE final result: 2,027 candidates selected against 2,035 advertised posts.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal paper-leak case comparable to Bihar's earlier NEET-UG leak was established here; the dispute was litigated as a challenge to the exam's conduct and fairness, not as a criminal prosecution. The Supreme Court and Patna High Court both declined to order a full retest, and BPSC completed the recruitment cycle through to a final result in June 2026.",
+    "keyIndividuals": [
+      {
+        "name": "Prashant Kishor",
+        "role": "Founder, Jan Suraaj Party",
+        "outcome": "Led public protests and a fast-unto-death demanding cancellation of the exam; detained by Patna police. Faced no criminal conviction reported in connection with this matter."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a genuinely disputed case rather than a confirmed fraud: real disruption and a death occurred at one Patna centre, and BPSC itself agreed enough was wrong there to order a localised re-exam — but neither the courts nor any investigation found evidence of the state-wide leak that protesters alleged. This entry reports both the confirmed, localised failure and the unresolved, broader allegation without picking a side on the latter.",
+    "confidence": "medium",
+    "reasoning": "The Bapu centre disruption, the official's death, the localised re-exam, and the Supreme Court's April 2025 ruling are corroborated across multiple independent outlets and the Court's own reported remarks. The state-wide leak allegation itself remains unproven and is reported here as a live dispute, consistent with the courts' own findings."
+  },
+  "incomplete": [
+    "This entry has not independently reviewed the Patna High Court or Supreme Court order texts; it relies on news summaries of the rulings.",
+    "The precise cause of the delayed question-paper distribution at the Bapu centre has not been independently confirmed here.",
+    "Whether any criminal case was registered over the Bapu centre disruption itself (as opposed to a leak) has not been confirmed.",
+    "The identity and cause of death of the official who died on duty has not been independently verified beyond news reports describing a heart attack amid the commotion."
+  ],
+  "sources": [
+    {
+      "id": "src-bpsc-cancel",
+      "label": "BPSC Cancels 70th CCE Prelims Exam Held At Bapu Exam Centre",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2024-12-19",
+      "url": "https://www.freepressjournal.in/education/bpsc-cancels-70th-cce-prelims-exam-held-at-bapu-exam-centre"
+    },
+    {
+      "id": "src-bpsc-kishor",
+      "label": "Prashant Kishor begins fast-unto-death demanding BPSC exam cancellation",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2025-01-02",
+      "url": "https://www.tribuneindia.com/news/india/prashant-kishor-begins-fast-unto-death-demanding-bpsc-exam-cancellation/"
+    },
+    {
+      "id": "src-bpsc-sc",
+      "label": "Supreme Court dismisses BPSC 70th Prelims 2025 paper leak plea, says, 'Every exam is being challenged'",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2025-04-23",
+      "url": "https://www.indiatvnews.com/jobs/news/supreme-court-dismisses-bpsc-70th-prelims-2025-paper-leak-plea-says-every-exam-is-being-challenged-2025-04-23-986903"
+    },
+    {
+      "id": "src-bpsc-final",
+      "label": "BPSC Declares Final Results Of 70th Combined Competitive Examination, 2,027 Candidates Selected",
+      "type": "independent",
+      "publisher": "Patna Press",
+      "date": "2026-06-20",
+      "url": "https://patnapress.com/bpsc-70th-cce-final-result-2026-2027-candidates-selected/"
+    }
+  ]
+}

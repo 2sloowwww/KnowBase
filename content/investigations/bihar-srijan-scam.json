@@ -1,0 +1,176 @@
+{
+  "id": "KB-844",
+  "slug": "bihar-srijan-scam",
+  "title": "The Bihar Srijan Scam",
+  "dek": "Srijan Mahila Vikas Sahyog Samiti, a Bhagalpur-based women's self-help NGO run by Manorama Devi, allegedly received government welfare and development funds fraudulently diverted from district treasury accounts over roughly a decade, with the CBI estimating the diversion at around Rs 1,000-2,000 crore. The scam surfaced in 2017 when a large government cheque bounced; CBI convicted three minor functionaries in late 2025, while the alleged kingpin died before facing trial and her son remains untraceable.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 124,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-08-03",
+  "heroStat": {
+    "value": "₹1,000+ cr",
+    "label": "in Bihar government welfare, land-acquisition and development funds the CBI alleges were diverted to Srijan Mahila Vikas Sahyog Samiti's accounts between roughly 2004 and 2017"
+  },
+  "promise": {
+    "quote": "Government departments in Bhagalpur district were expected to disburse land-acquisition compensation, urban development funds, and other welfare scheme payments to their intended beneficiaries and works, routed through proper treasury and bank channels -- not to a private NGO's accounts.",
+    "madeBy": "Bhagalpur district administration and Bihar state government departments",
+    "role": "Disbursing authorities for government welfare and development schemes",
+    "date": "2004-01-01",
+    "context": "This reflects the general administrative obligation that government scheme funds be disbursed only to intended beneficiaries and works, rather than a verified quotation from a specific government order, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-srijan-mapsofindia"
+    ]
+  },
+  "target": {
+    "description": "That government funds for land acquisition, urban development schemes, and district administration in Bhagalpur would reach their intended beneficiaries and projects, with bank and treasury officials verifying disbursements against genuine claims.",
+    "standard": "Bihar Treasury Code and standard government financial-disbursement rules requiring verified beneficiary claims before release of public funds; IPC provisions on criminal breach of trust and cheating.",
+    "referenceDate": "2004-01-01"
+  },
+  "reality": {
+    "description": "Between roughly 2004 and 2017, Bhagalpur district administration funds -- reported by various accounts as around Rs 355.7 crore from three heads alone (land acquisition, ~Rs 270 crore; urban development schemes, ~Rs 70.7 crore; district administration, ~Rs 15 crore), with CBI's overall estimate for the scheme running as high as Rs 1,000-2,000 crore across the full period -- were allegedly diverted into the accounts of Srijan Mahila Vikas Sahyog Samiti (SMVSS), an NGO nominally engaged in vocational training for women, in alleged connivance with government officials, bank employees, and Srijan's own staff. The scam came to light on 3 August 2017 when a government cheque worth about Rs 10.32 crore issued to the NGO bounced, prompting scrutiny. Srijan was run by Manorama Devi, a Bhagalpur social worker who cultivated close ties with local politicians and bureaucrats. The Bihar government recommended a CBI probe on 18 August 2017, formalised around 21-27 August 2017, and the CBI registered an FIR, taking over from an earlier state Special Investigation Team. Manorama Devi died before being brought to justice and was posthumously named in a CBI chargesheet along with her son Amit Kumar and daughter-in-law Rajni Priya Kumar; Amit has remained untraceable, while Rajni Priya was arrested and later granted bail. On 19 November 2025, a CBI court convicted and sentenced three lower-level functionaries -- a former chief Nazir of Bhagalpur Collectorate, a clerk, and a former assistant bank manager -- to between 3 and 4 years' rigorous imprisonment with fines, for their role in the fund diversion, marking the first confirmed convictions in the case. This entry's research could not confirm whether any more senior officials, bankers, or politicians alleged to have enabled or benefited from the scheme have been convicted, nor the current status of proceedings against Rajni Priya Kumar.",
+    "asOfDate": "2025-11-19",
+    "sourceIds": [
+      "src-srijan-etv-sentence",
+      "src-srijan-mapsofindia"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Government welfare/development funds allocated vs. amount confirmed recovered from diverted accounts",
+    "unit": "INR crore",
+    "targetValue": 1000,
+    "actualValue": 0,
+    "targetDisplay": "₹1,000+ cr alleged diverted to Srijan's accounts (CBI estimate)",
+    "actualDisplay": "No confirmed recovery figure found for diverted government funds",
+    "targetLabel": "Alleged diversion (CBI estimate)",
+    "actualLabel": "Confirmed recovery to government exchequer",
+    "note": "This entry could not confirm what portion, if any, of the diverted funds have been recovered by the Bihar government or CBI since the scam surfaced in 2017; the actualValue of 0 reflects the absence of a confirmed recovery figure, not a claim that nothing was recovered."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 1000,
+    "allocatedLabel": "CBI's approximate estimate of total government funds diverted to Srijan's accounts",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Reported figures vary: roughly Rs 355.7 crore is documented across three specific Bhagalpur district heads (land acquisition, urban development, district administration), while broader media and CBI estimates for the full scheme's duration range from about Rs 700 crore to Rs 2,000 crore. This entry uses the commonly cited approximate figure of Rs 1,000 crore while flagging the discrepancy.",
+    "sourceIds": [
+      "src-srijan-mapsofindia"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2004-01-01",
+      "label": "Alleged fund diversion begins",
+      "detail": "Government welfare, land-acquisition, and development funds in Bhagalpur district begin being routed, allegedly fraudulently, into Srijan Mahila Vikas Sahyog Samiti's bank accounts.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-08-03",
+      "label": "Government cheque bounces, scam surfaces",
+      "detail": "A roughly Rs 10.32 crore government cheque issued to Srijan bounces, triggering scrutiny that exposes the alleged fund-diversion scheme.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-08-18",
+      "label": "Bihar government recommends CBI probe",
+      "detail": "The Bihar state government recommends a CBI investigation into the Srijan scam.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-08-27",
+      "label": "CBI registers FIR against Srijan NGO",
+      "detail": "CBI formally registers an FIR against the Srijan Mahila Vikas Sahyog Samiti and associated individuals, taking over the probe from the state SIT.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-11-19",
+      "label": "CBI court convicts and sentences three functionaries",
+      "detail": "A CBI court convicts a former Bhagalpur Collectorate chief Nazir, a clerk, and a former assistant bank manager, sentencing them to 3-4 years' rigorous imprisonment with fines totalling roughly Rs 25 lakh, in the first confirmed convictions in the case.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CBI has prosecuted multiple individuals in the Srijan scam. On 19 November 2025, a CBI court convicted and sentenced three relatively junior functionaries -- a former chief Nazir, a clerk, and a former bank manager -- to 3-4 years' rigorous imprisonment. The scheme's alleged kingpin, Manorama Devi, died before trial and was posthumously chargesheeted; her son Amit Kumar remains untraceable, and her daughter-in-law Rajni Priya Kumar was arrested and later released on bail. This entry's research could not confirm the status of proceedings against more senior officials or politicians alleged to be linked to the case, nor whether further convictions have followed the November 2025 sentencing.",
+    "keyIndividuals": [
+      {
+        "name": "Manorama Devi",
+        "role": "Founder/operator, Srijan Mahila Vikas Sahyog Samiti",
+        "outcome": "Died before trial; posthumously named in the CBI chargesheet as the case's alleged kingpin. No conviction was possible given her death."
+      },
+      {
+        "name": "Amit Kumar",
+        "role": "Son of Manorama Devi; named accused",
+        "outcome": "Reported untraceable/absconding; current status not confirmed by this entry's research."
+      },
+      {
+        "name": "Rajni Priya Kumar",
+        "role": "Daughter-in-law of Manorama Devi; named accused",
+        "outcome": "Arrested and later granted bail; final case status not confirmed by this entry's research."
+      },
+      {
+        "name": "Amarendra Kumar Yadav",
+        "role": "Former chief Nazir, Bhagalpur Collectorate",
+        "outcome": "Convicted 19 November 2025; sentenced to 4 years' rigorous imprisonment and a Rs 14 lakh fine."
+      },
+      {
+        "name": "Ajay Kumar Pandey",
+        "role": "Clerk",
+        "outcome": "Convicted 19 November 2025; sentenced to 3 years' imprisonment and a Rs 6.25 lakh fine."
+      },
+      {
+        "name": "Rakesh Kumar",
+        "role": "Former assistant bank manager",
+        "outcome": "Convicted 19 November 2025; sentenced to 3 years' imprisonment and a Rs 4.75 lakh fine."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated case of large-scale diversion of government welfare and development funds through a private NGO, with the CBI having secured its first confirmed convictions of implementing-level officials in November 2025, eight years after the scam surfaced. It remains an incomplete case of accountability: the alleged kingpin died without facing trial, her son remains untraceable, and this entry could not confirm whether any more senior officials or political patrons named in media reports have faced conviction.",
+    "confidence": "medium",
+    "reasoning": "The core facts -- the 2017 cheque bounce, the CBI referral and FIR, and the November 2025 convictions -- are corroborated by ETV Bharat, The Wire, and MapsOfIndia reporting. However, this entry could not verify the CBI chargesheet or trial court judgment directly, and significant gaps remain regarding senior-official accountability and fund recovery."
+  },
+  "incomplete": [
+    "The current status of proceedings against Rajni Priya Kumar and the search for Amit Kumar has not been confirmed beyond her earlier bail.",
+    "Whether any senior Bihar government officials, bank officials beyond the convicted assistant manager, or politicians alleged to have enabled or benefited from the scheme have faced charges or conviction was not confirmed.",
+    "The precise total amount diverted is disputed across sources (ranging from roughly Rs 700 crore to Rs 2,000 crore); this entry could not reconcile the discrepancy.",
+    "The amount, if any, recovered by the Bihar government from Srijan's accounts or seized assets has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-srijan-mapsofindia",
+      "label": "The Srijan Scam: Everything that you want to know about it",
+      "type": "independent",
+      "publisher": "Maps of India",
+      "date": "2017-09-01",
+      "url": "https://www.mapsofindia.com/my-india/india/the-srijan-scam-all-that-you-need-to-know-about-it"
+    },
+    {
+      "id": "src-srijan-etv-sentence",
+      "label": "CBI Court Sentences Three In Bihar's Multi-Crore Srijan Scam",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2025-11-19",
+      "url": "https://www.etvbharat.com/en/state/cbi-court-sentences-three-in-bihars-multi-crore-srijan-scam-enn25111901804"
+    },
+    {
+      "id": "src-srijan-wire-manorama",
+      "label": "A Tale of Two Manorama Devis and Bihar's Srijan Scam",
+      "type": "independent",
+      "publisher": "The Wire",
+      "date": "2017-09-01",
+      "url": "https://m.thewire.in/article/government/bihar-srijan-scam-manorama-devi-nitish-kumar-jdu-bjp"
+    },
+    {
+      "id": "src-srijan-deccan-takeover",
+      "label": "CBI takes over probe into Rs 1000 cr Srijan scam in Bihar",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2017-08-27",
+      "url": "https://www.deccanherald.com/national/cbi-takes-over-probe-into-rs-1000-cr-srijan-scam-in-bihar-606499.html"
+    }
+  ]
+}

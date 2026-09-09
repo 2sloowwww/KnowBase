@@ -1,0 +1,143 @@
+{
+  "id": "KB-2405",
+  "slug": "balasore-train-collision-negligence-case",
+  "title": "The Balasore Train Collision — Signal Negligence, 296 Dead",
+  "dek": "Indian Railways promises fail-safe electronic interlocking to prevent trains from being routed into each other. In June 2023 near Balasore, a signalling fault sent the Coromandel Express onto a loop line into a parked freight train, killing 296 people — and the CBI has charged three signal staff, not systemic failure.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 33,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2023-06-02",
+  "heroStat": {
+    "value": "296",
+    "label": "people killed when three trains collided near Bahanaga Bazar station, Balasore, Odisha, on 2 June 2023 — India's deadliest rail disaster in over two decades"
+  },
+  "promise": {
+    "quote": "Electronic interlocking systems are designed to make it impossible for a signal to clear a route into a train's path when the track is already occupied.",
+    "madeBy": "Indian Railways / Ministry of Railways",
+    "role": "National railway operator and signalling-safety regulator",
+    "date": "2018-01-01",
+    "context": "This reflects the general engineering guarantee electronic interlocking (EI) signalling is designed to provide across the Indian Railways network, rather than a verified quotation from a specific Ministry document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-balasore-wiki"
+    ]
+  },
+  "target": {
+    "description": "That electronic interlocking at Bahanaga Bazar station would prevent the Coromandel Express, running on the main line, from ever being signalled onto an occupied loop line where a stationary freight train stood — the basic safety guarantee interlocking systems exist to provide.",
+    "standard": "Indian Railways' signalling and interlocking safety standards, which require that a route cannot be cleared into an occupied section of track.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "On 2 June 2023, the Coromandel Express was travelling at speed on what should have been the main line at Bahanaga Bazar station when a signalling and interlocking fault instead routed it onto an adjacent loop line, where it collided with a stationary goods train. Derailed coaches then fell onto a neighbouring track and were struck by the oncoming Yeshwantpur–Howrah Express, killing 296 people and injuring more than 1,200 in India's deadliest rail accident since 1995. Railway Minister Ashwini Vaishnaw attributed the crash to a change made to the electronic interlocking system linked to a signalling error; a Railway Board–level inquiry found 'wrong signalling' as the root cause and flagged lapses at multiple levels in the signalling and telecommunication department, prompting a recommendation for a CBI probe. On 7 July 2023, the CBI arrested three railway officials — two signal engineers and a technician posted in the Balasore area — and on 2 September 2023 filed a chargesheet against them for culpable homicide not amounting to murder and causing disappearance of evidence, alleging they had failed to properly test, overhaul, and document alterations to the signal and interlocking installation as required.",
+    "asOfDate": "2023-09-02",
+    "sourceIds": [
+      "src-balasore-wiki",
+      "src-balasore-itv",
+      "src-balasore-dh"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Deaths that electronic interlocking is designed to make structurally impossible vs. deaths that occurred",
+    "unit": "deaths",
+    "targetValue": 0,
+    "actualValue": 296,
+    "targetDisplay": "0 (interlocking should prevent route conflict)",
+    "actualDisplay": "296 confirmed dead",
+    "targetLabel": "Design guarantee",
+    "actualLabel": "Actual outcome",
+    "note": "Over 1,200 people were also injured. The gap here reflects the basic engineering promise of interlocking signalling — that a train cannot be routed into an occupied track — against the confirmed outcome when that promise failed."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2023-06-02",
+      "label": "Triple train collision at Bahanaga Bazar",
+      "detail": "Coromandel Express is routed onto an occupied loop line and collides with a stationary freight train; derailed coaches are then struck by the Yeshwantpur–Howrah Express. 296 killed, 1,200+ injured.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-06-03",
+      "label": "Railway Ministry attributes cause to signalling/interlocking change",
+      "detail": "Railway Minister Ashwini Vaishnaw states a change in electronic interlocking, linked to a signalling error, caused the crash.",
+      "type": "status"
+    },
+    {
+      "date": "2023-06-06",
+      "label": "Railway Board recommends CBI probe",
+      "detail": "Internal high-level inquiry finds 'wrong signalling' as the root cause and flags lapses at multiple levels in the signalling department.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-07-07",
+      "label": "CBI arrests three railway officials",
+      "detail": "Two senior section engineers (Signals) and a technician posted in Balasore district are arrested.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-09-02",
+      "label": "CBI files chargesheet",
+      "detail": "Chargesheet filed against the three arrested officials for culpable homicide not amounting to murder and causing disappearance of evidence.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Three railway signalling officials were arrested by the CBI in July 2023 and chargesheeted in September 2023 for culpable homicide not amounting to murder and destruction of evidence. This entry has not found reporting of a completed trial or verdict as of the most recent available information, and no charges against senior Railway Board or Ministry leadership over systemic signalling maintenance practices have been reported.",
+    "keyIndividuals": [
+      {
+        "name": "Arun Kumar Mahanta",
+        "role": "Senior Section Engineer (Signals)",
+        "outcome": "Arrested July 2023; chargesheeted September 2023 for culpable homicide and evidence destruction. Trial outcome not confirmed as of available reporting."
+      },
+      {
+        "name": "Amir Khan",
+        "role": "Senior Section Engineer (Signals), posted at Soro",
+        "outcome": "Arrested July 2023; chargesheeted September 2023. Trial outcome not confirmed as of available reporting."
+      },
+      {
+        "name": "Pappu Kumar",
+        "role": "Technician",
+        "outcome": "Arrested July 2023; chargesheeted September 2023. Trial outcome not confirmed as of available reporting."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real, extensively documented and extremely severe railway safety failure — a signalling fault that Indian Railways' own inquiry attributed to lapses in signal maintenance and testing, resulting in 296 deaths. The CBI has charged three field-level signalling staff with culpable homicide, but responsibility for the broader, oft-flagged state of India's ageing signalling infrastructure and maintenance practices has not resulted in any reported accountability above the field-technician level. Individuals named are presumed innocent pending trial.",
+    "confidence": "high",
+    "reasoning": "The accident's scale, cause, and the CBI's arrests and chargesheet are corroborated across multiple independent outlets citing official statements and the chargesheet's contents; the severity classification (critical) reflects the exceptionally high death toll and national significance of the disaster, consistent with this site's threshold for that rating."
+  },
+  "incomplete": [
+    "The trial outcome for the three chargesheeted officials has not been confirmed in available reporting as of this entry's publication.",
+    "This entry has not reviewed the Commission of Railway Safety's full inquiry report or the CBI chargesheet directly.",
+    "Whether any broader Ministry of Railways or Railway Board accountability measures (beyond the three individual arrests) followed the disaster has not been established here."
+  ],
+  "sources": [
+    {
+      "id": "src-balasore-wiki",
+      "label": "2023 Odisha train collision",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2026-01-01",
+      "url": "https://en.wikipedia.org/wiki/2023_Odisha_train_collision",
+      "note": "Used for the overall timeline and death toll; cross-checked against independent news reporting on the CBI chargesheet below."
+    },
+    {
+      "id": "src-balasore-itv",
+      "label": "Balasore train accident: CBI files charge sheet against three arrested railway officials",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2023-09-02",
+      "url": "https://www.indiatvnews.com/news/india/odisha-balasore-train-accident-cbi-files-charge-sheet-against-three-arrested-railway-officials-latest-updates-2023-09-02-890388"
+    },
+    {
+      "id": "src-balasore-dh",
+      "label": "CBI files chargesheet against 3 arrested railway officials in Balasore train accident",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2023-09-02",
+      "url": "https://www.deccanherald.com/india/cbi-files-chargesheet-against-3-arrested-railway-officials-in-balasore-train-accident-2670610"
+    }
+  ]
+}

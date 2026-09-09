@@ -1,0 +1,178 @@
+{
+  "id": "KB-160",
+  "slug": "neet-ug-2024-paper-leak-case",
+  "title": "The NEET-UG 2024 Paper Leak Case",
+  "dek": "India's medical entrance exam for 2.4 million aspirants was compromised by a leak traced to a stolen question-paper trunk in Hazaribagh, Jharkhand. The CBI has filed multiple chargesheets, but the Supreme Court refused to order a national retest.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 21,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2024-05-05",
+  "heroStat": {
+    "value": "2.4M",
+    "label": "NEET-UG 2024 candidates whose results the Supreme Court refused to cancel nationwide, despite confirmed leak-related arrests in Bihar and Jharkhand"
+  },
+  "promise": {
+    "quote": "The National Eligibility cum Entrance Test will be conducted securely and fairly, on the basis of a question paper whose integrity is fully protected until the moment of the exam.",
+    "madeBy": "National Testing Agency (NTA), Government of India",
+    "role": "Central testing body responsible for conducting NEET-UG, the national entrance exam for undergraduate medical and dental courses",
+    "date": "2024-05-05",
+    "context": "This reflects the NTA's standard institutional mandate and public assurances around exam security, rather than a single verified quotation from NTA officials on this specific exam date, which this entry has not located.",
+    "sourceIds": [
+      "src-neet2024-fir"
+    ]
+  },
+  "target": {
+    "description": "An exam conducted for over 2.4 million candidates on the basis of a question paper that remained sealed and uncirculated until the scheduled test time, assessed strictly on merit.",
+    "standard": "NTA's own examination-security protocols for a national-level competitive entrance exam.",
+    "referenceDate": "2024-05-05"
+  },
+  "reality": {
+    "description": "An FIR was filed at Shastri Nagar police station in Patna on 5 May 2024 — the day of the exam — alleging that an organised gang had shared the question paper and answer key with several students the night before. Investigators traced the leak to a trunk of question papers stolen in Hazaribagh, Jharkhand. Bihar's Economic Offences Unit formed a SIT, and the CBI took over the investigation on 24 June 2024. The CBI arrested Oasis School (Hazaribagh) principal Ahsanul Haque and vice-principal Imteyaz Alam on 28 June 2024, and four AIIMS Patna MBBS students accused of solving leaked papers for a fee on 18 July 2024. The CBI filed its first chargesheet against 13 accused on 2 August 2024, naming alleged masterminds Sikander Yadvendu and Manish Prakash; a second chargesheet against six more accused followed on 20 September 2024; and a fifth supplementary chargesheet was filed on 22 November 2024. Separately, the Supreme Court on 23 July 2024 declined to order a nationwide retest, holding there was no evidence the leak was 'systemic' enough to vitiate the entire exam for 2.4 million candidates, and on 22 October 2024 dismissed a review petition against that ruling. A retest was offered only to 1,563 candidates who had been given contested grace marks; those marks were separately cancelled.",
+    "asOfDate": "2024-11-22",
+    "sourceIds": [
+      "src-neet2024-timeline",
+      "src-neet2024-chargesheets",
+      "src-neet2024-sc-verdict",
+      "src-neet2024-review"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Candidates affected by the confirmed leak (grace-marks cohort) vs. total candidates whose exam the Supreme Court let stand nationwide",
+    "unit": "candidates",
+    "targetValue": 1563,
+    "actualValue": 2400000,
+    "targetDisplay": "1,563 candidates offered a retest",
+    "actualDisplay": "2.4 million candidates' results left standing",
+    "targetLabel": "Retest offered",
+    "actualLabel": "Results untouched",
+    "note": "This gap is included to show the scale mismatch between the confirmed, localised leak (centred on Patna and Hazaribagh) and the national scale of the exam whose overall result the Supreme Court declined to disturb."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2024-05-05",
+      "label": "Exam held; FIR filed same day",
+      "detail": "NEET-UG 2024 is conducted nationwide. An FIR is filed at Shastri Nagar police station, Patna, alleging the question paper and answer key were shared with students the night before the exam.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-04",
+      "label": "Results announced amid scrutiny",
+      "detail": "NTA declares results; an unusually high number of perfect scorers and grace-mark discrepancies draw public and media scrutiny.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-24",
+      "label": "CBI takes over investigation",
+      "detail": "A special CBI team takes over the probe from Bihar's Economic Offences Unit.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-07-23",
+      "label": "Supreme Court refuses nationwide retest",
+      "detail": "The Court holds there is no evidence of a 'systemic leak' sufficient to vitiate results for all 2.4 million candidates.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-02",
+      "label": "First CBI chargesheet filed",
+      "detail": "13 accused are named, including alleged masterminds Sikander Yadvendu and Manish Prakash.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-09-20",
+      "label": "Second chargesheet filed",
+      "detail": "Six more accused, including the Hazaribagh school's principal and vice-principal, are chargesheeted.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-10-22",
+      "label": "Review petition dismissed",
+      "detail": "The Supreme Court dismisses a plea to review its July verdict refusing a fresh exam.",
+      "type": "status"
+    },
+    {
+      "date": "2024-11-22",
+      "label": "Fifth supplementary chargesheet filed",
+      "detail": "The CBI names five more accused, including gang member Amit Kumar Singh of Bokaro.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The CBI has filed at least five chargesheets/supplementary chargesheets naming over 20 accused across the Patna and Hazaribagh strands of the case. This investigation has not confirmed the trial's current stage, any verdicts, or whether further chargesheets have been filed since November 2024.",
+    "keyIndividuals": [
+      {
+        "name": "Sikander Yadvendu",
+        "role": "Junior engineer, Danapur municipal committee; alleged mastermind",
+        "outcome": "Named in the CBI's first chargesheet, filed 2 August 2024. This investigation has not confirmed a trial outcome."
+      },
+      {
+        "name": "Manish Prakash",
+        "role": "Alleged mastermind",
+        "outcome": "Named in the CBI's first chargesheet, filed 2 August 2024. This investigation has not confirmed a trial outcome."
+      },
+      {
+        "name": "Ahsanul Haque",
+        "role": "Principal, Oasis School, Hazaribagh",
+        "outcome": "Arrested by the CBI on 28 June 2024. This investigation has not confirmed a trial outcome."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a stub entry, pending fuller research. The leak itself — a stolen question-paper trunk and organised distribution network centred on Patna and Hazaribagh — is well documented through multiple CBI chargesheets. But the Supreme Court explicitly declined to find the leak 'systemic' enough to affect the national result, so the two central facts of this case — a confirmed criminal conspiracy, and a national exam result the courts let stand — sit uneasily next to each other. Both are reported here without resolving that tension further.",
+    "confidence": "low",
+    "reasoning": "The FIR, arrests, and multiple chargesheet dates are corroborated across government press releases (newsonair.gov.in, drawing on PIB/CBI statements) and multiple independent outlets. However, this entry has not traced the case beyond the fifth supplementary chargesheet (November 2024), has not confirmed any trial verdicts, and has not independently reviewed the Supreme Court's full judgment text."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on the trial's current stage and any convictions since late 2024 is pending.",
+    "Whether the CBI filed further chargesheets after 22 November 2024 has not been confirmed.",
+    "The exact number of candidates given the disputed grace marks who ultimately chose to retake the exam, versus retain their original scores, has not been confirmed here.",
+    "This entry has not independently reviewed the Supreme Court's judgment text; it relies on news summaries of the ruling."
+  ],
+  "sources": [
+    {
+      "id": "src-neet2024-fir",
+      "label": "Explained: Link Between NEET Paper Leak in Patna & Security Breach in Hazaribagh",
+      "type": "independent",
+      "publisher": "The Quint",
+      "date": "2024-06-25",
+      "url": "https://www.thequint.com/news/education/neet-ug-2024-paper-leak-patna-bihar-hazaribagh-jharkhand-cbi-arrests-supreme-court-latest-news"
+    },
+    {
+      "id": "src-neet2024-timeline",
+      "label": "CBI arrests four MBBS students of AIIMS Patna in connection with alleged NEET paper leak case",
+      "type": "independent",
+      "publisher": "News on Air (Prasar Bharati)",
+      "date": "2024-07-18",
+      "url": "https://www.newsonair.gov.in/cbi-arrests-four-mbbs-students-of-aiims-patna-in-connection-with-alleged-neet-paper-leak-case"
+    },
+    {
+      "id": "src-neet2024-chargesheets",
+      "label": "CBI files second charge sheet in NEET-UG 2024 question paper leak case against six accused",
+      "type": "independent",
+      "publisher": "News on Air (Prasar Bharati)",
+      "date": "2024-09-20",
+      "url": "https://www.newsonair.gov.in/cbi-files-second-charge-sheet-in-neet-ug-2024-question-paper-leak-case-against-six-accused"
+    },
+    {
+      "id": "src-neet2024-sc-verdict",
+      "label": "Explained | Final verdict of Supreme Court on NEET UG 2024",
+      "type": "independent",
+      "publisher": "SCC Online",
+      "date": "2024-08-08",
+      "url": "https://www.scconline.com/blog/post/2024/08/08/explained-final-verdict-of-supreme-court-on-neet-ug-2024/"
+    },
+    {
+      "id": "src-neet2024-review",
+      "label": "NEET-UG 2024: Supreme Court Dismisses Plea for Review of Verdict Refusing to Direct Re-Examination",
+      "type": "independent",
+      "publisher": "LatestLY",
+      "date": "2024-10-23",
+      "url": "https://www.latestly.com/socially/india/education/neet-ug-2024-supreme-court-dismisses-plea-for-review-of-verdict-refusing-to-direct-re-examination-6397871.html"
+    }
+  ]
+}

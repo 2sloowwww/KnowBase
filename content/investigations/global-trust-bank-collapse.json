@@ -1,0 +1,166 @@
+{
+  "id": "KB-841",
+  "slug": "global-trust-bank-collapse",
+  "title": "The Global Trust Bank Collapse and Forced Merger",
+  "dek": "Global Trust Bank, once one of India's most celebrated new-generation private banks, was placed under an RBI moratorium in July 2004 after reckless capital-market lending and inflated disclosures left it with negative net worth, and was compulsorily merged into Oriental Bank of Commerce. Depositors were protected but shareholders got nothing, and a Prevention of Corruption Act case against founder Ramesh Gelli over a separate loan-sanction allegation remained in the courts more than a decade later.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 128,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2004-07-24",
+  "heroStat": {
+    "value": "₹1.2 million+ customers",
+    "label": "affected when RBI placed Global Trust Bank under a three-month moratorium on 24 July 2004 and ordered its compulsory merger into Oriental Bank of Commerce"
+  },
+  "promise": {
+    "quote": "Global Trust Bank was positioned to depositors and investors as a modern, technology-driven new-generation private bank offering safe deposits and reliable returns, built on the promise of prudent, professionally managed banking.",
+    "madeBy": "Ramesh Gelli, Founder, Chairman and Managing Director",
+    "role": "Founder-CMD, Global Trust Bank",
+    "date": "1994-01-01",
+    "context": "This reflects GTB's general public positioning as one of India's earliest new-generation private banks after liberalisation, rather than a verified quotation from a specific GTB advertisement or prospectus, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-gtb-wiki-india"
+    ]
+  },
+  "target": {
+    "description": "That a licensed commercial bank would maintain adequate capital, sound asset quality, and honest financial disclosure, per RBI's prudential and capital-adequacy norms, so depositors' money and shareholders' capital remained safe.",
+    "standard": "Reserve Bank of India capital adequacy and asset-classification norms under the Banking Regulation Act, 1949, and RBI's supervisory disclosure requirements for licensed banks.",
+    "referenceDate": "2000-01-01"
+  },
+  "reality": {
+    "description": "GTB's exposure to the capital markets, including loans linked to stockbroker Ketan Parekh and to entities such as Beautiful Diamonds Ltd, combined with rapid, poorly underwritten expansion, left the bank with non-performing assets well above permissible levels and a negative net worth, aided by what RBI inspections characterised as wrong financial disclosures. On 24 July 2004, RBI placed a three-month moratorium on GTB's deposits and loans. Two days later, on 26 July 2004, RBI announced a draft compulsory-merger scheme under Section 45 of the Banking Regulation Act, amalgamating GTB into the public-sector Oriental Bank of Commerce (OBC), which took over GTB's roughly 104 branches, 275 ATMs and about one million customers; the amalgamation took effect around 14 August 2004. Depositors did not lose their deposits, but GTB shareholders received no swap arrangement and were wiped out. Ramesh Gelli, who had already been forced to resign as CMD in 2001 after a failed merger attempt with UTI Bank, was separately investigated by the CBI over allegedly sanctioning credit facilities to Beautiful Diamonds Ltd in violation of banking norms, causing an alleged loss of about Rs 41 crore to GTB; lower courts initially refused to take cognisance on the ground that Gelli was not a \"public servant,\" but the Supreme Court reversed this on 23 February 2016, holding that chairmen and managing directors of banking companies are deemed public servants under Section 46-A of the Banking Regulation Act and can be prosecuted under the Prevention of Corruption Act, 1988. This entry's research could not confirm whether the underlying corruption trial against Gelli has since concluded, though a related clarificatory order in the case was recorded as late as February 2023.",
+    "asOfDate": "2023-02-21",
+    "sourceIds": [
+      "src-gtb-rbi-pr",
+      "src-gtb-sc-judgment"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Depositor/shareholder capital promised safe vs. shareholder value actually preserved",
+    "unit": "INR crore",
+    "targetValue": 100,
+    "actualValue": 0,
+    "targetDisplay": "Full value of GTB shares expected to be preserved under prudent bank management",
+    "actualDisplay": "No swap ratio or compensation given to GTB shareholders in the OBC amalgamation",
+    "targetLabel": "Shareholder value expected",
+    "actualLabel": "Shareholder value realised",
+    "note": "This gap illustrates that while RBI's forced merger protected depositors from loss, GTB's own shareholders' equity was effectively wiped out with no compensation, reflecting the scale of the bank's negative net worth at the time of the moratorium."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2001-01-01",
+      "label": "Gelli forced to resign after failed UTI Bank merger",
+      "detail": "RBI forces Ramesh Gelli to resign as CMD and later removes him from GTB's board following a failed merger attempt and mounting regulatory concerns.",
+      "type": "milestone"
+    },
+    {
+      "date": "2004-07-24",
+      "label": "RBI imposes moratorium on GTB",
+      "detail": "RBI places a three-month moratorium on Global Trust Bank's deposits and loans, citing negative net worth and wrong financial disclosures.",
+      "type": "milestone"
+    },
+    {
+      "date": "2004-07-26",
+      "label": "Draft compulsory merger with OBC announced",
+      "detail": "RBI publishes a draft scheme under Section 45 of the Banking Regulation Act to compulsorily amalgamate GTB into Oriental Bank of Commerce.",
+      "type": "announcement"
+    },
+    {
+      "date": "2004-08-14",
+      "label": "GTB-OBC amalgamation takes effect",
+      "detail": "Oriental Bank of Commerce formally absorbs GTB's branches, ATMs, and roughly one million customers; GTB shareholders receive no share-swap compensation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-02-23",
+      "label": "Supreme Court revives CBI case against Gelli",
+      "detail": "The Supreme Court holds that bank CMDs are public servants under the Prevention of Corruption Act, reversing lower courts and allowing CBI's prosecution of Ramesh Gelli over the alleged Beautiful Diamonds Ltd loan irregularity to proceed.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-02-21",
+      "label": "Related Supreme Court order recorded",
+      "detail": "A clarificatory order tied to the 2016 judgment is recorded in the case docket; this entry could not confirm the underlying trial's current status beyond this.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "GTB itself ceased to exist as an independent entity via the 2004 compulsory merger, which was a regulatory/administrative action rather than a criminal proceeding. Separately, the CBI pursued a Prevention of Corruption Act case against founder Ramesh Gelli and executive director Sridhar Subasri over an alleged irregular loan sanction to Beautiful Diamonds Ltd; the Supreme Court cleared the way for this prosecution to proceed in February 2016 by ruling that private bank executives are public servants under the Act. This entry's research could not confirm whether that trial has since reached a verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Ramesh Gelli",
+        "role": "Founder, Chairman and Managing Director, Global Trust Bank",
+        "outcome": "Forced to resign in 2001; later faced a CBI corruption case over an alleged irregular loan sanction, which the Supreme Court allowed to proceed in February 2016. This entry could not confirm the trial's current status or any conviction; presumption of innocence applies pending any verdict."
+      },
+      {
+        "name": "Sridhar Subasri",
+        "role": "Executive Director, Global Trust Bank",
+        "outcome": "Co-accused with Gelli in the same CBI case; Supreme Court allowed prosecution to proceed in 2016. Current trial status not confirmed by this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated regulatory failure and forced resolution: RBI's own press releases document the moratorium and compulsory merger, and a Supreme Court judgment documents the surviving corruption case against GTB's founder. It is not, however, a case of a proven, concluded criminal fraud verdict — the merger was a supervisory rescue of depositors' interests, and the parallel corruption prosecution against Gelli remained legally live as of the last confirmed record in 2023, with no confirmed final verdict.",
+    "confidence": "low",
+    "reasoning": "The 2004 moratorium and merger are well-documented via RBI's own press release and multiple contemporaneous reports. The corruption case against Gelli is documented through Supreme Court judgments, but this entry could not find sources confirming the trial's conclusion, making the final legal outcome an open question."
+  },
+  "incomplete": [
+    "The current status (2023-2026) of the CBI's Prevention of Corruption Act trial against Ramesh Gelli and Sridhar Subasri has not been confirmed — whether it has concluded, and with what verdict, remains unverified.",
+    "The precise extent of GTB's negative net worth at the time of the moratorium, and any subsequent recovery proceedings against GTB's former promoters relating to the alleged Ketan Parekh-linked lending, were not independently confirmed in this entry's research.",
+    "Whether any other regulatory or criminal action was taken against other GTB executives beyond Gelli and Subasri has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-gtb-rbi-pr",
+      "label": "Draft Scheme of GTB-OBC Amalgamation",
+      "type": "primary",
+      "publisher": "Reserve Bank of India",
+      "date": "2004-07-26",
+      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=10428"
+    },
+    {
+      "id": "src-gtb-sc-judgment",
+      "label": "C.B.I., Bank Securities & Fraud Cell vs Ramesh Gelli & Ors.",
+      "type": "primary",
+      "publisher": "Supreme Court of India (via Indian Kanoon)",
+      "date": "2016-02-23",
+      "url": "https://indiankanoon.org/doc/30121571/"
+    },
+    {
+      "id": "src-gtb-wiki-india",
+      "label": "Global Trust Bank (India)",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Global_Trust_Bank_(India)"
+    },
+    {
+      "id": "src-gtb-wiki-gelli",
+      "label": "Ramesh Gelli",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Ramesh_Gelli"
+    },
+    {
+      "id": "src-gtb-bs-merger",
+      "label": "GTB to be merged with OBC",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2004-07-26",
+      "url": "https://www.business-standard.com/article/finance/gtb-to-be-merged-with-obc-104072601033_1.html"
+    },
+    {
+      "id": "src-gtb-moneylife-sc",
+      "label": "Private Bankers Are Public Servants, decrees the SC",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2016-02-24",
+      "url": "https://www.moneylife.in/article/private-bankers-are-public-servants-decrees-the-sc/46158.html"
+    }
+  ]
+}

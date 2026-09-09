@@ -1,0 +1,148 @@
+{
+  "id": "KB-2101",
+  "slug": "karnataka-valmiki-corporation-scam",
+  "title": "The Karnataka Valmiki Corporation Scam",
+  "dek": "A state welfare corporation meant to fund Scheduled Tribe development instead saw crores diverted through shell accounts — uncovered only after an accounts official died by suicide and left behind a note. A minister resigned within days; the money trail is still being traced.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 159,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2024-05-28",
+  "heroStat": {
+    "value": "₹94 cr",
+    "label": "in Scheduled Tribe welfare funds the CBI and a state SIT allege was diverted out of the Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation"
+  },
+  "promise": {
+    "quote": "Funds held by the Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation shall be applied to schemes for the economic and educational development of Scheduled Tribe communities, and safeguarded through the corporation's own accounting controls and bank oversight.",
+    "madeBy": "Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation Limited, a Government of Karnataka undertaking",
+    "role": "State welfare corporation under the Department of Scheduled Tribes Welfare",
+    "date": "2024-02-26",
+    "context": "This reflects the corporation's basic statutory purpose and fiduciary duty over welfare funds rather than a specific quoted pledge, since this entry has not reviewed the corporation's founding statute or a specific ministerial statement directly.",
+    "sourceIds": [
+      "src-valmiki-wiki"
+    ]
+  },
+  "target": {
+    "description": "That funds held in the Valmiki Corporation's bank accounts — meant for Scheduled Tribe welfare schemes — would be disbursed only for their sanctioned purpose, with transfers authorised and traceable under normal banking and government accounting controls.",
+    "standard": "Karnataka state government financial rules governing welfare-corporation accounts, and Reserve Bank of India know-your-customer and transaction-monitoring norms applicable to the banks involved.",
+    "referenceDate": "2024-02-26"
+  },
+  "reality": {
+    "description": "On 26 February 2024, roughly ₹88 million (about ₹8.8 crore of an ₹18.7 crore allocation) held in a Valmiki Corporation account at a Union Bank of India branch on MG Road, Bengaluru, was transferred out to a cooperative society account and then redistributed across multiple accounts. The diversion came to light after Chandrashekaran P., an accounts superintendent at the corporation, died by suicide on 28 May 2024 at his residence in Shimoga, leaving a five-page note describing unauthorised fund transfers totalling far more — reports citing the note put the wider figure at over ₹187 crore across the corporation's accounts. Officials named in the note were suspended within days, and Karnataka's Minister for Scheduled Tribes Welfare, B. Nagendra, resigned on 6 June 2024 amid the political fallout, denying wrongdoing. Karnataka's state SIT arrested several suspended officials, including former managing directors and accounts staff, in connection with the diversion and the creation of accounts used to route the money. The Karnataka High Court subsequently allowed the CBI to also investigate the alleged diversion of a further roughly ₹2.17 crore of ST Welfare Department funds and ₹95 lakh from the Karnataka Gramin Technical Training Institute, and the CBI and ED conducted searches, including at the premises of B. Nagendra, in June and July 2024. As of this entry, the CBI and SIT investigations are continuing and no trial verdict has been reached.",
+    "asOfDate": "2024-07-10",
+    "sourceIds": [
+      "src-valmiki-wiki",
+      "src-valmiki-livelaw",
+      "src-valmiki-deccanherald"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Welfare funds diverted (as alleged) vs. amount recovered or established at trial to date",
+    "unit": "INR crore",
+    "targetValue": 94,
+    "actualValue": 0,
+    "targetDisplay": "≈₹94 cr diverted, per CBI/SIT figures",
+    "actualDisplay": "₹0 formally recovered or proven at trial as of this entry",
+    "targetLabel": "Alleged diversion",
+    "actualLabel": "Recovered / proven",
+    "note": "Figures for the total diverted amount vary across reports — from roughly ₹88 crore to over ₹187 crore depending on which accounts and transfers are counted — reflecting that the full scope of the diversion was still being mapped by investigators as of this entry."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 18.7,
+    "allocatedLabel": "Portion of the corporation's budget allocation from which funds were diverted (per reporting on the 26 Feb 2024 transaction)",
+    "spent": 94,
+    "spentLabel": "Amount CBI/SIT investigators have alleged was diverted",
+    "unit": "crore",
+    "notes": "Reported figures for the scale of the diversion differ significantly across sources; this entry flags that range in incomplete[] rather than asserting a single precise total.",
+    "sourceIds": [
+      "src-valmiki-wiki"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2024-02-26",
+      "label": "Disputed funds transferred out",
+      "detail": "Around ₹8.8 crore from an ₹18.7 crore Valmiki Corporation allocation is transferred from its Union Bank of India account to a cooperative society account and then redistributed.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-05-28",
+      "label": "Accounts official's suicide exposes the scam",
+      "detail": "Corporation accounts superintendent Chandrashekaran P. dies by suicide, leaving a note alleging much larger unauthorised fund transfers.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-06",
+      "label": "Minister B. Nagendra resigns",
+      "detail": "Karnataka's Scheduled Tribes Welfare Minister resigns amid the political fallout, denying personal wrongdoing.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-24",
+      "label": "Enforcement Directorate opens probe",
+      "detail": "The ED begins a parallel money-laundering investigation into the fund diversion.",
+      "type": "status"
+    },
+    {
+      "date": "2024-07-10",
+      "label": "CBI and ED raid former minister's premises",
+      "detail": "Agencies search properties linked to B. Nagendra and corporation chairman Basanagouda Daddal as the CBI is permitted by the Karnataka High Court to widen its probe.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Investigations by Karnataka's state SIT, the CBI, and the ED are ongoing. Several suspended corporation officials have been arrested; B. Nagendra has been named and his premises searched but, as of this entry, has not been convicted of any offence and denies wrongdoing. No trial verdict has been reached.",
+    "keyIndividuals": [
+      {
+        "name": "B. Nagendra",
+        "role": "Former Karnataka Minister for Scheduled Tribes Welfare, Youth Empowerment and Sports",
+        "outcome": "Resigned in June 2024; premises searched by CBI and ED; denies wrongdoing. No verdict; presumed innocent pending investigation and any trial."
+      },
+      {
+        "name": "Basanagouda Daddal",
+        "role": "Chairman, Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation",
+        "outcome": "Premises searched by ED. No verdict; presumed innocent pending investigation."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real and serious diversion of Scheduled Tribe welfare funds is well documented and triggered a minister's resignation, but the full amount diverted, how far up the diversion reached, and any individual's criminal culpability remain under active CBI, SIT, and ED investigation with no trial verdict yet.",
+    "confidence": "medium",
+    "reasoning": "The core facts — the suicide, the note, the resignation, and the CBI/ED searches — are corroborated across multiple independent outlets and a Karnataka High Court order permitting the CBI probe, but this entry has not reviewed the suicide note, the SIT chargesheet, or any court order directly, and the total diverted amount is reported inconsistently across sources."
+  },
+  "incomplete": [
+    "This entry has not reviewed Chandrashekaran P.'s suicide note, the SIT's chargesheet, or the Karnataka High Court's order directly — it relies on news reporting and a general encyclopedia summary of them.",
+    "Reported figures for the total amount diverted range from roughly ₹88 crore to over ₹187 crore across sources; this entry has not resolved which figure reflects the final investigative finding.",
+    "The current stage of the SIT and CBI investigations, and whether any chargesheet has since been filed, has not been confirmed beyond July 2024."
+  ],
+  "sources": [
+    {
+      "id": "src-valmiki-wiki",
+      "label": "Valmiki Corporation scam (Karnataka)",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-08-01",
+      "url": "https://en.wikipedia.org/wiki/Valmiki_Corporation_scam_(Karnataka)"
+    },
+    {
+      "id": "src-valmiki-livelaw",
+      "label": "Valmiki Corporation Scam: Karnataka High Court Allows CBI To Investigate Alleged Diversion Of Funds From KGTTI & ST Welfare Dept",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2024-07-01",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/valmiki-corporation-scam-karnataka-high-court-allows-cbi-to-investigate-diversion-of-funds-from-kgtti-st-welfare-dept-296304"
+    },
+    {
+      "id": "src-valmiki-deccanherald",
+      "label": "Valmiki scam: CBI finds more irregularities, funds diversions linked to ex-minister Nagendra",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-07-10",
+      "url": "https://www.deccanherald.com/india/karnataka/valmiki-scam-cbi-finds-more-irregularities-funds-diversions-linked-to-ex-minister-nagendra-3728878"
+    }
+  ]
+}

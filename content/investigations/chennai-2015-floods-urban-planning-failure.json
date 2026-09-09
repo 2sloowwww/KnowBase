@@ -1,0 +1,120 @@
+{
+  "id": "KB-2201",
+  "slug": "chennai-2015-floods-urban-planning-failure",
+  "title": "The 2015 Chennai Floods: When the CAG Called a 'Natural' Disaster Man-Made",
+  "dek": "Chennai's civic authorities were mandated to build a stormwater drainage network across the city and stop encroachment on its waterways. When record rainfall struck in December 2015, killing over 280 people in Tamil Nadu, a CAG audit found only 26% of the city's roads had stormwater drains, thousands of rainwater harvesting structures were missing, and the city's planning authority had let construction choke the water bodies meant to absorb the flood.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 77,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2015-12-01",
+  "heroStat": {
+    "value": "26%",
+    "label": "Share of Chennai's 7,303 km road network that had stormwater drains at the time of the 2015 floods, per CAG"
+  },
+  "promise": {
+    "quote": "The flooding was largely a man-made disaster caused by the failure of authorities to check large-scale construction along waterways, illegal conversion of agricultural land and water bodies, and inadequate storm water drainage infrastructure.",
+    "madeBy": "Comptroller and Auditor General of India",
+    "role": "Constitutional auditor of Tamil Nadu's government finances and infrastructure",
+    "date": "2018-07-09",
+    "context": "Summary characterisation, drawn from the CAG's own performance audit report on the disaster tabled in the Tamil Nadu Assembly, of the gap between the drainage and land-use planning duties assigned to city agencies and their conduct before the floods.",
+    "sourceIds": [
+      "src-chennai-cag-report"
+    ]
+  },
+  "target": {
+    "description": "A stormwater drainage network covering the city's road length, adequate rainwater harvesting infrastructure, completed JNNURM drainage projects, and land-use enforcement by the Chennai Metropolitan Development Authority (CMDA) preventing construction on waterways and water bodies.",
+    "standard": "Chennai City Municipal Corporation Act; Jawaharlal Nehru National Urban Renewal Mission (JNNURM) project norms; CMDA land-use and building regulations",
+    "referenceDate": "2015-12-01"
+  },
+  "reality": {
+    "description": "A CAG performance audit tabled in the Tamil Nadu Assembly in July 2018 found that the Greater Chennai Corporation had built stormwater drains covering only 1,894 km of the city's 7,303 km road network — about 26% — with poor design and missing links in the network. The Corporation had constructed only 9,113 rainwater harvesting structures against an assessed requirement of 63,133. Eight drainage-related projects funded under the JNNURM remained unfinished, the CAG found, due to encroachments and a lack of coordination between departments. The audit separately held the CMDA responsible for failing to check large-scale construction along waterways and the illegal conversion of agricultural land and water bodies in the years before the floods, framing the scale of the December 2015 disaster — in which over 280 people died across Tamil Nadu and Chennai was left submerged for days — as substantially a product of these governance failures rather than rainfall alone. The Madras High Court has separately questioned the state and Chennai Corporation on what preventive steps were taken in the years after the floods, warning of suo motu proceedings over the city's continuing flood-preparedness gaps.",
+    "asOfDate": "2018-07-09",
+    "sourceIds": [
+      "src-chennai-cag-report",
+      "src-chennai-swarajya",
+      "src-chennai-hc"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Rainwater harvesting structures required vs. actually constructed by Greater Chennai Corporation",
+    "unit": "structures",
+    "targetValue": 63133,
+    "actualValue": 9113,
+    "targetDisplay": "63,133 assessed as required",
+    "actualDisplay": "9,113 actually built",
+    "targetLabel": "Required",
+    "actualLabel": "Built",
+    "note": "Figures per the CAG performance audit report on the 2015 Chennai floods, tabled in the Tamil Nadu Legislative Assembly on 9 July 2018."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2015-11-01",
+      "label": "Record northeast monsoon rainfall begins",
+      "detail": "Unusually heavy northeast monsoon rains begin over Tamil Nadu, culminating in record December rainfall over Chennai.",
+      "type": "announcement"
+    },
+    {
+      "date": "2015-12-01",
+      "label": "Chennai floods peak",
+      "detail": "Record rainfall floods large parts of Chennai and Tamil Nadu; over 280 people are reported to have died in the state, and the city is left submerged for days.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-07-09",
+      "label": "CAG tables performance audit on the floods",
+      "detail": "The Comptroller and Auditor General tables a report in the Tamil Nadu Assembly finding the Greater Chennai Corporation's stormwater drainage covered only 26% of the city's road network and faulting the CMDA for failing to prevent construction on waterways.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Madras High Court questions post-flood preparedness",
+      "detail": "The Madras High Court asks state authorities and the Chennai Corporation what steps were taken since 2015 to prevent a repeat, warning of suo motu proceedings.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a governance and infrastructure-planning failure documented through a CAG performance audit and judicial questioning, not a criminal case. No individual official has been prosecuted or convicted specifically over the 2015 flood-preparedness failures identified in the audit.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's constitutional auditor examined the 2015 Chennai floods and concluded the scale of the disaster reflected governance failure as much as extreme rainfall: a stormwater drainage network built for barely a quarter of the city, rainwater harvesting infrastructure delivered at roughly one-seventh of the assessed need, unfinished nationally funded drainage projects, and years of unchecked construction on the waterways meant to carry away floodwater.",
+    "confidence": "high",
+    "reasoning": "The CAG performance audit is a primary institutional source and its findings are corroborated across multiple independent news reports. This entry has not directly reviewed the full CAG report text, relying on its findings as reported by Business Standard, Deccan Chronicle and Swarajya."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the full CAG performance audit report, relying on independent reporting of its findings.",
+    "The current (2026) status of Chennai's stormwater drainage coverage and rainwater harvesting infrastructure has not been verified.",
+    "The outcome of the Madras High Court's questioning of state authorities on post-2015 flood preparedness has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-chennai-cag-report",
+      "label": "CAG faults CMDA over 2015 Chennai floods",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2018-07-09",
+      "url": "https://www.business-standard.com/article/pti-stories/cag-faults-cmda-over-2015-chennai-floods-118070901025_1.html"
+    },
+    {
+      "id": "src-chennai-swarajya",
+      "label": "2015 Chennai Floods Man-Made, Officials Failed To Take Proper Steps to Prevent Damage: CAG Report",
+      "type": "independent",
+      "publisher": "Swarajya",
+      "date": "2018-07-10",
+      "url": "https://swarajyamag.com/insta/2015-chennai-floods-man-made-officials-failed-to-take-proper-steps-to-prevent-damage-cag-report"
+    },
+    {
+      "id": "src-chennai-hc",
+      "label": "What were authorities doing post 2015 floods, asks Madras HC, warns Chennai Corporation of suo motu proceedings",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-01-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fwhat-were-authorities-doing-post-2015-floods-asks-madras-hc-warns-chennai-corporation-of-suo-motu-proceedings-1048755.html"
+    }
+  ]
+}

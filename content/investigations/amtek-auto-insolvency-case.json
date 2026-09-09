@@ -1,0 +1,159 @@
+{
+  "id": "KB-1004",
+  "slug": "amtek-auto-insolvency-case",
+  "title": "Amtek Auto: The Original 'Dirty Dozen' Default",
+  "dek": "One of RBI's first 12 mega-defaulters referred for compulsory insolvency in 2017, Amtek Auto took over seven years, a collapsed ₹4,025-crore Liberty House deal, and an eventual 80% lender haircut before it finally emerged — reborn as Revent Precision Engineering.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 122,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-06-13",
+  "heroStat": {
+    "value": "~80%",
+    "label": "haircut lenders ultimately took on Amtek Auto's roughly ₹12,700 crore of dues under the resolution plan that finally completed in December 2021"
+  },
+  "promise": {
+    "quote": "Amtek Auto Ltd, as a listed auto-components manufacturer that borrowed heavily from India's banking system to fund rapid, debt-driven acquisitions, was expected to service its loan obligations and to be resolved promptly and value-maximisingly if it defaulted, per the framework the Insolvency and Bankruptcy Code introduced in 2016.",
+    "madeBy": "Amtek Auto Ltd promoters and management, under founder Arvind Dham",
+    "role": "Promoter and Chairman, Amtek Auto Ltd",
+    "date": "2015-01-01",
+    "context": "This reflects the general repayment obligation of a large corporate borrower and the promise of a swift IBC resolution, rather than a specific public quotation by Amtek's promoters.",
+    "sourceIds": [
+      "src-amtek-overview"
+    ]
+  },
+  "target": {
+    "description": "That Amtek Auto, after being identified by the RBI in June 2017 as one of the 'dirty dozen' large defaulting accounts requiring compulsory reference to the National Company Law Tribunal, would be resolved through the recently-enacted Insolvency and Bankruptcy Code's target 180-270 day timeline, maximising value for creditors.",
+    "standard": "The Insolvency and Bankruptcy Code, 2016, and RBI's June 2017 internal advisory committee direction requiring banks to refer 12 large NPA accounts (including Amtek Auto) to the NCLT for time-bound resolution.",
+    "referenceDate": "2017-07-24"
+  },
+  "reality": {
+    "description": "Amtek Auto — a Delhi-based auto-components maker that had expanded aggressively through debt-funded acquisitions — was named by the RBI in June 2017 as one of 12 large non-performing accounts that banks were directed to refer for compulsory insolvency resolution under the newly enacted IBC. The Corporate Insolvency Resolution Process began in mid-2017 with dues eventually claimed at around ₹12,700 crore. In July 2018, the NCLT's Chandigarh bench approved a resolution plan from UK-based Liberty House Group, valued at roughly ₹4,025 crore (₹3,225 crore upfront plus ₹500-800 crore of committed fresh investment). Liberty House then failed to furnish the required performance guarantee, set up escrow arrangements, or meet tribunal-imposed deadlines, and the Committee of Creditors sought to invoke Section 74 of the IBC against it for failing to implement the approved plan in bad faith. The case was effectively restarted, triggering years of fresh litigation, competing bids, and appeals before the NCLT, NCLAT and Supreme Court. A resolution plan from US-based Deccan Value Investors LP was eventually approved (reported around July 2020) at a value of roughly ₹2,650 crore against admitted claims of about ₹12,700 crore — an approximately 80% haircut for lenders — with the acquisition completing around December 2021 and the company subsequently renamed Revent Precision Engineering Ltd.",
+    "asOfDate": "2021-12-01",
+    "sourceIds": [
+      "src-amtek-liberty-house",
+      "src-amtek-liberty-failure",
+      "src-amtek-dvi"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total admitted lender claims vs. actual amount recovered under the final approved resolution plan",
+    "unit": "INR crore",
+    "targetValue": 12700,
+    "actualValue": 2650,
+    "targetDisplay": "₹12,700 cr in admitted lender dues",
+    "actualDisplay": "₹2,650 cr resolution value under the Deccan Value Investors plan",
+    "targetLabel": "Amount owed to lenders",
+    "actualLabel": "Amount actually recovered",
+    "note": "This reflects an approximately 80% haircut for creditors, and does not count the multi-year delay and value erosion caused by the intervening collapse of the Liberty House resolution plan, which added years to the process without any recovery."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 12700,
+    "allocatedLabel": "Total lender dues admitted in Amtek Auto's insolvency process",
+    "released": 2650,
+    "releasedLabel": "Approximate resolution value under the Deccan Value Investors plan that finally completed the case",
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "An earlier resolution plan by Liberty House Group, valued around ₹4,025 crore, was approved by NCLT in 2018 but collapsed when Liberty House failed to implement it, resulting in a lower ultimate recovery for lenders after further delay.",
+    "sourceIds": [
+      "src-amtek-liberty-house",
+      "src-amtek-dvi"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017-06-13",
+      "label": "RBI names Amtek Auto in 'dirty dozen'",
+      "detail": "RBI's Internal Advisory Committee identifies Amtek Auto as one of 12 large accounts, each with over ₹5,000 crore in NPAs, to be mandatorily referred to the NCLT for insolvency resolution.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-07-24",
+      "label": "CIRP begins",
+      "detail": "Amtek Auto's Corporate Insolvency Resolution Process formally commences before the NCLT's Chandigarh bench.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-07-25",
+      "label": "NCLT approves Liberty House bid",
+      "detail": "NCLT approves a resolution plan from Liberty House Group valued at roughly ₹4,025 crore, the only compliant bid received.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-12-28",
+      "label": "Creditors seek to bar Liberty House",
+      "detail": "Amtek Auto's Committee of Creditors moves to bar Liberty House from the resolution process after it fails to meet conditions (performance guarantee, escrow, deadlines) of its approved plan.",
+      "type": "delay"
+    },
+    {
+      "date": "2019-01-09",
+      "label": "Lenders seek fresh resolution process",
+      "detail": "With the Liberty House plan effectively dead, lenders approach NCLT to restart the resolution process for Amtek Auto from scratch.",
+      "type": "delay"
+    },
+    {
+      "date": "2020-07-01",
+      "label": "Deccan Value Investors plan approved",
+      "detail": "A resolution plan from US-based Deccan Value Investors LP, valued at roughly ₹2,650 crore against ₹12,700 crore in claims (about an 80% haircut), is approved.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-12-01",
+      "label": "Acquisition completes; company renamed",
+      "detail": "Deccan Value Investors completes its acquisition of Amtek Auto, which is subsequently renamed Revent Precision Engineering Ltd.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was a corporate insolvency resolution under the IBC, not a criminal fraud prosecution. The core failure was procedural and commercial: an NCLT-approved resolution plan (Liberty House) collapsed after the winning bidder failed to honour its commitments, forcing a multi-year restart that this entry has not found to have produced any criminal liability for Liberty House or Amtek's original promoters.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Amtek Auto was one of the marquee test cases for India's then-new insolvency law, and its resolution ultimately succeeded in transferring the company to a new owner — but only after more than seven years, a completely collapsed resolution plan by a bidder who did not honour its bid, and a final creditor recovery of roughly 20 cents on the rupee owed. It illustrates both the IBC's eventual capacity to resolve mega-defaults and its early vulnerability to bidders who could not or would not perform.",
+    "confidence": "medium",
+    "reasoning": "The RBI's original 'dirty dozen' designation, the Liberty House approval and subsequent collapse, and the Deccan Value Investors resolution are each corroborated by multiple independent business-press sources, but this entry has not reviewed the underlying NCLT/NCLAT orders directly, and precise final recovery percentages vary slightly across sources."
+  },
+  "incomplete": [
+    "This entry has not reviewed the primary NCLT/NCLAT/Supreme Court orders in the case directly; all figures are drawn from secondary business-press reporting, which shows some variation in exact claim and resolution-value figures.",
+    "Whether Liberty House Group or its principals faced any penalty or liability (e.g., under Section 74 IBC or elsewhere) for failing to implement their approved resolution plan has not been confirmed.",
+    "Post-acquisition performance of the renamed Revent Precision Engineering Ltd has not been assessed here."
+  ],
+  "sources": [
+    {
+      "id": "src-amtek-overview",
+      "label": "What happened to the two-year old NPA cases amounting to Rs 3.45 lakh crore?",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2019-10-28",
+      "url": "https://www.businesstoday.in/latest/economy-politics/story/what-happened-to-the-two-year-old-npa-cases-amounting-to-rs-3-45-lakh-crore-235355-2019-10-28"
+    },
+    {
+      "id": "src-amtek-liberty-house",
+      "label": "NCLT approves Liberty House bid for Amtek Auto",
+      "type": "independent",
+      "publisher": "Business Standard / PTI",
+      "date": "2018-07-25",
+      "url": "https://www.business-standard.com/amp/article/pti-stories/nclt-approves-liberty-house-bid-for-amtek-auto-118072501584_1.html"
+    },
+    {
+      "id": "src-amtek-liberty-failure",
+      "label": "Amtek Auto Ltd. Restarts Insolvency Proceedings- Did Liberty House Escape The Liability?",
+      "type": "independent",
+      "publisher": "Mondaq",
+      "date": "2019-02-01",
+      "url": "https://www.mondaq.com/india/insolvencybankruptcy/829040/amtek-auto-ltd-restarts-insolvency-proceedings-did-liberty-house-escape-the-liability"
+    },
+    {
+      "id": "src-amtek-dvi",
+      "label": "Reviving Amtek Auto Ltd. Under IBC: Key Takeaways",
+      "type": "independent",
+      "publisher": "Areness Law",
+      "date": "2022-01-01",
+      "url": "https://www.arenesslaw.com/reviving-amtek-auto-ltd-under-ibc-key-takeaways/"
+    }
+  ]
+}

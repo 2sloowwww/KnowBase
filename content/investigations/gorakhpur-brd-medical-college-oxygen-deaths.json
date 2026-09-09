@@ -1,0 +1,147 @@
+{
+  "id": "KB-2205",
+  "slug": "gorakhpur-brd-medical-college-oxygen-deaths",
+  "title": "The Gorakhpur Oxygen Deaths: A Hospital That Ran Out of Air Over an Unpaid Bill",
+  "dek": "BRD Medical College, Uttar Pradesh's largest referral hospital for a chronically encephalitis-hit region, was supposed to keep its liquid-oxygen supply uninterrupted. In August 2017 the supplier cut off oxygen over pending payments, and more than 60 children died within days — after which the state government blamed and jailed a junior doctor who a later departmental inquiry cleared of medical negligence.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 84,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2017-08-11",
+  "heroStat": {
+    "value": "63 deaths",
+    "label": "Children reported to have died at BRD Medical College, Gorakhpur, over roughly four days in August 2017 amid the liquid-oxygen shortage"
+  },
+  "promise": {
+    "quote": "There was no shortage of oxygen and no death took place due to lack of oxygen supply.",
+    "madeBy": "Government of Uttar Pradesh",
+    "role": "State government, in initial public statements following the deaths at BRD Medical College",
+    "date": "2017-08-13",
+    "context": "The state government's initial position after the deaths became public, before subsequent reporting and a departmental inquiry established that the hospital's liquid-oxygen supplier had in fact cut off supply over unpaid dues, forcing staff to arrange oxygen cylinders manually.",
+    "sourceIds": [
+      "src-gkp-context"
+    ]
+  },
+  "target": {
+    "description": "Uninterrupted liquid-oxygen supply to a government medical college's paediatric and encephalitis wards, maintained through timely payment of supplier dues by the state health department, as a basic condition of hospital patient safety.",
+    "standard": "Uttar Pradesh state health department's contractual and budgetary responsibility for maintaining critical hospital supplies at government medical colleges",
+    "referenceDate": "2017-08-01"
+  },
+  "reality": {
+    "description": "In August 2017, the liquid-oxygen supplier to BRD Medical College, Gorakhpur, cut off supply citing unpaid dues from the state government, and over a period of roughly four days at least 63 children died at the hospital, many of them in its encephalitis and paediatric wards, according to widely reported figures at the time. Dr. Kafeel Khan, a junior doctor placed in charge of the encephalitis ward during the crisis, was accused by the state government of medical negligence, corruption and running a private practice, and was jailed for approximately nine months pending a criminal case. A departmental inquiry, whose report was submitted in April 2019, cleared Khan of the charges of medical negligence, corruption and dereliction of duty, finding he was not in fact the officially designated nodal medical officer in charge of the encephalitis ward and that documents produced against him by the department were inadequate and inconsistent; the inquiry additionally found Khan had made efforts to arrange oxygen cylinders to keep patients alive during the shortage. Despite being cleared by the departmental inquiry, Khan remained suspended from the medical college for a further period and later moved courts against his termination.",
+    "asOfDate": "2019-04-18",
+    "sourceIds": [
+      "src-gkp-inquiry-clears",
+      "src-gkp-death-toll",
+      "src-gkp-termination"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Government's initial public claim of zero oxygen-linked deaths vs. reported child deaths during the shortage period",
+    "unit": "deaths",
+    "targetValue": 0,
+    "actualValue": 63,
+    "targetDisplay": "0 deaths claimed by state government",
+    "actualDisplay": "63 deaths reported over ~4 days",
+    "targetLabel": "Official initial claim",
+    "actualLabel": "Reported deaths",
+    "note": "The state government's initial position was that no death was linked to an oxygen shortage; independent reporting at the time and subsequent accounts documented dozens of deaths coinciding with the liquid-oxygen supply cutoff."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2017-08-10",
+      "label": "Oxygen supplier cuts off supply over unpaid dues",
+      "detail": "BRD Medical College's liquid-oxygen supplier halts deliveries, citing outstanding payments owed by the state government and hospital administration.",
+      "type": "delay"
+    },
+    {
+      "date": "2017-08-11",
+      "label": "Child deaths surge over following days",
+      "detail": "Over roughly four days, more than 60 children die at the hospital, with reporting linking the deaths to the oxygen shortage and hospital staff scrambling to arrange cylinders manually.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-08-13",
+      "label": "State government denies oxygen-linked deaths",
+      "detail": "The Uttar Pradesh government initially states publicly that no death occurred due to lack of oxygen supply.",
+      "type": "status"
+    },
+    {
+      "date": "2017-09-01",
+      "label": "Dr. Kafeel Khan arrested and jailed",
+      "detail": "Dr. Kafeel Khan, a doctor placed in charge of the encephalitis ward during the crisis, is arrested on charges including medical negligence, corruption and dereliction of duty, and is jailed for approximately nine months.",
+      "type": "status"
+    },
+    {
+      "date": "2019-04-18",
+      "label": "Departmental inquiry clears Khan of all charges",
+      "detail": "A state departmental inquiry report clears Dr. Kafeel Khan of medical negligence, corruption and dereliction of duty, finding he was not the officially designated nodal officer for the ward and had made efforts to arrange oxygen for patients.",
+      "type": "status"
+    },
+    {
+      "date": "2019-09-01",
+      "label": "Khan dismissed despite exoneration; challenges termination",
+      "detail": "Despite the inquiry clearing him, Dr. Khan is later dismissed from BRD Medical College and moves the High Court against his termination.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Dr. Kafeel Khan was jailed for roughly nine months on charges including medical negligence and corruption, but a state departmental inquiry submitted in April 2019 cleared him of all these charges. He was nonetheless later dismissed from service and challenged that termination in court. No hospital administrator or health department official responsible for the unpaid oxygen-supplier dues that triggered the shortage was reported to have faced equivalent prosecution in the sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Dr. Kafeel Khan",
+        "role": "Doctor placed in charge of the BRD Medical College encephalitis ward during the August 2017 crisis",
+        "outcome": "Arrested and jailed for approximately nine months on charges of medical negligence, corruption and dereliction of duty; cleared of all these charges by a departmental inquiry report in April 2019; later dismissed from the college despite the exoneration and challenged the dismissal in court."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The state's own subsequent departmental inquiry establishes that the proximate cause of the crisis was an administrative and budgetary failure — an unpaid oxygen bill that triggered a critical hospital supply cutoff — while the government's initial public response was to deny the oxygen shortage happened at all and then to prosecute a junior doctor who the same government's own later inquiry cleared of wrongdoing.",
+    "confidence": "high",
+    "reasoning": "The chronology of the oxygen cutoff, death toll, Khan's arrest and his subsequent exoneration by departmental inquiry is corroborated across multiple independent outlets reporting on the same official inquiry report. Confidence is not higher because this entry has not reviewed the departmental inquiry report itself, and death-toll figures varied somewhat across contemporaneous reports."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the departmental inquiry report that cleared Dr. Kafeel Khan, relying on secondary reporting of its findings.",
+    "Whether any hospital administrator, principal, or health department official was held accountable for the non-payment of oxygen-supplier dues that triggered the shortage has not been confirmed in the sources reviewed.",
+    "The final outcome of Dr. Khan's legal challenge to his dismissal, and the current (2026) status of that litigation, has not been verified.",
+    "Precise death-toll figures varied across contemporaneous 2017 reports (commonly cited between roughly 30 and 70 deaths depending on the time window and cause-attribution counted); this entry uses the widely-reported figure of 63 without independently reconciling the variance."
+  ],
+  "sources": [
+    {
+      "id": "src-gkp-inquiry-clears",
+      "label": "2 yrs on, UP probe clears Gorakhpur doctor Kafeel Khan of medical negligence, other charges",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2019-04-18",
+      "url": "https://theprint.in/india/2-yrs-on-up-probe-clears-gorakhpur-doctor-kafeel-khan-of-medical-negligence-other-charges/297586/"
+    },
+    {
+      "id": "src-gkp-death-toll",
+      "label": "Gorakhpur child deaths: Probe absolves Dr Kafeel Khan of all charges, praises him for saving lives",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2019-04-18",
+      "url": "https://scroll.in/latest/938688/gorakhpur-child-deaths-probe-absolves-dr-kafeel-khan-of-all-charges-praises-him-for-saving-lives"
+    },
+    {
+      "id": "src-gkp-termination",
+      "label": "Dr Kafeel Khan to move High Court against termination",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2019-09-01",
+      "url": "https://www.deccanherald.com/india/kafeel-khan-to-move-high-court-against-termination-1053647.html"
+    },
+    {
+      "id": "src-gkp-context",
+      "label": "Dr Kafeel: Was punished for a crime I didn't commit",
+      "type": "independent",
+      "publisher": "Hindustan Times (via PressReader)",
+      "date": "2019-09-28",
+      "url": "https://www.pressreader.com/india/hindustan-times-lucknow/20190928/281517932849828"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "KB-845",
+  "slug": "uttar-pradesh-food-grain-scam",
+  "title": "The Uttar Pradesh Food Grain (PDS) Scam",
+  "dek": "Between roughly 2002 and 2010, food grain meant for Uttar Pradesh's poor under the Public Distribution System, Antyodaya, Annapurna and Mid-Day Meal schemes was allegedly diverted in bulk to the open market and smuggled across the border, with CBI estimates of the diversion running to tens of thousands of crores of rupees. More than a decade on, hundreds of officials were named in FIRs but this entry could not confirm any major convictions, and UP has continued to top national rankings for PDS grain leakage.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 24,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2003-01-01",
+  "heroStat": {
+    "value": "₹35,000 cr",
+    "label": "food grain meant for Uttar Pradesh's poor alleged to have been diverted and sold outside the public distribution system, per CBI's 2007 estimate covering 2002-2010"
+  },
+  "promise": {
+    "quote": "Food grain procured by the Food Corporation of India and allocated to Uttar Pradesh was to be distributed to Below Poverty Line and Antyodaya cardholders, and to Mid-Day Meal and Annapurna beneficiaries, through the state's Public Distribution System at subsidised rates.",
+    "madeBy": "Government of Uttar Pradesh, Food and Civil Supplies Department",
+    "role": "State authority responsible for implementing the Public Distribution System and allied food-welfare schemes",
+    "date": "2002-01-01",
+    "context": "This reflects the general statutory entitlement structure of the PDS and allied central welfare schemes rather than a verified quotation from a specific UP government order, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-updgrain-wiki"
+    ]
+  },
+  "target": {
+    "description": "That food grain allocated to Uttar Pradesh under the PDS, Antyodaya Anna Yojana, Annapurna, and Mid-Day Meal schemes would reach intended beneficiaries through the ration-shop network, rather than being diverted to open-market or cross-border sale.",
+    "standard": "The Essential Commodities Act, 1955, PDS control orders, and IPC provisions on criminal breach of trust and cheating applicable to the diversion of subsidised public food stocks.",
+    "referenceDate": "2002-01-01"
+  },
+  "reality": {
+    "description": "The scam first came to public attention around 2003 in Gonda district, during Mulayam Singh Yadav's tenure as chief minister, when large-scale embezzlement of food grain stocks was uncovered; in March 2004, roughly 70 truckloads of rice were found to have disappeared from Food Corporation of India warehouses, exposing what investigators described as an organised black-market sales operation. Initial estimates of the diversion put the figure at around Rs 150 billion (Rs 15,000 crore); by January 2005, FIRs acknowledged a scale of roughly Rs 450 billion. The state government's own Special Investigation Team, formed in 2006, lodged more than 5,000 FIRs. In December 2007, the Central Bureau of Investigation, on court direction, put the scale of diversion between 2002 and 2010 at around Rs 350 billion (about Rs 35,000 crore, roughly US$3.6 billion at the time), with grain allegedly smuggled into Nepal, Bangladesh and other countries in connivance with over 200 state and central officials; some media estimates of the total scam, spanning a longer period, ran even higher. By December 2009, nearly 150 government officials, including PCS officers, had been identified, nine arrests had been made, and the Allahabad High Court's Lucknow bench had directed the state government to grant prosecution sanction and ordered the CBI to complete its inquiry within six months across six districts (Gonda, Lucknow, Varanasi, Ballia, Lakhimpur Kheri, and Sitapur). This entry's research, constrained by available search results, could not confirm any convictions arising from these FIRs and CBI cases, nor a definitive resolution of the multi-agency investigation; independent studies from the 2010s continued to find Uttar Pradesh among the states with the highest PDS grain leakage nationally, with one estimate suggesting only about half of allocated grain reached intended beneficiaries in 2011-12.",
+    "asOfDate": "2010-12-01",
+    "sourceIds": [
+      "src-updgrain-wiki",
+      "src-updgrain-dna"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Food grain allocated for PDS/welfare schemes vs. share confirmed to reach intended beneficiaries",
+    "unit": "percent",
+    "targetValue": 100,
+    "actualValue": 52,
+    "targetDisplay": "100% of allocated PDS grain intended for beneficiaries",
+    "actualDisplay": "~52% (4.3 of 8.29 million tonnes) reported to have reached beneficiaries in UP in 2011-12",
+    "targetLabel": "Grain intended for beneficiaries",
+    "actualLabel": "Grain reported to reach beneficiaries",
+    "note": "This 2011-12 leakage estimate is drawn from a widely cited national PDS-performance study rather than from the CBI's own scam investigation figures, and reflects ongoing systemic leakage rather than a single reconciled figure for the specific 2002-2010 scam period; it is included to illustrate the scale of the underlying problem rather than as a precise measure of the CBI case's outcome."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 35000,
+    "allocatedLabel": "CBI's approximate 2007 estimate of food grain value diverted from UP's PDS/welfare schemes, 2002-2010",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Estimates of the scam's scale vary widely across sources and time periods: an initial 2004 estimate of roughly Rs 15,000 crore, a January 2005 FIR figure of about Rs 45,000 crore, a CBI (2007) figure of about Rs 35,000 crore, and some media estimates exceeding Rs 200,000 crore for a longer or differently defined period. This entry uses the CBI's commonly cited Rs 35,000 crore figure while flagging the wide variance across sources as unresolved.",
+    "sourceIds": [
+      "src-updgrain-dna"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2003-01-01",
+      "label": "Scam first surfaces in Gonda district",
+      "detail": "Large-scale embezzlement of PDS food grain stocks is uncovered in Gonda district during Mulayam Singh Yadav's tenure as UP chief minister.",
+      "type": "announcement"
+    },
+    {
+      "date": "2004-03-01",
+      "label": "70 truckloads of rice found missing from FCI godowns",
+      "detail": "Investigators find around 70 truckloads of rice have disappeared from Food Corporation of India warehouses, exposing an alleged organised black-market operation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2005-01-01",
+      "label": "Initial FIRs put scam at Rs 45,000 crore",
+      "detail": "Early FIRs acknowledge a diversion scale of around Rs 450 billion.",
+      "type": "status"
+    },
+    {
+      "date": "2006-01-01",
+      "label": "State SIT lodges over 5,000 FIRs",
+      "detail": "A Special Investigation Team set up by the Mulayam Singh Yadav government lodges more than 5,000 FIRs across the state related to PDS grain diversion.",
+      "type": "milestone"
+    },
+    {
+      "date": "2007-12-01",
+      "label": "CBI ordered to investigate; scale put at Rs 35,000 crore",
+      "detail": "On court direction, CBI is tasked with investigating the scam and estimates the 2002-2010 diversion at around Rs 35,000 crore, alleging cross-border smuggling to Nepal and Bangladesh.",
+      "type": "milestone"
+    },
+    {
+      "date": "2009-12-01",
+      "label": "Nearly 150 officials identified; 9 arrests",
+      "detail": "CBI investigation identifies close to 150 implicated officials including PCS officers; nine arrests are made, including a district rural development authority chief finance officer in Ballia.",
+      "type": "status"
+    },
+    {
+      "date": "2010-12-01",
+      "label": "High Court orders time-bound CBI probe completion",
+      "detail": "The Allahabad High Court's Lucknow bench directs the state government to grant prosecution sanction and orders CBI to complete its inquiry within six months across six named districts.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Thousands of FIRs were registered by a state SIT and later CBI investigations named or implicated hundreds of officials across multiple UP districts, with a small number of arrests confirmed by 2009. This entry's research could not confirm whether any convictions resulted from these cases, or the current (post-2010) status of the CBI's investigation and prosecutions, representing a significant gap in this stub entry.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a substantiated, extensively documented case of large-scale diversion of subsidised food grain from Uttar Pradesh's welfare distribution system, corroborated by a state SIT, a CBI inquiry, and a High Court-ordered timeline for prosecution. However, this entry could not confirm whether any of the hundreds of implicated officials were ultimately convicted, making the case's final legal accountability an open and apparently unresolved question over a decade after the CBI's 2007 findings.",
+    "confidence": "low",
+    "reasoning": "The scam's discovery, scale estimates, and the SIT/CBI investigative timeline through 2010 are corroborated by Wikipedia's sourced summary and a contemporaneous DNA India report citing CBI figures. This entry's research budget did not allow confirmation of any post-2010 convictions, current case status, or reconciliation of the widely varying scam-size estimates, so this should be treated as a stub pending further research."
+  },
+  "incomplete": [
+    "Whether any of the hundreds of officials implicated in the 2002-2010 scam were ultimately convicted has not been confirmed; no conviction records were found in this entry's research.",
+    "The current (2020s) status of the CBI investigation, and whether it was ever formally closed, has not been confirmed.",
+    "The wide variance in reported scam-size estimates (from roughly Rs 15,000 crore to over Rs 200,000 crore across different sources and time periods) has not been reconciled.",
+    "This entry relies substantially on a Wikipedia summary and a single DNA India report; primary CBI chargesheets or court orders were not directly reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-updgrain-wiki",
+      "label": "Uttar Pradesh food grain scam",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh_food_grain_scam"
+    },
+    {
+      "id": "src-updgrain-dna",
+      "label": "Rs35,000 crore food grain meant for Uttar Pradesh poor sold outside",
+      "type": "independent",
+      "publisher": "DNA India",
+      "date": "2010-12-01",
+      "url": "https://www.dnaindia.com/india/report-rs35000-crore-food-grain-meant-for-uttar-pradesh-poor-sold-outside-1477736"
+    },
+    {
+      "id": "src-updgrain-leakage",
+      "label": "UP tops in pilferage, diversion of PDS grain",
+      "type": "independent",
+      "publisher": "Hindustan Times",
+      "date": "2016-03-10",
+      "url": "https://www.pressreader.com/india/hindustan-times-lucknow/20160310/281801398062266"
+    }
+  ]
+}

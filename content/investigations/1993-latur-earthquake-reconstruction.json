@@ -1,0 +1,129 @@
+{
+  "id": "KB-2703",
+  "slug": "1993-latur-earthquake-reconstruction",
+  "title": "The Latur Earthquake Killed Thousands in a Region India's Seismic Maps Said Was Safe. Reconstruction Promised Quake-Resistant Villages -- Delivery Was Uneven",
+  "dek": "A magnitude-6.4 earthquake struck the Killari area of Latur and Osmanabad districts in Maharashtra on 30 September 1993, killing an estimated 8,000 to 10,000 people in a region not classified as high seismic risk at the time. The World Bank-funded reconstruction programme that followed promised a network of seismically engineered new villages, and delivered some genuine successes such as New Killari -- but independent assessments found the wider rebuilding effort uneven, with many owner-driven reconstructions falling short of the seismic standards the programme itself had set.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 176,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1993-09-30",
+  "heroStat": {
+    "value": "~8,000-10,000",
+    "label": "Estimated deaths from the 30 September 1993 Latur (Killari) earthquake, with figures varying by source"
+  },
+  "promise": {
+    "quote": "The Maharashtra Emergency Earthquake Rehabilitation Programme will reconstruct destroyed villages to seismically resistant standards, providing affected families with safer, better-built housing than what existed before the earthquake.",
+    "madeBy": "Government of Maharashtra, with World Bank financing",
+    "role": "State government implementing the reconstruction programme, financed through a World Bank loan approved in March 1994",
+    "date": "1994-03-01",
+    "context": "The earthquake devastated villages across Latur and Osmanabad districts where most housing was unreinforced masonry with heavy stone or mud-and-rubble walls and roofs, a construction style that collapsed catastrophically in the quake; the resulting Maharashtra Emergency Earthquake Rehabilitation Program, with World Bank/IDA and other donor support, had a total project cost of roughly US$328 million covering reconstruction for close to one million affected people.",
+    "sourceIds": [
+      "src-latur-wiki",
+      "src-latur-worldbank"
+    ]
+  },
+  "target": {
+    "description": "Reconstruction of destroyed villages, including a purpose-built New Killari township, using seismically engineered construction that would substantially reduce vulnerability to future earthquakes across the affected districts.",
+    "standard": "The reconstruction programme's own stated design standard of seismically resistant housing for all rebuilt and repaired structures",
+    "referenceDate": "1994-03-01"
+  },
+  "reality": {
+    "description": "The reconstruction programme relocated and rebuilt New Killari roughly one kilometre from the original village as a planned, seismically engineered township, which is generally regarded as a successful example of post-disaster town planning. However, independent post-project assessments -- including academic and disaster-management reviews conducted in the years after the programme concluded -- found that the wider reconstruction effort was uneven: many households opted for or were guided toward owner-driven reconstruction rather than the engineered core-house model, and monitoring of adherence to seismic building codes in these owner-built and repaired structures was inconsistent, meaning a meaningful share of rebuilt housing across the two districts did not fully match the seismic standards the programme had set as its target. The episode is frequently cited in Indian disaster-management literature both as an example of large-scale, internationally financed reconstruction and as a cautionary case about the gap between design standards on paper and actual construction quality once building responsibility passed to individual households.",
+    "asOfDate": "2003-01-01",
+    "sourceIds": [
+      "src-latur-nicee",
+      "src-latur-wiki"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Reconstructed housing intended to meet seismic design standards versus housing independently found to meet them",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "All reconstructed and repaired housing built to seismically resistant standards",
+    "actualDisplay": "Uneven compliance, particularly in owner-driven reconstruction outside the planned New Killari township",
+    "targetLabel": "Seismic standard set by programme",
+    "actualLabel": "Documented compliance across all rebuilt housing",
+    "note": "This reflects a qualitative assessment from disaster-management literature rather than a single audited compliance percentage, which this entry has not independently verified."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 328000000,
+    "allocatedLabel": "~US$328 million total project cost for the Maharashtra Emergency Earthquake Rehabilitation Program (MEERP), including World Bank/IDA assistance, taxes and duties",
+    "unit": "USD",
+    "notes": "Figure per the World Bank's own project documentation for MEERP (project ID P034162); this entry has not independently verified the split between World Bank/IDA financing, other bilateral donor contributions, and Government of Maharashtra funding, or final disbursement against this total.",
+    "sourceIds": [
+      "src-latur-worldbank"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1993-09-30",
+      "label": "Earthquake strikes Killari",
+      "detail": "A magnitude-6.4 earthquake hits the Killari area of Latur and Osmanabad districts, Maharashtra, in the early morning hours, killing thousands in a region not previously classified as high seismic risk.",
+      "type": "status"
+    },
+    {
+      "date": "1994-03-01",
+      "label": "World Bank approves reconstruction financing",
+      "detail": "The World Bank approves IDA financing as part of the Maharashtra Emergency Earthquake Rehabilitation Program, with a total project cost of roughly US$328 million.",
+      "type": "announcement"
+    },
+    {
+      "date": "1998-01-01",
+      "label": "New Killari township substantially completed",
+      "detail": "A planned, seismically engineered New Killari is built approximately one kilometre from the original village as the flagship relocation project of the reconstruction programme.",
+      "type": "milestone"
+    },
+    {
+      "date": "2003-01-01",
+      "label": "Independent reviews flag uneven compliance",
+      "detail": "Post-project academic and disaster-management assessments find inconsistent adherence to seismic building standards in owner-driven reconstruction across the wider affected districts.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a natural disaster and a subsequent internationally financed reconstruction programme, not a legal or criminal matter. No prosecution or judicial inquiry has attached individual culpability for construction shortfalls in the reconstruction effort.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The Latur earthquake reconstruction programme delivered a genuine success in New Killari, a purpose-built, seismically engineered township, but independent assessments found the broader rebuilding effort across Latur and Osmanabad districts fell short of consistently meeting the seismic standards the programme itself had set, particularly where reconstruction was owner-driven rather than centrally engineered.",
+    "confidence": "medium",
+    "reasoning": "The earthquake's toll, the World Bank financing, and the existence of New Killari as a planned township are well documented. Confidence on the precise scale of non-compliance in owner-driven reconstruction is medium because this entry relies on general academic and disaster-management literature rather than a specific, itemised compliance audit."
+  },
+  "incomplete": [
+    "Precise death toll estimates for the Latur earthquake vary by source, ranging from roughly 7,600 to over 10,000; this entry does not resolve the exact figure.",
+    "This entry has not independently obtained or reviewed a specific post-project compliance audit quantifying what share of reconstructed housing met seismic standards.",
+    "Total World Bank loan disbursement, state co-financing, and final project cost figures have not been independently verified beyond the originally approved loan amount."
+  ],
+  "sources": [
+    {
+      "id": "src-latur-wiki",
+      "label": "1993 Latur earthquake",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/1993_Latur_earthquake"
+    },
+    {
+      "id": "src-latur-worldbank",
+      "label": "Maharashtra Emergency Earthquake Rehabilitation Project (P034162)",
+      "type": "primary",
+      "publisher": "World Bank",
+      "date": "1994-03-01",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/719811468035344385"
+    },
+    {
+      "id": "src-latur-nicee",
+      "label": "Latur Earthquake",
+      "type": "independent",
+      "publisher": "National Information Center of Earthquake Engineering (NICEE), IIT Kanpur",
+      "date": "2024-01-01",
+      "url": "https://nicee.org/Latur_EQ/"
+    }
+  ]
+}

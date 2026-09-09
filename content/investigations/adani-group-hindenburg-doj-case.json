@@ -1,0 +1,187 @@
+{
+  "id": "KB-050",
+  "slug": "adani-group-hindenburg-doj-case",
+  "title": "The Adani Group Investigations",
+  "dek": "A US short-seller's report accused India's biggest infrastructure conglomerate of stock manipulation and fraud, wiping out $150 billion in market value overnight. Two years later, a separate and far more serious US federal indictment accused its chairman of a $250 million bribery scheme. Both threads have now closed — one with a regulatory clean chit, the other with criminal charges a judge dismissed while calling the government's own reasoning \"concerning.\"",
+  "category": "Natural Resources",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 92,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-01-24",
+  "heroStat": {
+    "value": "$250M+",
+    "label": "in bribes to Indian officials alleged by US prosecutors to secure solar energy contracts — the underlying criminal charges were dismissed in 2026 without a trial"
+  },
+  "promise": {
+    "quote": "This is not merely an unwarranted attack on any specific company but a calculated attack on India, the independence, integrity and quality of Indian institutions, and the growth story and ambition of India.",
+    "madeBy": "Adani Group",
+    "role": "Conglomerate responding to the Hindenburg Research report",
+    "date": "2023-01-29",
+    "context": "From Adani Group's 413-page rebuttal, issued four days after US short-seller Hindenburg Research published a report alleging stock manipulation, accounting fraud, and undisclosed related-party dealings across Adani-listed companies. The report triggered a selloff that erased roughly $150 billion in combined market value at its peak.",
+    "sourceIds": [
+      "src-adani-rebuttal"
+    ]
+  },
+  "target": {
+    "description": "That Adani Group companies' financial disclosures, share pricing, and business-contract dealings comply with Indian securities law and are free of the fraud, market manipulation, and bribery separately alleged by Hindenburg Research and, later, US federal prosecutors.",
+    "standard": "SEBI's Listing Obligations and Disclosure Requirements and Indian securities law; for the separately alleged bribery scheme, the US Foreign Corrupt Practices Act and federal securities-fraud statutes governing disclosures made to raise capital from US investors.",
+    "referenceDate": "2023-01-24"
+  },
+  "reality": {
+    "description": "Two separate, unrelated allegations ran in parallel for years and reached two different endpoints. First: SEBI investigated Hindenburg's stock-manipulation and related-party allegations for more than two years and, in final orders around 18 September 2025, found them unsubstantiated, closing proceedings against Gautam Adani, Rajesh Adani, and Jugeshinder Singh. A narrower, separate SEBI proceeding against 13 offshore investors continues; SEBI rejected settlement applications from three Mauritius-based funds as recently as 24 August 2026. Second: a US federal grand jury indicted Gautam Adani, his nephew Sagar Adani, and six others in November 2024, alleging a conspiracy to pay more than $250 million in bribes to Indian officials between 2020 and 2024 to secure solar energy supply contracts projected to generate over $2 billion in profit, while misrepresenting Adani Green's anti-bribery compliance to investors who bought over $3 billion of its bonds. In May 2026, Gautam and Sagar Adani agreed to pay SEC civil penalties of $6 million and $12 million respectively, via consent judgment, without admitting or denying the SEC's claims; the Department of Justice separately moved to drop the criminal charges. On 11 August 2026, US District Judge Nicholas Garaufis granted that dismissal for Gautam and Sagar Adani specifically, in a 47-page ruling that examined and rejected the theory that Adani's pledge of new US investment had influenced the decision — while still sharply criticising the DOJ's internal process, writing that the official who pushed the dismissal, Trent McCotter, \"eschewed the professional opinions of innumerable officials from various federal offices and replaced them with his singular judgment,\" and calling the \"irregularities in the decision to dismiss the indictment\" concerning. The judge separately refused, at that time, to dismiss two counts against the case's five other co-defendants, and as of early September 2026 that refusal still stood — the government had not supplied the court a sufficient factual basis to drop those charges either.",
+    "asOfDate": "2026-09-01",
+    "sourceIds": [
+      "src-sebi-cleanchit",
+      "src-doj-indictment",
+      "src-sec-litrelease",
+      "src-doj-dismissal",
+      "src-codefendants-update"
+    ]
+  },
+  "gap": {
+    "metricLabel": "People criminally indicted by US prosecutors vs. people convicted at trial",
+    "unit": "defendants",
+    "targetValue": 8,
+    "actualValue": 0,
+    "targetDisplay": "8 indicted",
+    "actualDisplay": "0 convicted",
+    "targetLabel": "Indicted",
+    "actualLabel": "Convicted",
+    "note": "Criminal charges against Gautam and Sagar Adani were dismissed before trial in August 2026; charges against the case's five other co-defendants remained pending, not dismissed, as of early September 2026. Zero convictions reflects the case's actual status — it is not evidence of either guilt or innocence on the merits, since none of the underlying allegations were tested at trial."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2023-01-24",
+      "label": "Hindenburg Research publishes its report",
+      "detail": "Alleges stock manipulation, accounting fraud, and use of offshore shell entities across Adani-listed companies; Adani stocks begin a sharp selloff.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-01-29",
+      "label": "Adani Group issues a 413-page rebuttal",
+      "detail": "Calls the report \"a calculated attack on India.\"",
+      "type": "status"
+    },
+    {
+      "date": "2023-03-02",
+      "label": "Supreme Court of India orders a SEBI probe",
+      "detail": "Responding to public-interest litigation, the Court directs SEBI to investigate and report back.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-11-20",
+      "label": "US federal indictment unsealed",
+      "detail": "Gautam Adani, Sagar Adani, and six others charged with conspiring to pay over $250 million in bribes for solar contracts and concealing the scheme from US bond investors.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-09-18",
+      "label": "SEBI issues final clean-chit orders",
+      "detail": "Closes proceedings against Gautam Adani, Rajesh Adani, and Jugeshinder Singh, finding the Hindenburg allegations unsubstantiated. A narrower case against 13 offshore investors continues.",
+      "type": "status"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "SEC consent judgments and DOJ dismissal motion",
+      "detail": "Gautam and Sagar Adani agree to pay $6M and $12M in civil penalties without admitting wrongdoing; the DOJ moves to drop the criminal charges against them.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-08-11",
+      "label": "Judge dismisses charges against Gautam and Sagar Adani",
+      "detail": "Grants the DOJ's motion but calls \"irregularities\" in the department's own reasoning \"concerning\"; declines, for now, to dismiss charges against five co-defendants.",
+      "type": "status"
+    },
+    {
+      "date": "2026-08-24",
+      "label": "SEBI rejects Mauritius-fund settlement bids",
+      "detail": "The separate, narrower proceeding against 13 offshore investors continues.",
+      "type": "status"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Co-defendants' charges remain in place",
+      "detail": "The court reaffirms that the government has not shown sufficient factual basis to drop charges against the five other defendants.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "In India, SEBI's core stock-manipulation investigation has closed with no violation found against Gautam Adani, Rajesh Adani, or Jugeshinder Singh; a narrower proceeding against 13 offshore investors continues. In the US, criminal bribery charges against Gautam and Sagar Adani were dismissed before trial following a civil settlement, though the presiding judge found the government's own account of why it dropped the case contained \"concerning\" irregularities. Charges against the case's five other co-defendants had not been dismissed as of early September 2026.",
+    "keyIndividuals": [
+      {
+        "name": "Gautam Adani",
+        "role": "Chairman, Adani Group",
+        "outcome": "Cleared by SEBI, September 2025. Indicted by US prosecutors, November 2024. Paid a $6 million SEC civil penalty without admitting wrongdoing, May 2026. Underlying US criminal charges dismissed, August 2026."
+      },
+      {
+        "name": "Sagar Adani",
+        "role": "Executive Director, Adani Green Energy",
+        "outcome": "Indicted alongside his uncle, November 2024. Paid a $12 million SEC civil penalty without admitting wrongdoing, May 2026. Underlying US criminal charges dismissed, August 2026."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Two distinct allegations against the same conglomerate reached endpoints more favourable to Adani than the original headlines suggested: India's market regulator found the stock-manipulation claims unsubstantiated, and the far more serious US criminal bribery case was dismissed before any trial tested the evidence. Neither outcome is a courtroom finding of innocence on the merits — the SEBI clearance has drawn criticism from opposition politicians and from Hindenburg itself, the US case ended via a negotiated civil settlement rather than acquittal, and the presiding federal judge explicitly found the Justice Department's own dismissal process irregular even as he granted it.",
+    "confidence": "medium",
+    "reasoning": "SEBI's orders, the US indictment, the SEC consent judgments, and Judge Garaufis's ruling are documented in primary regulatory and court filings reported by multiple independent outlets. Confidence is not higher because this entry has not reviewed the SEBI final order, the SEC consent judgment texts, or the full 47-page ruling directly, and because the case against the five co-defendants remained open and unresolved as of publication."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed SEBI's September 2025 final orders, the US indictment, the SEC consent judgments, or Judge Garaufis's full ruling — it relies on reporting of each.",
+    "The outcome of SEBI's ongoing, separate proceeding against the 13 offshore investors, including the three Mauritius funds whose settlement bids were rejected in August 2026, is not yet known.",
+    "Whether the charges against the case's five other co-defendants are ultimately dismissed, and on what factual basis, remained unresolved as of this entry's publication."
+  ],
+  "sources": [
+    {
+      "id": "src-adani-rebuttal",
+      "label": "Adani Group calls Hindenburg fraud claim a 'calculated attack on India'",
+      "type": "independent",
+      "publisher": "Al Arabiya English",
+      "date": "2023-01-30",
+      "url": "https://english.alarabiya.net/business/2023/01/30/Adani-Group-calls-Hindenburg-fraud-claim-a-calculated-attack-on-India-"
+    },
+    {
+      "id": "src-sebi-cleanchit",
+      "label": "Indian regulators dismiss stock manipulation allegations on Adani Group",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2025-09-18",
+      "url": "https://www.aljazeera.com/economy/2025/9/18/indian-regulators-dismiss-stock-manipulation-allegations-on-adani-group"
+    },
+    {
+      "id": "src-doj-indictment",
+      "label": "Billionaire Chairman of Conglomerate and Seven Other Senior Business Executives Indicted in Connection With Scheme to Pay Hundreds of Millions of Dollars in Bribes and Conceal Bribery Scheme From U.S. Investors",
+      "type": "primary",
+      "publisher": "US Department of Justice, Eastern District of New York",
+      "date": "2024-11-20",
+      "url": "https://www.justice.gov/usao-edny/pr/billionaire-chairman-conglomerate-and-seven-other-senior-business-executives-indicted"
+    },
+    {
+      "id": "src-sec-litrelease",
+      "label": "SEC Litigation Release — Gautam Adani, Sagar Adani, and Cyril Cabanes",
+      "type": "primary",
+      "publisher": "US Securities and Exchange Commission",
+      "date": "2026-05-14",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26177"
+    },
+    {
+      "id": "src-doj-dismissal",
+      "label": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
+      "type": "independent",
+      "publisher": "CNBC",
+      "date": "2026-08-11",
+      "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html"
+    },
+    {
+      "id": "src-codefendants-update",
+      "label": "Judge Won't Drop Charges Against Adani's Co-Defendants Yet",
+      "type": "independent",
+      "publisher": "Law360",
+      "date": "2026-09-01",
+      "url": "https://www.law360.com/whitecollar/articles/2521576"
+    }
+  ]
+}

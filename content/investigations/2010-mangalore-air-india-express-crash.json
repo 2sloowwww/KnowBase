@@ -1,0 +1,105 @@
+{
+  "id": "KB-2708",
+  "slug": "2010-mangalore-air-india-express-crash",
+  "title": "A Tabletop Runway Was Flagged as Risky for Years. A Pilot Overshot It Anyway, and 158 People Died",
+  "dek": "Air India Express Flight 812 overshot Mangalore's hilltop runway while landing on 22 May 2010, plunged into a gorge and killed 158 of the 166 people on board -- India's deadliest air crash since 1996. The Court of Inquiry attributed the crash primarily to pilot error, but the disaster also renewed long-standing safety concerns about India's small number of 'tabletop' runways, including Mangalore's, which offer little margin for error on overshoot and had been the subject of prior safety commentary before the crash.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 177,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2010-05-22",
+  "heroStat": {
+    "value": "158",
+    "label": "People killed when Air India Express Flight 812 overshot the runway at Mangalore's Bajpe airport on 22 May 2010, out of 166 on board"
+  },
+  "promise": {
+    "quote": "The investigation into the accident will be conducted by a Court of Inquiry, with technical assistance from Boeing and the US National Transportation Safety Board, to establish the cause and prevent recurrence at India's tabletop runways.",
+    "madeBy": "Directorate General of Civil Aviation (DGCA), Government of India",
+    "role": "Civil aviation regulator responsible for constituting and overseeing the accident investigation",
+    "date": "2010-05-24",
+    "context": "Mangalore's Bajpe airport is one of a small number of Indian airports with a 'tabletop' runway -- built on a plateau with steep drops at one or both ends -- a configuration long flagged by aviation safety commentators as offering minimal margin for a landing overshoot; the crash occurred as the Boeing 737-800, arriving from Dubai, touched down long on the runway and was unable to stop before the end.",
+    "sourceIds": [
+      "src-mangalore-simpleflying"
+    ]
+  },
+  "target": {
+    "description": "A landing at Mangalore's tabletop runway conducted within the aircraft's safe stopping distance, with crew procedures and airport safety margins sufficient to prevent a runway overshoot from becoming fatal.",
+    "standard": "Standard civil aviation safety expectations for stabilized approach and landing distance margins, which DGCA and airline procedures are designed to ensure",
+    "referenceDate": "2010-05-22"
+  },
+  "reality": {
+    "description": "Flight 812 touched down well past the normal touchdown point on Mangalore's runway 24, and the aircraft was unable to stop before running off the end, breaking through the airport boundary and plunging into a gorge, where it caught fire. Of 166 people on board, 158 died, including all six crew members; only 8 passengers survived. The Court of Inquiry, which submitted its report in November 2010 with technical input from Boeing and the US NTSB, concluded that the primary cause was pilot error -- specifically, the captain's decision to continue an unstabilized approach and land long rather than executing a go-around, compounded by the captain reportedly having been asleep for part of the flight before waking shortly before descent. The crash renewed public and expert scrutiny of India's tabletop runways, including Mangalore's, and contributed to subsequent DGCA reviews of approach and landing procedures at such airports, though this entry has not independently verified what specific infrastructure or procedural changes were implemented at Mangalore or other tabletop-runway airports as a direct result.",
+    "asOfDate": "2010-11-16",
+    "sourceIds": [
+      "src-mangalore-etvbharat",
+      "src-mangalore-simpleflying"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Safe landing outcome expected versus actual outcome of Flight 812's landing at Mangalore",
+    "unit": "qualitative assessment",
+    "targetValue": 166,
+    "actualValue": 8,
+    "targetDisplay": "166 passengers and crew expected to land safely",
+    "actualDisplay": "8 survivors out of 166 on board",
+    "targetLabel": "Persons on board",
+    "actualLabel": "Survivors",
+    "note": "This is presented as a stark outcome comparison rather than a standard performance metric; the Court of Inquiry attributed the crash primarily to pilot error rather than to a specific systemic safety-target failure."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2010-05-22",
+      "label": "Flight 812 crashes at Mangalore",
+      "detail": "The Boeing 737-800, arriving from Dubai, overshoots the runway while landing at Mangalore's Bajpe airport, goes through the boundary wall and falls into a gorge; 158 of 166 on board are killed.",
+      "type": "status"
+    },
+    {
+      "date": "2010-05-24",
+      "label": "Court of Inquiry constituted",
+      "detail": "The DGCA sets up a Court of Inquiry into the crash, with technical assistance from Boeing and the US NTSB.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-11-16",
+      "label": "Court of Inquiry report submitted",
+      "detail": "The inquiry concludes the crash was primarily caused by pilot error, including continuation of an unstabilized approach rather than a go-around.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was investigated through a civil aviation Court of Inquiry rather than a criminal prosecution. No criminal charges against individuals are recorded in the sources reviewed for this entry; the inquiry's findings were administrative and safety-focused.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Flight 812's crash at Mangalore, India's third-deadliest civil aviation disaster, was officially attributed to pilot error in continuing an unstabilized landing rather than going around. The disaster also drew renewed attention to the inherent safety margins of India's small number of tabletop runways, a structural risk factor that existed independently of the specific human error found to have caused this crash.",
+    "confidence": "high",
+    "reasoning": "The crash details, casualty figures, and the Court of Inquiry's finding of pilot error as the primary cause are well documented and consistent across independent sources, including official investigation reporting. Confidence on the precise scope of subsequent regulatory or infrastructure changes at tabletop-runway airports is lower, as this entry has not independently reviewed DGCA's specific post-crash directives."
+  },
+  "incomplete": [
+    "This entry has not independently reviewed DGCA's specific post-crash regulatory or infrastructure changes at Mangalore or other Indian tabletop-runway airports.",
+    "Reports that the captain had been asleep prior to the descent are widely cited but this entry has not independently verified them against the full Court of Inquiry report text.",
+    "Compensation and any civil liability proceedings arising from the crash are not covered in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-mangalore-simpleflying",
+      "label": "This Week In Aviation History: The Crash Of Air India Express Flight 812",
+      "type": "independent",
+      "publisher": "Simple Flying",
+      "date": "2023-01-01",
+      "url": "https://simpleflying.com/this-week-in-aviation-history-the-crash-of-air-india-express-flight-812/"
+    },
+    {
+      "id": "src-mangalore-etvbharat",
+      "label": "Air India Flight Crash Revives Grim Memories Of 2010 Mangaluru Aviation Mishap; 12 Bodies Unidentified Till Date",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2025-06-13",
+      "url": "https://www.etvbharat.com/en/!bharat/air-india-flight-crash-revives-grim-memories-of-2010-mangaluru-aviation-mishap-12-bodies-unidentified-till-date-enn25061304760"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "KB-164",
+  "slug": "tspsc-paper-leak-case",
+  "title": "The TSPSC Paper Leak Case",
+  "dek": "An insider at Telangana's public service commission and an outsourced network administrator hacked the confidential section's own computer to steal and resell exam papers — a racket that a police chargesheet says moved over Rs 1.63 crore before it was caught.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 115,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2023-03-11",
+  "heroStat": {
+    "value": "₹1.63 cr",
+    "label": "transacted in buying and selling TSPSC question papers, according to the Special Investigation Team's chargesheet"
+  },
+  "promise": {
+    "quote": "Recruitment to Telangana government posts through TSPSC examinations will be conducted on the basis of question papers kept strictly confidential within the Commission's own systems.",
+    "madeBy": "Telangana State Public Service Commission (TSPSC)",
+    "role": "State body responsible for recruitment to Telangana government posts through competitive examinations",
+    "date": "2023-03-05",
+    "context": "This reflects TSPSC's standard institutional mandate for the Assistant Engineer recruitment exam, rather than a verified quotation from a specific TSPSC statement, which this entry has not located.",
+    "sourceIds": [
+      "src-tspsc-overview"
+    ]
+  },
+  "target": {
+    "description": "An Assistant Engineer recruitment exam, sat by around 55,000 aspirants on 5 March 2023, conducted using a question paper that remained confidential within TSPSC's own secured computer systems until the exam itself.",
+    "standard": "TSPSC's own data-security protocols for its confidential examination section.",
+    "referenceDate": "2023-03-05"
+  },
+  "reality": {
+    "description": "TSPSC's Assistant Engineer (Civil and other disciplines) recruitment exam was held on 5 March 2023 for roughly 55,000 candidates. According to the Special Investigation Team formed by Hyderabad Police, Pulidindi Praveen Kumar — an Assistant Section Officer who also served as personal assistant to the TSPSC Secretary — conspired with Atla Raja Shekar, an outsourced network administrator in TSPSC's confidential section, to hack the password of the confidential section's computer, copy the compiled question papers onto a pen drive, and print and sell them to a network of intermediaries and candidates. TSPSC filed a complaint with Begum Bazar police on 11 March 2023, and Hyderabad Police arrested nine people, including two TSPSC staffers, on 13 March 2023; the total held rose to 49 as the SIT's investigation expanded, with one accused, reportedly in New Zealand, still at large. TSPSC formally cancelled the Assistant Engineer exam on 15 March 2023, along with the Group-I preliminary exam and two other tests, citing the FIR. The SIT's preliminary chargesheet, filed roughly three months after the leak, stated that around Rs 1.63 crore had changed hands in the sale of TSPSC papers across multiple exams. This entry has not confirmed the trial's current stage or any verdicts.",
+    "asOfDate": "2023-06-09",
+    "sourceIds": [
+      "src-tspsc-cancel",
+      "src-tspsc-chargesheet"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Candidates whose Assistant Engineer exam was cancelled vs. accused ultimately arrested in the paper-leak network",
+    "unit": "count",
+    "targetValue": 55000,
+    "actualValue": 49,
+    "targetDisplay": "~55,000 candidates affected by the cancelled exam",
+    "actualDisplay": "49 people arrested in the leak network",
+    "targetLabel": "Candidates affected",
+    "actualLabel": "Accused arrested",
+    "note": "The scale mismatch reflects how a leak engineered by a small insider network — at most a few dozen people — was able to compromise an exam sat by tens of thousands of honest candidates, all of whom then had to retake it."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2023-03-05",
+      "label": "Assistant Engineer exam held",
+      "detail": "TSPSC conducts the Assistant Engineer recruitment exam for around 55,000 candidates.",
+      "type": "status"
+    },
+    {
+      "date": "2023-03-11",
+      "label": "TSPSC files police complaint",
+      "detail": "TSPSC complains to Begum Bazar police, Hyderabad, after learning the question paper had leaked.",
+      "type": "status"
+    },
+    {
+      "date": "2023-03-13",
+      "label": "First arrests made",
+      "detail": "Hyderabad Police arrest nine people, including two TSPSC staffers, over the leak.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-03-15",
+      "label": "Exam cancelled",
+      "detail": "TSPSC cancels the Assistant Engineer exam, along with the Group-I preliminary exam and two other tests, citing the confirmed leak.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-06-09",
+      "label": "SIT files preliminary chargesheet",
+      "detail": "The chargesheet, filed against 49 accused, states that around Rs 1.63 crore was transacted in the sale of leaked TSPSC papers.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The Special Investigation Team's preliminary chargesheet named 49 accused, including alleged ringleader Pulidindi Praveen Kumar and TSPSC network administrator Atla Raja Shekar. This investigation has not confirmed the trial's current stage or any verdicts.",
+    "keyIndividuals": [
+      {
+        "name": "Pulidindi Praveen Kumar",
+        "role": "Assistant Section Officer, TSPSC; personal assistant to the TSPSC Secretary",
+        "outcome": "Named as the alleged principal conspirator in the SIT's chargesheet. This investigation has not confirmed a trial outcome."
+      },
+      {
+        "name": "Atla Raja Shekar",
+        "role": "Outsourced network administrator, TSPSC confidential section",
+        "outcome": "Alleged to have provided the technical access used to hack the confidential section's computer. This investigation has not confirmed a trial outcome."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a stub entry, pending fuller research. The insider mechanism of the leak — a TSPSC staffer and an outsourced IT contractor allegedly hacking the Commission's own confidential-section computer — and the resulting exam cancellations are well documented through the police complaint, arrests, and preliminary chargesheet. The trial's outcome has not yet been confirmed.",
+    "confidence": "low",
+    "reasoning": "The exam date, complaint date, arrest count, and chargesheet's headline financial figure are corroborated across multiple independent reports, including Hyderabad Police's own press materials. However, this entry has not confirmed any final chargesheet, trial verdict, or sentencing beyond the June 2023 preliminary chargesheet."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on the trial's current stage and any convictions since mid-2023 is pending.",
+    "The rescheduled dates for the Assistant Engineer, Group-I preliminary, and other cancelled exams have not been confirmed here.",
+    "The identity and status of the accused reportedly at large in New Zealand has not been independently confirmed.",
+    "This entry has not reviewed the SIT's full chargesheet document; it relies on news summaries."
+  ],
+  "sources": [
+    {
+      "id": "src-tspsc-overview",
+      "label": "Explained: How did the Telangana recruitment paper leak?",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2023-03-14",
+      "url": "https://www.thenewsminute.com/telangana/explained-how-did-telangana-recruitment-paper-leak-174589"
+    },
+    {
+      "id": "src-tspsc-cancel",
+      "label": "TSPSC cancels Assistant Engineer recruitment exam after question paper leak",
+      "type": "independent",
+      "publisher": "Telangana Today",
+      "date": "2023-03-15",
+      "url": "https://telanganatoday.com/tspsc-cancels-assistant-engineer-recruitment-exam-after-question-paper-leak"
+    },
+    {
+      "id": "src-tspsc-chargesheet",
+      "label": "Rs 1.63cr transacted in TSPSC paper leak case, reveals chargesheet",
+      "type": "independent",
+      "publisher": "DT Next",
+      "date": "2023-06-09",
+      "url": "https://www.dtnext.in/news/national/rs-163cr-transacted-in-tspsc-paper-leak-case-reveals-charge-sheet-717550"
+    }
+  ]
+}

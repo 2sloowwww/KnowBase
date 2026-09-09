@@ -1,0 +1,124 @@
+{
+  "id": "KB-3004",
+  "slug": "reliance-disney-jiocinema-merger-cci-case",
+  "title": "The Reliance-Disney Merger's Cricket Rights Problem",
+  "dek": "A merger combining India's two biggest cricket broadcasters — one holding IPL TV rights, the other IPL streaming rights — raised the prospect of a single company controlling nearly all professional cricket advertising. The competition regulator approved the deal anyway, on conditions.",
+  "category": "Telecom & Digital",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 255,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2024-02-28",
+  "heroStat": {
+    "value": "₹70,350 cr",
+    "label": "value of the Reliance-Disney media merger that combined India's IPL television and digital streaming rights holders into one company"
+  },
+  "promise": {
+    "quote": "The combination is not likely to have an appreciable adverse effect on competition in India, subject to compliance with the voluntary modifications offered by the parties.",
+    "madeBy": "Competition Commission of India",
+    "role": "India's antitrust regulator, ruling on the Reliance-Disney merger application",
+    "date": "2024-08-28",
+    "context": "This reflects the substance of the CCI's approval order as reported by multiple outlets, rather than a verified verbatim quotation from the order itself, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-jiodisney-newslaundry"
+    ]
+  },
+  "target": {
+    "description": "That the merger of Reliance's Viacom18 (digital IPL rights holder via JioCinema) with Disney's Star India (television IPL, ICC and BCCI rights holder) would not concentrate control over cricket broadcasting and advertising to the point of harming advertisers, rival broadcasters and consumers.",
+    "standard": "Competition Act, 2002, under which the CCI reviews mergers ('combinations') for any appreciable adverse effect on competition before approving them, with or without conditions.",
+    "referenceDate": "2024-02-28"
+  },
+  "reality": {
+    "description": "Reliance Industries and Walt Disney announced in February 2024 an $8.5 billion merger combining Viacom18 (which held IPL digital streaming rights via JioCinema, having streamed the 2023 season free) with Disney's Star India (which held IPL television rights alongside ICC and BCCI rights). Because the combined entity would control both TV and digital rights across nearly all major international and domestic cricket in India, the CCI raised concerns about pricing power over advertisers and issued a show-cause notice asking why a full investigation should not be ordered. In response, Reliance and Disney offered voluntary modifications: not bundling television or OTT advertising slots across IPL, ICC and BCCI rights for the remaining tenure of existing rights contracts, divesting seven television channels including Hungama and Super Hungama, and committing not to unreasonably raise advertising rates for streamed cricket. The CCI approved the merger on 28 August 2024 subject to these conditions, and the National Company Law Tribunal cleared the merger later that year.",
+    "asOfDate": "2024-10-22",
+    "sourceIds": [
+      "src-jiodisney-newslaundry",
+      "src-jiodisney-businesstoday"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Cricket broadcast rights held separately before merger vs. held by one combined entity after",
+    "unit": "rights holders",
+    "targetValue": 2,
+    "actualValue": 1,
+    "targetDisplay": "2 separate rights holders (TV vs. digital)",
+    "actualDisplay": "1 combined entity, with conditions attached",
+    "targetLabel": "Pre-merger structure",
+    "actualLabel": "Post-merger structure",
+    "note": "The regulatory question was not whether concentration occurred — it plainly did — but whether the voluntary conditions attached by the CCI (no ad-slot bundling, channel divestitures, rate commitments) are sufficient to prevent the combined entity from exploiting that concentration against advertisers and rival broadcasters over time."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 703500000000,
+    "allocatedLabel": "₹70,350 crore (~US$8.5 billion) merger value",
+    "unit": "INR",
+    "notes": "Figure is the reported deal value of the combined Reliance-Disney media entity, not a public expenditure figure; included here because the case is fundamentally about market structure rather than a fund flow this site would otherwise track separately.",
+    "sourceIds": [
+      "src-jiodisney-businesstoday"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-01-01",
+      "label": "IPL rights split for 2023-27 cycle",
+      "detail": "BCCI splits IPL broadcasting rights into television and digital packages for the first time; Disney Star wins TV rights (~₹23,575 crore) and Viacom18 wins digital rights (~₹23,758 crore).",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-02-28",
+      "label": "Reliance-Disney merger announced",
+      "detail": "Reliance Industries and Disney announce an $8.5 billion merger of their Indian media assets, combining Viacom18 and Star India.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-06-01",
+      "label": "CCI raises cricket-rights concerns",
+      "detail": "The competition regulator flags the combined entity's control over IPL, ICC and BCCI rights as a potential antitrust issue and issues a show-cause notice.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-08-28",
+      "label": "CCI approves merger with voluntary modifications",
+      "detail": "The CCI clears the deal on condition of no ad-slot bundling across cricket properties, divestiture of seven TV channels, and advertising-rate commitments.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-10-22",
+      "label": "NCLT clears the merger",
+      "detail": "The National Company Law Tribunal grants final approval, completing the regulatory clearance process for the merger.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The merger received full and final regulatory approval from both the CCI and the NCLT in 2024, subject to ongoing compliance with the voluntary modifications offered by the parties. No pending litigation over the merger's competition clearance has been reported as of this entry."
+  },
+  "verdict": {
+    "summary": "A real, closed regulatory matter in which India's competition watchdog identified a genuine concentration risk in cricket broadcasting — control over TV and digital rights to nearly all major cricket properties passing to one company — and approved the merger conditional on commitments rather than blocking it or ordering a full investigation.",
+    "confidence": "high",
+    "reasoning": "The merger announcement, CCI's show-cause notice and concerns, the specific voluntary modifications, and the final approval dates are corroborated by multiple independent outlets (Newslaundry, Business Today, Sportcal, Variety, Gulf News) citing the CCI's own order and public statements from the parties."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CCI's approval order or the specific voluntary modification undertakings directly and relies on news reporting summarising them.",
+    "Whether the combined entity has fully complied with the ad-slot bundling and rate commitments in the period since approval has not been independently verified by this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-jiodisney-newslaundry",
+      "label": "CCI nod to Reliance-Disney merger",
+      "type": "independent",
+      "publisher": "Newslaundry",
+      "date": "2024-08-28",
+      "url": "https://www.newslaundry.com/2024/08/28/cci-nod-to-reliance-disney-merger"
+    },
+    {
+      "id": "src-jiodisney-businesstoday",
+      "label": "Reliance Disney tie up: CCI grants approval for $8.5 billion mega asset merger. Top points",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2024-10-22",
+      "url": "https://www.businesstoday.in/latest/corporate/story/reliance-disney-tie-up-cci-grants-approval-for-85-billion-mega-asset-merger-top-points-451121-2024-10-22"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "KB-2407",
+  "slug": "crown-credit-cooperative-society-punjab-scam",
+  "title": "Crown Credit Cooperative Society — A Punjab Ponzi Scheme Under a Cooperative Cover",
+  "dek": "A registered credit cooperative in Punjab promised depositors safe returns and quick doubling of their savings. Police FIRs and an Enforcement Directorate money-laundering probe allege it was a classic Ponzi scheme, paying old depositors with new deposits while its leaders diverted funds for personal use.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 170,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-01-01",
+  "heroStat": {
+    "value": "₹4.07 cr",
+    "label": "attached by the Enforcement Directorate in bank accounts linked to Crown Credit Cooperative Society as of its February 2026 provisional attachment order, in a scheme police allege duped thousands of Punjab depositors"
+  },
+  "promise": {
+    "quote": "Deposit with us and receive assured, high returns with quick doubling of your investment.",
+    "madeBy": "Crown Credit Cooperative Society Limited, led by Jagjeet Singh (President-cum-Managing Director) and Gurmeet Kaur (Vice President)",
+    "role": "Registered credit cooperative society operating in Punjab",
+    "date": "2018-01-01",
+    "context": "This reflects the general nature of the return promises Punjab Police FIRs allege the society and its agents made to depositors, rather than a verified quotation from a specific advertisement or agent script, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-crown-lokmat"
+    ]
+  },
+  "target": {
+    "description": "That Crown Credit Cooperative Society would deploy depositors' funds into legitimate cooperative lending or investment activity capable of generating the high returns it promised, consistent with the regulatory purpose of a registered credit cooperative society taking public deposits.",
+    "standard": "State cooperative societies laws governing registered credit cooperatives, under which member deposits must be used for legitimate cooperative business rather than diverted for personal use or to pay earlier depositors with new deposits.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "Punjab Police registered multiple FIRs against Crown Credit Cooperative Society, its President-cum-Managing Director Jagjeet Singh, Vice President Gurmeet Kaur, and associated agents, alleging criminal breach of trust, cheating, and criminal conspiracy for inducing thousands of depositors across Punjab to hand over savings on false promises of high, guaranteed returns. Investigation findings cited by the Enforcement Directorate describe a classic Ponzi structure: funds collected from new depositors were not deployed into legitimate cooperative business but were diverted for the personal use of the accused and used to pay returns to earlier depositors to sustain the scheme's appearance of legitimacy. Acting on these FIRs, the ED's Jalandhar Zonal Office opened a Prevention of Money Laundering Act investigation and, on 4 February 2026, issued a provisional attachment order covering four bank accounts holding approximately ₹4.07 crore linked to the society. The ED has stated its investigation continues to trace the full flow of diverted funds and identify further assets and beneficiaries, indicating the ₹4.07 crore attached so far may represent only a portion of total depositor losses.",
+    "asOfDate": "2026-02-04",
+    "sourceIds": [
+      "src-crown-lokmat",
+      "src-crown-prokerala"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Depositor funds provisionally attached (frozen) by the ED vs. funds actually returned to defrauded depositors",
+    "unit": "INR crore",
+    "targetValue": 4.07,
+    "actualValue": 0,
+    "targetDisplay": "₹4.07 cr frozen in attached accounts",
+    "actualDisplay": "₹0 returned to depositors so far",
+    "targetLabel": "Amount attached",
+    "actualLabel": "Amount returned to depositors",
+    "note": "Available reporting does not state a total confirmed figure for total depositor money collected or lost, only the ₹4.07 crore the ED has attached so far as part of an ongoing investigation; attachment freezes assets pending adjudication but does not by itself return money to depositors, and no restitution has been reported as of this entry's publication."
+  },
+  "money": {
+    "currency": "INR",
+    "released": 4.07,
+    "releasedLabel": "₹4.07 crore provisionally attached by the ED across four bank accounts (Feb 2026)",
+    "unit": "crore",
+    "notes": "This figure represents assets attached under PMLA proceedings, not a confirmed total of depositor funds collected or lost, which has not been independently quantified in available reporting.",
+    "sourceIds": [
+      "src-crown-lokmat"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-01-01",
+      "label": "Crown Credit Cooperative Society begins soliciting deposits",
+      "detail": "Society, led by Jagjeet Singh and Gurmeet Kaur, begins collecting deposits from the public across Punjab with promises of high returns; exact start date is approximate.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Punjab Police register multiple FIRs",
+      "detail": "FIRs allege criminal breach of trust, cheating, and criminal conspiracy against the society's leadership and agents; exact filing date is approximate based on available reporting.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-06-01",
+      "label": "Enforcement Directorate opens PMLA probe",
+      "detail": "ED's Jalandhar Zonal Office begins a money-laundering investigation based on the Punjab Police FIRs; exact date approximate.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-02-04",
+      "label": "ED provisionally attaches ₹4.07 crore",
+      "detail": "Four bank accounts linked to the society are attached under PMLA; ED states its probe into the full fund flow continues.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The matter remains under active investigation. Punjab Police FIRs against the society's leadership are pending, and the Enforcement Directorate's money-laundering investigation, including the February 2026 provisional attachment, is ongoing. This entry has found no reported arrests, chargesheet, or trial outcome as of the most recent available reporting, and all named individuals are presumed innocent pending the outcome of these proceedings.",
+    "keyIndividuals": [
+      {
+        "name": "Jagjeet Singh",
+        "role": "President-cum-Managing Director, Crown Credit Cooperative Society",
+        "outcome": "Named in Punjab Police FIRs alleging criminal breach of trust and cheating; ED investigation ongoing. No reported arrest or conviction as of available reporting."
+      },
+      {
+        "name": "Gurmeet Kaur",
+        "role": "Vice President, Crown Credit Cooperative Society",
+        "outcome": "Named in Punjab Police FIRs alongside Jagjeet Singh; ED investigation ongoing. No reported arrest or conviction as of available reporting."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real, currently active case: Punjab Police FIRs and a subsequent Enforcement Directorate money-laundering investigation allege a registered credit cooperative society ran what amounts to a Ponzi scheme, using new depositors' money to pay earlier depositors while diverting funds for personal use. It joins a long list of cooperative-structured deposit-taking entities investigated for similar patterns across India, though it remains at an early investigative stage with no reported convictions, and the full scale of depositor losses has not yet been quantified in public reporting.",
+    "confidence": "medium",
+    "reasoning": "The ED's February 2026 attachment order and its stated basis in Punjab Police FIRs are reported consistently across multiple outlets citing the ED's own statement. However, several timeline dates (when the society began operating, when FIRs were first filed, when the ED probe opened) are not precisely stated in available reporting and are marked approximate, and no court or investigative document has been reviewed directly by this entry."
+  },
+  "incomplete": [
+    "The exact dates the underlying Punjab Police FIRs were filed, and their FIR numbers, have not been confirmed in available reporting and are approximated in the timeline above.",
+    "A confirmed total figure for depositor funds collected or lost has not been found in available reporting; only the ₹4.07 crore ED attachment amount is confirmed.",
+    "This entry has not reviewed the ED's attachment order, the Punjab Police FIRs, or any cooperative-registrar findings on the society directly — it relies on news reporting summarising the ED's public statement.",
+    "The current status of any arrests, if made after the February 2026 attachment, has not been confirmed as of this entry's publication."
+  ],
+  "sources": [
+    {
+      "id": "src-crown-lokmat",
+      "label": "Punjab: ED attaches Rs 4.07 crore linked to Crown Credit Cooperative Society ponzi scam",
+      "type": "independent",
+      "publisher": "Lokmat Times",
+      "date": "2026-02-04",
+      "url": "https://www.lokmattimes.com/national/punjab-ed-attaches-rs-407-crore-linked-to-crown-credit-cooperative-society-ponzi-scam/"
+    },
+    {
+      "id": "src-crown-prokerala",
+      "label": "Punjab: ED attaches Rs 4.07 crore linked to crown credit cooperative society ponzi scam",
+      "type": "independent",
+      "publisher": "Prokerala",
+      "date": "2026-02-04",
+      "url": "https://www.prokerala.com/news/articles/a1725826.html"
+    }
+  ]
+}

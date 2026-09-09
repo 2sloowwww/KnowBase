@@ -1,0 +1,170 @@
+{
+  "id": "KB-003",
+  "slug": "dhfl-bank-fraud",
+  "title": "The DHFL Bank Fraud",
+  "dek": "A ₹34,615 crore loan fraud against a 17-bank consortium — the largest bank-fraud amount the CBI has ever booked in a single case. Years on, only a small fraction of assets have been publicly confirmed as recovered.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 9,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-02-24",
+  "heroStat": {
+    "value": "₹34,615 cr",
+    "label": "alleged fraud — the largest single bank-fraud case the CBI has registered"
+  },
+  "promise": {
+    "quote": "Loans extended by the consortium would be used for the stated end-use, secured against real collateral, and repaid according to the sanctioned terms.",
+    "madeBy": "Dewan Housing Finance Corporation Ltd. (DHFL), to a 17-bank lending consortium led by Union Bank of India",
+    "role": "Private housing finance company; regulated non-bank lender",
+    "date": "2010-01-01",
+    "context": "DHFL borrowed from a consortium of 17 banks over several years under standard commercial lending terms that require disclosed end-use and real collateral.",
+    "sourceIds": [
+      "src-dhfl-cbi"
+    ]
+  },
+  "target": {
+    "description": "Loan funds used for their disclosed purpose, with genuine collateral and accurate financial reporting to lenders, as required under standard RBI lending and disclosure norms.",
+    "standard": "Standard consortium-lending covenants and RBI prudential norms on end-use verification and related-party lending.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "The CBI's FIR alleges that DHFL's former CMD Kapil Wadhawan, former director Dheeraj Wadhawan, and others diverted funds to shell and related entities, fabricated books of account, and defaulted on repayment from May 2019, causing an alleged loss of ₹34,615 crore to the consortium. The Enforcement Directorate separately alleges more than ₹1,000 crore was laundered abroad through layered transactions, and that DHFL received ₹4,122.70 crore from Uttar Pradesh Power Corporation Ltd.'s employee provident fund. Both Wadhawan brothers were arrested and chargesheeted; the Supreme Court granted them bail in December 2025 while the trial continues.",
+    "asOfDate": "2025-12-11",
+    "sourceIds": [
+      "src-dhfl-cbi",
+      "src-dhfl-bail",
+      "src-dhfl-ed"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged fraud amount vs. publicly confirmed asset attachment",
+    "unit": "₹ crore",
+    "targetValue": 34615,
+    "actualValue": 1020,
+    "targetDisplay": "₹34,615 cr alleged fraud",
+    "actualDisplay": "~₹1,020 cr confirmed ED attachments (fragmented across orders)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Attached",
+    "note": "The ED has issued several separate provisional attachment orders over time (reported at ₹256.23 crore, ₹578 crore, and ₹3,000 crore of identified assets in different filings) that are not consistently reconciled into one public running total in available reporting. The ₹1,020 crore figure here is this investigation's conservative sum of the clearly attached-and-confirmed tranches; it excludes the ₹3,000 crore 'identified' figure, which reporting describes as assets located rather than formally attached. Treat this gap as illustrative of scale, not a precise reconciliation."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 34615,
+    "allocatedLabel": "Alleged fraud amount (CBI FIR)",
+    "released": 1020,
+    "releasedLabel": "Confirmed ED asset attachments (multiple orders)",
+    "spent": null,
+    "spentLabel": "Amount returned to lenders",
+    "unit": "crore",
+    "notes": "No public source consulted for this investigation states a single, final recovery figure for lenders. The ED has attached assets in multiple tranches over several years; whether or how much has actually been liquidated and returned to the bank consortium is not established in the sources reviewed.",
+    "sourceIds": [
+      "src-dhfl-ed",
+      "src-dhfl-ed-2"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019-05-01",
+      "label": "DHFL defaults on repayments",
+      "detail": "The company began missing scheduled repayments to its lender consortium.",
+      "type": "delay"
+    },
+    {
+      "date": "2020-02-24",
+      "label": "ED alleges ₹25,000 crore misappropriation",
+      "detail": "Early in its probe, the Enforcement Directorate cited a larger, provisional misappropriation estimate.",
+      "type": "revision"
+    },
+    {
+      "date": "2022-06-22",
+      "label": "CBI books ₹34,615 crore fraud",
+      "detail": "The CBI registered its case against DHFL, the Wadhawan brothers, and others — the largest single bank-fraud amount it has booked.",
+      "type": "status"
+    },
+    {
+      "date": "2022-07-30",
+      "label": "ED seizes an AgustaWestland helicopter",
+      "detail": "As part of its asset-tracing in the case, the ED seized a helicopter linked to the Wadhawans.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-11-20",
+      "label": "CBI files chargesheet",
+      "detail": "A chargesheet was filed against the accused in the loan-fraud case.",
+      "type": "status"
+    },
+    {
+      "date": "2024-05-14",
+      "label": "Dheeraj Wadhawan arrested",
+      "detail": "The CBI arrested Dheeraj Wadhawan in connection with the ongoing investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-11",
+      "label": "Supreme Court grants bail",
+      "detail": "The Supreme Court granted bail to both Kapil and Dheeraj Wadhawan; the trial continues.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Both principal accused have been chargesheeted and are currently out on bail. No conviction has been recorded; the trial is ongoing.",
+    "keyIndividuals": [
+      {
+        "name": "Kapil Wadhawan",
+        "role": "Former Chairman & Managing Director, DHFL",
+        "outcome": "Chargesheeted; granted bail by the Supreme Court, December 2025. Trial ongoing."
+      },
+      {
+        "name": "Dheeraj Wadhawan",
+        "role": "Former Director, DHFL",
+        "outcome": "Arrested May 2024; chargesheeted; granted bail by the Supreme Court, December 2025. Trial ongoing."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The CBI's own case describes India's largest single bank-fraud figure to date, and the broad allegation — fund diversion, fabricated accounts, and default — is backed by a filed chargesheet, not just a complaint. But this remains an allegation being tested in court: both accused are out on bail, no verdict has been reached, and public reporting does not establish a clear, final recovery figure for the defrauded banks.",
+    "confidence": "medium",
+    "reasoning": "The existence and scale of the alleged fraud rests on an official CBI FIR and chargesheet, which carries real evidentiary weight, but a chargesheet is an accusation, not a judicial finding. Confidence is medium pending trial, and the recovery figures in particular are drawn from fragmented, non-reconciled ED filings rather than a single audited number."
+  },
+  "incomplete": [
+    "No trial verdict has been reached; both accused are presumed innocent under Indian law pending the outcome.",
+    "A single, consolidated, up-to-date figure for assets recovered and returned to the lending banks was not found in the sources reviewed for this investigation.",
+    "The relationship between the ED's ₹25,000 crore early misappropriation estimate and the CBI's later ₹34,615 crore fraud figure is not fully reconciled in public reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-dhfl-cbi",
+      "label": "CBI books DHFL in 'biggest' banking fraud of Rs 34,615 crore; 17 banks hit",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-06-22",
+      "url": "https://www.business-standard.com/amp/article/companies/cbi-books-dhfl-former-cmd-and-director-in-rs-34-615-crore-bank-fraud-case-122062200611_1.html"
+    },
+    {
+      "id": "src-dhfl-bail",
+      "label": "Rs 34,000-Crore DHFL Bank Fraud Case: SC Grants Bail To Kapil, Dheeraj Wadhawan",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2025-12-16",
+      "url": "https://www.etvbharat.com/en/bharat/rs-34000-crore-dhfl-bank-fraud-case-sc-grants-bail-to-kapil-dheeraj-wadhawan-enn25121607589"
+    },
+    {
+      "id": "src-dhfl-ed",
+      "label": "ED Attaches Rs 186 Crore Worth Assets In DHFL Bank Loan Fraud Case",
+      "type": "independent",
+      "publisher": "BW Legal World",
+      "date": "2023-01-01",
+      "url": "https://www.bwlegalworld.com/article/ed-attaches-rs-186-crore-worth-assets-in-dhfl-bank-loan-fraud-case-570860"
+    },
+    {
+      "id": "src-dhfl-ed-2",
+      "label": "DHFL-UPPCL fraud case: ED attaches Wadhawan Global Capital's assets worth Rs 578 crore",
+      "type": "independent",
+      "publisher": "MSN / agency report",
+      "date": "2023-06-01"
+    }
+  ]
+}

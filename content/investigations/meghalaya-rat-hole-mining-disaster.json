@@ -1,0 +1,136 @@
+{
+  "id": "KB-3036",
+  "slug": "meghalaya-rat-hole-mining-disaster",
+  "title": "Meghalaya's Rat-Hole Mines: Banned by Tribunal Order in 2014, Still Killing Miners Four Years Later",
+  "dek": "The National Green Tribunal banned Meghalaya's unregulated 'rat-hole' coal mining in 2014 as unsafe and unscientific. In December 2018, fifteen miners were trapped in exactly the kind of illegal mine the ban was supposed to have shut down, and most were never brought out alive.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 905,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2018-12-13",
+  "heroStat": {
+    "value": "₹100 crore",
+    "label": "fine imposed on the Meghalaya government by the National Green Tribunal for continued illegal coal mining after the disaster"
+  },
+  "promise": {
+    "quote": "Rat-hole coal mining -- the unscientific, unregulated method of digging narrow pits and tunnels to extract coal by hand, widespread in Meghalaya -- would cease entirely following the National Green Tribunal's 2014 ban, and coal already extracted would not continue to be transported or sold.",
+    "madeBy": "Government of Meghalaya, as the state authority responsible for enforcing the National Green Tribunal's mining ban",
+    "role": "State government responsible for enforcing environmental and mining regulation within Meghalaya",
+    "date": "2014-04-17",
+    "context": "In April 2014, the National Green Tribunal banned rat-hole coal mining across Meghalaya, and also banned the transportation of coal extracted through this method, citing its unsafe, unscientific nature and its environmental impact on rivers and forests in the Jaintia Hills and other coal-bearing districts.",
+    "sourceIds": [
+      "src-meghalaya-drishti"
+    ]
+  },
+  "target": {
+    "description": "A complete end to rat-hole coal mining and the transport of coal extracted by that method across Meghalaya, as ordered by the National Green Tribunal.",
+    "standard": "National Green Tribunal order banning rat-hole mining in Meghalaya, 17 April 2014",
+    "referenceDate": "2014-04-17"
+  },
+  "reality": {
+    "description": "Despite the 2014 ban, rat-hole mining continued largely unabated across Meghalaya's coal belt in the years that followed, widely reported as continuing due to weak enforcement and the local economy's dependence on coal. On 13 December 2018, fifteen miners became trapped in an illegal rat-hole mine at Ksan in East Jaintia Hills district after they cut into an adjacent, flooded mine shaft connected to the nearby Lytein river, at a depth of around 370 feet. Five miners managed to escape before the mine fully flooded. Rescue operations involving the National Disaster Response Force, State Disaster Response Force, the Indian Navy, Indian Air Force, Coal India and private pumping contractors continued for nearly three months, but only two bodies were recovered by early March 2019, with most of the remaining miners never conclusively found or recovered. In the aftermath, the National Green Tribunal fined the Meghalaya government ₹100 crore for its continued failure to prevent illegal coal mining and enforce the 2014 ban.",
+    "asOfDate": "2019-03-02",
+    "sourceIds": [
+      "src-meghalaya-wiki",
+      "src-meghalaya-theprint"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years the rat-hole mining ban was in force before it failed to prevent a fatal mass-trapping incident",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 4,
+    "targetDisplay": "Rat-hole mining fully halted from April 2014",
+    "actualDisplay": "Illegal rat-hole mining continued for over 4 years after the ban, until the December 2018 Ksan mine flooding trapped 15 miners",
+    "targetLabel": "Expected enforcement",
+    "actualLabel": "Actual time until a fatal incident under the still-unenforced ban",
+    "note": "The ban was a tribunal order, not merely a recommendation, and continued illegal mining after it directly enabled the 2018 disaster."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 100,
+    "allocatedLabel": "Fine imposed on the Meghalaya government by the National Green Tribunal for continued illegal coal mining",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "This figure is a punitive environmental fine imposed on the state government, not a rescue or compensation budget. This entry did not find a reconciled figure for total compensation paid to the families of the trapped miners.",
+    "sourceIds": [
+      "src-meghalaya-theprint"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2014-04-17",
+      "label": "NGT bans rat-hole mining",
+      "detail": "The National Green Tribunal bans rat-hole coal mining and the transport of coal extracted by it across Meghalaya.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-12-13",
+      "label": "Fifteen miners trapped at Ksan",
+      "detail": "Fifteen miners are trapped in an illegal rat-hole coal mine in East Jaintia Hills district after cutting into an adjacent flooded mine connected to the Lytein river; five escape before the mine fully floods.",
+      "type": "status"
+    },
+    {
+      "date": "2018-12-14",
+      "label": "Multi-agency rescue operation launched",
+      "detail": "NDRF, SDRF, the Indian Navy, Indian Air Force and Coal India join a rescue operation to pump out water and reach the trapped miners.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-02",
+      "label": "Rescue operation effectively ends",
+      "detail": "After nearly three months, rescue efforts wind down having recovered only two bodies; most of the remaining trapped miners are never conclusively recovered.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-01",
+      "label": "NGT fines Meghalaya government ₹100 crore",
+      "detail": "The National Green Tribunal fines the state government ₹100 crore for its continued failure to enforce the 2014 rat-hole mining ban.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is primarily a regulatory and environmental-tribunal matter rather than a criminal prosecution. The National Green Tribunal fined the Meghalaya government for failing to enforce its own mining ban. This entry did not find confirmation of criminal convictions of specific mine owners or officials directly tied to the December 2018 Ksan incident.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The National Green Tribunal's 2014 ban on rat-hole mining did not translate into enforcement on the ground: illegal mining continued for years afterward, and in December 2018 it produced exactly the kind of disaster the ban was meant to prevent, trapping fifteen miners in a flooded illegal shaft that most never emerged from. The Tribunal's subsequent ₹100 crore fine on the state government is itself an official finding that enforcement had failed.",
+    "confidence": "high",
+    "reasoning": "The 2014 NGT ban, the December 2018 disaster, the multi-agency rescue effort's limited recovery, and the subsequent ₹100 crore fine are all well documented across independent reporting and the Tribunal's own actions. Confidence is not marked higher only because this entry could not confirm individual criminal accountability for the specific mine's owners or operators."
+  },
+  "incomplete": [
+    "This entry did not find confirmation of criminal charges or convictions against the specific owners or operators of the mine where the December 2018 trapping occurred.",
+    "The exact fate and recovery status of most of the thirteen miners not confirmed dead by name has not been comprehensively verified beyond initial reporting.",
+    "Compensation, if any, paid to the miners' families was not comprehensively reconciled in sources reviewed for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-meghalaya-drishti",
+      "label": "Rat-Hole Mining in Meghalaya",
+      "type": "independent",
+      "publisher": "Drishti IAS",
+      "date": "2023-01-01",
+      "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/rat-hole-mining-in-meghalaya"
+    },
+    {
+      "id": "src-meghalaya-wiki",
+      "label": "2018 Meghalaya mining accident",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/2018_Meghalaya_mining_accident"
+    },
+    {
+      "id": "src-meghalaya-theprint",
+      "label": "Another year, another mining tragedy — why Meghalaya's 'rat holes' won't stop killing",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2024-01-01",
+      "url": "https://theprint.in/india/another-year-another-mining-tragedy-why-meghalayas-rat-holes-wont-stop-killing/594667/"
+    }
+  ]
+}

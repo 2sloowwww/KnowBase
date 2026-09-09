@@ -1,0 +1,159 @@
+{
+  "id": "KB-1405",
+  "slug": "infosys-whistleblower-complaint-2019",
+  "title": "The Infosys 'Ethical Concerns' Whistleblower Complaint",
+  "dek": "Anonymous letters accused Infosys's CEO and CFO of hiding red flags to inflate margins and revenue, and of concealing the complaints from the board and regulators. The company's stock lost roughly $6.6 billion in market value in a single day — before an independent probe cleared both executives months later.",
+  "category": "Banking & Finance",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 236,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-10-20",
+  "heroStat": {
+    "value": "~17%",
+    "label": "single-day fall in Infosys shares on 22 October 2019 after the whistleblower complaints became public, wiping out a reported ₹53,451 crore (about $6.6 billion) in market capitalisation"
+  },
+  "promise": {
+    "quote": "Infosys Limited's financial statements and revenue recognition practices accurately reflect the company's true financial performance, and any complaints raising ethical concerns would be properly disclosed to the board, auditors, and, where required, regulators.",
+    "madeBy": "Infosys Limited management, under CEO Salil Parekh and CFO Nilanjan Roy",
+    "role": "CEO and CFO, Infosys Limited",
+    "date": "2019-01-01",
+    "context": "This reflects the general standard of financial integrity and whistleblower-disclosure compliance expected of a publicly listed company under SEBI's LODR regulations, rather than a specific public quotation.",
+    "sourceIds": [
+      "src-infosys-overview"
+    ]
+  },
+  "target": {
+    "description": "That Infosys would not misstate large deals' margins or revenue recognition to boost short-term profits, and that any whistleblower complaint alleging financial or ethical misconduct would be disclosed to the board's audit committee and, where price-sensitive, to stock exchanges under SEBI's Listing Obligations and Disclosure Requirements (LODR).",
+    "standard": "SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, including Regulation 30 on disclosure of material events; whistleblower/vigil mechanism requirements under the Companies Act, 2013.",
+    "referenceDate": "2019-09-20"
+  },
+  "reality": {
+    "description": "A whistleblower letter dated 20 September 2019, titled 'Disturbing Unethical Practices,' was submitted to an Infosys board member and separately to the US Securities and Exchange Commission, alleging that CEO Salil Parekh and CFO Nilanjan Roy had used unethical means — including allegedly overriding accounting standards and hiding information from auditors — to boost quarterly revenue and margins on some large contracts. A second, related anonymous complaint followed. The board received both by 30 September 2019 and placed them before the audit committee on 10 October 2019; details became public on 21 October 2019, and Infosys shares fell roughly 17% the next trading day, erasing a reported ₹53,451 crore (about $6.6 billion) in market value. SEBI and the BSE separately asked Infosys why it had not disclosed the whistleblower complaints under Regulation 30 of the LODR rules, since Infosys had not made any public disclosure before the matter leaked. Chairman Nandan Nilekani publicly defended the initial non-disclosure, saying the company followed its process of first assessing the complaints' credibility, and both Parekh and Roy were recused from the investigation to ensure impartiality. The audit committee retained EY as independent internal auditors and the law firm Shardul Amarchand Mangaldas & Co. to conduct an independent investigation, which examined 77 people through 128 interviews and reviewed roughly 210,000 documents. The SEC also opened its own inquiry based on the complaint. In January 2020, alongside its Q3 results, Infosys announced the audit committee's investigation had concluded that the allegations were substantially without merit and that no restatement of previously published financial statements was warranted. In March 2020, Infosys said the SEC had completed its probe.",
+    "asOfDate": "2020-03-24",
+    "sourceIds": [
+      "src-infosys-audit-conclusion",
+      "src-infosys-sec-closed",
+      "src-infosys-sebi-bse"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Market value lost on the day allegations became public vs. amount ultimately found to reflect confirmed wrongdoing",
+    "unit": "USD billion",
+    "targetValue": 0,
+    "actualValue": 6.6,
+    "targetDisplay": "$0 in confirmed financial misstatement (per the audit committee's conclusion)",
+    "actualDisplay": "~$6.6 billion in market value lost in one day on the allegations alone",
+    "targetLabel": "Confirmed misstatement",
+    "actualLabel": "Market value lost",
+    "note": "The audit committee's independent investigation found the allegations 'substantially without merit' and concluded no restatement was needed; this entry has not independently reviewed the investigation's underlying work papers, so this reflects the investigation's own reported conclusion rather than a court or regulator's independent finding."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-09-20",
+      "label": "Whistleblower letter dated",
+      "detail": "An anonymous letter titled 'Disturbing Unethical Practices' alleging misconduct by CEO Salil Parekh and CFO Nilanjan Roy is sent to an Infosys board member and the US SEC.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-10-10",
+      "label": "Complaints placed before audit committee",
+      "detail": "Infosys's board places the whistleblower complaints before its audit committee for review; Parekh and Roy are later recused from the investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2019-10-20",
+      "label": "Allegations become public",
+      "detail": "Details of the whistleblower complaints are reported publicly, alleging accounting irregularities to inflate margins and revenue on large deals.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-10-22",
+      "label": "Shares fall roughly 17%",
+      "detail": "Infosys stock drops sharply, erasing a reported ₹53,451 crore (about $6.6 billion) in market capitalisation in a single session; SEBI and the BSE seek clarification on non-disclosure.",
+      "type": "status"
+    },
+    {
+      "date": "2020-01-10",
+      "label": "Audit committee clears both executives",
+      "detail": "Infosys announces the independent investigation, run with EY and law firm Shardul Amarchand Mangaldas, found the allegations substantially without merit and that no financial restatement was required.",
+      "type": "status"
+    },
+    {
+      "date": "2020-03-24",
+      "label": "SEC concludes its probe",
+      "detail": "Infosys says the US Securities and Exchange Commission has completed its investigation arising from the same whistleblower complaint.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No charges were brought against Infosys, Salil Parekh, or Nilanjan Roy. The company's own audit-committee-led investigation, using outside auditors and lawyers, concluded the allegations were substantially without merit, and the SEC closed its parallel inquiry without reported enforcement action. SEBI's queries to Infosys concerned disclosure timing under listing rules, not the underlying financial allegations, and this entry has not found evidence that SEBI took further enforcement action after Infosys's response.",
+    "keyIndividuals": [
+      {
+        "name": "Salil Parekh",
+        "role": "CEO and Managing Director, Infosys",
+        "outcome": "Recused from the internal investigation into allegations against him; cleared when the audit committee concluded the allegations were substantially without merit."
+      },
+      {
+        "name": "Nilanjan Roy",
+        "role": "CFO, Infosys",
+        "outcome": "Recused from the internal investigation into allegations against him; cleared when the audit committee concluded the allegations were substantially without merit."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case shows how a serious but ultimately unsubstantiated whistleblower allegation can still cause major real-world harm — a $6.6 billion single-day market value loss — before any investigation concludes. The company's own board-led investigation, with outside auditors and counsel, found the allegations without merit, and the parallel SEC inquiry closed without reported action; there is no independent court or regulatory finding of financial misconduct by Infosys, Parekh, or Roy.",
+    "confidence": "medium",
+    "reasoning": "The timeline of the complaint, the board and audit committee's response, and the investigation's conclusions are corroborated across multiple independent business-press sources. Confidence is not higher because the investigation clearing Parekh and Roy was commissioned and controlled by Infosys's own audit committee rather than a fully independent regulator, and this entry has not reviewed SEBI's full correspondence with Infosys or any final SEBI order on the disclosure-timing question."
+  },
+  "incomplete": [
+    "Whether SEBI took any formal enforcement action against Infosys over the disclosure-timing question (Regulation 30 compliance) has not been confirmed from sources reviewed for this entry.",
+    "This entry has not reviewed the full text of the audit committee's investigation report, the original whistleblower letters, or any SEC closing correspondence.",
+    "The identity of the whistleblower(s) has never been publicly confirmed and is not addressed here."
+  ],
+  "sources": [
+    {
+      "id": "src-infosys-overview",
+      "label": "Indian Tech Giant Infosys Shaken By Whistleblower Complaints",
+      "type": "independent",
+      "publisher": "Forbes",
+      "date": "2019-10-25",
+      "url": "https://www.forbes.com/sites/meghabahree/2019/10/25/indian-tech-giant-infosys-shaken-by--whistleblower-complaints/"
+    },
+    {
+      "id": "src-infosys-sebi-bse",
+      "label": "SEBI, BSE ask Infosys why it didn't disclose whistleblower complaints",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2019-10-23",
+      "url": "https://www.businesstoday.in/latest/corporate/story/infosys-row-sebi-bse-seek-clarification-for-not-disclosing-info-on-whistleblower-complaints-236238-2019-10-23"
+    },
+    {
+      "id": "src-infosys-mcap-loss",
+      "label": "Infosys shares nosedive nearly 17 pc; m-cap drops by Rs 53,451 cr on whistleblower complaint",
+      "type": "independent",
+      "publisher": "Business Standard / PTI",
+      "date": "2019-10-22",
+      "url": "https://www.business-standard.com/article/pti-stories/infosys-shares-nosedive-nearly-17-pc-m-cap-drops-by-rs-53-451-cr-on-whistleblower-complaint-119102200810_1.html"
+    },
+    {
+      "id": "src-infosys-audit-conclusion",
+      "label": "Infosys Dismisses Whistleblower Allegations after Independent Inquiry",
+      "type": "independent",
+      "publisher": "Dataquest India",
+      "date": "2020-01-10",
+      "url": "https://www.dqindia.com/infosys-dismisses-whistleblower-allegations-independent-inquiry/"
+    },
+    {
+      "id": "src-infosys-sec-closed",
+      "label": "Infosys spurts after SEC completes probe on whistleblower case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2020-03-24",
+      "url": "https://www.business-standard.com/article/news-cm/infosys-spurts-after-sec-completes-probe-on-whistleblower-case-120032400450_1.html"
+    }
+  ]
+}

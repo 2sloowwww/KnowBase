@@ -1,0 +1,127 @@
+{
+  "id": "KB-2500",
+  "slug": "1962-sino-indian-war-unpreparedness",
+  "title": "The 1962 War: Nehru's Assurance That China 'Would Not Attack' Versus an Army Sent Unprepared Into the Himalayas",
+  "dek": "In the years before 1962, India's government publicly downplayed the chance of a Chinese military response to its border posture, and pursued a 'Forward Policy' of pushing outposts into disputed territory. The Indian Army's own post-war inquiry, the Henderson Brooks-Bhagat Report, found the force sent to hold that policy was undergunned, undermanned and operating on a mistaken assumption that China would not fight back.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 34,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1963-07-02",
+  "heroStat": {
+    "value": "9",
+    "label": "Understrength Indian Army divisions committed to the front, per the Henderson Brooks-Bhagat Report, lacking adequate artillery, winter clothing and acclimatisation for high-altitude warfare"
+  },
+  "promise": {
+    "quote": "The Chinese would not react to India's 'Forward Policy' of establishing outposts in disputed Himalayan territory with a full-scale military attack.",
+    "madeBy": "Government of India under Prime Minister Jawaharlal Nehru, and India's military and intelligence leadership",
+    "role": "Prime Minister and head of government; Intelligence Bureau and army command advising on China policy",
+    "date": "1961-11-02",
+    "context": "From late 1961, India adopted the 'Forward Policy' of establishing military posts in territory disputed with China, on the political and intelligence assessment that China was unlikely to respond with large-scale force, even as troops on the ground reported being outnumbered and under-equipped.",
+    "sourceIds": [
+      "src-1962-henderson-brooks-wiki",
+      "src-1962-foreignpolicy"
+    ]
+  },
+  "target": {
+    "description": "A defended, adequately supplied and reinforced border posture in Ladakh and the North-East Frontier Agency capable of holding disputed territory without provoking or losing a full-scale war with China.",
+    "standard": "The Indian government's and army high command's own stated assumptions underpinning the Forward Policy, and ordinary standards of force preparedness (equipment, logistics, chain of command) for high-altitude military deployment",
+    "referenceDate": "1961-11-02"
+  },
+  "reality": {
+    "description": "China launched coordinated offensives in the western (Ladakh) and eastern (NEFA) sectors on 20 October 1962. Indian forces, given the Henderson Brooks-Bhagat Report's own account, were operating with only nine understrength divisions lacking essential artillery, adequate winter clothing and secure supply lines, and were sent to hold forward positions many were not prepared to defend. The report found flawed operational plans, a breakdown in the chain of command between Delhi and the front, faulty Intelligence Bureau assessments of Chinese intent and capability, and a persistent official belief -- described by the report as mistaken -- that China would not respond with a large-scale attack. China declared a unilateral ceasefire on 21 November 1962 and withdrew from most of the eastern sector while retaining control of about 38,000 square kilometres of Aksai Chin in the west, territory China has continued to hold. The war ended with heavy Indian casualties and a lasting shock to India's defence establishment; the Henderson Brooks-Bhagat Report itself was classified as a 'top secret' internal army document for decades and was only partially leaked and published (by the Australian journalist Neville Maxwell) in 2014, with the government still declining to fully declassify it citing operational sensitivity.",
+    "asOfDate": "2014-03-17",
+    "sourceIds": [
+      "src-1962-henderson-brooks-wiki",
+      "src-1962-britannica",
+      "src-1962-foreignpolicy"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Indian Army divisions committed versus a fully-equipped, prepared force",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "A defended, adequately equipped and supplied border force",
+    "actualDisplay": "Nine understrength divisions without adequate artillery, winter equipment or secure logistics, per Henderson Brooks-Bhagat",
+    "targetLabel": "Assumed posture",
+    "actualLabel": "Actual force readiness found by the inquiry",
+    "note": "The Henderson Brooks-Bhagat Report's findings are qualitative operational assessments rather than a single quantified metric; this framing reflects that gap between assumed and actual readiness."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1961-11-02",
+      "label": "India adopts the 'Forward Policy'",
+      "detail": "India begins establishing military outposts in territory disputed with China in Ladakh and NEFA, on an official assessment that China would not respond militarily.",
+      "type": "announcement"
+    },
+    {
+      "date": "1962-10-20",
+      "label": "China launches coordinated offensives",
+      "detail": "Chinese forces attack Indian positions in Ladakh and NEFA simultaneously, overrunning many forward posts within days.",
+      "type": "status"
+    },
+    {
+      "date": "1962-11-21",
+      "label": "China declares unilateral ceasefire",
+      "detail": "China announces a unilateral ceasefire and begins withdrawing from most of the eastern sector, while retaining Aksai Chin in the west.",
+      "type": "status"
+    },
+    {
+      "date": "1963-07-02",
+      "label": "Henderson Brooks-Bhagat Report submitted",
+      "detail": "Lieutenant General Henderson Brooks and Brigadier P.S. Bhagat submit their Army inquiry into the causes of India's operational failures in the war; the report is classified 'top secret'.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-03-17",
+      "label": "Report partially leaked and published online",
+      "detail": "Journalist Neville Maxwell publishes leaked portions of the Henderson Brooks-Bhagat Report, making its findings public for the first time; the Indian government does not officially declassify the full document.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a military and policy failure examined through an internal army court of inquiry, not a criminal or judicial matter. No individual was prosecuted; the Henderson Brooks-Bhagat Report was an internal assessment intended to draw institutional lessons, and the Indian government has never officially released it in full, citing continued operational sensitivity regarding the unresolved border with China.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's own army inquiry found that the 1962 war followed from a mistaken political and intelligence assumption that China would not respond militarily to India's forward troop deployments, and that the force actually sent to hold those positions was inadequately equipped, supplied and commanded for the task -- a gap between official assurance and battlefield reality that the government has still not fully declassified six decades later.",
+    "confidence": "high",
+    "reasoning": "The Henderson Brooks-Bhagat Report's findings are corroborated by multiple independent journalistic and historical accounts following its 2014 leak, and the war's basic military outcome (ceasefire, territorial control) is well-documented and undisputed. Confidence is not higher because the full official report remains unreleased, so some findings are known only through partial leaks and secondary summaries rather than direct review of the complete document."
+  },
+  "incomplete": [
+    "The full Henderson Brooks-Bhagat Report has never been officially declassified by the Government of India; this entry relies on the 2014 leaked portions and independent reporting summarising them, not a complete primary document.",
+    "This entry does not adjudicate broader historical debate over Nehru-era China policy, boundary claims, or the role of other actors (including the United States and USSR) during the war, which remain subjects of historical dispute.",
+    "Casualty figures for both sides vary across sources and are not independently reconciled here."
+  ],
+  "sources": [
+    {
+      "id": "src-1962-henderson-brooks-wiki",
+      "label": "Henderson Brooks-Bhagat Report",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Henderson_Brooks%E2%80%93Bhagat_Report"
+    },
+    {
+      "id": "src-1962-foreignpolicy",
+      "label": "Burying Open Secrets: India's 1962 War and the Henderson-Brooks Report",
+      "type": "independent",
+      "publisher": "Foreign Policy",
+      "date": "2014-04-02",
+      "url": "https://foreignpolicy.com/2014/04/02/burying-open-secrets-indias-1962-war-and-the-henderson-brooks-report/"
+    },
+    {
+      "id": "src-1962-britannica",
+      "label": "What was the outcome of the 1962 Sino-Indian War?",
+      "type": "independent",
+      "publisher": "Encyclopaedia Britannica",
+      "date": "2024-01-01",
+      "url": "https://www.britannica.com/question/What-was-the-outcome-of-the-1962-Sino-Indian-War"
+    }
+  ]
+}

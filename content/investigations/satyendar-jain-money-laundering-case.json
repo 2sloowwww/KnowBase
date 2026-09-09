@@ -1,0 +1,162 @@
+{
+  "id": "KB-2100",
+  "slug": "satyendar-jain-money-laundering-case",
+  "title": "The Satyendar Jain Money-Laundering Case",
+  "dek": "A sitting Delhi minister was accused of building up assets disproportionate to his known income and laundering the proceeds through Kolkata shell companies. He spent roughly two and a half years in custody — including a stint out on medical bail — before a court granted regular bail, with no trial verdict yet delivered.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 163,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2017-08-24",
+  "heroStat": {
+    "value": "₹4.81 cr",
+    "label": "proceeds of crime the Enforcement Directorate alleges Satyendar Jain laundered through Kolkata-based shell companies — an allegation not yet tested to a verdict"
+  },
+  "promise": {
+    "quote": "No public servant shall, while holding office, acquire assets disproportionate to his known sources of income.",
+    "madeBy": "Central Bureau of Investigation, invoking Section 13(1)(e) of the Prevention of Corruption Act, 1988",
+    "role": "Federal investigating agency; the standard cited is the statutory bar on public servants amassing disproportionate assets",
+    "date": "1988-01-01",
+    "context": "This reflects the general statutory standard the CBI's own FIR against Jain invokes, rather than any personal pledge Jain himself made — it is included as the legal benchmark his conduct as a minister was measured against.",
+    "sourceIds": [
+      "src-jain-sanction"
+    ]
+  },
+  "target": {
+    "description": "That Satyendar Jain, as a minister in the Delhi government, would not use shell companies or third parties to acquire and launder assets disproportionate to his declared income while in public office.",
+    "standard": "Prevention of Corruption Act, 1988 (disproportionate assets) and the Prevention of Money Laundering Act, 2002.",
+    "referenceDate": "2015-02-14"
+  },
+  "reality": {
+    "description": "The CBI registered a case against Jain on 24 August 2017 alleging he acquired disproportionate assets between February 2015 and May 2017 while serving as a Delhi minister, and that he laundered tainted cash through four Kolkata-based shell companies allegedly linked to him and his family. The Enforcement Directorate took up a parallel money-laundering probe, arrested Jain on 30 May 2022, and filed a prosecution complaint before the Rouse Avenue court on 27 July 2022 quantifying the alleged proceeds of crime at roughly ₹4.81 crore. Jain was granted brief interim medical bail by the Supreme Court in 2023 but had to surrender after his regular-bail plea was rejected; the Supreme Court then rejected his bail again in March 2024 and ordered him to surrender immediately. In October 2024, the Rouse Avenue court granted him regular bail on the ground of trial delay and prolonged incarceration, after roughly two and a half years in custody. Separately, in January 2025, the CBI told a court it had secured the Lieutenant Governor's sanction to prosecute Jain in the original disproportionate-assets case. No verdict has been delivered in either the CBI or ED case.",
+    "asOfDate": "2025-01-13",
+    "sourceIds": [
+      "src-jain-arrest",
+      "src-jain-sc-order",
+      "src-jain-bail",
+      "src-jain-sanction"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Proceeds of crime alleged by the ED vs. amount established by a final court verdict to date",
+    "unit": "INR crore",
+    "targetValue": 4.81,
+    "actualValue": 0,
+    "targetDisplay": "₹4.81 cr alleged proceeds of crime (ED, 2022)",
+    "actualDisplay": "₹0 established in a verdict — trial still pending",
+    "targetLabel": "Alleged",
+    "actualLabel": "Proven at trial",
+    "note": "This gap reflects that more than eight years after the CBI's original FIR and over three years after the ED's arrest, both cases remain at the pre-trial or trial stage. Jain is out on bail and, under the presumption of innocence, has not been convicted of any of these allegations."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 4.81,
+    "allocatedLabel": "Alleged proceeds of crime (ED estimate, 2022 prosecution complaint)",
+    "unit": "crore",
+    "notes": "This is the ED's own pre-trial estimate of the amount allegedly laundered; it has not been confirmed by any court verdict.",
+    "sourceIds": [
+      "src-jain-arrest"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017-08-24",
+      "label": "CBI registers disproportionate-assets FIR",
+      "detail": "CBI FIR RC-AC-1-2017-A0005 alleges Jain acquired assets disproportionate to his income as a Delhi minister between February 2015 and May 2017, and routed tainted cash through Kolkata shell companies.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-05-30",
+      "label": "ED arrests Satyendar Jain",
+      "detail": "The Enforcement Directorate arrests Jain, then Delhi's health minister, under the Prevention of Money Laundering Act.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-07-27",
+      "label": "ED files prosecution complaint",
+      "detail": "The ED's complaint before the Rouse Avenue court quantifies alleged proceeds of crime at approximately ₹4.81 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2023-05-26",
+      "label": "Supreme Court grants brief interim medical bail",
+      "detail": "Jain is released for a few weeks on medical grounds; he surrenders again after his plea for regular bail is rejected.",
+      "type": "status"
+    },
+    {
+      "date": "2024-03-18",
+      "label": "Supreme Court rejects bail, orders surrender",
+      "detail": "The Court rejects Jain's regular-bail plea and directs him to surrender immediately.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-10-04",
+      "label": "Rouse Avenue court grants regular bail",
+      "detail": "After roughly two and a half years in custody, the court grants bail citing delay in trial and prolonged incarceration.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-01-13",
+      "label": "CBI secures prosecution sanction",
+      "detail": "The CBI tells a court it has obtained the Delhi Lieutenant Governor's sanction to prosecute Jain in the original disproportionate-assets case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No verdict has been reached in either the CBI's disproportionate-assets case or the ED's money-laundering case. Jain is out on regular bail as of October 2024, and the CBI obtained prosecution sanction in January 2025 to proceed with the underlying corruption case. Under the presumption of innocence, all allegations against him remain unproven.",
+    "keyIndividuals": [
+      {
+        "name": "Satyendar Jain",
+        "role": "Former Delhi Cabinet Minister (Aam Aadmi Party)",
+        "outcome": "Arrested by the ED in May 2022; spent roughly two and a half years in custody; granted regular bail in October 2024. No verdict; presumed innocent pending trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, still-pending case: a sitting minister was investigated for disproportionate assets and money laundering, arrested, and held for over two years before bail — a serious use of the state's coercive power against a public official — but neither underlying allegation has yet been tested to a verdict at trial.",
+    "confidence": "medium",
+    "reasoning": "The CBI FIR, ED arrest, prosecution complaint, and the Supreme Court and Rouse Avenue court bail orders are each independently and consistently reported by multiple news outlets citing the court record, though this entry has not reviewed the CBI or ED's original charging documents directly."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CBI FIR, the ED's prosecution complaint, or the bail orders directly — it relies on news reporting that cites them.",
+    "The current status and next hearing dates of the trial, as of publication, have not been independently confirmed beyond the January 2025 sanction development.",
+    "Some reports describe Jain's October 2024 bail as coming after '18 months' in jail while others describe it as after roughly two years; this entry uses the timeline consistent with his 30 May 2022 arrest date and flags the discrepancy here rather than resolving it."
+  ],
+  "sources": [
+    {
+      "id": "src-jain-arrest",
+      "label": "ED arrests Delhi health minister Satyendar Jain in money laundering case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-05-30",
+      "url": "https://www.deccanherald.com/national/north-and-central/ed-arrests-delhi-health-minister-satyendar-jain-in-money-laundering-case-1113797.html"
+    },
+    {
+      "id": "src-jain-sc-order",
+      "label": "Supreme Court judgment rejecting Satyendar Jain's bail plea",
+      "type": "primary",
+      "publisher": "Supreme Court of India",
+      "date": "2024-03-18",
+      "url": "https://api.sci.gov.in/supremecourt/2023/20478/20478_2023_15_1501_51515_Judgement_18-Mar-2024.pdf"
+    },
+    {
+      "id": "src-jain-bail",
+      "label": "Delhi court grants bail to AAP leader Satyendar Jain in money laundering case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2024-10-04",
+      "url": "https://www.tribuneindia.com/news/delhi/delhi-court-grants-bail-to-aap-leader-satyendar-jain-in-money-laundering-case"
+    },
+    {
+      "id": "src-jain-sanction",
+      "label": "CBI files prosecution sanction against former Delhi minister Satyendra Jain",
+      "type": "independent",
+      "publisher": "ANI News",
+      "date": "2025-01-13",
+      "url": "https://www.aninews.in/news/national/general-news/cbi-files-prosecution-sanction-against-former-delhi-minister-satyendra-jain20250113174046/"
+    }
+  ]
+}

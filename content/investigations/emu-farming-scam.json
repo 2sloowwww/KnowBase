@@ -1,0 +1,158 @@
+{
+  "id": "KB-906",
+  "slug": "emu-farming-scam",
+  "title": "The Emu Farming Scam",
+  "dek": "Promoters across South India sold emu-rearing 'investments' promising guaranteed monthly returns and full buybacks, structured so each new investor's money paid the last one — a textbook Ponzi scheme dressed as an agribusiness. It collapsed by the early 2010s, leaving thousands of investors unpaid and abandoned birds to starve.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 225,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-08-09",
+  "heroStat": {
+    "value": "₹97.5 cr",
+    "label": "collected from 3,767 depositors by just one such firm, Susi Emu Farms, according to investigation findings cited in later court proceedings"
+  },
+  "promise": {
+    "quote": "Investors who paid for emu chicks, feed and infrastructure would receive guaranteed monthly returns of roughly ₹6,000-9,000, a claimed near-zero mortality rate for the birds, and full repayment of their principal after 18-24 months, from a genuine and expanding emu-meat and emu-oil farming business.",
+    "madeBy": "Private emu-farming companies (including Susi Emu Farms and numerous similar operators) across Tamil Nadu, Andhra Pradesh, Karnataka and other states",
+    "role": "Agribusiness promoters marketing emu-rearing investment contracts to farmers and small investors",
+    "date": "2006-01-01",
+    "context": "Emu farming was promoted from around 2006 onward as a lucrative new agribusiness in Tamil Nadu, later spreading to Andhra Pradesh, Karnataka, Maharashtra and beyond, with companies signing up thousands of small investors under contract-farming and buyback schemes.",
+    "sourceIds": [
+      "src-emu-businessstandard",
+      "src-emu-greenworld"
+    ]
+  },
+  "target": {
+    "description": "That returns paid to investors would come from a genuine, sustainable emu-meat and emu-oil market, rather than being funded from new investors' principal in a Ponzi structure.",
+    "standard": "General standard against fraudulent deposit-taking/investment schemes under laws such as the Tamil Nadu Protection of Interests of Depositors (TNPID) Act and the Indian Penal Code's cheating and criminal-conspiracy provisions.",
+    "referenceDate": "2006-01-01"
+  },
+  "reality": {
+    "description": "By the early 2010s, the market for emu meat, eggs and oil in India proved far smaller than the schemes required to sustain their promised payouts, and multiple operators began defaulting on payments. Susi Emu Farms, whose managing director M.S. Guru launched investment schemes in 2010, was found in one prosecution to have collected roughly ₹97.48 crore from 3,767 depositors under two schemes before defaulting; police in Tamil Nadu received thousands of complaints from an estimated 13,000-plus investors across affected firms, and a case was registered against Susi Emu Farms and its partners on 9 August 2012 under IPC cheating/conspiracy provisions and the Tamil Nadu Protection of Interests of Depositors Act, leading to arrests. Similar Ponzi-style emu schemes and defaults were reported spreading through Andhra Pradesh, Karnataka, Maharashtra and further north, with total investor losses across all such schemes estimated by some reporting in the range of ₹500-1,000 crore, though this figure has not been independently verified against an official consolidated audit. Thousands of emus were left abandoned or facing starvation as promoters shut down operations or disappeared with remaining funds. Court proceedings, including a 2021 Madras High Court civil appeal involving Susi Emu Farms, indicate litigation over these schemes continued for close to a decade after the initial collapse; this entry has not confirmed whether criminal trials against the promoters have concluded or whether any meaningful compensation has been recovered for depositors.",
+    "asOfDate": "2021-03-08",
+    "sourceIds": [
+      "src-emu-indiankanoon",
+      "src-emu-lawfullegal"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Promised guaranteed monthly return vs. actual investor outcome",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Guaranteed ₹6,000-9,000/month plus full principal buyback",
+    "actualDisplay": "Defaults, disappeared promoters, and abandoned birds",
+    "targetLabel": "Promised return",
+    "actualLabel": "Actual outcome",
+    "note": "No official, consolidated figure exists for total nationwide losses across all emu-farming schemes; the widely cited ₹500-1,000 crore estimate is a media aggregate, not an audited or court-established figure, and is flagged as such."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 97.48,
+    "spentLabel": "amount Susi Emu Farms alone was found to have collected from 3,767 depositors under two schemes, per case records",
+    "unit": "crore",
+    "notes": "This figure covers only one operator (Susi Emu Farms); total losses across all similar emu-farming schemes nationwide are estimated in some media reporting at ₹500-1,000 crore, but that broader figure has not been independently verified against an official audit or consolidated investigation.",
+    "sourceIds": [
+      "src-emu-indiankanoon"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "label": "Emu farming schemes begin spreading in Tamil Nadu",
+      "detail": "Emu-rearing investment schemes emerge as a farming fad in Tamil Nadu, promising high guaranteed returns to investors.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-01-01",
+      "label": "Susi Emu Farms launches investment schemes",
+      "detail": "Managing Director M.S. Guru launches schemes promising monthly returns of ₹6,000-9,000 and full principal repayment after 18-24 months.",
+      "type": "announcement"
+    },
+    {
+      "date": "2012-08-09",
+      "label": "Criminal case registered against Susi Emu Farms",
+      "detail": "A case is registered under IPC sections 406, 420 and the Tamil Nadu Protection of Interests of Depositors Act after the company defaults; the company and its partners are arrested and remanded.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-09-18",
+      "label": "Scandal reported spreading north from Tamil Nadu",
+      "detail": "Business Standard reports the fraud-hit emu farming industry expanding into other states even as the original schemes collapse.",
+      "type": "status"
+    },
+    {
+      "date": "2014-01-01",
+      "label": "Related civil litigation begins over Susi Emu Farms",
+      "detail": "Civil proceedings (later reflected in a 2021 Madras High Court appeal) begin over disputes connected to the company's collapse.",
+      "type": "status"
+    },
+    {
+      "date": "2021-03-08",
+      "label": "Madras High Court decides civil appeal involving Susi Emu Farms",
+      "detail": "The High Court rules on a civil appeal (CMA No. 2708 of 2014) connected to the company, indicating litigation was still active roughly nine years after the initial default.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A criminal case was registered against Susi Emu Farms and its partners in August 2012, with arrests made, and related civil litigation continued at least into 2021. This entry has not confirmed the final outcome of the core criminal prosecution (trial, conviction or discharge) against Susi Emu Farms' promoters, nor the status of prosecutions against other emu-farming operators across Andhra Pradesh, Karnataka and other affected states.",
+    "keyIndividuals": [
+      {
+        "name": "M.S. Guru",
+        "role": "Managing Director, Susi Emu Farms India Pvt Ltd",
+        "outcome": "Company and partners arrested in August 2012 under cheating and depositor-protection laws; final criminal trial outcome not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The emu farming collapse is a well-documented, real financial fraud on a large scale, at least as far as one major operator (Susi Emu Farms) is concerned, with police-verified deposit collection of ₹97.48 crore from thousands of investors and a registered criminal case. The much larger ₹500-1,000 crore nationwide loss figure circulated in media, however, is an aggregate estimate that this site cannot verify against an official audit, and is flagged as such rather than stated as fact.",
+    "confidence": "low",
+    "reasoning": "The core facts about Susi Emu Farms — the scheme structure, the ₹97.48 crore collection figure, and the August 2012 case registration — are corroborated by a 2021 Madras High Court judgment referenced via Indian Kanoon, a primary legal source. Confidence is capped at low because this entry has not reviewed the full criminal case file or confirmed final trial outcomes, has not verified the nationwide loss estimate, and has not researched other named operators or state-specific investigations (e.g., in Andhra Pradesh or Karnataka) in comparable depth."
+  },
+  "incomplete": [
+    "This entry has not confirmed the final outcome (conviction, acquittal, or ongoing trial status) of the criminal case against Susi Emu Farms' promoters as of 2026.",
+    "The oft-cited ₹500-1,000 crore nationwide loss estimate across all emu-farming schemes is a media aggregate and has not been verified against any official consolidated audit or investigation; this entry flags rather than adopts that figure.",
+    "This entry has not separately researched criminal proceedings against other named emu-farming operators beyond Susi Emu Farms, despite reports of similar schemes across Andhra Pradesh, Karnataka, Maharashtra and other states.",
+    "The fate of investor compensation or asset recovery, if any, has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-emu-businessstandard",
+      "label": "Fraud-hit emu farming industry flies North",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2012-09-18",
+      "url": "https://www.business-standard.com/article/companies/fraud-hit-emu-farming-industry-flies-north-112091800043_1.html"
+    },
+    {
+      "id": "src-emu-greenworld",
+      "label": "Emu Farming Ponzi Scheme in India goes Bust leaving Thousands of Emus facing Starvation — The Complete Story",
+      "type": "independent",
+      "publisher": "Green World Investor",
+      "date": "2013-01-01",
+      "url": "https://greenworldinvestor.com/emu-farming-ponzi-scheme-in-india-goes-bust-leaving-thousands-of-emus-facing-starvation-the-complete-story/"
+    },
+    {
+      "id": "src-emu-indiankanoon",
+      "label": "M/S. Susi Emu Farms India Pvt. Ltd vs The State Of Tamil Nadu",
+      "type": "primary",
+      "publisher": "Madras High Court (via Indian Kanoon)",
+      "date": "2021-03-08",
+      "url": "https://indiankanoon.org/doc/12648228/"
+    },
+    {
+      "id": "src-emu-lawfullegal",
+      "label": "The Great Emu Egg Scam: A Cautionary Tale Of Ponzi Schemes In Disguise",
+      "type": "independent",
+      "publisher": "Lawful Legal",
+      "date": "2023-01-01",
+      "url": "https://lawfullegal.in/the-great-emu-egg-scam-a-cautionary-tale-of-ponzi-schemes-in-disguise/"
+    }
+  ]
+}

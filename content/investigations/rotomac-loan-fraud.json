@@ -1,0 +1,115 @@
+{
+  "id": "KB-043",
+  "slug": "rotomac-loan-fraud",
+  "title": "The Rotomac Loan Fraud",
+  "dek": "A pen maker borrowed nearly ₹2,919 crore from seven public banks. When lenders feared he might flee like Nirav Modi, the CBI moved first and arrested him before he could.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 207,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-01-01",
+  "heroStat": {
+    "value": "₹3,695 cr",
+    "label": "loan default including accrued interest, owed to seven public sector banks"
+  },
+  "promise": {
+    "quote": "Credit facilities extended to Rotomac Global Pvt. Ltd. will be repaid according to sanctioned terms.",
+    "madeBy": "Rotomac Global Pvt. Ltd., under owner Vikram Kothari",
+    "role": "Kanpur-based pen and stationery manufacturer; borrower from a seven-bank consortium",
+    "date": "2008-01-01",
+    "context": "Bank of Baroda, a member of the lending consortium led by Bank of India, approached the CBI fearing Kothari might flee the country as Nirav Modi and Mehul Choksi had.",
+    "sourceIds": [
+      "src-rotomac-overview"
+    ]
+  },
+  "target": {
+    "description": "Loan funds used for their disclosed manufacturing purpose and repaid according to sanctioned terms, with the borrower remaining available to Indian investigators.",
+    "standard": "Standard multi-bank consortium lending covenants.",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "The CBI arrested Vikram Kothari and his son Rahul Kothari on 22 February 2018, booking them over a loan default reported at ₹3,695 crore including accrued interest, against a principal of roughly ₹2,919 crore owed across seven banks: Bank of India (₹754.77 cr), Indian Overseas Bank (₹771.07 cr), Bank of Baroda (₹456.63 cr), Union Bank of India (₹458.95 cr), Allahabad Bank (₹330.68 cr), Oriental Bank of Commerce (₹97.47 cr), and Bank of Maharashtra (₹49.82 cr).",
+    "asOfDate": "2018-02-22",
+    "sourceIds": [
+      "src-rotomac-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Principal loan amount vs. total default including accrued interest",
+    "unit": "₹ crore",
+    "targetValue": 2919,
+    "actualValue": 3695,
+    "targetDisplay": "₹2,919 cr principal",
+    "actualDisplay": "₹3,695 cr with accrued interest",
+    "targetLabel": "Principal",
+    "actualLabel": "With interest",
+    "note": "Unlike several fugitive-linked cases on this site, Kothari and his son were arrested in India before they could leave — the gap here reflects interest accrual on default, not asset flight."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Borrowing begins",
+      "detail": "Rotomac begins availing credit facilities from the seven-bank consortium.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-01-01",
+      "label": "Consortium approaches CBI",
+      "detail": "Bank of Baroda, fearing Kothari may flee, seeks CBI intervention.",
+      "type": "status"
+    },
+    {
+      "date": "2018-02-22",
+      "label": "Kothari and son arrested",
+      "detail": "The CBI arrests Vikram and Rahul Kothari over the ₹3,695 crore default.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Both father and son were arrested in 2018; this investigation has not yet traced the case to a bail decision or trial verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Vikram Kothari",
+        "role": "Owner, Rotomac Global",
+        "outcome": "Arrested by the CBI, 22 February 2018. This investigation has not confirmed a subsequent bail decision or trial verdict."
+      },
+      {
+        "name": "Rahul Kothari",
+        "role": "Son of Vikram Kothari; company director",
+        "outcome": "Arrested alongside his father, 22 February 2018. No confirmed subsequent status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the default amount and both arrests are well documented from 2018 reporting. This investigation has not established the trial's current status nearly a decade later.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn primarily from 2018 reporting. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. The trial's current status, bail history, and any verdict have not been researched.",
+    "No confirmed recovery figure for the seven-bank consortium was found in the sources reviewed.",
+    "It is not established whether other Kothari family members named in early reporting remain accused."
+  ],
+  "sources": [
+    {
+      "id": "src-rotomac-overview",
+      "label": "Rs 37-bn loan default case: CBI arrests Rotomac owner Vikram Kothari, son",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2018-02-22",
+      "url": "https://www.business-standard.com/article/current-affairs/rs-37-bn-loan-default-case-cbi-arrests-rotomac-owner-vikram-kothari-son-118022201092_1.html"
+    },
+    {
+      "id": "src-rotomac-arrest",
+      "label": "Rotomac bank fraud: CBI arrests Vikram Kothari and his son",
+      "type": "independent",
+      "publisher": "WION",
+      "date": "2018-02-22",
+      "url": "https://www.wionews.com/india-news/rotomac-bank-fraud-cbi-arrests-vikram-kothari-and-his-son-33746"
+    }
+  ]
+}

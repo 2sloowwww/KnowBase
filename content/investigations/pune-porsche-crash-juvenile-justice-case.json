@@ -1,0 +1,166 @@
+{
+  "id": "KB-2900",
+  "slug": "pune-porsche-crash-juvenile-justice-case",
+  "title": "The Pune Porsche Crash and the Juvenile Justice Board's Essay Order",
+  "dek": "A 17-year-old allegedly drove a Porsche while drunk and killed two young engineers in Pune in May 2024. The Juvenile Justice Board's same-day order -- bail on condition of writing a 300-word essay on road safety -- was meant to reflect the law's rehabilitative promise for children in conflict with law, but was overturned within days as courts, and the public, found it could not be squared with the facts of the case.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 57,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2024-05-19",
+  "heroStat": {
+    "value": "300 words",
+    "label": "the length of the road-safety essay the Juvenile Justice Board initially ordered the accused to write, as one condition of same-day bail"
+  },
+  "promise": {
+    "quote": "The Juvenile Justice (Care and Protection of Children) Act, 2015 exists to ensure that a child in conflict with law is given care, protection, and rehabilitation... consistent with the ends of justice.",
+    "madeBy": "Parliament of India",
+    "role": "Legislature, via the Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "date": "2016-01-15",
+    "context": "The Juvenile Justice Act's stated purpose is to balance a child's rehabilitation against the interests of justice and public safety -- a balance the Pune Juvenile Justice Board's initial order in this case was widely accused of failing to strike.",
+    "sourceIds": [
+      "src-porsche-p39ablog"
+    ]
+  },
+  "target": {
+    "description": "A juvenile justice process that weighs a child's welfare and rehabilitation against the gravity of the offence and the safety of the public, applying a case-by-case assessment (including, where relevant, trial as an adult under Section 15 of the JJ Act for heinous offences by 16-18 year-olds) rather than a uniform, lenient default.",
+    "standard": "Sections 15 and 19 of the Juvenile Justice (Care and Protection of Children) Act, 2015, which require a preliminary assessment of a juvenile's mental and physical capacity and the circumstances of the offence before deciding whether trial as an adult is warranted.",
+    "referenceDate": "2024-05-19"
+  },
+  "reality": {
+    "description": "In the early hours of May 19, 2024, a speeding Porsche Taycan allegedly driven by a 17-year-old, reportedly after drinking at bars with friends, struck and killed two young software engineers, Anish Awadhiya and Ashwini Koshta, on a motorcycle in Pune's Kalyani Nagar. Within hours, the Pune Juvenile Justice Board granted the accused bail, placing him in the custody of his grandfather and directing him -- among other conditions -- to write a 300-word essay on road accidents and to work with the traffic police for 15 days. The order, and the seeming leniency of the conditions relative to two deaths, triggered national outrage. Following public pressure, police intervention and involvement of the state Commission for Protection of Child Rights, the boy was sent to an observation home, only for the Bombay High Court to rule on June 25, 2024 that his remand to the observation home was illegal and without jurisdiction, ordering his release into his aunt's custody with continued counselling. Separately, his father, grandfather and others were arrested and later granted bail over an alleged conspiracy to fabricate blood samples to hide the teen's intoxication; the father spent nearly 22 months in custody before the Supreme Court granted him bail in March 2026, and other co-accused in the blood-sample-swap allegation were released by the Supreme Court in February 2026. The Juvenile Justice Board separately rejected police requests to try the teen, now an adult in age, as an adult, and two JJB members were removed by the Maharashtra government over the original bail order.",
+    "asOfDate": "2026-03-11",
+    "sourceIds": [
+      "src-porsche-indiatv",
+      "src-porsche-tribune",
+      "src-porsche-scoopwhoop",
+      "src-porsche-sc-bail-2026"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time between the fatal crash and the Juvenile Justice Board's initial bail-with-essay order",
+    "unit": "hours",
+    "targetValue": 24,
+    "actualValue": 15,
+    "targetDisplay": "A preliminary capacity-and-circumstances assessment under Section 15, JJ Act, before any bail decision",
+    "actualDisplay": "Bail granted with essay-writing condition within roughly 15 hours of the crash",
+    "targetLabel": "Expected process",
+    "actualLabel": "What happened",
+    "note": "The exact hour of the JJB order is drawn from contemporaneous news reports; this figure is approximate and included to illustrate the speed of the original order relative to the gravity of the offence, not as a precise legal benchmark."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2024-05-19",
+      "label": "Fatal crash in Kalyani Nagar",
+      "detail": "A Porsche Taycan allegedly driven by a 17-year-old, after a night at bars, strikes and kills two motorcycle-riding software engineers in Pune.",
+      "type": "status"
+    },
+    {
+      "date": "2024-05-19",
+      "label": "Juvenile Justice Board grants bail with essay condition",
+      "detail": "The JJB releases the accused into family custody on conditions including writing a 300-word essay on road accidents, sparking national outrage.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-05-22",
+      "label": "Sent to observation home after public backlash",
+      "detail": "Following intervention by police and the state Commission for Protection of Child Rights, the accused is remanded to an observation home; his father, grandfather and others are separately arrested over an alleged blood-sample tampering conspiracy.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-06-25",
+      "label": "Bombay High Court orders release",
+      "detail": "The High Court rules the observation-home remand illegal and orders the teen released into his paternal aunt's custody, with continued counselling.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-07-15",
+      "label": "JJB declines to try accused as an adult",
+      "detail": "The Juvenile Justice Board rejects a police request to try the accused, by then an adult in age, as an adult for the heinous offence, keeping the case within the juvenile justice system.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Supreme Court releases blood-sample-swap co-accused",
+      "detail": "The Supreme Court grants bail to three individuals accused of helping alter blood samples, after roughly 18 months in custody, amid a still-pending trial.",
+      "type": "status"
+    },
+    {
+      "date": "2026-03-10",
+      "label": "Supreme Court grants bail to accused's father",
+      "detail": "The Supreme Court grants bail to Vishal Agarwal after nearly 22 months in custody, directing the trial court to conclude the underlying trial expeditiously.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case remains under trial more than two years after the crash. The minor accused (not named per reporting convention) is being proceeded against within the juvenile justice system after the JJB declined to order trial as an adult; the trial concerning the two deaths, and a separate case alleging conspiracy to tamper with blood samples to conceal intoxication, are both ongoing, with several adult co-accused released on bail pending trial.",
+    "keyIndividuals": [
+      {
+        "name": "Minor accused (not named)",
+        "role": "Driver of the vehicle, a minor at the time of the offence",
+        "outcome": "Proceeded against as a juvenile; trial before the Juvenile Justice Board ongoing"
+      },
+      {
+        "name": "Vishal Agarwal",
+        "role": "Father of the minor accused, charged in the alleged blood-sample tampering conspiracy",
+        "outcome": "In custody for roughly 22 months; granted bail by the Supreme Court in March 2026, trial ongoing"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Juvenile Justice Board's original order was not itself a final judgment but treated a fatal, alcohol-related double killing with a leniency that even the appellate courts and the state government found impossible to defend, leading to its reversal within days and disciplinary action against board members. The broader case -- on trial as an adult, alleged evidence tampering, and the fate of the accused and his family -- has taken more than two years to move through the courts without a final verdict on the core charges.",
+    "confidence": "medium",
+    "reasoning": "The sequence of orders, reversals and bail decisions is well documented by multiple Indian outlets. Confidence is capped at medium because the underlying trial is still ongoing, and this entry does not have access to the JJB's full, unredacted reasoning for either the original order or its later refusal to try the accused as an adult."
+  },
+  "incomplete": [
+    "The trial on the core charges (relating to the two deaths) has not concluded as of this entry's publication; no final verdict on guilt exists yet.",
+    "The exact number of hours between the crash and the original JJB order varies slightly across contemporaneous reports and is presented here as approximate.",
+    "This entry does not name the minor accused, consistent with standard reporting practice for juveniles in India."
+  ],
+  "sources": [
+    {
+      "id": "src-porsche-indiatv",
+      "label": "Pune Porsche crash case: Bombay HC orders release of accused teen from observation home",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2024-06-25",
+      "url": "https://www.indiatvnews.com/maharashtra/pune-porsche-crash-case-bombay-high-court-orders-juvenile-accused-to-be-released-from-observation-home-latest-updates-2024-06-25-938714"
+    },
+    {
+      "id": "src-porsche-tribune",
+      "label": "Pune Porsche crash: Minor released as Bombay High Court says orders sending him to observation home illegal",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2024-06-25",
+      "url": "https://www.tribuneindia.com/news/india/pune-porsche-crash-minor-released-as-bombay-high-court-says-orders-sending-him-to-observation-home-illegal-634037"
+    },
+    {
+      "id": "src-porsche-scoopwhoop",
+      "label": "A Crash, An Essay Bail, And A Tampering Probe: The Pune Porsche Case So Far",
+      "type": "independent",
+      "publisher": "ScoopWhoop",
+      "date": "2024-06-01",
+      "url": "https://www.scoopwhoop.com/national-news/a-crash-an-essay-bail-and-a-tampering-probe-the-pune-porsche-case-so-far/"
+    },
+    {
+      "id": "src-porsche-sc-bail-2026",
+      "label": "Supreme Court Grants Bail to Vishal Agarwal, Father of Minor Accused in Pune Porsche Crash Case",
+      "type": "independent",
+      "publisher": "The Bridge Chronicle",
+      "date": "2026-03-10",
+      "url": "https://www.thebridgechronicle.com/amp/story/pune/supreme-court-bail-vishal-agarwal-pune-porsche-crash-case-agn97"
+    },
+    {
+      "id": "src-porsche-p39ablog",
+      "label": "The Pune Porsche Case: Unpacking the Law on Bail, the 'Essay' and the Child-Adult Question",
+      "type": "independent",
+      "publisher": "P39A Blog (Project 39A, National Law University Delhi)",
+      "date": "2024-05-24",
+      "url": "https://p39ablog.com/2024/05/the-pune-porsche-case/"
+    }
+  ]
+}

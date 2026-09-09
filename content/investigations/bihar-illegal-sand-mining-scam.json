@@ -1,0 +1,141 @@
+{
+  "id": "KB-1511",
+  "slug": "bihar-illegal-sand-mining-scam",
+  "title": "The Bihar Illegal Sand Mining Scam",
+  "dek": "A Rajasthan-based company allegedly excavated ₹131 crore worth of river sand from Bihar's Banka district over seven years without paying royalties — a network the ED traced from Patna to Delhi and Jaipur using satellite imaging.",
+  "category": "Natural Resources",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 241,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2026-05-01",
+  "heroStat": {
+    "value": "₹131 cr",
+    "label": "value of sand the ED estimates was illegally extracted in Banka district, Bihar, between 2015-16 and 2022-23"
+  },
+  "promise": {
+    "quote": "Riverbed sand mining in Bihar will occur only under valid state mining licences, with royalties paid on all extraction, protecting river ecosystems and state revenue alike.",
+    "madeBy": "Bihar mining and geology department regulatory framework",
+    "role": "State regulator of riverbed sand mining licences and royalty collection",
+    "date": "2015-04-01",
+    "context": "The ED's investigation centres on Mahadev Enclave Private Limited, a company controlled by Ashok Chandak and his son Raghav Chandak of Sriganganagar, Rajasthan, alleged to have illegally mined sand from rivers in Banka district over several financial years.",
+    "sourceIds": [
+      "src-biharsand-telangana"
+    ]
+  },
+  "target": {
+    "description": "Sand mining conducted strictly within licensed limits, with royalties paid to the state exchequer on all extracted volumes, and no unlicensed commercial exploitation of riverbeds.",
+    "standard": "Bihar Minor Mineral Concession Rules and state mining royalty regulations.",
+    "referenceDate": "2015-04-01"
+  },
+  "reality": {
+    "description": "The ED alleges that Mahadev Enclave Private Limited illegally extracted sand from rivers in Banka district, Bihar, between financial years 2015-16 and 2022-23, with the value of illegally mined sand estimated at over ₹131 crore, causing losses to the state exchequer through unpaid royalties. The agency's case draws on a geospatial analysis commissioned from IIT Patna in October 2024, which found evidence of large-scale illegal excavation. On 17 July 2026, the ED conducted searches at eight locations across Banka and Patna in Bihar, Delhi-NCR, and Jaipur and Sri Ganganagar in Rajasthan under the Prevention of Money Laundering Act, seizing ₹1.53 crore in cash. The ED has also formally flagged the ₹131 crore scam to the Bihar government and sought a fresh FIR.",
+    "asOfDate": "2026-07-17",
+    "sourceIds": [
+      "src-biharsand-telangana",
+      "src-biharsand-dh",
+      "src-biharsand-aninews"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Estimated value of illegally mined sand vs. cash seized in ED raids",
+    "unit": "₹ crore",
+    "targetValue": 131,
+    "actualValue": 1.53,
+    "targetDisplay": "₹131 cr estimated illegal extraction value",
+    "actualDisplay": "₹1.53 cr cash seized",
+    "targetLabel": "Estimated illegal extraction",
+    "actualLabel": "Cash seized in raids",
+    "note": "Cash seized in a single round of raids is a small fraction of the estimated extraction value, which largely reflects lost royalty revenue rather than cash the company is presumed to be holding on hand."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹131 crore is the ED's estimate of illegally mined sand value over eight years; ₹1.53 crore in cash was seized in the July 2026 raids.",
+    "sourceIds": [
+      "src-biharsand-telangana"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015-04-01",
+      "label": "Alleged illegal mining begins",
+      "detail": "Mahadev Enclave Private Limited allegedly begins large-scale unlicensed sand extraction in Banka district.",
+      "type": "status"
+    },
+    {
+      "date": "2024-10-01",
+      "label": "IIT Patna geospatial analysis commissioned",
+      "detail": "The ED's Patna office requests IIT Patna to analyse sand ghats in Banka district, later finding evidence of large-scale illegal excavation.",
+      "type": "status"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "ED raids eight locations",
+      "detail": "Simultaneous searches are conducted across Bihar, Delhi-NCR, and Rajasthan; ₹1.53 crore in cash is seized.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "ED seeks fresh FIR from Bihar government",
+      "detail": "The agency formally flags the ₹131 crore scam to state authorities and requests a fresh FIR be registered.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The ED has conducted raids and flagged the case to the Bihar government seeking a fresh FIR; this investigation has not confirmed any arrests, chargesheet, or trial outcome.",
+    "keyIndividuals": [
+      {
+        "name": "Ashok Chandak",
+        "role": "Controller, Mahadev Enclave Private Limited",
+        "outcome": "Named in the ED's investigation; no arrest or chargesheet confirmed as of this entry."
+      },
+      {
+        "name": "Raghav Chandak",
+        "role": "Son of Ashok Chandak, associated with Mahadev Enclave Private Limited",
+        "outcome": "Named in the ED's investigation; no arrest or chargesheet confirmed as of this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the ED's use of satellite/geospatial analysis to quantify illegal riverbed mining is a notable investigative approach, but the case remains at the raid-and-referral stage, with no criminal case yet formally registered by Bihar authorities as of the most recent reporting reviewed.",
+    "confidence": "low",
+    "reasoning": "This entry is based on a handful of independent reports of the July 2026 ED raids and referral; it has not been possible to confirm whether Bihar authorities have since registered the fresh FIR the ED sought."
+  },
+  "incomplete": [
+    "This is a stub entry; whether the Bihar government has registered the fresh FIR the ED requested has not been confirmed.",
+    "Whether any arrests have followed the July 2026 raids has not been tracked.",
+    "A separate, larger reported figure of a ₹2,407 crore illegal sand mining network across Hyderabad, Jaipur, and Coimbatore may or may not be linked to this same company; this has not been reconciled here."
+  ],
+  "sources": [
+    {
+      "id": "src-biharsand-telangana",
+      "label": "ED raids 8 locations in Rs 131 crore Bihar illegal sand mining case",
+      "type": "independent",
+      "publisher": "Telangana Today",
+      "date": "2026-07-17",
+      "url": "https://telanganatoday.com/ed-raids-8-locations-in-rs-131-crore-bihar-illegal-sand-mining-case"
+    },
+    {
+      "id": "src-biharsand-dh",
+      "label": "ED flags Rs 131 crore sand mining scam to Bihar govt, seeks fresh FIR",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2026-07-17",
+      "url": "https://www.deccanherald.com/india/bihar/ed-flags-rs-131-crore-sand-mining-scam-to-bihar-govt-seeks-fresh-fir-3656103"
+    },
+    {
+      "id": "src-biharsand-aninews",
+      "label": "ED raids eight places across Bihar, Delhi and Rajasthan in an alleged illegal sand-mining case",
+      "type": "independent",
+      "publisher": "ANI News",
+      "date": "2026-07-17",
+      "url": "https://www.aninews.in/news/national/general-news/ed-raids-eight-places-across-bihar-delhi-and-rajasthan-in-an-alleged-illegal-sand-mining-case20260717140726/"
+    }
+  ]
+}

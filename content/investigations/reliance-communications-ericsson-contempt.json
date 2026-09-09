@@ -1,0 +1,109 @@
+{
+  "id": "KB-044",
+  "slug": "reliance-communications-ericsson-contempt",
+  "title": "The Reliance Communications – Ericsson Contempt Case",
+  "dek": "A telecom billionaire was told by India's Supreme Court to pay his dues or go to jail. He paid, with hours to spare — but not before the Court found him personally guilty of contempt.",
+  "category": "Banking & Finance",
+  "status": "convicted",
+  "severity": "moderate",
+  "severityRank": 213,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-02-20",
+  "heroStat": {
+    "value": "₹453 cr",
+    "label": "the Supreme Court ordered paid within four weeks, or Ambani would face jail"
+  },
+  "promise": {
+    "quote": "Reliance Communications and its group companies will honour their payment obligations to vendors, including as directed by the courts.",
+    "madeBy": "Reliance Communications Ltd. and its chairman, Anil Ambani",
+    "role": "Telecom company undergoing insolvency proceedings",
+    "date": "2019-02-20",
+    "context": "Ericsson India filed a contempt petition against Anil Ambani after Reliance Communications failed to clear dues of ₹550 crore for network services, despite an earlier settlement.",
+    "sourceIds": [
+      "src-rcom-ericsson-overview"
+    ]
+  },
+  "target": {
+    "description": "Payment of the settled dues to Ericsson within the agreed and court-directed timeframe, without requiring contempt proceedings to enforce compliance.",
+    "standard": "The Supreme Court's own prior order directing payment, and standard obligations of compliance with court orders.",
+    "referenceDate": "2019-02-20"
+  },
+  "reality": {
+    "description": "On 20 February 2019, Justices Rohinton Nariman and Vineet Saran held Anil Ambani and two Reliance directors guilty of contempt of court, finding the companies had no intention of paying what they owed. The Court ordered Reliance Communications to pay ₹453 crore to Ericsson within four weeks, warning that Ambani would face three months' imprisonment if the company failed to pay, plus a ₹1 crore fine to the court's registry. Reliance Group paid the amount before the deadline.",
+    "asOfDate": "2019-03-01",
+    "sourceIds": [
+      "src-rcom-ericsson-verdict"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Original Ericsson dues vs. amount the Supreme Court ultimately ordered paid",
+    "unit": "₹ crore",
+    "targetValue": 550,
+    "actualValue": 453,
+    "targetDisplay": "₹550 cr original dues",
+    "actualDisplay": "₹453 cr ordered paid (after ₹118 cr already deposited)",
+    "targetLabel": "Original dues",
+    "actualLabel": "Ordered paid",
+    "note": "The lower final figure reflects ₹118 crore Reliance Group had already deposited with the Court's registry, which the Court ordered disbursed to Ericsson as part of the same ruling."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-02-20",
+      "label": "Supreme Court holds Ambani guilty of contempt",
+      "detail": "The Court finds three Reliance companies had no intention of paying Ericsson.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-20",
+      "label": "Payment deadline",
+      "detail": "The four-week deadline for payment, on pain of imprisonment for Ambani.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-01",
+      "label": "Payment made",
+      "detail": "Reliance Group pays the ordered amount before the deadline, avoiding imprisonment.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a rare case on this site with a final, adjudicated outcome against a named individual: the Supreme Court itself found Anil Ambani guilty of contempt of court. He avoided imprisonment by paying before the deadline.",
+    "keyIndividuals": [
+      {
+        "name": "Anil Ambani",
+        "role": "Chairman, Reliance Communications",
+        "outcome": "Held guilty of contempt of court by the Supreme Court, 20 February 2019. Avoided a threatened three-month prison term by paying the ordered ₹453 crore before the four-week deadline."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is one of the more clearly resolved cases on this site: the Supreme Court's contempt finding is a final judicial determination, not merely an allegation, and the ordered payment was in fact made. It concerns non-payment of dues under an earlier settlement, not a fraud allegation in the sense of most other cases here.",
+    "confidence": "high",
+    "reasoning": "The Supreme Court's ruling, its terms, and the subsequent payment are all documented in contemporaneous, widely reported coverage of the judgment itself."
+  },
+  "incomplete": [
+    "This case concerns a specific contempt-of-court finding over unpaid dues, not a broader fraud investigation; readers should not conflate it with the separate CBI and ED cases against Reliance Communications and Anil Ambani covered elsewhere on this site.",
+    "It is not established whether any personal financial penalty beyond the ₹1 crore registry fine was ultimately imposed on Ambani individually."
+  ],
+  "sources": [
+    {
+      "id": "src-rcom-ericsson-overview",
+      "label": "SC seeks response from Anil Ambani on Ericsson's contempt petition",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2018-01-01",
+      "url": "https://www.tribuneindia.com/news/archive/business/sc-seeks-response-from-anil-ambani-on-ericssons-contempt-petition-709942"
+    },
+    {
+      "id": "src-rcom-ericsson-verdict",
+      "label": "Ericsson plea: Supreme Court holds Reliance's Anil Ambani guilty of contempt",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2019-02-20",
+      "url": "https://scroll.in/latest/913926/sc-holds-anil-ambani-guilty-of-contempt-on-plea-filed-by-ericsson-tells-him-to-pay-up-in-4-weeks"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "KB-3035",
+  "slug": "goa-illegal-mining-scam",
+  "title": "Goa's Iron Ore Mining Scam: A Rs 35,000 Crore Loss the State Government Kept Trying to Legalise",
+  "dek": "A central commission found Goa's iron ore mining had been run for years in flagrant violation of leases and environmental law, indicting the state's own former chief minister. When the Supreme Court cancelled the illegal leases, the state government's response was to renew them again -- and get those renewals cancelled too.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 904,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2012-09-07",
+  "heroStat": {
+    "value": "₹34,935 crore",
+    "label": "value of Goa's illegal iron ore mining, as estimated by the Justice M.B. Shah Commission"
+  },
+  "promise": {
+    "quote": "Iron ore mining leases in Goa would be operated strictly within the boundaries and terms granted, with proper environmental clearances, and would not be renewed or continued in violation of Supreme Court orders and central mining law.",
+    "madeBy": "Government of Goa and the Directorate of Mines and Geology, as the state authority responsible for regulating mining leases",
+    "role": "State authority responsible for granting, renewing and policing iron ore mining leases in Goa",
+    "date": "2000-01-01",
+    "context": "Through the 2000s, Goa's iron ore mining industry expanded rapidly to meet Chinese export demand, with mining leases -- many originally granted decades earlier -- continuing to operate despite having technically expired and without adequate environmental and regulatory oversight.",
+    "sourceIds": [
+      "src-goa-mangaloretoday"
+    ]
+  },
+  "target": {
+    "description": "Mining leases operated only after proper renewal, environmental clearance and regulatory approval, in compliance with the Mines and Minerals (Development and Regulation) Act and environmental law.",
+    "standard": "Mines and Minerals (Development and Regulation) Act, 1957, and applicable environmental clearance norms",
+    "referenceDate": "2007-11-22"
+  },
+  "reality": {
+    "description": "The Justice M.B. Shah Commission, appointed by the central government to probe illegal mining, found in its report tabled in Parliament in September 2012 that Goa's iron ore mining scam was worth close to ₹34,935 crore, holding the state government, central mining authorities and mining operators jointly responsible for facilitating unrestricted and unregulated iron ore exports to China. The report indicted former Goa chief minister Digambar Kamat, who had also held the mines portfolio for over a decade. In April 2014 the Supreme Court ruled that all iron ore mining leases in Goa had expired in November 2007 and that mining conducted afterward was illegal, ordering the state to grant fresh leases only after proper evaluation. Instead of doing so, the Goa government renewed the existing leases a second time in 2015 -- including 31 leases renewed in a single day -- a move the Goa Lokayukta later found indicted then-chief minister Laxmikant Parsekar and two officials. In February 2018, the Supreme Court quashed these second renewals as well, again finding the state government had favoured mining operators over the law, and ordered all mining under the renewed leases to stop by 15 March 2018 pending fresh grants and environmental clearances. Multiple CBI preliminary inquiries into illegal ore exports from Goa's ports were later closed without charges, and a related case against a state minister ended in acquittal.",
+    "asOfDate": "2020-01-01",
+    "sourceIds": [
+      "src-goa-downtoearth",
+      "src-goa-newslaundry"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Value of illegal mining found by the Shah Commission versus criminal accountability actually secured",
+    "unit": "₹ crore",
+    "targetValue": 34935,
+    "actualValue": 0,
+    "targetDisplay": "₹34,935 crore in illegal mining documented by the Shah Commission",
+    "actualDisplay": "No criminal conviction secured against any senior official indicted by the Commission or the Lokayukta as of the most recent reporting reviewed",
+    "targetLabel": "Scale of documented illegality",
+    "actualLabel": "Criminal convictions secured",
+    "note": "The Supreme Court twice found the state's lease renewals unlawful and cancelled them, and the Lokayukta indicted a former chief minister and officials, but this entry did not find confirmation of any resulting criminal conviction; a related CBI case against a state minister ended in acquittal and other CBI preliminary inquiries were closed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 34935,
+    "allocatedLabel": "Value of illegal iron ore mining estimated by the Justice M.B. Shah Commission",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "This figure represents the Shah Commission's own valuation of illegal mining activity, not a government budget allocation. No comprehensive figure for recovered funds, fines actually collected, or restitution was located in sources reviewed.",
+    "sourceIds": [
+      "src-goa-mangaloretoday"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2007-11-22",
+      "label": "Original mining leases technically expire",
+      "detail": "The Supreme Court later determined that Goa's iron ore mining leases, many decades old, expired on this date, after which continued mining was illegal.",
+      "type": "status"
+    },
+    {
+      "date": "2012-09-07",
+      "label": "Shah Commission report tabled",
+      "detail": "The Justice M.B. Shah Commission's report on illegal mining, valuing Goa's iron ore scam at nearly ₹34,935 crore, is tabled in Parliament and indicts former chief minister Digambar Kamat.",
+      "type": "announcement"
+    },
+    {
+      "date": "2014-04-21",
+      "label": "Supreme Court declares leases expired since 2007",
+      "detail": "The Supreme Court rules all Goa iron ore mining leases expired in November 2007 and that subsequent mining was illegal, ordering fresh leases only after due evaluation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-01-01",
+      "label": "State government renews leases again",
+      "detail": "Instead of granting fresh leases through the Supreme Court's process, the Goa government renews the existing leases a second time, including 31 leases in a single day.",
+      "type": "status"
+    },
+    {
+      "date": "2018-02-07",
+      "label": "Supreme Court quashes the second renewals",
+      "detail": "The Supreme Court cancels the 2015 lease renewals, finding they violated its own earlier order, and directs that mining under them stop by 15 March 2018.",
+      "type": "revision"
+    },
+    {
+      "date": "2020-01-22",
+      "label": "Goa Lokayukta indicts former CM and officials",
+      "detail": "The Goa Lokayukta finds former chief minister Laxmikant Parsekar and two officials responsible for the unlawful 2015 lease renewals.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal conviction has been confirmed against any senior official indicted by the Shah Commission or the Goa Lokayukta over the illegal mining and lease renewals. The Supreme Court twice found the state's conduct unlawful in civil/regulatory proceedings and cancelled the leases, and the Lokayukta separately indicted officials, but multiple CBI preliminary inquiries into related illegal ore exports were closed without charges, and a related prosecution of a state minister ended in acquittal.",
+    "keyIndividuals": [
+      {
+        "name": "Digambar Kamat",
+        "role": "Former Chief Minister of Goa and mines portfolio holder for over a decade",
+        "outcome": "Indicted by the Justice M.B. Shah Commission's 2012 report for facilitating illegal mining; no criminal conviction confirmed in sources reviewed."
+      },
+      {
+        "name": "Laxmikant Parsekar",
+        "role": "Former Chief Minister of Goa",
+        "outcome": "Indicted by the Goa Lokayukta over the unlawful 2015 second renewal of mining leases; no criminal conviction confirmed in sources reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That Goa's iron ore mining was conducted illegally at massive scale is not seriously disputed: a central commission valued it at nearly ₹35,000 crore, and the Supreme Court twice found the state government's lease renewals unlawful and cancelled them. What remains unresolved is individual criminal accountability -- despite commission and Lokayukta findings against two former chief ministers, no criminal conviction of a senior official has been confirmed, and related CBI inquiries were closed.",
+    "confidence": "high",
+    "reasoning": "The Shah Commission's valuation, the Supreme Court's two rulings cancelling lease renewals, and the Lokayukta's findings are all documented in independent reporting and public records. Confidence is not marked higher only because this entry could not confirm a comprehensive, up-to-date accounting of every related legal proceeding across the many mining companies and individuals involved."
+  },
+  "incomplete": [
+    "No confirmed criminal conviction of a senior Goa official over the illegal mining or unlawful lease renewals was found in sources reviewed for this entry.",
+    "This entry does not comprehensively track outcomes for every individual mining company or middleman implicated in the broader Goa mining scam.",
+    "Current status of mining operations in Goa (post-2018 quashing of renewals) was not independently verified as of the most recent reporting reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-goa-mangaloretoday",
+      "label": "Goa mining scam worth Rs 34,935 crore: Shah Commission",
+      "type": "independent",
+      "publisher": "Mangalore Today",
+      "date": "2012-09-08",
+      "url": "https://www.mangaloretoday.com/headlineprint/Goa-mining-scam-worth-Rs-34-935-crore-Shah-Commission.html"
+    },
+    {
+      "id": "src-goa-downtoearth",
+      "label": "SC cancels mining leases in Goa, slams state government, environment ministry for favouring miners",
+      "type": "independent",
+      "publisher": "Down To Earth",
+      "date": "2018-02-07",
+      "url": "https://www.downtoearth.org.in/mining/sc-cancels-mining-in-iron-ore-leases-in-goa-sets-aside-hc-order-which-allowed-renewal-of-mining-licenses-59648"
+    },
+    {
+      "id": "src-goa-newslaundry",
+      "label": "Court's latest blow to Goa ore mining reflects failures of state",
+      "type": "independent",
+      "publisher": "Newslaundry",
+      "date": "2018-05-21",
+      "url": "https://www.newslaundry.com/2018/05/21/supreme-court-goa-ore-mining-bjp-parrikar-digambar-kamat-hc"
+    }
+  ]
+}

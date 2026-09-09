@@ -1,0 +1,118 @@
+{
+  "id": "KB-2208",
+  "slug": "gst-2017-rollout-implementation-failures",
+  "title": "GST's Rocky Launch: A 'One Nation, One Tax' System Whose Own IT Backbone Wasn't Ready",
+  "dek": "The Goods and Services Tax was sold as a simple, technology-driven 'one nation, one tax' system that would ease compliance and boost revenue. A CAG audit two years in found the core invoice-matching mechanism meant to stop fraud had never been implemented, and government data showed indirect tax revenue growth collapsing in GST's first year compared to the year before.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 87,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2019-07-31",
+  "heroStat": {
+    "value": "5.8%",
+    "label": "Growth in Union indirect tax collections in 2017-18 (GST's launch year), down from 21.33% growth the previous year, per CAG"
+  },
+  "promise": {
+    "quote": "GST will simplify India's tax structure, widen the tax base, boost compliance and improve the ease of doing business, through a technology-driven, non-intrusive system with invoice matching to check tax evasion.",
+    "madeBy": "Government of India / GST Council",
+    "role": "Union government and the constitutional GST Council, in the run-up to and at the launch of the Goods and Services Tax",
+    "date": "2017-07-01",
+    "context": "The stated rationale offered by the government at GST's midnight launch on 30 June-1 July 2017, framing it as a technologically sophisticated 'one nation, one tax' reform that would be simpler to comply with than the indirect-tax regime it replaced.",
+    "sourceIds": [
+      "src-gst-cag-report"
+    ]
+  },
+  "target": {
+    "description": "A GST IT system with system-validated input tax credit through invoice matching to prevent fraud, simplified compliance particularly for small businesses, and indirect tax revenue growth matching or exceeding pre-GST trends.",
+    "standard": "The GST Council's and GSTN's own design specifications for the GST return-filing and invoice-matching system",
+    "referenceDate": "2017-07-01"
+  },
+  "reality": {
+    "description": "A CAG report on GST, presented to Parliament and reported around 31 July 2019, found that the complexity of the originally envisaged return-filing mechanism and technical glitches in the GST Network had forced the rollback of invoice-matching — the core system meant to validate input tax credit claims and check fraud — meaning that even two years after rollout, a system-validated, non-intrusive e-tax mechanism as originally envisaged still did not exist. The CAG report attributed this partly to a serious lack of coordination between the tax department (the executive) and the IT system's developers. Separately, growth in the Union government's indirect tax collections slowed sharply in GST's first year, from 21.33% growth in 2016-17 to 5.8% in 2017-18. At the state level, revenue shortfalls under the compensation mechanism designed to protect states during the transition were significant in several states; Punjab, for instance, reported a shortfall of around 37% against its protected revenue in the first ten months after rollout, among the highest of the larger states. Small and medium businesses, meanwhile, widely reported difficulty coping with GST's multiple return-filing requirements and its dependence on consistent digital record-keeping and internet access, particularly in the transition's early months when the GSTN portal itself faced repeated outages and glitches.",
+    "asOfDate": "2019-07-31",
+    "sourceIds": [
+      "src-gst-cag-report",
+      "src-gst-shortfall"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Growth in Union indirect tax collections, year before GST vs. GST's launch year",
+    "unit": "percent growth",
+    "targetValue": 21.33,
+    "actualValue": 5.8,
+    "targetDisplay": "21.33% growth in 2016-17",
+    "actualDisplay": "5.8% growth in 2017-18",
+    "targetLabel": "Pre-GST growth rate",
+    "actualLabel": "GST launch-year growth rate",
+    "note": "Figures per the CAG's report on GST, comparing indirect tax revenue growth in the year before GST's rollout to its first year of operation."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2017-07-01",
+      "label": "GST launched nationwide",
+      "detail": "The Goods and Services Tax is launched at a midnight session of Parliament, replacing a web of central and state indirect taxes with a unified system promising simplified, technology-driven compliance.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-09-11",
+      "label": "GSTN portal glitches reported widely",
+      "detail": "Businesses and tax practitioners report repeated technical glitches on the GST Network portal affecting return filing in the months following rollout.",
+      "type": "delay"
+    },
+    {
+      "date": "2017-10-06",
+      "label": "GST Council rolls back invoice-matching requirement",
+      "detail": "Facing widespread compliance difficulty, the GST Council simplifies return-filing requirements, effectively rolling back the real-time invoice-matching mechanism originally designed to validate input tax credit claims.",
+      "type": "revision"
+    },
+    {
+      "date": "2018-07-18",
+      "label": "States report GST revenue shortfalls",
+      "detail": "States including Punjab report significant revenue shortfalls against protected GST compensation levels roughly a year into the new tax regime.",
+      "type": "status"
+    },
+    {
+      "date": "2019-07-31",
+      "label": "CAG report finds invoice-matching still not implemented",
+      "detail": "A CAG report on GST finds that, two years after rollout, a system-validated, non-intrusive e-tax system through invoice matching remains unimplemented, citing technical and coordination failures.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a policy-implementation and governance case, not a criminal matter. No individual has been prosecuted specifically over the GST IT system's design or rollout failures; the CAG's findings are administrative, aimed at prompting departmental and technical corrective action rather than assigning criminal liability.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's constitutional auditor found that GST's central anti-fraud mechanism — system-validated invoice matching — was never actually implemented as designed, even two years after launch, due to technical shortcomings and poor coordination between the tax department and its own IT contractor, while government data separately shows indirect tax revenue growth collapsing in the reform's first year compared to the year before it.",
+    "confidence": "high",
+    "reasoning": "The CAG's findings on invoice-matching non-implementation and the revenue growth-rate comparison are drawn from the CAG's own report as corroborated by independent reporting. Confidence is not higher because this entry has not directly reviewed the full CAG report or independently reconciled state-level revenue shortfall figures across all states, and because GST revenue performance in years subsequent to 2019 (which reporting suggests improved considerably) is outside this entry's scope."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the CAG's full report on GST, relying on summaries and independent reporting of its findings.",
+    "GST revenue and compliance performance in years after 2019 (which several accounts suggest improved substantially, including record monthly collections in later years) is outside the scope of this entry and is not claimed to represent GST's current state.",
+    "State-by-state GST compensation shortfall figures beyond the Punjab example cited have not been comprehensively compiled here.",
+    "Whether the invoice-matching mechanism has since been implemented in a revised form (e.g. through e-invoicing mandates introduced in subsequent years) has not been verified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-gst-cag-report",
+      "label": "GST couldn't achieve its full potential: CAG",
+      "type": "independent",
+      "publisher": "Hindustan Times (via PressReader)",
+      "date": "2019-07-31",
+      "url": "https://www.pressreader.com/india/hindustan-times-delhi/20190731/282110638217209"
+    },
+    {
+      "id": "src-gst-shortfall",
+      "label": "GST collection shortfall: Governance reforms panel asks state to cover gap",
+      "type": "independent",
+      "publisher": "Hindustan Times (via PressReader)",
+      "date": "2018-07-18",
+      "url": "https://www.pressreader.com/india/hindustan-times-chandigarh/20180718/281603831245887"
+    }
+  ]
+}

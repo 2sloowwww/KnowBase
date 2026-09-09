@@ -1,0 +1,215 @@
+{
+  "id": "KB-010",
+  "slug": "bofors-scandal",
+  "title": "The Bofors Scandal",
+  "dek": "A howitzer deal signed under a government that had publicly banned middlemen from defence contracts. Forty years, one failed extradition after another, and zero convictions later, the Supreme Court has finally closed the file.",
+  "category": "Defence & Security",
+  "status": "acquitted-or-closed",
+  "severity": "critical",
+  "severityRank": 6,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "1987-04-16",
+  "heroStat": {
+    "value": "40 yrs, 0",
+    "label": "years since the scandal broke; convictions ultimately secured"
+  },
+  "promise": {
+    "quote": "Defence contracts will be awarded without agents, middlemen, or commissions — deals will be conducted directly between governments and manufacturers.",
+    "madeBy": "Government of India",
+    "role": "Central government defence procurement policy in force at the time of the deal",
+    "date": "1986-03-24",
+    "context": "India signed a ₹1,437 crore contract with Swedish arms manufacturer AB Bofors for 400 155mm howitzer guns on this date, under a procurement policy that explicitly barred the use of paid middlemen in defence deals.",
+    "sourceIds": [
+      "src-bofors-timeline"
+    ]
+  },
+  "target": {
+    "description": "A howitzer procurement conducted directly with the manufacturer, with no commissions paid to intermediaries, consistent with the government's own declared no-agents defence procurement policy.",
+    "standard": "The mid-1980s central government policy explicitly prohibiting the use of agents or middlemen in defence contracts.",
+    "referenceDate": "1986-03-24"
+  },
+  "reality": {
+    "description": "On 16 April 1987, Swedish Radio reported that Bofors had paid kickbacks — reported at around ₹41 crore — to secure the deal, naming Indian arms dealer Win Chadha and Italian businessman Ottavio Quattrocchi as alleged conduits. A CBI investigation ran for 14 years and was reported to have cost nearly ₹250 crore. It produced no convictions: charges against Rajiv Gandhi (posthumously) and a former defence secretary were quashed by the Delhi High Court in 2004 for lack of evidence; the Hinduja brothers and Bofors AB itself were discharged in 2005; Quattrocchi was discharged in 2011 after the CBI sought to withdraw his prosecution, having twice failed to extradite him; and in August 2026 the Supreme Court rejected the last pending appeal, closing the case for good.",
+    "asOfDate": "2026-08-07",
+    "sourceIds": [
+      "src-bofors-timeline",
+      "src-bofors-close"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged kickback amount vs. amount established as illegally paid in a final court finding",
+    "unit": "₹ crore",
+    "targetValue": 41,
+    "actualValue": 0,
+    "targetDisplay": "~₹41 cr alleged kickbacks",
+    "actualDisplay": "₹0 established at final judgment",
+    "targetLabel": "Alleged",
+    "actualLabel": "Established",
+    "note": "The ₹41 crore figure is the commonly reported alleged-kickback amount from contemporaneous reporting, not a sum a court ultimately certified as proven. After every accused was discharged or acquitted and the Supreme Court closed the case in 2026, no court has made a final finding that this amount — or any amount — was corruptly paid and received by a named individual."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 1437,
+    "allocatedLabel": "Original contract value",
+    "released": null,
+    "releasedLabel": "Kickback amount established in a final verdict",
+    "spent": 250,
+    "spentLabel": "Reported cost of the 14-year CBI probe",
+    "unit": "crore",
+    "notes": "Public reporting reviewed for this investigation does not establish a verified figure for any funds recovered by India from Swiss or other foreign accounts linked to the case. The probe's own cost — nearly ₹250 crore by one widely cited account — is itself a notable figure given that it produced no convictions.",
+    "sourceIds": [
+      "src-bofors-hinduja"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1986-03-24",
+      "label": "Contract signed",
+      "detail": "India signs a ₹1,437 crore deal with AB Bofors for 400 howitzers.",
+      "type": "announcement"
+    },
+    {
+      "date": "1987-04-16",
+      "label": "Swedish Radio breaks the story",
+      "detail": "Reports allege Bofors paid kickbacks to secure the contract.",
+      "type": "status"
+    },
+    {
+      "date": "1990-01-01",
+      "label": "CBI registers FIR",
+      "detail": "The CBI opens a criminal case alleging conspiracy, cheating, forgery, and corruption.",
+      "type": "status"
+    },
+    {
+      "date": "1999-01-01",
+      "label": "Quattrocchi chargesheeted",
+      "detail": "The CBI names Ottavio Quattrocchi as an alleged conduit for the kickbacks.",
+      "type": "status"
+    },
+    {
+      "date": "2000-10-01",
+      "label": "Hinduja brothers added",
+      "detail": "A supplementary chargesheet names Srichand, Gopichand, and Prakash Hinduja.",
+      "type": "revision"
+    },
+    {
+      "date": "2001-06-01",
+      "label": "Two key figures die",
+      "detail": "Win Chadha and former defence secretary S.K. Bhatnagar both die before the case concludes.",
+      "type": "status"
+    },
+    {
+      "date": "2002-01-01",
+      "label": "Malaysia extradition fails",
+      "detail": "India's first attempt to extradite Quattrocchi is unsuccessful.",
+      "type": "delay"
+    },
+    {
+      "date": "2004-02-04",
+      "label": "Rajiv Gandhi cleared",
+      "detail": "The Delhi High Court quashes corruption charges against the late former Prime Minister and Bhatnagar, citing lack of evidence they received or controlled the payments.",
+      "type": "status"
+    },
+    {
+      "date": "2005-05-01",
+      "label": "Hinduja brothers discharged",
+      "detail": "The Delhi High Court discharges the Hinduja brothers and Bofors AB, criticising the CBI's evidence after 14 years and roughly ₹250 crore spent on the probe.",
+      "type": "status"
+    },
+    {
+      "date": "2007-01-01",
+      "label": "Argentina extradition fails",
+      "detail": "A second attempt to extradite Quattrocchi is unsuccessful.",
+      "type": "delay"
+    },
+    {
+      "date": "2011-03-04",
+      "label": "Quattrocchi discharged",
+      "detail": "A Delhi court discharges Quattrocchi after the CBI seeks to withdraw his prosecution.",
+      "type": "status"
+    },
+    {
+      "date": "2013-07-13",
+      "label": "Quattrocchi dies",
+      "detail": "He dies in Italy, having never stood trial in India.",
+      "type": "status"
+    },
+    {
+      "date": "2026-08-07",
+      "label": "Supreme Court closes the case",
+      "detail": "The Court rejects the last surviving appeal against the 2005 discharge of the Hinduja brothers, definitively ending the 40-year case.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Every individual ever named in the Bofors case has been discharged, acquitted, or died before trial concluded. As of August 2026, the Supreme Court has closed the matter permanently. No one has ever been convicted.",
+    "keyIndividuals": [
+      {
+        "name": "Ottavio Quattrocchi",
+        "role": "Italian businessman, alleged middleman",
+        "outcome": "Chargesheeted 1999; evaded two extradition attempts; discharged by a Delhi court in 2011 after the CBI sought to withdraw his prosecution; died 2013, having never stood trial."
+      },
+      {
+        "name": "Win Chadha",
+        "role": "Indian arms dealer, alleged conduit",
+        "outcome": "Named as an alleged conduit for the payments; died in 2001 before the case concluded."
+      },
+      {
+        "name": "Rajiv Gandhi",
+        "role": "Prime Minister of India at the time of the deal (died 1991)",
+        "outcome": "Corruption charges against his estate were quashed by the Delhi High Court in February 2004 for lack of evidence he received, controlled, or directed the payments."
+      },
+      {
+        "name": "Srichand, Gopichand & Prakash Hinduja",
+        "role": "Businessmen, Hinduja Group",
+        "outcome": "Discharged by the Delhi High Court in May 2005; the Supreme Court rejected the final appeal against this discharge in August 2026, closing the case."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The core documented fact is undisputed: this was a defence deal signed under an explicit no-middlemen policy, and credible allegations of kickbacks emerged within a year. What forty years of investigation and litigation did not produce, against any individual, was a conviction. The case's final legal status, as of August 2026, is closed with acquittals and discharges across the board.",
+    "confidence": "high",
+    "reasoning": "The deal, the policy it violated on its face, and the full sequence of discharges and acquittals are extensively documented across decades of court proceedings and reporting. Confidence is high specifically about the legal outcome — no conviction — even though the underlying question of who, if anyone, personally profited was never judicially resolved."
+  },
+  "incomplete": [
+    "No court ever reached a final finding on who received the alleged kickbacks or how much — the case ended in discharges and acquittals rather than a verdict on the underlying facts.",
+    "No verified figure exists in the sources reviewed for how much, if any, of the alleged kickback money was recovered by India.",
+    "It is not established whether the ₹41 crore alleged-kickback figure reflects the full scale of payments described in Swiss bank investigations at the time, or only the amount the CBI was able to formally trace."
+  ],
+  "sources": [
+    {
+      "id": "src-bofors-timeline",
+      "label": "Bofors scam: A timeline of the 31-year-old, Rs 1,437-cr India-Sweden deal",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-10-21",
+      "url": "https://www.business-standard.com/article/current-affairs/rs-1-437-cr-india-sweden-bofors-guns-deal-timeline-of-the-31-year-old-case-117102100190_1.html"
+    },
+    {
+      "id": "src-bofors-close",
+      "label": "SC closes Bofors case, rejects final plea against 2005 Hinduja acquittal",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2026-08-07",
+      "url": "https://www.business-standard.com/india-news/sc-closes-bofors-case-rejects-final-plea-against-2005-hinduja-acquittal-126080700519_1.html"
+    },
+    {
+      "id": "src-bofors-hinduja",
+      "label": "Hinduja Brothers, CBI… What Was This Case? SC Ends 40-Year Bofors Mystery With One Order",
+      "type": "independent",
+      "publisher": "Dynamite News",
+      "date": "2026-08-07",
+      "url": "https://www.dynamitenews.com/national/hinduja-brothers-cbi-what-was-this-case-sc-ends-40-year-bofors-mystery-with-one-order"
+    },
+    {
+      "id": "src-bofors-rajiv",
+      "label": "Delhi HC clean chit to Rajiv Gandhi in Bofors case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2004-02-05",
+      "url": "https://www.business-standard.com/article/economy-policy/delhi-hc-clean-chit-to-rajiv-gandhi-in-bofors-case-104020501080_1.html"
+    }
+  ]
+}

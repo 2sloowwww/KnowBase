@@ -1,0 +1,156 @@
+{
+  "id": "KB-1401",
+  "slug": "tata-sons-cyrus-mistry-removal-case",
+  "title": "The Tata Sons–Cyrus Mistry Boardroom Battle",
+  "dek": "In a 60-minute board meeting, India's most storied conglomerate abruptly voted out the chairman it had chosen four years earlier. What followed was a five-year, multi-forum legal war over corporate governance and minority shareholder rights that reached the Supreme Court — and ended, after Mistry's death in a car accident, with the Court fully vindicating the board that removed him.",
+  "category": "Banking & Finance",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 154,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2016-10-24",
+  "heroStat": {
+    "value": "60 min",
+    "label": "length of the Tata Sons board meeting on 24 October 2016 that removed Cyrus Mistry as chairman, according to contemporaneous reporting"
+  },
+  "promise": {
+    "quote": "The removal of Mr Cyrus P. Mistry... was necessitated on account of an 'imperative need for a change'... the Board of Directors of Tata Sons has decided that it would be in the best interest of the Tata Group for Mr Cyrus Mistry to step down.",
+    "madeBy": "Tata Sons Board of Directors",
+    "role": "Board of Tata Sons Ltd., the Tata Group's principal holding company",
+    "date": "2016-10-24",
+    "context": "Statement issued after the board voted 6-2 (with two abstentions among the count) to remove Cyrus Mistry as executive chairman, four years into what was meant to be a long-term succession from Ratan Tata.",
+    "sourceIds": [
+      "src-mistry-ouster-qz"
+    ]
+  },
+  "target": {
+    "description": "That a change of chairman at India's largest conglomerate's holding company would follow fair process consistent with the Companies Act, 2013's protections against oppression and mismanagement of minority shareholders, and with ordinary standards of board procedure and prior notice to the person being removed.",
+    "standard": "Companies Act, 2013, including provisions on oppression and mismanagement (Sections 241-242) and board procedure; principles of natural justice in corporate governance.",
+    "referenceDate": "2016-10-24"
+  },
+  "reality": {
+    "description": "Cyrus Mistry was removed as Tata Sons executive chairman on 24 October 2016 without prior notice of the agenda item, according to his own account; Tata Sons maintained the process was lawful. Mistry, backed by his family's Shapoorji Pallonji Group (then Tata Sons' largest minority shareholder at just under 18.4%), challenged the removal before the National Company Law Tribunal (NCLT) alleging oppression of minority shareholders and mismanagement, including disputes over Tata Sons' subsequent conversion from a public to a private company. The NCLT ruled in 2017 in Tata Sons' favour, finding no oppression. On appeal, the National Company Law Appellate Tribunal (NCLAT) reversed this in December 2019, ordering Mistry's reinstatement as executive chairman and holding the public-to-private conversion illegal — a ruling Tata Sons immediately appealed and which was stayed pending appeal, so Mistry was never actually reinstated in practice. The Supreme Court took up the case and, in a judgment delivered on 26 March 2021, fully set aside the NCLAT ruling, holding that Mistry's removal was a valid exercise of the board's powers under the Companies Act and articles of association, that there was no oppression of minority shareholders, and that the conversion to a private company was lawful. Mistry sought a review of the verdict, which the Supreme Court dismissed in May 2022. Cyrus Mistry died in a road accident in September 2022, months after the litigation concluded.",
+    "asOfDate": "2022-05-19",
+    "sourceIds": [
+      "src-sc-judgment-2021",
+      "src-sc-review-2022"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Judicial forums that ruled for Mistry vs. forums that ruled for Tata Sons",
+    "unit": "rulings",
+    "targetValue": 1,
+    "actualValue": 2,
+    "targetDisplay": "1 ruling for Mistry (NCLAT, Dec 2019)",
+    "actualDisplay": "2 rulings for Tata Sons (NCLT 2017; Supreme Court, final, 2021)",
+    "targetLabel": "Rulings favouring Mistry",
+    "actualLabel": "Rulings favouring Tata Sons",
+    "note": "The Supreme Court's 2021 judgment is the final and binding word; the NCLAT's 2019 ruling in Mistry's favour was fully set aside and never took practical effect since it had been stayed pending Tata Sons' appeal."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2016-10-24",
+      "label": "Mistry removed as Tata Sons chairman",
+      "detail": "The Tata Sons board votes to remove Cyrus Mistry after roughly four years as chairman; Ratan Tata is named interim chairman. Mistry says he was given no advance notice of the agenda.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-12-19",
+      "label": "Mistry files NCLT oppression petition",
+      "detail": "Mistry, through Cyrus Investments and Sterling Investments (Shapoorji Pallonji group entities), petitions the National Company Law Tribunal alleging oppression of minority shareholders and mismanagement at Tata Sons.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-07-01",
+      "label": "NCLT rules for Tata Sons",
+      "detail": "The Mumbai bench of the NCLT dismisses Mistry's oppression and mismanagement claims, finding no wrongdoing by the Tata Sons board.",
+      "type": "status"
+    },
+    {
+      "date": "2019-12-18",
+      "label": "NCLAT reverses, orders Mistry's reinstatement",
+      "detail": "The National Company Law Appellate Tribunal holds the removal improper and the conversion to a private company illegal, ordering Mistry restored as executive chairman; Tata Sons immediately appeals and secures a stay.",
+      "type": "revision"
+    },
+    {
+      "date": "2021-03-26",
+      "label": "Supreme Court rules for Tata Sons",
+      "detail": "A three-judge bench fully sets aside the NCLAT ruling, holding Mistry's removal lawful, finding no oppression of minority shareholders, and upholding the conversion to a private company.",
+      "type": "status"
+    },
+    {
+      "date": "2022-05-19",
+      "label": "Supreme Court dismisses review petition",
+      "detail": "The Court declines to review its own 2021 judgment, closing the litigation.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-04",
+      "label": "Cyrus Mistry dies in road accident",
+      "detail": "Mistry is killed in a car crash in Maharashtra, months after the Supreme Court litigation concluded.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The dispute is fully and finally resolved. The Supreme Court's March 2021 judgment, upheld on review in May 2022, is the last word: Cyrus Mistry's removal as Tata Sons chairman was lawful, there was no oppression of minority shareholders, and the company's conversion to a private entity was valid. No criminal charges were ever part of this case — it was a civil corporate-governance dispute under the Companies Act.",
+    "keyIndividuals": [
+      {
+        "name": "Cyrus Mistry",
+        "role": "Executive Chairman, Tata Sons (2012–2016)",
+        "outcome": "Removed as chairman in October 2016; NCLAT briefly ordered his reinstatement in December 2019, but the Supreme Court set that aside in March 2021, finally ruling his removal lawful. Died in a road accident in September 2022."
+      },
+      {
+        "name": "Ratan Tata",
+        "role": "Chairman Emeritus, Tata Sons; interim chairman after Mistry's removal",
+        "outcome": "No adverse finding; the Supreme Court's judgment vindicated the board decision made under his and other trustees' involvement."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This was a genuine, hard-fought corporate governance dispute rather than a fraud in the criminal sense, and it reached a clear, final resolution: the Supreme Court held the board's removal of Mistry was a lawful exercise of its powers and rejected the minority-shareholder oppression claims. The case is frequently cited in Indian corporate law for clarifying the limited scope of NCLT/NCLAT intervention in board-level decisions and the rights (and limits) of minority shareholders in private companies with concentrated trust ownership.",
+    "confidence": "medium",
+    "reasoning": "The core sequence of events — the 2016 removal, the NCLT and NCLAT rulings, and the 2021 Supreme Court judgment and 2022 review dismissal — is well corroborated across multiple independent legal-analysis publications and news reports. Confidence is not higher because this entry has not directly reviewed the full text of the Supreme Court's judgment or the NCLAT ruling it overturned."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the full text of the Supreme Court's March 2021 judgment or the NCLAT's December 2019 ruling — it relies on secondary legal-analysis and news reporting of both.",
+    "The precise board vote count (reported variously as 6 in favour with 2 abstentions) has not been confirmed against a primary Tata Sons board record.",
+    "Later disputes between the Shapoorji Pallonji Group and the Tata Group over unwinding their cross-shareholding (a separate, ongoing financial matter as of recent years) are not covered in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-mistry-ouster-qz",
+      "label": "The board meeting that ousted Cyrus Mistry as Tata group chief",
+      "type": "independent",
+      "publisher": "Quartz India",
+      "date": "2019-12-18",
+      "url": "https://qz.com/india/1774269/the-board-meeting-that-helped-ratan-tata-oust-cyrus-mistry"
+    },
+    {
+      "id": "src-nclat-2019",
+      "label": "Tata Sons vs. Cyrus Mistry: A Landmark Judgment on Corporate Governance & Boardroom Autonomy",
+      "type": "independent",
+      "publisher": "TaxGuru",
+      "date": "2021-04-01",
+      "url": "https://taxguru.in/corporate-law/tata-sons-vs-cyrus-mistry-landmark-judgment-corporate-governance-boardroom-autonomy.html"
+    },
+    {
+      "id": "src-sc-judgment-2021",
+      "label": "Tata v. Mistry: A Case for Greater Protection of Minority Shareholders' Rights",
+      "type": "independent",
+      "publisher": "SCC Online Blog",
+      "date": "2021-05-15",
+      "url": "https://www.scconline.com/blog/post/2021/05/15/tata-v-mistry-a-case-for-greater-protection-of-minority-shareholders-rights/"
+    },
+    {
+      "id": "src-sc-review-2022",
+      "label": "SC dismisses plea to review removal of Cyrus Mistry as Tata Sons head",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-05-19",
+      "url": "https://www.business-standard.com/article/companies/sc-dismisses-plea-to-review-removal-of-cyrus-mistry-as-tata-sons-head-122051900494_1.html"
+    }
+  ]
+}

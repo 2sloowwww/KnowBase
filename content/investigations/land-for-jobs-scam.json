@@ -1,0 +1,128 @@
+{
+  "id": "KB-031",
+  "slug": "land-for-jobs-scam",
+  "title": "The Land-for-Jobs Scam",
+  "dek": "A railway minister's family is accused of running recruitment as a bargaining tool — trading government jobs for parcels of land transferred to family members, years before the case caught up with them.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 210,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-05-01",
+  "heroStat": {
+    "value": "₹4.39 cr",
+    "label": "circle-rate value of the land at the centre of the case"
+  },
+  "promise": {
+    "quote": "Group D recruitment to the Indian Railways under the Union Railway Minister will follow standard, merit-based public recruitment procedure.",
+    "madeBy": "Ministry of Railways, under then-Minister Lalu Prasad Yadav",
+    "role": "Union ministry responsible for railway recruitment",
+    "date": "2004-01-01",
+    "context": "The CBI alleges that between 2004 and 2009, candidates were given Group D railway jobs in exchange for transferring land, often at below-market rates, to Lalu Prasad Yadav's family members.",
+    "sourceIds": [
+      "src-lfj-charges"
+    ]
+  },
+  "target": {
+    "description": "Railway recruitment conducted on merit through standard public examination and selection procedures, with no exchange of land or other benefits for appointment.",
+    "standard": "Standard Railway Recruitment Board procedures and public service merit-selection norms.",
+    "referenceDate": "2004-01-01"
+  },
+  "reality": {
+    "description": "The CBI filed a chargesheet alleging a criminal conspiracy in which Group D jobs were awarded in exchange for land transfers to the Yadav family. A Delhi court ordered the framing of charges against Lalu Prasad Yadav, his wife and former Bihar Chief Minister Rabri Devi, and other family members including sons Tejashwi Yadav and Tej Pratap Yadav and daughters Misa Bharti and Hema Yadav, on 9 January 2026; charges were formally framed against Yadav and Rabri Devi on 16 February 2026, with both pleading not guilty. The ED has separately attached assets worth roughly ₹6 crore in a related money-laundering case.",
+    "asOfDate": "2026-02-16",
+    "sourceIds": [
+      "src-lfj-charges",
+      "src-lfj-ed"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Circle-rate value of land allegedly transferred vs. assets attached by the ED",
+    "unit": "₹ crore",
+    "targetValue": 4.39,
+    "actualValue": 6,
+    "targetDisplay": "₹4.39 cr circle-rate land value",
+    "actualDisplay": "₹6 cr in assets attached (ED)",
+    "targetLabel": "Land value",
+    "actualLabel": "Attached",
+    "note": "Unusually for a case on this site, the ED's attachment exceeds the circle-rate value of the underlying land — likely reflecting the value of downstream assets the agency alleges were built up using the land, not the land transaction alone."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2004-01-01",
+      "label": "Alleged scheme begins",
+      "detail": "Group D recruitment allegedly begins being traded for land transfers.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-05-01",
+      "label": "CBI registers FIR",
+      "detail": "The agency opens a criminal case against Lalu Prasad Yadav and family members.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-08",
+      "label": "CBI files final chargesheet",
+      "detail": "The agency completes its chargesheet in the case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-09",
+      "label": "Court orders charges framed",
+      "detail": "A Delhi court finds a prima facie case against Yadav, Rabri Devi, and other family members.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Charges formally framed",
+      "detail": "Yadav and Rabri Devi plead not guilty as the trial formally begins.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Charges have been framed and the trial has formally begun. No verdict has been reached; all named accused have pleaded not guilty.",
+    "keyIndividuals": [
+      {
+        "name": "Lalu Prasad Yadav",
+        "role": "Former Union Railway Minister; RJD chief",
+        "outcome": "Charges framed February 2026; pleaded not guilty. Trial ongoing."
+      },
+      {
+        "name": "Rabri Devi",
+        "role": "Former Chief Minister of Bihar; wife of Lalu Prasad Yadav",
+        "outcome": "Charges framed February 2026; pleaded not guilty. Trial ongoing."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: a court has found enough evidence to frame charges and proceed to trial against multiple family members, which is a real step beyond a bare accusation. No verdict has been reached, and the underlying allegations remain to be proven or disproven at trial.",
+    "confidence": "medium",
+    "reasoning": "The framing of charges is a judicial determination that a prima facie case exists, documented in contemporaneous legal reporting. Confidence is not higher because the trial itself has only just begun and no evidence has yet been tested in court."
+  },
+  "incomplete": [
+    "This is a stub entry. The roles and specific allegations against each of the several family members named has not been individually detailed.",
+    "The trial's progress beyond the framing of charges in February 2026 has not been tracked.",
+    "It is not established what has happened to the specific parcels of land at the centre of the case."
+  ],
+  "sources": [
+    {
+      "id": "src-lfj-charges",
+      "label": "Delhi court frames charges again[st] Lalu Yadav in land-for-job scam case: 'Family acted as criminal syndicate'",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2026-01-09",
+      "url": "https://www.indiatvnews.com/news/india/delhi-court-frames-charges-again-lalu-yadav-in-land-for-job-scam-case-family-acted-as-criminal-syndicate-2026-01-09-1025123"
+    },
+    {
+      "id": "src-lfj-ed",
+      "label": "ED attaches Rs 6 crore assets of Lalu's family in land for jobs scam",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-01-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fed-attaches-rs-6-crore-assets-of-lalus-family-in-land-for-jobs-scam-1242516"
+    }
+  ]
+}

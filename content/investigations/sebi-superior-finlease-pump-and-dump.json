@@ -1,0 +1,132 @@
+{
+  "id": "KB-2802",
+  "slug": "sebi-superior-finlease-pump-and-dump",
+  "title": "The Superior Finlease Telegram Pump-and-Dump",
+  "dek": "A company director used Telegram 'stock tip' channels to spread misleading buy recommendations on his own thinly-traded NBFC's shares, then dumped stock into the resulting rally. SEBI's order came nearly three years after the manipulation.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 180,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2023-01-25",
+  "heroStat": {
+    "value": "₹11.90 cr",
+    "label": "total penalty SEBI imposed on 19 entities for the pump-and-dump scheme, against ₹3.89 crore in unlawful gains ordered disgorged"
+  },
+  "promise": {
+    "quote": "Trading in Indian-listed securities will reflect genuine market forces, free of coordinated schemes that use misleading recommendations to inflate share prices for a small group's benefit.",
+    "madeBy": "Securities and Exchange Board of India, as market regulator",
+    "role": "Regulator responsible for market integrity and investor protection under the SEBI (Prohibition of Fraudulent and Unfair Trade Practices) Regulations",
+    "date": "2021-02-01",
+    "context": "SEBI's investigation covered manipulation in the shares of Superior Finlease Ltd (SFL), a small NBFC, between February and September 2021.",
+    "sourceIds": [
+      "src-moneylife-sfl"
+    ]
+  },
+  "target": {
+    "description": "Share price movements driven by genuine investor demand and disclosed fundamentals, not by a company insider using connected trading entities to manipulate the price and Telegram 'stock tip' channels to lure retail buyers before selling into the artificial rally.",
+    "standard": "SEBI (Prohibition of Fraudulent and Unfair Trade Practices) Regulations, 2003.",
+    "referenceDate": "2021-02-01"
+  },
+  "reality": {
+    "description": "In a final order dated 22 May 2024, SEBI found that Rajneesh Kumar — a shareholder-director of Superior Finlease Ltd who was also a director of a SEBI-registered intermediary, Indian Finance Guaranty Ltd — orchestrated a scheme in which connected entities manipulated SFL's share price between 1 February and 13 September 2021. On 14 September 2021, Telegram channels including one called 'Intraday Trading Equity Stock,' administered by Arvind Shukla, pushed buy recommendations on SFL shares to retail subscribers; the stock hit an all-time high of ₹22 that day as the operators offloaded their holdings into the resulting demand. SEBI imposed a combined penalty of ₹11.90 crore on 19 entities — including ₹5 crore on Rajneesh Kumar and ₹2 crore each on operators Ashish P Shah and Kirtidan K Gadhavi — and separately ordered disgorgement of ₹3.89 crore in unlawful gains plus 12% annual interest. Seventeen entities were barred from the securities market for five years, and two — connector Jalaj Agrawal and Telegram administrator Arvind Shukla — for three years. SEBI had first restrained the group via an interim order on 25 January 2023, roughly sixteen months after the alleged manipulation.",
+    "asOfDate": "2024-05-22",
+    "sourceIds": [
+      "src-moneylife-sfl",
+      "src-sebi-order-sfl"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total penalty imposed on the 19-entity scheme vs. unlawful gains ordered disgorged",
+    "unit": "₹ crore",
+    "targetValue": 11.9,
+    "actualValue": 3.89,
+    "targetDisplay": "₹11.90 cr in combined penalties",
+    "actualDisplay": "₹3.89 cr in unlawful gains disgorged",
+    "targetLabel": "Penalties imposed",
+    "actualLabel": "Illicit gains disgorged",
+    "note": "SEBI's order also took roughly 16 months to arrive as an interim restraint after the manipulation (September 2021 to January 2023), and a further 16 months to become a final order (May 2024)."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹11.90 crore in total penalties across 19 entities, individual fines ranging from ₹10 lakh to ₹5 crore; ₹3.89 crore ordered disgorged plus 12% annual interest, split between gains impounded during the manipulation period (₹2.14 cr) and on the dumping day itself (₹1.75 cr).",
+    "sourceIds": [
+      "src-moneylife-sfl"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-02-01",
+      "label": "Manipulation period begins",
+      "detail": "Connected entities begin trading among themselves to build up and inflate Superior Finlease's share price.",
+      "type": "status"
+    },
+    {
+      "date": "2021-09-14",
+      "label": "Telegram tip and dump day",
+      "detail": "Telegram channel 'Intraday Trading Equity Stock' recommends SFL shares to subscribers as the stock hits an all-time high of ₹22; operators sell into the rally.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-01-25",
+      "label": "SEBI interim order",
+      "detail": "SEBI restrains the identified entities from the securities market pending investigation, more than a year after the alleged manipulation.",
+      "type": "status"
+    },
+    {
+      "date": "2024-05-22",
+      "label": "SEBI final order",
+      "detail": "SEBI imposes ₹11.90 crore in penalties on 19 entities, orders disgorgement of ₹3.89 crore, and bars 19 entities from the market for three to five years.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a SEBI regulatory (administrative) final order, not a criminal prosecution. Whether any penalised party has appealed to the Securities Appellate Tribunal has not been confirmed in the sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Rajneesh Kumar",
+        "role": "Shareholder-director of Superior Finlease Ltd; director of SEBI-registered intermediary Indian Finance Guaranty Ltd; identified by SEBI as the scheme's principal figure",
+        "outcome": "Penalised ₹5 crore and barred from the securities market by SEBI's May 2024 order."
+      },
+      {
+        "name": "Arvind Shukla",
+        "role": "Administrator of the Telegram channel used to push buy recommendations on Superior Finlease shares",
+        "outcome": "Penalised and barred from the securities market for three years."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A clearly documented pump-and-dump scheme in a thinly-traded NBFC stock, run by a company insider using social-media tip channels to manufacture retail demand — SEBI's final order lays out the mechanism and penalises those involved, but the regulatory process took nearly three years from the manipulation to a final, enforceable order.",
+    "confidence": "medium",
+    "reasoning": "This entry is based on SEBI's own final order as reported in detail by independent financial press (Moneylife), corroborated by SEBI's own enforcement-orders listing confirming the order date. The full order text was not directly reviewed, and any appeal status is unconfirmed."
+  },
+  "incomplete": [
+    "SEBI's full order document was not directly reviewed in detail; facts here are drawn from a detailed independent financial-press summary (Moneylife) of the order, cross-checked against SEBI's own orders index for the date.",
+    "Whether any of the 19 penalised entities has appealed to the Securities Appellate Tribunal has not been confirmed.",
+    "The precise share-price percentage gain during the manipulation period (as opposed to the absolute price level of ₹22) was not available in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-moneylife-sfl",
+      "label": "SEBI Imposes Rs11.90 Crore Fine on 19 for Operating Pump & Dump Scheme in Superior Finlease Scrip",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2024-05-23",
+      "url": "https://www.moneylife.in/article/sebi-imposes-rs1190-crore-fine-on-19-for-operating-pump-and-dump-scheme-in-superior-finlease-scrip/74218.html"
+    },
+    {
+      "id": "src-sebi-order-sfl",
+      "label": "SEBI | Final Order in the matter of Superior Finlease Ltd.",
+      "type": "primary",
+      "publisher": "Securities and Exchange Board of India",
+      "date": "2024-05-22",
+      "url": "https://www.sebi.gov.in/enforcement/orders/may-2024/final-order-in-the-matter-of-superior-finlease-ltd-_83550.html"
+    }
+  ]
+}

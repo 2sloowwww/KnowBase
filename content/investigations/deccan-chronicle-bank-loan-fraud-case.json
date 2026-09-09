@@ -1,0 +1,140 @@
+{
+  "id": "KB-200",
+  "slug": "deccan-chronicle-bank-loan-fraud-case",
+  "title": "The Deccan Chronicle Holdings Bank Loan Fraud Case",
+  "dek": "The publisher of the Deccan Chronicle and owner of the Deccan Chargers IPL team borrowed thousands of crores from a consortium of banks, allegedly through forged documents and undisclosed parallel loans, then diverted much of it into personal assets. A decade on, the company has been liquidated and its promoters remain under prosecution.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 113,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-05-17",
+  "heroStat": {
+    "value": "₹8,180 cr+",
+    "label": "loan fraud alleged by investigators against Deccan Chronicle Holdings Ltd and its promoters, across 16 banks"
+  },
+  "promise": {
+    "quote": "Credit facilities were sought and sanctioned for working capital and business expansion requirements of Deccan Chronicle Holdings Limited.",
+    "madeBy": "Deccan Chronicle Holdings Ltd, promoted by T. Venkattram Reddy",
+    "role": "Listed media company publishing the Deccan Chronicle, Financial Chronicle and Asian Age, and owner of the Deccan Chargers IPL franchise",
+    "date": "2008-01-01",
+    "context": "Between roughly 2008 and 2012, DCHL availed 111 credit facilities from a consortium of 16 public and private sector banks, on the stated basis of working-capital and expansion needs, eventually amounting to over ₹9,800 crore in sanctioned facilities per the ED's later reconstruction.",
+    "sourceIds": [
+      "src-dc-ed-arrest"
+    ]
+  },
+  "target": {
+    "description": "That the loans would be used for the disclosed business purposes, backed by accurate financial statements, and that the company would service its debt as represented to lenders.",
+    "standard": "Reserve Bank of India lending norms and standard loan-agreement covenants requiring accurate disclosure and end-use of funds as stated to the consortium of lending banks.",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "A consortium of banks led by Canara Bank complained to the CBI in 2013 that DCHL had defaulted on loans obtained partly through forged and fabricated documents, and had also taken parallel, undisclosed loans against the same collateral from multiple lenders. The CBI registered the first of six FIRs and arrested DCHL chairman T. Venkattram Reddy in February 2015. The ED's parallel money-laundering probe found that promoters allegedly diverted funds to buy a private aircraft, a fleet of luxury cars worth over ₹30 crore, and paid out roughly ₹143 crore in dividends based on allegedly fictitious profits, besides diverting ₹253 crore for a share buy-back. DCHL was pushed into insolvency; in June 2020 the NCLT's Hyderabad bench approved a resolution plan by Kolkata-based Vision India Fund (Srei Multiple Asset Investment Trust) for the defunct company. In June 2023, the ED arrested Venkattram Reddy, former director P.K. Iyer, and statutory auditor Mani Oommen under the Prevention of Money Laundering Act, with total attachments in the case reaching ₹386.17 crore as of that arrest.",
+    "asOfDate": "2023-06-13",
+    "sourceIds": [
+      "src-dc-ed-arrest",
+      "src-dc-nclt"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Loan facilities alleged to be fraudulently obtained vs. assets recovered/attached by investigators",
+    "unit": "INR crore",
+    "targetValue": 9805,
+    "actualValue": 386,
+    "targetDisplay": "₹9,805 cr in credit facilities availed",
+    "actualDisplay": "₹386 cr attached (as of June 2023)",
+    "targetLabel": "Total credit availed",
+    "actualLabel": "Value attached by ED",
+    "note": "Figures come from the ED's own account of the case; the total 'fraud' figure investigators use (around ₹8,180 crore) reflects the estimated defaulted/diverted portion rather than the full sanctioned credit line."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 9805,
+    "allocatedLabel": "Total credit facilities availed by DCHL from a 16-bank consortium",
+    "released": null,
+    "spent": 386.17,
+    "spentLabel": "Assets attached by the ED under PMLA as of June 2023",
+    "unit": "crore",
+    "notes": "The CBI and ED figures for the scale of the 'fraud' vary across reports (commonly cited as ₹8,180 crore in defaulted/diverted funds against ₹9,805 crore in total facilities availed); this entry reports both figures rather than picking one as definitive.",
+    "sourceIds": [
+      "src-dc-ed-arrest"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "DCHL begins availing large-scale bank credit",
+      "detail": "Deccan Chronicle Holdings takes on multiple credit facilities from a 16-bank consortium over the following years.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-05-17",
+      "label": "Bank consortium complains to CBI",
+      "detail": "Canara Bank and other consortium lenders flag DCHL's loan defaults and alleged use of forged documents; CBI registers the first of what would become six FIRs.",
+      "type": "status"
+    },
+    {
+      "date": "2015-02-14",
+      "label": "CBI arrests DCHL chairman",
+      "detail": "T. Venkattram Reddy is arrested over an alleged ₹357 crore default to Canara Bank; other executives are later arrested and released.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-06-01",
+      "label": "NCLT approves resolution plan",
+      "detail": "The Hyderabad bench of the NCLT approves Vision India Fund's resolution plan for insolvent DCHL.",
+      "type": "status"
+    },
+    {
+      "date": "2023-06-13",
+      "label": "ED arrests promoters under PMLA",
+      "detail": "The Enforcement Directorate arrests T. Venkattram Reddy, P.K. Iyer, and statutory auditor Mani Oommen; total PMLA attachments reach ₹386.17 crore.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case remains under investigation and trial across six CBI FIRs and a parallel ED money-laundering prosecution. DCHL itself has been liquidated and reconstituted under a new owner through the insolvency process; the criminal cases against its former promoters and executives continue.",
+    "keyIndividuals": [
+      {
+        "name": "T. Venkattram Reddy",
+        "role": "Chairman and promoter, Deccan Chronicle Holdings Ltd",
+        "outcome": "Arrested by CBI in February 2015 and again by ED under PMLA in June 2023; case under trial as of the most recent reporting reviewed."
+      },
+      {
+        "name": "P.K. Iyer",
+        "role": "Former director, Deccan Chronicle Holdings Ltd",
+        "outcome": "Arrested by ED under PMLA in June 2023; case under trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real, still-unresolved bank fraud prosecution: six CBI FIRs since 2013, a chairman arrested twice a decade apart (2015 by CBI, 2023 by ED), a company liquidated through insolvency in 2020, and hundreds of crores in assets attached — but no reported final conviction or acquittal as of this entry's research. It should be read as an ongoing case, not a concluded one.",
+    "confidence": "medium",
+    "reasoning": "The CBI FIRs, arrests, insolvency resolution, and 2023 ED arrests are corroborated by the ED's own public statements and multiple contemporaneous news reports. No trial verdict has been identified in the sources reviewed, and this entry has not confirmed the current stage of trial in any of the six CBI cases."
+  },
+  "incomplete": [
+    "This is a stub entry; the current stage of trial in each of the six CBI FIRs, and whether any chargesheet has led to a framing of charges or verdict, has not been independently confirmed.",
+    "The exact, reconciled fraud amount is reported inconsistently across sources (figures from roughly ₹1,161 crore in early estimates to over ₹9,800 crore in total credit availed); this entry has not resolved that discrepancy.",
+    "The bail status of Venkattram Reddy, Iyer, and Oommen following their 2023 arrest has not been confirmed as of this entry's publication."
+  ],
+  "sources": [
+    {
+      "id": "src-dc-ed-arrest",
+      "label": "ED arrests T. Venkattram Reddy, P.K. Iyer, promoters and ex-directors of Deccan Chronicle Holdings Ltd, in bank fraud case under PMLA",
+      "type": "primary",
+      "publisher": "Enforcement Directorate (via official X/Twitter statement)",
+      "date": "2023-06-13",
+      "url": "https://x.com/dir_ed/status/1668989260651806725"
+    },
+    {
+      "id": "src-dc-nclt",
+      "label": "ED conducts fresh searches in Deccan Chronicle bank loan fraud case",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2019-01-01",
+      "url": "https://www.thenewsminute.com/article/deccan-chronicle-bank-loan-fraud-case-ed-conducts-fresh-searches-107688"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "KB-740",
+  "slug": "jpsc-recruitment-scam",
+  "title": "The JPSC Recruitment Scam: A 12-Year Wait for a Chargesheet",
+  "dek": "Nepotism allegations over Jharkhand's first two civil-service exams led the High Court to hand the case to the CBI in 2012 — but the agency took until November 2024 to chargesheet 60 people, including a former JPSC chairman, and no trial has yet begun.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 132,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-07-07",
+  "heroStat": {
+    "value": "0",
+    "label": "convictions secured, more than 14 years after the Jharkhand High Court ordered a CBI probe into the JPSC-I and JPSC-II recruitment exams"
+  },
+  "promise": {
+    "quote": "Recruitment to Jharkhand's civil services through the Jharkhand Public Service Commission's Combined Civil Services Examinations will be conducted on merit, through impartial evaluation of every candidate's answer sheets, free from favouritism toward relatives of officials, politicians or examiners.",
+    "madeBy": "Jharkhand Public Service Commission (JPSC)",
+    "role": "Constitutional body responsible for recruiting Jharkhand's Deputy Collectors, DSPs and other state civil service officers",
+    "date": "2003-01-01",
+    "context": "This reflects JPSC's basic constitutional mandate for the JPSC-I and JPSC-II Combined Civil Services Examinations conducted in Jharkhand's early years as a state, rather than a verified quotation from a specific JPSC statement, which this entry has not located.",
+    "sourceIds": [
+      "src-jpsc-vigilance"
+    ]
+  },
+  "target": {
+    "description": "Civil-service recruitment in which Preliminary and Mains marks are evaluated by independently assigned examiners, tabulated without alteration, and results reflect candidates' actual performance rather than their relationship to sitting JPSC members, officials or politicians.",
+    "standard": "JPSC's own examination-conduct and evaluation protocols for the Combined Civil Services Examination.",
+    "referenceDate": "2003-01-01"
+  },
+  "reality": {
+    "description": "Nepotism allegations surfaced after results of Jharkhand's first two Combined Civil Services Examinations (JPSC-I and JPSC-II) and the Jharkhand Eligibility Test were published in the mid-2000s, with claims that the then JPSC chairman and members had steered appointments — as Deputy Collectors, DSPs, Sales Tax Officers and university teachers — toward their own relatives and proteges. In June 2010 the Jharkhand Vigilance Bureau raided nine premises linked to suspended JPSC chairman Dilip Kumar Prasad and other current and former commission members and the controller of examinations. The Jharkhand High Court subsequently ordered a CBI investigation, and the CBI registered its case (RC-5/2012, later paired with RC-6/2012 covering the second exam) on 7 July 2012, alleging that PT and Mains marks were manipulated or inflated and that evaluators were hand-picked to favour undeserving candidates. The probe then stalled for over a decade. The CBI finally filed a chargesheet on 26-27 November 2024 — more than twelve years after the case was registered — naming 60 accused, including former chairman Dilip Kumar Prasad, in a single combined chargesheet covering both exams, under IPC Sections 120-B (criminal conspiracy) and 420 (cheating) and provisions of the Prevention of Corruption Act. Because the CBI had not yet obtained sanction to prosecute, the special CBI court did not immediately take cognisance; it did so in early 2025, and by March 2025 the court had summoned the 60 accused to appear on 15 April 2025. As of this writing no trial has concluded and no convictions have been reported. Separately, and unrelated in its facts to this decades-old case, a fresh controversy erupted in 2026 over the 14th JPSC Civil Services Preliminary Examination-2025 (held 19 April 2026): after a candidate's OMR sheet allegedly showing only 48 of 100 questions attempted went viral, the Jharkhand government cancelled that exam on 9 August 2026 following student protests, and on 24 August 2026 the Supreme Court issued notice on a plea seeking a CBI or judge-led probe into it.",
+    "asOfDate": "2026-08-24",
+    "sourceIds": [
+      "src-jpsc-vigilance",
+      "src-jpsc-chargesheet",
+      "src-jpsc-summons",
+      "src-jpsc-sc-2026"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Individuals chargesheeted by the CBI vs. convictions secured to date",
+    "unit": "individuals",
+    "targetValue": 60,
+    "actualValue": 0,
+    "targetDisplay": "60 chargesheeted (November 2024)",
+    "actualDisplay": "0 convicted (as of September 2026)",
+    "targetLabel": "Chargesheeted",
+    "actualLabel": "Convicted",
+    "note": "The chargesheet itself came only after obtaining sanction to prosecute, a step that reportedly delayed the court taking cognisance until early 2025. No trial has concluded; this reflects the pace of accountability, not any finding on guilt or innocence for individual accused, who are presumed innocent."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Nepotism allegations surface",
+      "detail": "After results of the JPSC-I and JPSC-II Combined Civil Services Examinations and the Jharkhand Eligibility Test are published, allegations emerge that the JPSC chairman and members appointed relatives and proteges to civil service and university posts. The exact date within 2008 is not confirmed by this entry.",
+      "type": "status"
+    },
+    {
+      "date": "2010-06-17",
+      "label": "Vigilance raids JPSC chairman's premises",
+      "detail": "The Jharkhand Vigilance Bureau raids nine premises linked to suspended JPSC chairman Dilip Kumar Prasad, other current and former commission members, and the controller of examinations.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-07-07",
+      "label": "CBI registers case on Jharkhand High Court's order",
+      "detail": "The CBI registers RC-5/2012 (later paired with RC-6/2012) to probe alleged mark manipulation and hand-picked evaluators in the JPSC-I and JPSC-II exams.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-11-27",
+      "label": "CBI files chargesheet after 12+ years",
+      "detail": "The CBI charges 60 people, including former JPSC chairman Dilip Kumar Prasad, under IPC 120-B, 420 and the Prevention of Corruption Act.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-04-15",
+      "label": "Accused summoned to appear",
+      "detail": "Having taken cognisance of the chargesheet, the special CBI court directs the 60 accused to appear in court.",
+      "type": "status"
+    },
+    {
+      "date": "2026-08-09",
+      "label": "Separate 2025-26 JPSC exam cancelled",
+      "detail": "The Jharkhand government cancels the 14th JPSC Civil Services Preliminary Examination-2025 (held April 2026) after student protests over a candidate's OMR sheet going viral — a distinct, more recent controversy at the same commission.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-08-24",
+      "label": "Supreme Court issues notice on fresh probe plea",
+      "detail": "The Court seeks responses from the Centre, Jharkhand government, JPSC and CBI on a PIL seeking a CBI or judge-led probe into the cancelled 2025-26 prelims.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A CBI chargesheet naming 60 people, including a former JPSC chairman, is pending before a special CBI court; no trial has concluded and no convictions have been reported as of September 2026. All named individuals are presumed innocent unless and until convicted. A separate, more recent controversy over the 2025-26 JPSC prelims is under Supreme Court scrutiny as of August 2026 but has not resulted in any chargesheet.",
+    "keyIndividuals": [
+      {
+        "name": "Dilip Kumar Prasad",
+        "role": "Former Chairman, Jharkhand Public Service Commission (2002-2010)",
+        "outcome": "Named as an accused in the CBI's November 2024 chargesheet; case pending before a special CBI court, no conviction reported."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A genuine, officially registered criminal case exists — a CBI investigation ordered by a constitutional court, a chargesheet naming a former commission chairman among 60 accused — but it took more than twelve years to reach even the chargesheet stage, and no trial or conviction has followed. This entry treats the underlying allegations as chargesheeted-but-unproven, and separately flags a distinct, unresolved 2025-26 controversy at the same commission that has not yet produced any formal chargesheet.",
+    "confidence": "medium",
+    "reasoning": "The case registration date, chargesheet date, and number of accused are corroborated across multiple independent Indian outlets (The Federal, The Statesman, NewsDrum, Deccan Herald). This entry has not independently reviewed the CBI chargesheet, the Jharkhand High Court's original order, or any court order text, and relies on news summaries."
+  },
+  "incomplete": [
+    "The exact 2008 date on which nepotism allegations first became public has not been confirmed; this entry uses 1 January 2008 as a placeholder for an approximate year.",
+    "Some Hindi-language reports describe a narrower, earlier chargesheet in the RC-5/2012 case alone naming 37-39 accused (filed around May 2024), which may represent a partial or earlier filing later folded into the combined 60-accused chargesheet reported in English-language press in November 2024. This entry has not reconciled the discrepancy between these figures.",
+    "This entry has not obtained the full list of the 60 chargesheeted individuals or the specific roles (candidate, examiner, JPSC member, other official) attributed to each.",
+    "Whether the CBI has since obtained the sanction to prosecute that was reportedly pending as of late 2024, and the current stage of court proceedings as of September 2026, is not confirmed.",
+    "The relationship, if any, between this 2003-era case and the separate 2025-26 JPSC prelims controversy (cancelled August 2026, under Supreme Court review) has not been established; they are treated here as distinct matters at the same commission."
+  ],
+  "sources": [
+    {
+      "id": "src-jpsc-vigilance",
+      "label": "Vigilance raids premises of JPSC chairman, others",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-06-17",
+      "url": "https://www.business-standard.com/article/economy-policy/vigilance-raids-premises-of-jpsc-chairman-others-110061700026_1.html"
+    },
+    {
+      "id": "src-jpsc-chargesheet",
+      "label": "JPSC recruitment scam: CBI files chargesheet after 12 years",
+      "type": "independent",
+      "publisher": "The Federal",
+      "date": "2024-11-27",
+      "url": "https://thefederal.com/category/news/jpsc-recruitment-scam-cbi-files-chargesheet-after-12-years-158381"
+    },
+    {
+      "id": "src-jpsc-summons",
+      "label": "JPSC Recruitment Scam: CBI Court Summons 60 Accused",
+      "type": "independent",
+      "publisher": "The Statesman",
+      "date": "2025-03-08",
+      "url": "https://www.thestatesman.com/india/jpsc-recruitment-scam-cbi-court-summons-60-accused-1503405796.html"
+    },
+    {
+      "id": "src-jpsc-sc-2026",
+      "label": "SC Seeks Centre, Jharkhand Response On JPSC Exam Irregularities, CBI Probe Plea",
+      "type": "independent",
+      "publisher": "The Indian Tribal",
+      "date": "2026-08-24",
+      "url": "https://theindiantribal.com/2026/08/24/supreme-court-notice-jpsc-paper-leak-irregularities-cbi-probe-jharkhand/"
+    }
+  ]
+}

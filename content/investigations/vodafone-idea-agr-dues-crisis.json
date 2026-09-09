@@ -1,0 +1,173 @@
+{
+  "id": "KB-1406",
+  "slug": "vodafone-idea-agr-dues-crisis",
+  "title": "Vodafone Idea's AGR Dues Crisis",
+  "dek": "A Supreme Court ruling on how telecom revenue should be defined left Vodafone Idea owing tens of thousands of crores in back dues overnight, pushing India's third-largest telco to the edge of collapse. The government's rescue — converting its own dues into equity — has since made it Vodafone Idea's largest shareholder, propping up a company still burning cash.",
+  "category": "Telecom & Digital",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 32,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-10-24",
+  "heroStat": {
+    "value": "~₹87,695 cr",
+    "label": "Vodafone Idea's AGR dues to the government, as frozen by the Centre per reporting in late December 2025"
+  },
+  "promise": {
+    "quote": "Telecom licensees would pay licence fees and spectrum usage charges as a percentage of Adjusted Gross Revenue calculated according to the definitions and methodology telecom operators themselves understood to apply, without retrospective demands threatening their financial viability.",
+    "madeBy": "Department of Telecommunications / telecom licensees including Vodafone Idea",
+    "role": "Telecom regulator and licensed operators",
+    "date": "2005-01-01",
+    "context": "This reflects the decades-long dispute over the definition of Adjusted Gross Revenue (AGR) under telecom licence agreements, which operators argued should exclude non-telecom income, while the DoT argued it should include all revenue.",
+    "sourceIds": [
+      "src-agr-overview"
+    ]
+  },
+  "target": {
+    "description": "That AGR-linked licence fee and spectrum usage charge dues would be calculated, demanded, and paid in a manner consistent with a stable, predictable definition of revenue, without a sudden retrospective liability threatening an operator's solvency.",
+    "standard": "Telecom licence agreements between the Department of Telecommunications and licensees, as interpreted by the Supreme Court of India's judgment on the definition of Adjusted Gross Revenue.",
+    "referenceDate": "2019-10-24"
+  },
+  "reality": {
+    "description": "On 24 October 2019, the Supreme Court ruled in the Department of Telecommunications' favour, upholding a broad definition of Adjusted Gross Revenue that includes non-telecom income (such as asset sales, interest, and dividends), not just revenue from core telecom services. This retroactively increased telecom operators' AGR-linked dues by an enormous margin: total industry dues, including interest and penalties, were assessed at roughly ₹1.56 lakh crore (₹1.56 trillion), with Vodafone Idea's own AGR liability assessed at around ₹58,000 crore (some reporting citing an initial DoT demand closer to ₹92,000 crore including interest and penalties) — far more than the company could pay without support. Vodafone Idea sought review and recalculation, and the Supreme Court subsequently rejected pleas for further recalculation of the original dues in 2020-2021. The government stepped in with a relief package: in October 2021, the Union Cabinet approved converting telecom operators' deferred interest on AGR and spectrum dues into government equity, conditional on promoters (the Vodafone Group and Aditya Birla Group) infusing fresh capital. In February 2023, the government converted approximately ₹16,133 crore of Vodafone Idea's interest dues into equity, taking a 33.44% stake and becoming the company's largest shareholder. In March/April 2025, a further conversion of approximately ₹36,950 crore of dues into equity raised the government's stake to nearly 49%. In October-November 2025, the Supreme Court permitted the Department of Telecommunications to undertake a fresh review and reconciliation of Vodafone Idea's AGR dues up to FY2016-17, without formally reopening its 2019 judgment. By late December 2025, government reporting indicated Vodafone Idea's AGR dues had been frozen at approximately ₹87,695 crore pending this reconciliation. As of this entry's sourcing, Vodafone Idea remained heavily loss-making and reliant on continued government and lender forbearance to avoid insolvency.",
+    "asOfDate": "2025-12-31",
+    "sourceIds": [
+      "src-sc-2019-agr",
+      "src-govt-equity-2023",
+      "src-govt-equity-2025",
+      "src-sc-2025-review",
+      "src-agr-frozen-2025"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Vodafone Idea's original AGR-linked dues assessed after the 2019 ruling vs. the amount later frozen pending reconciliation",
+    "unit": "INR crore",
+    "targetValue": 58000,
+    "actualValue": 87695,
+    "targetDisplay": "~₹58,000 cr (initial AGR liability estimate, 2019)",
+    "actualDisplay": "~₹87,695 cr (dues frozen pending reconciliation, per Dec 2025 reporting)",
+    "targetLabel": "Initial AGR dues estimate",
+    "actualLabel": "Dues frozen pending reconciliation",
+    "note": "Figures for Vodafone Idea's exact AGR liability vary across reports depending on whether interest, penalties, and later accruals are included; this entry has not reconciled a single authoritative total and flags the discrepancy rather than picking one figure as correct."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 87695,
+    "allocatedLabel": "Vodafone Idea's AGR dues as frozen by the government pending reconciliation, per late-December 2025 reporting",
+    "released": 53083,
+    "releasedLabel": "Approximate combined value of AGR/spectrum interest dues converted into government equity in Vodafone Idea (₹16,133 cr in Feb 2023 plus ₹36,950 cr in March/April 2025)",
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "These figures come from separate company filings and news reports on different dates and have not been independently reconciled into one audited total of Vodafone Idea's government-related liabilities.",
+    "sourceIds": [
+      "src-govt-equity-2023",
+      "src-govt-equity-2025",
+      "src-agr-frozen-2025"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019-10-24",
+      "label": "Supreme Court's AGR ruling",
+      "detail": "The Supreme Court upholds the DoT's broad definition of Adjusted Gross Revenue, retroactively creating an industry-wide dues liability estimated around ₹1.56 lakh crore, with Vodafone Idea's own liability assessed in the tens of thousands of crores.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-10-01",
+      "label": "Union Cabinet approves telecom relief package",
+      "detail": "The government approves a package including conversion of telecom operators' deferred AGR/spectrum interest dues into government equity, conditional on promoter capital infusion.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-02-07",
+      "label": "First government equity conversion",
+      "detail": "The government converts approximately ₹16,133 crore of Vodafone Idea's interest dues into equity, becoming its largest shareholder with a 33.44% stake.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-04-09",
+      "label": "Second government equity conversion",
+      "detail": "Vodafone Idea allots a further approximately ₹36,950 crore in shares to the government, raising the government's stake to nearly 49%.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-10-27",
+      "label": "Supreme Court permits fresh AGR review",
+      "detail": "The Supreme Court allows the DoT to reassess and reconcile Vodafone Idea's AGR dues up to FY2016-17, clarifying it is not reopening its 2019 judgment.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-12-31",
+      "label": "AGR dues frozen at ~₹87,695 crore",
+      "detail": "The government reports Vodafone Idea's AGR dues have been frozen at this figure pending the ongoing reconciliation exercise.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is not a fraud or criminal case but an ongoing regulatory and financial dispute over telecom licence dues. The Supreme Court's 2019 judgment establishing the AGR definition is final and binding; subsequent litigation and government action have concerned relief, deferral, equity conversion, and reconciliation of the resulting dues rather than challenging the underlying legal definition itself.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The AGR crisis reflects a genuine, long-running legal and regulatory dispute over telecom revenue definitions that nearly bankrupted Vodafone Idea once the Supreme Court ruled against operators in 2019. The government's response — converting its own dues into equity — has kept the company alive and made the state its largest shareholder, an unusual outcome that some critics view as a de facto bailout of a private telecom operator using public dues as the instrument, while others view it as a pragmatic way to preserve competition in a consolidating sector.",
+    "confidence": "medium",
+    "reasoning": "The core sequence — the 2019 Supreme Court ruling, the 2021 relief package, the 2023 and 2025 equity conversions, and the 2025 dues-reconciliation review — is well corroborated by multiple independent financial-press sources. Confidence is not higher because reported dues figures vary across sources and dates, and this entry has not directly reviewed the Supreme Court's judgments or DoT's reconciliation methodology."
+  },
+  "incomplete": [
+    "This entry has not reconciled the various reported figures for Vodafone Idea's total AGR liability (ranging from roughly ₹58,000 crore to ₹92,000 crore in initial estimates, and ₹87,695 crore in the frozen figure as of December 2025) into one authoritative total.",
+    "The outcome of the DoT's ongoing reconciliation of dues up to FY2016-17, ordered by the Supreme Court in October 2025, is not yet known.",
+    "Whether Vodafone Idea will require further government or lender support beyond the equity conversions already made remains an open question as of this entry's sourcing.",
+    "This entry has not directly reviewed the Supreme Court's 2019 judgment, its 2025 order permitting reconciliation, or DoT's underlying dues calculations."
+  ],
+  "sources": [
+    {
+      "id": "src-agr-overview",
+      "label": "How Vodafone Idea Will Service Its ₹2 tn AGR and Spectrum Dues After Govt's Relief",
+      "type": "independent",
+      "publisher": "Outlook Business",
+      "date": "2023-02-01",
+      "url": "https://www.outlookbusiness.com/story/corporate/how-vodafone-idea-will-service-its-2-tn-agr-and-spectrum-dues-after-govts-relief-explained"
+    },
+    {
+      "id": "src-sc-2019-agr",
+      "label": "Supreme Court Relief on AGR Dues Gives Vodafone Idea a Lifeline",
+      "type": "independent",
+      "publisher": "Vajiram & Ravi",
+      "date": "2025-10-28",
+      "url": "https://vajiramandravi.com/current-affairs/supreme-court-relief-on-agr-dues-gives-vodafone-idea-a-lifeline/"
+    },
+    {
+      "id": "src-govt-equity-2023",
+      "label": "Govt gets 33.44% stake in Vodafone Idea post equity allocation",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2023-02-07",
+      "url": "https://www.businesstoday.in/industry/telecom/story/govt-gets-3344-stake-in-vodafone-idea-post-equity-allocation-369408-2023-02-07"
+    },
+    {
+      "id": "src-govt-equity-2025",
+      "label": "Vodafone Idea allots shares worth Rs 36,950 crore to Govt of India",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-04-09",
+      "url": "https://www.business-standard.com/markets/capital-market-news/vodafone-idea-allots-shares-worth-rs-36-950-crore-to-govt-of-india-125040900388_1.html"
+    },
+    {
+      "id": "src-sc-2025-review",
+      "label": "SC permits full reassessment of Vodafone Idea's AGR dues up to FY17",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-11-03",
+      "url": "https://www.business-standard.com/industry/news/sc-permits-full-reassessment-of-vodafone-idea-s-agr-dues-up-to-fy17-125110301398_1.html"
+    },
+    {
+      "id": "src-agr-frozen-2025",
+      "label": "Vodafone Idea slumps as Supreme Court limits AGR relief",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-10-30",
+      "url": "https://www.business-standard.com/markets/capital-market-news/vodafone-idea-slumps-as-supreme-court-limits-agr-relief-125103000556_1.html"
+    }
+  ]
+}

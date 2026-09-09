@@ -1,0 +1,145 @@
+{
+  "id": "KB-3027",
+  "slug": "sterlite-copper-thoothukudi-closure",
+  "title": "The Sterlite Copper Thoothukudi Firing and Plant Closure",
+  "dek": "Residents protesting a copper smelter's pollution for years were met with police gunfire that killed thirteen people in a single day. The plant was shut for good, but who bears responsibility for the deaths was never resolved with a conviction.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 199,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2018-05-22",
+  "heroStat": {
+    "value": "13 dead",
+    "label": "protesters killed by police firing in a single day; plant shut since 2018"
+  },
+  "promise": {
+    "quote": "Vedanta's Sterlite copper smelting plant in Thoothukudi would operate within air and water pollution norms set by the Tamil Nadu Pollution Control Board, and residents' constitutional right to peaceful protest against industrial pollution would be protected by the state.",
+    "madeBy": "Tamil Nadu Pollution Control Board and the Tamil Nadu state government",
+    "role": "State pollution regulator and law-and-order authority",
+    "date": "1997-01-01",
+    "context": "The Sterlite copper smelter, operating since 1997, faced two decades of complaints from Thoothukudi residents over air and water pollution, including a 2013 Supreme Court finding that it had violated pollution norms.",
+    "sourceIds": [
+      "src-sterlite-landconflict"
+    ]
+  },
+  "target": {
+    "description": "Industrial plants should comply with pollution control norms, and any renewal of their operating consent should follow due environmental process; citizens protesting pollution should not face lethal police force.",
+    "standard": "Tamil Nadu Pollution Control Board consent-to-operate conditions; constitutional right to peaceful assembly under Article 19; police use-of-force protocols.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "After sustained local protests over alleged air and water pollution and the plant's push for capacity expansion, police opened fire on a large protest march in Thoothukudi on 22 May 2018, killing 13 people. The Tamil Nadu government ordered the plant's permanent closure on 28 May 2018, and the Tamil Nadu Pollution Control Board rescinded its operating consent, citing pollution violations. Vedanta challenged the closure for years; the Supreme Court dismissed its plea to reopen the plant on 29 February 2024, upholding the state's closure decision on environmental grounds, and later dismissed Vedanta's review petition as well. No police officer has been convicted over the 13 deaths; a judicial inquiry commission examined the firing, and accountability for the killings remains a separate, unresolved track from the environmental closure. As of mid-2025, some local groups — citing lost livelihoods — were petitioning the state government to allow the plant to reopen.",
+    "asOfDate": "2025-07-21",
+    "sourceIds": [
+      "src-sterlite-bhrc",
+      "src-sterlite-nationalherald"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Protesters killed by police firing vs. police personnel convicted",
+    "unit": "people",
+    "targetValue": 13,
+    "actualValue": 0,
+    "targetDisplay": "13 killed by police firing (22 May 2018)",
+    "actualDisplay": "0 confirmed convictions of police personnel",
+    "targetLabel": "Killed",
+    "actualLabel": "Convicted",
+    "note": "This reflects the accountability track for the deaths specifically, which is separate from the environmental case that led to the plant's permanent closure."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-04-02",
+      "label": "Supreme Court finds pollution norm violations",
+      "detail": "The Supreme Court held that the plant had violated pollution control norms in the past, while allowing it to continue operating subject to compliance.",
+      "type": "status"
+    },
+    {
+      "date": "2018-03-01",
+      "label": "Protests intensify over plant expansion",
+      "detail": "Residents began a 100-day protest opposing the smelter's plan to double its capacity, citing unresolved pollution concerns.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-05-22",
+      "label": "Police firing kills 13 protesters",
+      "detail": "Police opened fire on a large protest march marking the 100th day of demonstrations, killing 13 people.",
+      "type": "status"
+    },
+    {
+      "date": "2018-05-28",
+      "label": "Tamil Nadu orders permanent closure",
+      "detail": "The state government ordered the Sterlite plant permanently shut and the pollution control board withdrew its consent to operate.",
+      "type": "status"
+    },
+    {
+      "date": "2024-02-29",
+      "label": "Supreme Court dismisses Vedanta's reopening plea",
+      "detail": "The Supreme Court upheld the Tamil Nadu government's closure decision, citing the company's failure to control air and water pollution.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-01",
+      "label": "Supreme Court dismisses review petition",
+      "detail": "The Court rejected Vedanta's review plea against the dismissal of its reopening request, closing off further ordinary appeal routes.",
+      "type": "status"
+    },
+    {
+      "date": "2025-07-21",
+      "label": "Local groups petition for reopening over jobs",
+      "detail": "Residents, workers and trade associations rallied at the Thoothukudi Collectorate seeking the plant's reopening, citing lost livelihoods since 2018.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The environmental closure of the plant has been fully upheld through the Supreme Court. Separately, no police officer has been confirmed convicted for the 13 deaths in the May 2018 firing; that accountability question remains open.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "On the environmental question, the outcome is settled: courts upheld the plant's permanent closure for pollution violations. On the human cost of getting there, it is not — thirteen people were killed by police gunfire, and this investigation found no confirmed conviction of any officer over those deaths, leaving a serious accountability gap alongside the regulatory one.",
+    "confidence": "medium",
+    "reasoning": "The plant closure, its legal upholding by the Supreme Court, and the death toll from the May 2018 firing are well documented across independent sources. The status of any prosecution of police personnel for the firing could not be confirmed one way or another from sources reviewed, so this is flagged as unresolved rather than asserted as closed."
+  },
+  "incomplete": [
+    "This investigation could not confirm the current status (if any) of criminal proceedings against police personnel involved in the 22 May 2018 firing.",
+    "The findings and current status of the judicial inquiry commission into the firing were not fully verified.",
+    "The exact date of the Supreme Court's dismissal of Vedanta's review petition could not be pinned down precisely beyond mid-2024."
+  ],
+  "sources": [
+    {
+      "id": "src-sterlite-landconflict",
+      "label": "Regulatory gaps, public health, and economic fallout: The case of Sterlite Copper plant in Thoothukudi",
+      "type": "independent",
+      "publisher": "Land Conflict Watch",
+      "date": "2024-01-01",
+      "url": "https://www.landconflictwatch.org/conflicts/supreme-court-refuses-to-allow-reopening-of-sterlite-copper-plant-in-thoothukudi"
+    },
+    {
+      "id": "src-sterlite-bhrc",
+      "label": "India: Supreme Court dismisses Vedanta's plea to reopen copper smelter plant in Tamil Nadu citing environmental & human rights impacts on local community",
+      "type": "independent",
+      "publisher": "Business & Human Rights Resource Centre",
+      "date": "2024-03-01",
+      "url": "https://www.business-humanrights.org/en/latest-news/india-supreme-court-rejects-vedantas-plea-to-reopen-thoothukudi-copper-plant-citing-pollution-concerns/"
+    },
+    {
+      "id": "src-sterlite-nationalherald",
+      "label": "Supreme Court dismisses Vedanta plea on copper plant closure in Thoothukudi",
+      "type": "independent",
+      "publisher": "National Herald",
+      "date": "2024-02-29",
+      "url": "https://www.nationalheraldindia.com/national/supreme-court-dismisses-vedanta-plea-on-copper-plant-closure-in-thoothukudi"
+    },
+    {
+      "id": "src-sterlite-deccan-review",
+      "label": "Supreme Court junks review plea by Vedanta group against shutting down of Tamil Nadu copper smelting plant",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-08-01",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/supreme-court-junks-review-plea-by-vedanta-group-against-shutting-down-of-tamil-nadu-copper-smelting-plant-3279193"
+    }
+  ]
+}

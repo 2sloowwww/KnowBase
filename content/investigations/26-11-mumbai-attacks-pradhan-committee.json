@@ -1,0 +1,150 @@
+{
+  "id": "KB-2902",
+  "slug": "26-11-mumbai-attacks-pradhan-committee",
+  "title": "26/11 and the Pradhan Committee's Verdict on Intelligence Failure",
+  "dek": "Months before ten Lashkar-e-Taiba gunmen laid siege to Mumbai for three days in November 2008, Indian and American intelligence agencies had specifically flagged the Taj Mahal Palace Hotel as a target. Maharashtra's own inquiry, the Pradhan Committee, found the warnings were real but the response was not -- exposing a gap between assurances of coastal and city security and a police force armed, in its own report's words, with World War II-era weapons against trained assault teams.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 60,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2008-11-26",
+  "heroStat": {
+    "value": "166",
+    "label": "people killed over roughly 60 hours of coordinated attacks across Mumbai, starting November 26, 2008"
+  },
+  "promise": {
+    "quote": "There was total confusion in processing intelligence alerts at the state level.",
+    "madeBy": "R.D. Pradhan and V. Balachandran",
+    "role": "Members, High-Level Enquiry Committee (Pradhan Committee), appointed by the Government of Maharashtra",
+    "date": "2009-04-01",
+    "context": "Finding of the two-member committee appointed on December 30, 2008 to examine the security and intelligence lapses that preceded and accompanied the 26/11 attacks; the finding directly contradicts the standing assumption that specific, repeated intelligence warnings about Mumbai hotel targets would be acted upon.",
+    "sourceIds": [
+      "src-2611-pradhan-wiki"
+    ]
+  },
+  "target": {
+    "description": "A security and intelligence apparatus that acts on specific, repeated, high-confidence warnings about named targets (including hotels frequented by foreigners) by hardening those targets and equipping first-responder police with weapons and training adequate to counter a trained, armed assault.",
+    "standard": "The baseline expectation of coordination between central intelligence agencies (Intelligence Bureau, RAW) and Mumbai/Maharashtra police, and of the Quick Reaction Teams formed after the 2003 Mumbai bomb blasts, which the Pradhan Committee found were never adequately upgraded.",
+    "referenceDate": "2008-11-26"
+  },
+  "reality": {
+    "description": "Ten Lashkar-e-Taiba gunmen arrived by sea and struck multiple sites across Mumbai on the night of November 26, 2008, including the Taj Mahal Palace Hotel, the Oberoi-Trident, Nariman House and Chhatrapati Shivaji Terminus, in a siege that lasted roughly 60 hours and killed 166 people. Indian and American intelligence agencies had, in the months before the attack, repeatedly flagged Lashkar's interest in Mumbai and specifically named the Taj as a probable target -- including an Intelligence Bureau warning on September 24, 2008 and a US warning to the Taj's owners in October 2008 -- but the warnings were not translated into sustained security measures, and hotel security that had briefly been increased was reportedly relaxed again before the attack. The Maharashtra government's own High-Level Enquiry Committee, led by former Union Home Secretary R.D. Pradhan and former IPS officer V. Balachandran, found no failure by central intelligence agencies to pass on inputs, but found 'total confusion' in how the state processed and acted on those alerts, and found Mumbai police were equipped with outdated weapons wholly inadequate against the attackers' assault rifles and training. Mumbai's police commissioner at the time, Hasan Gafoor, was criticised in the report for command failures during the siege.",
+    "asOfDate": "2009-04-01",
+    "sourceIds": [
+      "src-2611-fpa-gafoor",
+      "src-2611-deccan-botched",
+      "src-2611-gulfnews"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Specific intelligence warnings naming Mumbai hotels as targets vs. sustained security measures implemented before the attack",
+    "unit": "warnings acted on",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Sustained hardening of named target sites following repeated, specific warnings",
+    "actualDisplay": "Security increases at the Taj were reportedly temporary and had lapsed by the time of the attack",
+    "targetLabel": "Expected response",
+    "actualLabel": "Actual response",
+    "note": "This is a qualitative illustration rather than a precise count of warnings; multiple intelligence inputs between June and November 2008 specifically named Mumbai hotels, and reporting indicates none resulted in security measures that were still in place on November 26, 2008."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-09-24",
+      "label": "Intelligence Bureau flags Lashkar interest in Mumbai",
+      "detail": "The IB issues a warning that Lashkar-e-Taiba was showing renewed interest in Mumbai; Maharashtra police issue a bulletin the next day listing six potential targets, including the Taj.",
+      "type": "status"
+    },
+    {
+      "date": "2008-10-01",
+      "label": "US intelligence warns Taj ownership directly",
+      "detail": "US agencies reportedly warn Ratan Tata, chairman of the group owning the Taj Mahal Palace Hotel, of a specific threat; hotel security is briefly increased, then relaxed.",
+      "type": "status"
+    },
+    {
+      "date": "2008-11-26",
+      "label": "Coordinated attacks begin",
+      "detail": "Ten gunmen arrive by sea and attack multiple sites across Mumbai, including the Taj, the Oberoi-Trident, Nariman House and CST railway station.",
+      "type": "milestone"
+    },
+    {
+      "date": "2008-11-29",
+      "label": "Siege ends",
+      "detail": "The last of the gunmen are killed at the Taj after roughly 60 hours; 166 people are dead and hundreds injured.",
+      "type": "status"
+    },
+    {
+      "date": "2008-12-30",
+      "label": "Pradhan Committee constituted",
+      "detail": "The Maharashtra government appoints R.D. Pradhan and V. Balachandran to a High-Level Enquiry Committee to examine the security and intelligence failures.",
+      "type": "announcement"
+    },
+    {
+      "date": "2009-04-01",
+      "label": "Pradhan Committee report finalised",
+      "detail": "The committee finds no failure to pass on intelligence by central agencies, but finds 'total confusion' in state-level processing of alerts, inadequate police weaponry, and command failures during the response; the report was for years kept from full public release.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This entry concerns an intelligence and security-failure inquiry rather than a criminal prosecution. The sole surviving attacker, Ajmal Kasab, was convicted and executed in 2012 in a separate criminal case; the Pradhan Committee's findings concerned institutional and command accountability, and its recommendations on police commissioner Hasan Gafoor's conduct did not result in criminal charges against him.",
+    "keyIndividuals": [
+      {
+        "name": "Ajmal Kasab",
+        "role": "Sole surviving attacker, captured alive",
+        "outcome": "Convicted of murder, waging war against India and other charges; executed on 21 November 2012"
+      },
+      {
+        "name": "Hasan Gafoor",
+        "role": "Mumbai Police Commissioner during the attacks",
+        "outcome": "Criticised in the Pradhan Committee report for command and coordination failures; faced no criminal charges"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The specific intelligence warnings about a Mumbai hotel attack were real, repeated and reasonably specific -- the promise implicit in India's counter-terror apparatus, that such warnings would translate into sustained protective measures, was not kept. The Pradhan Committee's own findings confirm a state-level failure to act on intelligence and a police force outmatched by the attackers' training and weapons, though it found no failure on the part of central intelligence agencies to share the warnings in the first place.",
+    "confidence": "high",
+    "reasoning": "The intelligence warnings, the attack timeline, and the Pradhan Committee's core findings are corroborated across multiple independent journalistic accounts (including ProPublica's investigative reporting and Indian press coverage of the report) and are not seriously disputed. Some operational details of exactly which warnings reached which officials, and why the ATS/Mumbai Police response was as slow as it was, remain contested in different accounts."
+  },
+  "incomplete": [
+    "The Pradhan Committee's full report was not released to the public for years after submission; this entry relies on excerpts and summaries reported by the press rather than the complete original document.",
+    "This entry does not adjudicate competing claims from Indian and Pakistani officials about the extent of Pakistani state complicity, which is a separate and heavily disputed question from the narrower intelligence-and-response failure this entry addresses."
+  ],
+  "sources": [
+    {
+      "id": "src-2611-pradhan-wiki",
+      "label": "Pradhan Commission",
+      "type": "independent",
+      "publisher": "Wikipedia (secondary reference, cross-checked against press reporting)",
+      "date": "2009-04-01",
+      "url": "https://en.wikipedia.org/wiki/Pradhan_Commission"
+    },
+    {
+      "id": "src-2611-fpa-gafoor",
+      "label": "26/11 Report Raps Hasan Gafoor",
+      "type": "independent",
+      "publisher": "Foreign Policy Association",
+      "date": "2009-04-06",
+      "url": "https://fpa.org/2611-report-raps-hasan-gafoor/"
+    },
+    {
+      "id": "src-2611-deccan-botched",
+      "label": "Police botched up 26/11 action",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2009-04-01",
+      "url": "https://www.deccanherald.com/content/8558/police-botched-up-2611-action.html"
+    },
+    {
+      "id": "src-2611-gulfnews",
+      "label": "Report blames intelligence failures for Mumbai attacks",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2009-04-01",
+      "url": "https://gulfnews.com/amp/story/world%2Fasia%2Findia%2Freport-blames-intelligence-failures-for-mumbai-attacks-1.1497127"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "KB-2005",
+  "slug": "rajasthan-si-recruitment-2021-paper-leak",
+  "title": "The Rajasthan Sub-Inspector Recruitment 2021 Paper Leak",
+  "dek": "A police sub-inspector exam meant to staff Rajasthan's own police force was allegedly compromised from within by the state's own public service commission — and the men who cleared it on leaked papers went on to serve as trainee sub-inspectors for years before the exam was cancelled.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 162,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2022-01-01",
+  "heroStat": {
+    "value": "859",
+    "label": "Sub-Inspector posts covered by the exam the Rajasthan High Court cancelled outright over the paper leak"
+  },
+  "promise": {
+    "quote": "The Rajasthan Police Sub-Inspector recruitment examination will be conducted securely and assessed strictly on merit, with question papers kept confidential by the Rajasthan Public Service Commission until the test.",
+    "madeBy": "Rajasthan Public Service Commission (RPSC)",
+    "role": "State constitutional body responsible for conducting recruitment examinations for Rajasthan government posts, including police sub-inspectors",
+    "date": "2021-09-01",
+    "context": "The 2021 SI recruitment exam was meant to fill 859 sub-inspector posts in the Rajasthan Police; investigators later alleged the leak involved a sitting RPSC member and reached organised cheating networks.",
+    "sourceIds": [
+      "src-rsi-hc-cancel"
+    ]
+  },
+  "target": {
+    "description": "Recruitment based strictly on exam merit, with question papers secured from RPSC members, staff, and outside networks, and no candidate admitted to the police force through a leaked or purchased paper.",
+    "standard": "Standard public recruitment integrity norms applicable to RPSC-conducted examinations.",
+    "referenceDate": "2021-09-01"
+  },
+  "reality": {
+    "description": "Rajasthan's Special Operations Group (SOG) investigation found the 2021 SI exam paper had been leaked and circulated, reaching organised cheating rings including a 'Bluetooth gang' that helped candidates cheat during the test itself. The probe implicated a serving RPSC member, Ramu Ram Raika — who was arrested along with his son Devesh Raika and daughter Shobha Raika, with Raika himself remaining in custody while his children secured bail — and alleged the leaked paper and answers were routed through additional intermediaries. By the time the scale of the leak became clear, more than 50 of the men who had joined as trainee sub-inspectors were themselves arrested, and investigators alleged over 500 candidates may have cleared the exam fraudulently, out of roughly 859 total selections — meaning a large share of Rajasthan's own incoming police sub-inspector cohort was implicated. The Rajasthan High Court cancelled the entire 2021 SI exam, ordering a fresh examination for the 859 posts; the state government subsequently indicated the re-exam was expected around September 2026, some five years after the original test.",
+    "asOfDate": "2025-08-09",
+    "sourceIds": [
+      "src-rsi-hc-cancel",
+      "src-rsi-pso-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Sub-inspector posts originally filled via the 2021 exam vs. posts refilled through a clean re-examination",
+    "unit": "count",
+    "targetValue": 859,
+    "actualValue": 0,
+    "targetDisplay": "859 posts filled, 2021",
+    "actualDisplay": "0 confirmed refilled as of sources reviewed",
+    "targetLabel": "Original posts filled",
+    "actualLabel": "Posts refilled via clean re-exam",
+    "note": "As of the most recent reporting reviewed, the re-examination for the 859 posts had not yet been completed; a fresh exam was reported expected around September 2026."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-09-01",
+      "label": "RPSC conducts SI recruitment exam",
+      "detail": "The Rajasthan Public Service Commission conducts the Sub-Inspector recruitment examination for 859 posts.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-01-01",
+      "label": "Paper leak allegations surface",
+      "detail": "Investigators begin probing allegations that the exam paper was leaked and circulated before the test.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Over 50 trainee sub-inspectors arrested",
+      "detail": "SOG's investigation results in the arrest of more than 50 candidates who had already joined as trainee sub-inspectors, along with intermediaries including a former RPSC member's family.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-01",
+      "label": "Rajasthan High Court cancels the exam",
+      "detail": "The High Court orders the entire 2021 SI recruitment exam cancelled and directs a fresh examination for the 859 posts.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-08-09",
+      "label": "Ashok Gehlot's former PSO and son arrested",
+      "detail": "SOG arrests the former chief minister's personal security officer, alleging his son's exam paper was purchased through the leak network — showing the investigation was still actively expanding roughly four years after the exam.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-08-09",
+      "label": "Fresh exam still pending",
+      "detail": "Reporting indicates the re-examination for the 859 posts remains pending, with a fresh exam expected around September 2026.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Rajasthan High Court's order cancelling the 2021 SI exam was reported to have faced further litigation, including a stay sought against the cancellation; this entry has not confirmed the final, settled legal status of that appeal. Multiple criminal cases against alleged leak organisers, intermediaries, and beneficiary candidates remain under investigation or trial.",
+    "keyIndividuals": [
+      {
+        "name": "Ramu Ram Raika",
+        "role": "Then-member, Rajasthan Public Service Commission",
+        "outcome": "Arrested and, per reporting reviewed, remained in judicial custody; final case outcome not confirmed by this entry."
+      },
+      {
+        "name": "Devesh Raika and Shobha Raika",
+        "role": "Son and daughter of Ramu Ram Raika",
+        "outcome": "Arrested in connection with the case; reported to have secured bail. Final case outcome not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, large-scale paper leak in a state police recruitment exam, distinct from Rajasthan's separately covered Patwari and REET exam-fraud cases on this site, in which an alleged 500-plus candidates — more than half of those selected for 859 posts — may have cleared the test fraudulently, implicating a sitting member of the state's own public service commission.",
+    "confidence": "medium",
+    "reasoning": "The exam cancellation, arrest counts, and RPSC member's implication are corroborated across multiple contemporaneous reports (Deccan Herald, Careers360, Madhyamam, ETV Bharat); this entry has not reviewed the High Court's judgment, the SOG chargesheet, or any RPSC disciplinary order directly, and the exact final count of fraudulently cleared candidates has not been confirmed against a primary source."
+  },
+  "incomplete": [
+    "The final, confirmed count of candidates found to have cleared the exam fraudulently (reported variously as 'over 500' or 'more than half') has not been verified against a primary SOG or court source.",
+    "The current status of any appeal against the Rajasthan High Court's order cancelling the exam has not been confirmed — some reporting referenced a stay application.",
+    "Whether the promised re-examination for the 859 posts has since been held has not been confirmed beyond a reported expectation of September 2026."
+  ],
+  "sources": [
+    {
+      "id": "src-rsi-hc-cancel",
+      "label": "Rajasthan High Court cancels 2021 police recruitment exam; politicians hail decision",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-06-01",
+      "url": "https://www.deccanherald.com/india/rajasthan/rajasthan-high-court-cancels-2021-police-recruitment-exam-politicians-hail-decision-3702034"
+    },
+    {
+      "id": "src-rsi-pso-arrest",
+      "label": "SOG Arrests Former CM Ashok Gehlot's PSO, His Son In Rajasthan Paper Leak Case",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2025-08-09",
+      "url": "https://www.etvbharat.com/en/!state/sog-arrests-former-cm-ashok-gehlot-pso-his-son-in-rajasthan-si-recruitment-paper-leak-case-enn25080903679"
+    }
+  ]
+}

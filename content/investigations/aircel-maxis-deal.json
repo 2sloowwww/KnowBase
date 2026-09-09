@@ -1,0 +1,135 @@
+{
+  "id": "KB-049",
+  "slug": "aircel-maxis-deal",
+  "title": "The Aircel-Maxis Deal",
+  "dek": "A telecom entrepreneur says he was squeezed until he sold his company to a Malaysian conglomerate. Investigators allege the telecom minister who squeezed him, and the finance minister who cleared the sale, both profited — but a special court has already let the minister walk free.",
+  "category": "Telecom & Digital",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 212,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "₹742 cr",
+    "label": "alleged bribe to the then-Telecom Minister for coercing the Aircel sale"
+  },
+  "promise": {
+    "quote": "Telecom licence transfers and Foreign Investment Promotion Board approvals will be granted on their merits, without ministerial coercion or kickbacks.",
+    "madeBy": "Ministry of Telecommunications and Ministry of Finance, Government of India",
+    "role": "Union ministries responsible for telecom licensing and FIPB approval respectively",
+    "date": "2006-01-01",
+    "context": "The case concerns the 2006 acquisition of Indian telecom operator Aircel by Malaysia-based Maxis Communications, and the FIPB approval for that acquisition granted by then-Finance Minister P. Chidambaram.",
+    "sourceIds": [
+      "src-aircelmaxis-overview"
+    ]
+  },
+  "target": {
+    "description": "A licence transfer and FIPB approval process free of ministerial coercion of the seller or kickbacks influencing the approving authority.",
+    "standard": "Telecom licensing regulations and FIPB approval norms; FIPB approvals of this kind were required to go through the Cabinet Committee on Economic Affairs, not the Finance Minister alone.",
+    "referenceDate": "2006-01-01"
+  },
+  "reality": {
+    "description": "The CBI alleges then-Telecom Minister Dayanidhi Maran received a ₹742 crore bribe for coercing entrepreneur C. Sivasankaran to sell Aircel to Maxis, by making the company's business environment untenable. Separately, the CBI and ED allege Chidambaram granted FIPB approval outside his authority, and that his son Karti received kickbacks via a ₹26 lakh payment from Aircel Televentures to an entity linked to him, within days of the approval. On 2 February 2017, a special court discharged Dayanidhi Maran, his brother Kalanithi Maran, and other co-accused in the CBI and ED cases. Chidambaram and Karti were later granted anticipatory bail.",
+    "asOfDate": "2019-09-05",
+    "sourceIds": [
+      "src-aircelmaxis-discharge",
+      "src-aircelmaxis-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged bribe to the telecom minister vs. amount established as a bribe at trial",
+    "unit": "₹ crore",
+    "targetValue": 742,
+    "actualValue": 0,
+    "targetDisplay": "₹742 cr alleged bribe",
+    "actualDisplay": "₹0 established — Maran discharged",
+    "targetLabel": "Alleged",
+    "actualLabel": "Established",
+    "note": "A special court's 2017 discharge order found the case against Maran did not warrant proceeding to trial on the available evidence — a stronger outcome for the accused than a later acquittal after trial, though this investigation has not reviewed the discharge order's full reasoning."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "label": "Aircel sold to Maxis",
+      "detail": "The acquisition and its FIPB approval are later alleged to have been procured through coercion and kickbacks.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-01-01",
+      "label": "CBI and ED open investigations",
+      "detail": "Both agencies begin probing the deal following complaints.",
+      "type": "status"
+    },
+    {
+      "date": "2017-02-02",
+      "label": "Maran brothers discharged",
+      "detail": "A special court discharges Dayanidhi Maran, Kalanithi Maran, and others in the CBI and ED cases.",
+      "type": "status"
+    },
+    {
+      "date": "2019-09-05",
+      "label": "Chidambaram and Karti granted anticipatory bail",
+      "detail": "A Delhi court grants bail in the Aircel-Maxis matter.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Maran brothers have been discharged. P. Chidambaram and Karti Chidambaram remain under investigation, out on bail, with no trial verdict reached.",
+    "keyIndividuals": [
+      {
+        "name": "Dayanidhi Maran",
+        "role": "Former Union Telecom Minister",
+        "outcome": "Discharged by a special court, 2 February 2017, in both the CBI and ED cases."
+      },
+      {
+        "name": "P. Chidambaram",
+        "role": "Former Union Finance Minister",
+        "outcome": "Named in the FIPB-approval allegations; granted anticipatory bail, September 2019. No trial verdict."
+      },
+      {
+        "name": "Karti Chidambaram",
+        "role": "Businessman; son of P. Chidambaram",
+        "outcome": "Alleged to have received kickback-linked payments; granted anticipatory bail, September 2019. No trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case shows a genuinely mixed record within a single deal: the minister accused of coercing the sale has been discharged, while the finance minister and his son accused of the separate FIPB-approval kickback remain under active, unresolved investigation. Neither strand has produced a conviction.",
+    "confidence": "medium",
+    "reasoning": "The discharge of the Maran brothers and the bail status of the Chidambarams are both documented court outcomes. Confidence is not higher because this investigation has not reviewed the underlying discharge order or the current chargesheet status of the Chidambaram-linked proceedings."
+  },
+  "incomplete": [
+    "This is a stub entry. The current status of proceedings against P. Chidambaram and Karti Chidambaram in this specific matter (as distinct from the related INX Media case covered elsewhere on this site) has not been fully traced.",
+    "The reasoning behind the Maran brothers' 2017 discharge has not been reviewed in detail here.",
+    "It is not established whether CBI or ED have appealed the discharge order."
+  ],
+  "sources": [
+    {
+      "id": "src-aircelmaxis-overview",
+      "label": "What is the Aircel-Maxis Case About? Here's a Timeline of Events",
+      "type": "independent",
+      "publisher": "The Quint",
+      "date": "2019-01-01",
+      "url": "https://www.thequint.com/news/india/aircel-maxis-case-p-chidambaram-karti"
+    },
+    {
+      "id": "src-aircelmaxis-discharge",
+      "label": "Aircel-Maxis case",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Aircel-Maxis_case"
+    },
+    {
+      "id": "src-aircelmaxis-bail",
+      "label": "Aircel-Maxis scam: Chidambaram, son granted anticipatory bail by court",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2019-09-05",
+      "url": "https://www.business-standard.com/article/pti-stories/aircel-maxis-scam-chidambaram-son-granted-anticipatory-bail-by-court-119090500728_1.html"
+    }
+  ]
+}

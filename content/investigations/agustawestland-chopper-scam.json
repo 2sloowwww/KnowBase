@@ -1,0 +1,156 @@
+{
+  "id": "KB-007",
+  "slug": "agustawestland-chopper-scam",
+  "title": "The AgustaWestland VVIP Chopper Deal",
+  "dek": "A ₹3,600 crore helicopter deal for VVIP transport was cancelled over alleged kickbacks. The alleged middleman has spent years in custody without a verdict — and is now challenging the extradition treaty that brought him to India in the first place.",
+  "category": "Defence & Security",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 103,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-02-01",
+  "heroStat": {
+    "value": "₹3,600 cr",
+    "label": "deal value; contract cancelled in 2014 over alleged kickbacks"
+  },
+  "promise": {
+    "quote": "The procurement of 12 VVIP helicopters would follow the Defence Procurement Procedure, selected on technical merit without middlemen or kickbacks.",
+    "madeBy": "Ministry of Defence, Government of India",
+    "role": "Union ministry responsible for defence procurement",
+    "date": "2010-02-01",
+    "context": "India signed a ₹3,600 crore contract with AgustaWestland (a subsidiary of Finmeccanica, now Leonardo) for 12 AW101 helicopters for VVIP transport, including for the President and Prime Minister.",
+    "sourceIds": [
+      "src-agusta-summary"
+    ]
+  },
+  "target": {
+    "description": "Procurement conducted strictly on technical and price merit under the Defence Procurement Procedure, without payments to middlemen to influence service qualification requirements or vendor selection.",
+    "standard": "India's Defence Procurement Procedure, which explicitly bars the use of agents or middlemen in defence deals.",
+    "referenceDate": "2010-02-01"
+  },
+  "reality": {
+    "description": "Italian and Indian investigators alleged that the helicopters' service ceiling requirement was lowered specifically to let AgustaWestland qualify, in exchange for kickbacks paid through middlemen including Christian Michel James. India cancelled the contract in January 2014. Michel was extradited from the UAE in December 2018 and has since been in and out of custody; the Supreme Court granted him bail in February 2025 after roughly six years in custody with the trial still not concluded. As of mid-2026, he was contesting a provision of the India–UAE extradition treaty under which he was brought to India, in addition to the underlying corruption case.",
+    "asOfDate": "2026-05-01",
+    "sourceIds": [
+      "src-agusta-bail",
+      "src-agusta-treaty"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years in custody vs. years to a verdict",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 6,
+    "targetDisplay": "0 — no verdict reached",
+    "actualDisplay": "~6 years the alleged middleman spent in custody before bail",
+    "targetLabel": "Verdict",
+    "actualLabel": "Custody",
+    "note": "This is not a financial gap but a due-process one: Christian Michel was extradited in December 2018 and, on his own bail application, had been in custody for about six years by the time the Supreme Court granted him bail in February 2025 — with the underlying trial still not concluded as of the most recent reporting reviewed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 3600,
+    "allocatedLabel": "Original contract value",
+    "released": null,
+    "releasedLabel": "Alleged kickback amount",
+    "spent": null,
+    "spentLabel": "Amount recovered",
+    "unit": "crore",
+    "notes": "Reported alleged-kickback figures for this case vary significantly across sources and were not consistently corroborated in the reporting reviewed for this investigation; rather than pick one, this investigation reports only the underlying contract value, which is well documented.",
+    "sourceIds": [
+      "src-agusta-summary"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-02-08",
+      "label": "Contract signed",
+      "detail": "India signs a ₹3,600 crore deal with AgustaWestland for 12 VVIP helicopters.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-02-01",
+      "label": "Kickback allegations surface",
+      "detail": "Italian prosecutors' investigations into Finmeccanica implicate the India deal.",
+      "type": "status"
+    },
+    {
+      "date": "2014-01-01",
+      "label": "India cancels the contract",
+      "detail": "The Ministry of Defence cancels the deal over the bribery allegations.",
+      "type": "status"
+    },
+    {
+      "date": "2018-12-04",
+      "label": "Christian Michel extradited from the UAE",
+      "detail": "Michel, an alleged middleman, is extradited to India and arrested by the CBI.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-01",
+      "label": "Supreme Court grants bail",
+      "detail": "The Court cited roughly six years in custody without a concluded trial.",
+      "type": "status"
+    },
+    {
+      "date": "2025-11-01",
+      "label": "Extradition-document pleas dismissed",
+      "detail": "A Delhi court dismissed Michel's pleas seeking release of extradition papers, calling them a delay tactic, per the investigating agency.",
+      "type": "status"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Supreme Court notice on treaty challenge",
+      "detail": "The Court issued notice on Michel's plea challenging a provision of the India–UAE extradition treaty under which he was extradited.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No verdict has been reached in the underlying corruption case. The alleged middleman is out on bail after an extended period in custody, and is separately litigating the legality of his own extradition.",
+    "keyIndividuals": [
+      {
+        "name": "Christian Michel James",
+        "role": "Alleged middleman, British national",
+        "outcome": "Extradited from the UAE, December 2018; granted bail by the Supreme Court, February 2025, after roughly six years in custody; trial ongoing; separately challenging the extradition treaty provision used to bring him to India."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The cancellation of the contract and the existence of a kickback investigation are well established. What has not been established, more than a decade after the deal was signed, is any final finding of guilt: the principal alleged middleman spent years in pre-trial custody and is now out on bail with no verdict reached, and no exact, corroborated kickback figure could be confirmed for this investigation.",
+    "confidence": "medium",
+    "reasoning": "The contract cancellation and the broad allegations are documented across multiple independent reports and confirmed by official Indian and Italian action. Confidence is not higher because the case remains untried after many years, and the specific kickback amount often cited in media reporting could not be independently corroborated for this investigation."
+  },
+  "incomplete": [
+    "No trial verdict has been reached in India; the accused is presumed innocent under Indian law pending the outcome.",
+    "This investigation could not corroborate a specific alleged-kickback rupee figure to a reliable primary source, so none is reported as fact.",
+    "The outcome of Christian Michel's challenge to the India–UAE extradition treaty provision was not resolved as of the most recent reporting reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-agusta-summary",
+      "label": "AgustaWestland VVIP chopper scam case: Court dismisses Christian Michel's extradition papers pleas",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2025-11-01",
+      "url": "https://theprint.in/judiciary/agustawestland-vvip-chopper-scam-case-court-dismisses-christian-michels-extradition-papers-pleas/2790070/"
+    },
+    {
+      "id": "src-agusta-bail",
+      "label": "SC gives bail to middleman Michel in VVIP chopper scam",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2025-02-01",
+      "url": "https://www.newsonair.gov.in/sc-gives-bail-to-middleman-michel-in-vvip-chopper-scam"
+    },
+    {
+      "id": "src-agusta-treaty",
+      "label": "AgustaWestland Case: Supreme Court Issues Notice On Christian Michel's Plea Challenging India-UAE Extradition Treaty Provision",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2026-05-01",
+      "url": "https://www.livelaw.in/top-stories/agustawestland-case-supreme-court-issues-notice-on-christian-michels-plea-challenging-india-uae-extradition-treaty-provision-532741"
+    }
+  ]
+}

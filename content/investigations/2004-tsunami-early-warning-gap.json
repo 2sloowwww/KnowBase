@@ -1,0 +1,113 @@
+{
+  "id": "KB-2702",
+  "slug": "2004-tsunami-early-warning-gap",
+  "title": "India Had No Tsunami Warning System in 2004. It Took Nearly 12,000 Deaths to Build One",
+  "dek": "When the 26 December 2004 Indian Ocean earthquake sent tsunami waves crashing into India's southeastern and Andaman coasts with no warning at all, the country had no operational tsunami detection or alert system -- despite sitting on a tsunami-prone coastline for millennia. Close to 12,000 people died on Indian shores. The government's response was to build the Indian Tsunami Early Warning System from scratch, a nearly three-year effort that is now held up internationally as a success story, though it could not undo the toll of the disaster that made it necessary.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 55,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2004-12-26",
+  "heroStat": {
+    "value": "~10,750",
+    "label": "People officially recorded as killed in India by the 26 December 2004 Indian Ocean tsunami, with thousands more missing, mostly in Tamil Nadu, Andhra Pradesh, Kerala, Puducherry and the Andaman & Nicobar Islands"
+  },
+  "promise": {
+    "quote": "Driven by this national calamity, the Government of India decided to put in place an Early Warning System for mitigation of such oceanogenic disasters.",
+    "madeBy": "Government of India, Ministry of Earth Sciences",
+    "role": "Central ministry tasked with establishing a tsunami detection and warning capability after the 2004 disaster",
+    "date": "2005-01-01",
+    "context": "Prior to 26 December 2004, India had no dedicated tsunami detection network, seismic-to-ocean alert protocol, or coastal warning dissemination system, despite historical tsunami risk in the Indian Ocean region; the 2004 disaster was the first tsunami of this scale to strike Indian shores in living memory for most coastal communities.",
+    "sourceIds": [
+      "src-tsunami-incois"
+    ]
+  },
+  "target": {
+    "description": "A functioning national tsunami early-warning system capable of detecting an undersea earthquake, modelling tsunami risk in near-real time, and issuing actionable coastal alerts before waves make landfall.",
+    "standard": "The government's own stated objective, announced in the disaster's immediate aftermath, of building a dedicated Early Warning System for oceanogenic disasters",
+    "referenceDate": "2005-01-01"
+  },
+  "reality": {
+    "description": "The Indian Tsunami Early Warning System (ITEWS) was established at the Indian National Centre for Ocean Information Services (INCOIS), an autonomous body under the Ministry of Earth Sciences, and was formally inaugurated on 15 October 2007 -- just under three years after the 2004 tsunami. ITEWS integrates real-time seismic monitoring, a network of tide gauges and deep-ocean Bottom Pressure Recorder buoys, and numerical tsunami-travel-time modelling, operating around the clock from a warning centre in Hyderabad to issue alerts across the Indian Ocean region. India's system is now regarded internationally as one of the more capable tsunami warning centres in the region and has issued advisories for numerous subsequent undersea earthquakes, several of which did not result in significant waves reaching Indian shores. No system existed to provide any warning for the December 2004 event itself, and the roughly three-year gap between the disaster and ITEWS becoming operational meant India's coastline remained without a dedicated tsunami detection capability during that period.",
+    "asOfDate": "2007-10-15",
+    "sourceIds": [
+      "src-tsunami-downtoearth",
+      "src-tsunami-wiki-iotws"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time between the 2004 tsunami disaster and India having an operational tsunami early-warning system",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 3,
+    "targetDisplay": "0 years (no warning system existed on 26 December 2004)",
+    "actualDisplay": "~2.8 years until ITEWS was inaugurated on 15 October 2007",
+    "targetLabel": "Warning capability at time of disaster",
+    "actualLabel": "Time to build warning capability",
+    "note": "This measures institutional response time, not a numerical target that was missed; there was no pre-existing deadline for the system's creation since none was planned before the disaster."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2004-12-26",
+      "label": "Indian Ocean tsunami strikes with no warning",
+      "detail": "A magnitude 9.1 undersea earthquake off Sumatra triggers a tsunami that hits India's southeastern coast and the Andaman & Nicobar Islands roughly 1-2 hours later, with no detection or alert system in place to warn coastal populations.",
+      "type": "status"
+    },
+    {
+      "date": "2005-01-01",
+      "label": "Government announces early-warning system plan",
+      "detail": "The Ministry of Earth Sciences is tasked with developing a dedicated tsunami and oceanogenic disaster early-warning system for India.",
+      "type": "announcement"
+    },
+    {
+      "date": "2007-10-15",
+      "label": "ITEWS inaugurated",
+      "detail": "The Indian Tsunami Early Warning System becomes operational at INCOIS, Hyderabad, integrating seismic, tidal and deep-ocean buoy data with tsunami-travel-time modelling.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a natural disaster and subsequent infrastructure build-out, not a legal or criminal matter. No prosecution or judicial inquiry has attached individual culpability for the absence of a warning system in 2004.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India had no tsunami warning capability on 26 December 2004 and paid for that gap with roughly 10,750 recorded deaths on its shores. The government's subsequent build-out of the Indian Tsunami Early Warning System, completed in under three years and now internationally regarded as credible, is a genuine institutional achievement -- but one built directly on the scale of the preceding disaster rather than foresight.",
+    "confidence": "high",
+    "reasoning": "The absence of a pre-2004 warning system, the death toll, and the ITEWS build timeline and inauguration date are well documented by INCOIS and independent sources. Confidence on exact death-toll figures is slightly limited by variation across sources for missing versus confirmed-dead classifications."
+  },
+  "incomplete": [
+    "Precise death toll figures for India vary slightly by source and by how 'missing' persons were later classified; this entry uses the range most commonly cited by government and international sources.",
+    "This entry does not detail the full technical architecture or budget of ITEWS, which would require a dedicated review of Ministry of Earth Sciences records.",
+    "Subsequent upgrades to ITEWS after 2007, including its extension of services to other Indian Ocean rim countries, are noted only briefly and not covered in full here."
+  ],
+  "sources": [
+    {
+      "id": "src-tsunami-incois",
+      "label": "Indian Tsunami Early Warning System",
+      "type": "primary",
+      "publisher": "ESSO-INCOIS, Ministry of Earth Sciences, Government of India",
+      "date": "2024-01-01",
+      "url": "https://tsunami.incois.gov.in/TEWS/searlywarnings.jsp"
+    },
+    {
+      "id": "src-tsunami-downtoearth",
+      "label": "Minutes that save lives: Inside India's tsunami early warning system",
+      "type": "independent",
+      "publisher": "Down To Earth",
+      "date": "2024-12-26",
+      "url": "https://www.downtoearth.org.in/natural-disasters/minutes-that-save-lives-inside-indias-tsunami-early-warning-system"
+    },
+    {
+      "id": "src-tsunami-wiki-iotws",
+      "label": "Indian Ocean Tsunami Warning System",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Indian_Ocean_Tsunami_Warning_System"
+    }
+  ]
+}

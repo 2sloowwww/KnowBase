@@ -1,0 +1,144 @@
+{
+  "id": "KB-019",
+  "slug": "sahara-sebi-case",
+  "title": "The Sahara–SEBI Case",
+  "dek": "A conglomerate raised tens of thousands of crores from small investors through bonds regulators later ruled illegal. Its chairman spent years in custody over the refund dispute and died before it was fully resolved.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 4,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-06-23",
+  "heroStat": {
+    "value": "₹25,781 cr",
+    "label": "SEBI ordered Sahara to deposit for investor refunds"
+  },
+  "promise": {
+    "quote": "Funds raised from the public through Sahara Group's optionally fully convertible debenture (OFCD) schemes will be repaid to investors as promised, and the fundraising itself complies with securities law.",
+    "madeBy": "Sahara India Pariwar, under chairman Subrata Roy",
+    "role": "Private conglomerate raising funds through two group companies via OFCD schemes",
+    "date": "2011-06-23",
+    "context": "Two Sahara group companies raised an estimated ₹24,000 crore or more from millions of small investors through OFCDs that SEBI ruled were illegal public offerings that should have been registered with it.",
+    "sourceIds": [
+      "src-sahara-wiki"
+    ]
+  },
+  "target": {
+    "description": "Fundraising conducted through properly registered, SEBI-regulated instruments, with investor funds repaid on the promised terms.",
+    "standard": "SEBI regulations on public issuance of convertible debentures, as interpreted by the Supreme Court in its 2012 ruling on this case.",
+    "referenceDate": "2011-06-23"
+  },
+  "reality": {
+    "description": "SEBI ordered the two Sahara companies to refund investors and deposit the funds with it; the Supreme Court upheld this in 2012. Sahara deposited a portion of the ordered amount but disputed having received refund claims from most investors, since it said it had already repaid many directly. Subrata Roy was arrested in 2014 after failing to appear in a related contempt proceeding and remained in custody for roughly two years before parole; further legal wrangling over the unrefunded deposit continued until Roy's death in November 2023, with over ₹25,000 crore still held by SEBI as of the most recent reporting reviewed.",
+    "asOfDate": "2023-11-01",
+    "sourceIds": [
+      "src-sahara-refund",
+      "src-sahara-death"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount SEBI ordered deposited vs. amount actually claimed and refunded to investors",
+    "unit": "₹ crore",
+    "targetValue": 25781,
+    "actualValue": 138,
+    "targetDisplay": "₹25,781 cr ordered deposited",
+    "actualDisplay": "₹138 cr actually claimed and refunded (per one reported update)",
+    "targetLabel": "Ordered",
+    "actualLabel": "Refunded",
+    "note": "The ₹138 crore refunded figure comes from a specific reported update (covering roughly 48,000 accounts) and may not reflect the single most current total; this investigation has not found a more recent, fully reconciled refund figure."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 25781,
+    "allocatedLabel": "SEBI-ordered deposit",
+    "released": 25163,
+    "releasedLabel": "Amount Sahara/SEBI reported as deposited",
+    "spent": 138,
+    "spentLabel": "Amount actually refunded to claimants",
+    "unit": "crore",
+    "notes": "Almost all of the ordered amount was eventually deposited, but only a small fraction has been claimed and refunded — Sahara's position throughout was that it had already repaid most investors directly and that few genuine claimants remained. This dispute was never fully resolved before Subrata Roy's death.",
+    "sourceIds": [
+      "src-sahara-refund"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2011-06-23",
+      "label": "SEBI orders a refund",
+      "detail": "SEBI rules the OFCD schemes illegal and orders the two Sahara companies to refund investors.",
+      "type": "status"
+    },
+    {
+      "date": "2012-08-31",
+      "label": "Supreme Court upholds SEBI's order",
+      "detail": "The Court directs Sahara to deposit the funds with SEBI for refund to investors.",
+      "type": "status"
+    },
+    {
+      "date": "2014-03-04",
+      "label": "Subrata Roy arrested",
+      "detail": "He is taken into custody after failing to appear in a related contempt proceeding.",
+      "type": "status"
+    },
+    {
+      "date": "2016-05-06",
+      "label": "Roy released on parole",
+      "detail": "After roughly two years in custody, he is released on parole on health and other grounds.",
+      "type": "status"
+    },
+    {
+      "date": "2023-11-15",
+      "label": "Subrata Roy dies",
+      "detail": "He dies in Mumbai at age 75, with the refund dispute still not fully resolved.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Subrata Roy was never criminally convicted of fraud in this matter — his custody stemmed from contempt-of-court proceedings over non-compliance with the refund order, not a fraud trial verdict. He died before the underlying dispute over unclaimed funds was resolved.",
+    "keyIndividuals": [
+      {
+        "name": "Subrata Roy",
+        "role": "Chairman, Sahara India Pariwar",
+        "outcome": "Held in custody 2014–2016 over contempt-of-court proceedings related to the refund order, not a criminal fraud conviction. Died November 2023 with the matter still unresolved."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: SEBI's finding that the fundraising was illegal, and the Supreme Court's order to refund investors, are both confirmed, final regulatory and judicial findings. What was never resolved is the underlying factual dispute over how many investors were already repaid directly versus how much money remains genuinely owed — a question that outlived Subrata Roy himself.",
+    "confidence": "medium",
+    "reasoning": "The SEBI and Supreme Court findings are a matter of public record. Confidence is not higher because this investigation has not independently verified Sahara's own claim of having repaid most investors directly, which is central to understanding why so little of the deposited amount has been claimed."
+  },
+  "incomplete": [
+    "This is a stub entry. This investigation has not verified Sahara's claim of having repaid most investors directly, which would explain the low claim rate against the deposited funds.",
+    "The final disposition of the roughly ₹25,000 crore still held by SEBI, following Roy's death, has not been confirmed as of this entry's publication.",
+    "No criminal fraud trial concluded in this matter; this investigation has not fully mapped which other proceedings (if any) against Sahara group entities remain active."
+  ],
+  "sources": [
+    {
+      "id": "src-sahara-wiki",
+      "label": "Subrata Roy",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Subrata_Roy"
+    },
+    {
+      "id": "src-sahara-refund",
+      "label": "Subrata Roy's Sahara scam: Where is Rs 25,000 crore submitted to Sebi and how to claim refund?",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2023-11-15",
+      "url": "https://www.businesstoday.in/latest/corporate/story/subrata-roys-sahara-scam-where-is-rs-25000-crore-submitted-to-sebi-and-how-to-claim-refund-405829-2023-11-15"
+    },
+    {
+      "id": "src-sahara-death",
+      "label": "Subrata Roy death: Govt looks to transfer unclaimed funds of Sahara Sebi refund account",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2023-11-20",
+      "url": "https://www.businesstoday.in/latest/economy/story/subrata-roy-death-govt-looks-to-transfer-unclaimed-funds-of-sahara-sebi-refund-account-406306-2023-11-20"
+    }
+  ]
+}

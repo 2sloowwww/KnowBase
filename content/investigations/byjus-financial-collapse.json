@@ -1,0 +1,184 @@
+{
+  "id": "KB-1007",
+  "slug": "byjus-financial-collapse",
+  "title": "Byju's: From $22 Billion Edtech Giant to Insolvency",
+  "dek": "India's most valuable startup delayed its audited results for over a year, watched its auditor and three board members quit within days of each other, and is now fighting a BCCI-triggered insolvency case, a $1.2 billion US lender dispute over 'missing' funds, and a US court judgment against its founder.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 26,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-09-01",
+  "heroStat": {
+    "value": "$1.2 bn",
+    "label": "term-loan debt owed by Byju's to US-based lenders represented by Glas Trust Company LLC, at the center of allegations that hundreds of millions of dollars were 'missing' or diverted"
+  },
+  "promise": {
+    "quote": "Think & Learn Pvt Ltd (Byju's), as India's most highly valued startup and a major ed-tech company that raised billions of dollars from global investors, was expected to maintain timely, audited financial statements, transparent governance, and to service its debt obligations to lenders and vendors including sporting sponsorships.",
+    "madeBy": "Think & Learn Pvt Ltd (Byju's) management, under founder and CEO Byju Raveendran",
+    "role": "Founder and CEO, Byju's / Think & Learn Pvt Ltd",
+    "date": "2021-01-01",
+    "context": "This reflects the general standard of financial transparency and solvency expected of a large, well-funded private company rather than a specific public quotation by Byju Raveendran.",
+    "sourceIds": [
+      "src-byjus-overview"
+    ]
+  },
+  "target": {
+    "description": "That Byju's would file timely, audited annual financial statements, maintain governance oversight through an independent board and auditor, and meet its debt and payment obligations — including a term loan to US lenders and a sponsorship agreement with the BCCI — as any large, well-capitalised private company is expected to.",
+    "standard": "Companies Act, 2013 requirements on timely audited financial statements and board governance; ordinary contractual loan and sponsorship obligations.",
+    "referenceDate": "2022-09-01"
+  },
+  "reality": {
+    "description": "Byju's FY22 audited financial results were delayed by over a year, and in June 2023 auditor Deloitte Haskins & Sells resigned, citing that the company had not provided financial statements it needed to begin the audit and that the delay would materially impair its ability to complete the work properly. Around the same time, three board members representing major investors (Peak XV Partners, Prosus, and the Chan Zuckerberg Initiative) reportedly resigned, developments Byju's initially called 'entirely speculative.' New auditor BDO (MSKA & Associates) was appointed; BDO itself later exited in 2024. Byju's had separately borrowed $1.2 billion via a term loan from US lenders represented by Glas Trust Company LLC, who allege roughly $533 million was 'missing' or improperly diverted — an allegation Byju's and its founders dispute. In parallel, the BCCI (Indian cricket board) alleged Byju's defaulted on roughly ₹158 crore in sponsorship dues, and in July 2024 the NCLT admitted a BCCI-triggered insolvency petition against Think & Learn, formally starting the Corporate Insolvency Resolution Process. Byju's promoters settled with BCCI by depositing funds in escrow, and NCLAT initially set aside the insolvency proceedings on the strength of that settlement, but the Supreme Court reinstated the insolvency process in October 2024 on Glas Trust's petition, which alleged the settlement funds were themselves tainted. In January 2025, NCLT reinstated Glas Trust and Aditya Birla Finance as recognised lenders on the Committee of Creditors and ordered disciplinary scrutiny of the interim resolution professional. As of late 2025/early 2026, the NCLT-run insolvency process for Think & Learn remained unresolved, with the BCCI settlement stalled amid creditor disputes and a broader multi-jurisdiction settlement (involving Glas Trust, Byju's founders, the Manipal group and Aakash Educational Services) reportedly under negotiation. Separately, a US bankruptcy court initially entered a roughly $1.07 billion default judgment against founder Byju Raveendran over alleged non-compliance with court orders, before reversing it in late 2025 and ordering a new damages phase to begin in January 2026.",
+    "asOfDate": "2026-01-01",
+    "sourceIds": [
+      "src-byjus-deloitte",
+      "src-byjus-sc-insolvency",
+      "src-byjus-nclt-glas",
+      "src-byjus-delaware"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount US lenders (Glas Trust) allege is missing from Byju's term loan vs. amount independently confirmed recovered or accounted for",
+    "unit": "USD million",
+    "targetValue": 533,
+    "actualValue": 0,
+    "targetDisplay": "$533 million alleged 'missing' by Glas Trust",
+    "actualDisplay": "$0 independently confirmed recovered as of this entry's sourcing",
+    "targetLabel": "Amount alleged missing/diverted",
+    "actualLabel": "Amount confirmed recovered",
+    "note": "This is a disputed allegation by one set of creditors (Glas Trust), not a court-established fact; Byju's founders have specifically denied that escrowed BCCI settlement funds were part of the 'missing' amount, and no court has yet made a final finding on where the funds are or whether they were improperly diverted."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 1200,
+    "allocatedLabel": "Term loan (Term Loan B) borrowed by Byju's from US lenders represented by Glas Trust Company LLC",
+    "released": null,
+    "spent": null,
+    "unit": "USD million",
+    "notes": "Separately, BCCI alleged approximately ₹158 crore in unpaid sponsorship dues, which triggered the NCLT insolvency admission against Think & Learn in July 2024. Figures for total group liabilities across all creditor classes have not been consolidated by this entry.",
+    "sourceIds": [
+      "src-byjus-nclt-glas"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-09-01",
+      "label": "FY22 results delayed",
+      "detail": "Byju's fails to file its FY22 audited financial statements on time, the first public sign of deepening financial and governance strain.",
+      "type": "delay"
+    },
+    {
+      "date": "2023-06-22",
+      "label": "Deloitte resigns; board members reportedly quit",
+      "detail": "Auditor Deloitte Haskins & Sells resigns as Byju's statutory auditor citing long-delayed financial statements; three board members representing major investors reportedly resign around the same time.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-07-16",
+      "label": "NCLT admits BCCI insolvency plea",
+      "detail": "NCLT Bengaluru admits a Corporate Insolvency Resolution Process petition against Think & Learn Pvt Ltd over BCCI's roughly ₹158 crore unpaid sponsorship claim.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-08-02",
+      "label": "BCCI settlement reached",
+      "detail": "Byju's promoters settle with BCCI, depositing the settlement amount in escrow; NCLAT subsequently sets aside the insolvency proceedings on this basis.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-10-23",
+      "label": "Supreme Court reinstates insolvency",
+      "detail": "The Supreme Court sets aside the NCLAT order halting insolvency proceedings, on a petition by US lender group Glas Trust, which alleges the BCCI settlement funds were themselves tainted/diverted money.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-01-29",
+      "label": "NCLT reinstates US lenders on CoC",
+      "detail": "NCLT reinstates Glas Trust and Aditya Birla Finance as recognised lenders on Byju's Committee of Creditors and orders disciplinary action against the interim resolution professional.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-12-10",
+      "label": "Delaware court reverses $1bn judgment against Raveendran",
+      "detail": "A US bankruptcy court reverses an earlier roughly $1.07 billion default judgment against founder Byju Raveendran, ordering a new damages-determination phase to begin in January 2026.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Insolvency process remains unresolved",
+      "detail": "NCLT pauses inviting buyers for Think & Learn while the BCCI settlement and broader multi-party negotiations (involving Glas Trust, the Manipal group and Aakash) remain unresolved.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This remains an active, multi-jurisdiction, unresolved matter with no criminal conviction. The corporate insolvency process for Think & Learn Pvt Ltd is ongoing before NCLT/NCLAT/the Supreme Court in India; a separate US bankruptcy-court dispute against founder Byju Raveendran (initially resulting in a ~$1.07 billion default judgment, since reversed) is proceeding toward a new damages phase. No party has been convicted of fraud; the allegations of 'missing' funds by Glas Trust are disputed by Byju's founders.",
+    "keyIndividuals": [
+      {
+        "name": "Byju Raveendran",
+        "role": "Founder and CEO, Byju's / Think & Learn Pvt Ltd",
+        "outcome": "Faced a roughly $1.07 billion default judgment in US bankruptcy court over alleged non-compliance with court orders, later reversed in December 2025 pending a new damages-determination phase beginning January 2026; denies allegations of fund diversion."
+      },
+      {
+        "name": "Riju Ravindran",
+        "role": "Co-founder, Byju's; brother of Byju Raveendran",
+        "outcome": "Represented Byju's position before NCLAT that BCCI settlement funds were 'clean' and not part of the funds Glas Trust alleges are missing; no adjudicated finding either way as of this entry's sourcing."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Byju's presents a well-documented pattern of governance breakdown — a delayed audit, an auditor's pointed resignation, reported mass board departures, and a since-admitted insolvency case — layered on top of a serious, but still disputed and unresolved, allegation from its own US lenders that hundreds of millions of dollars are unaccounted for. No court has yet made a final finding of fraud or fund diversion against Byju's founders; the matter remains genuinely open across multiple courts in India and the US.",
+    "confidence": "medium",
+    "reasoning": "The governance and insolvency-process facts (Deloitte's resignation letter, NCLT/NCLAT/Supreme Court rulings, the BCCI dispute) are well corroborated by multiple independent sources. The core 'missing funds' allegation, however, is a contested claim by one interested party (Glas Trust) that has not been independently verified by a court or auditor in the sources reviewed, so this entry treats it explicitly as an allegation."
+  },
+  "incomplete": [
+    "Whether the roughly $533 million Glas Trust alleges is 'missing' has been located, recovered, or explained has not been confirmed by any independent audit or court ruling reviewed for this entry.",
+    "The final outcome of the NCLT insolvency process for Think & Learn Pvt Ltd — resolution, further settlement, or liquidation — remains undetermined as of this entry's most recent sourcing (early 2026).",
+    "The outcome of the new US bankruptcy-court damages phase against Byju Raveendran (set to begin January 2026) had not concluded as of this entry's most recent sourcing.",
+    "This entry has not independently reviewed Byju's underlying audited financial statements, board resolutions, or court filings — all facts are drawn from secondary business-press reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-byjus-overview",
+      "label": "Byju's auditor Deloitte, board members resign",
+      "type": "independent",
+      "publisher": "TechCrunch",
+      "date": "2023-06-22",
+      "url": "https://techcrunch.com/2023/06/22/byjus-board/"
+    },
+    {
+      "id": "src-byjus-deloitte",
+      "label": "Troubles mount for Byju's as auditor Deloitte and 3 board members quit firm",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-06-22",
+      "url": "https://www.business-standard.com/companies/news/edtech-giant-byju-s-trouble-deepen-deloitte-resigns-as-statutory-auditors-123062200826_1.html"
+    },
+    {
+      "id": "src-byjus-sc-insolvency",
+      "label": "Supreme Court sets aside NCLAT order halting Byju's insolvency proceedings",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-10-23",
+      "url": "https://www.business-standard.com/finance/news/supreme-court-sets-aside-nclat-order-halting-byju-s-insolvency-proceedings-124102300959_1.html"
+    },
+    {
+      "id": "src-byjus-nclt-glas",
+      "label": "Glas Trust, Aditya Birla Finance reinstated as lenders of edtech co Byju's",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-01-29",
+      "url": "https://www.business-standard.com/amp/industry/news/glas-trust-aditya-birla-finance-reinstated-as-lenders-of-edtech-co-byju-s-125012901249_1.html"
+    },
+    {
+      "id": "src-byjus-delaware",
+      "label": "Delaware court reverses $1 billion judgment against Byju Raveendran",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-12-10",
+      "url": "https://www.business-standard.com/companies/news/byjus-founder-says-delaware-court-amends-judgment-sets-damages-phase-for-jan-2026-125121000669_1.html"
+    }
+  ]
+}

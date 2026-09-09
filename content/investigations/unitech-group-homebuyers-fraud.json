@@ -1,0 +1,188 @@
+{
+  "id": "KB-151",
+  "slug": "unitech-group-homebuyers-fraud",
+  "title": "The Unitech Group Homebuyers Fraud",
+  "dek": "Unitech collected over Rs 14,000 crore from nearly 30,000 homebuyers for flats it never finished, while a Supreme Court-ordered audit found its promoters had diverted thousands of crores abroad. The Chandra brothers spent years in jail, the government took over the company's board, and thousands of buyers are still waiting for their homes.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 18,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-04-01",
+  "heroStat": {
+    "value": "29,800",
+    "label": "homebuyers from whom Unitech had collected roughly Rs 14,270 crore, per a Supreme Court-ordered audit, for flats not delivered on time"
+  },
+  "promise": {
+    "quote": "Unitech marketed and sold flats in projects such as 'Wild Flower' and 'Anthea' in Gurugram and elsewhere, with committed possession timelines under its builder-buyer agreements.",
+    "madeBy": "Unitech Ltd. (Ramesh Chandra, founder, and sons Sanjay Chandra and Ajay Chandra, Managing Directors)",
+    "role": "One of India's largest listed real estate developers, with residential projects across Gurugram, Noida, and Greater Noida",
+    "date": "2008-01-01",
+    "context": "This reflects the general commitment in Unitech's builder-buyer agreements across projects sold mainly from the mid-2000s onward, rather than a verified quotation from a specific agreement, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-unitech-scroll"
+    ]
+  },
+  "target": {
+    "description": "That homebuyers who paid substantial sums, in some cases most of a flat's cost, would receive possession of completed flats within contractually promised timelines.",
+    "standard": "Contractual delivery timelines in builder-buyer agreements, and subsequently the Real Estate (Regulation and Development) Act, 2016 (RERA).",
+    "referenceDate": "2016-05-01"
+  },
+  "reality": {
+    "description": "In April 2017, Delhi Police's Economic Offences Wing arrested Unitech Managing Directors Sanjay Chandra and Ajay Chandra on homebuyers' complaints of fraud over the 'Wild Flower' and 'Anthea' projects in Gurugram. A Supreme Court-ordered forensic audit subsequently found the company had collected roughly Rs 14,270 crore from about 29,800 homebuyers, and that the Chandra brothers had diverted large sums — reported at different points as Rs 1,749 crore moved abroad and further amounts routed through entities in Cyprus and the Cayman Islands — rather than using the funds to complete construction. The Enforcement Directorate separately found homebuyers' funds diverted to entities including a south Goa resort project and CIG Realty Fund, and the CBI filed a case alleging the Chandra family defrauded Canara Bank of Rs 198 crore. In January 2020, the Supreme Court approved a government takeover of Unitech's board, installing an independent management to oversee stalled projects. The Chandra brothers were held for years in Tihar Jail — during which the ED alleged homebuyers' money was used to bribe jail officials, prompting the Supreme Court to order their transfer to Mumbai prisons in 2021 — before being granted bail. As of mid-2025, roughly 15,000 residential units across about 10 projects in Noida and Greater Noida remained undelivered, the Supreme Court had exempted various stalled projects from mandatory RERA registration to unlock funding, and a large funding gap persisted (against a demand of Rs 613.20 crore from homebuyers, only about Rs 392.45 crore had been received as of 31 May 2025).",
+    "asOfDate": "2025-05-31",
+    "sourceIds": [
+      "src-unitech-audit",
+      "src-unitech-2025-status",
+      "src-unitech-tihar"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Homebuyers' money collected vs. amount actually available/received toward completing projects",
+    "unit": "INR crore",
+    "targetValue": 14270,
+    "actualValue": 392,
+    "targetDisplay": "₹14,270 cr collected from ~29,800 buyers",
+    "actualDisplay": "₹392.45 cr received against a ₹613.20 cr demand (as of May 2025)",
+    "targetLabel": "Total historically collected",
+    "actualLabel": "Recent funding shortfall under new management",
+    "note": "These two figures are from different points in time and different scopes (total historical collection vs. a specific 2025 demand-vs-receipt snapshot under the government-appointed board) and are not directly comparable on an apples-to-apples basis; they are presented together to illustrate the scale of the original fraud against the continuing funding gap."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 14270,
+    "allocatedLabel": "Total collected from ~29,800 homebuyers, per Supreme Court-ordered audit",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Separately, forensic findings reported that the Chandra brothers diverted approximately Rs 1,749 crore abroad, with additional amounts (reported at over Rs 2,000 crore in some accounts) alleged to have moved through Cyprus- and Cayman Islands-linked structures; the Enforcement Directorate also found smaller diversions such as Rs 244 crore to CIG Realty Fund and Rs 60.25 crore to a south Goa resort project. These figures come from different audits/investigations and have not been reconciled into a single total.",
+    "sourceIds": [
+      "src-unitech-audit",
+      "src-unitech-pgurus"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Unitech markets 'Wild Flower' and 'Anthea' projects",
+      "detail": "Flats sold in Gurugram projects with promised possession timelines.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-04-01",
+      "label": "Chandra brothers arrested",
+      "detail": "Delhi Police's Economic Offences Wing arrests Sanjay and Ajay Chandra on homebuyers' fraud complaints related to the Wild Flower and Anthea projects.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "Supreme Court orders forensic audit",
+      "detail": "Audit later finds Rs 14,270 crore collected from ~29,800 buyers and Rs 1,749 crore diverted abroad.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-01-20",
+      "label": "Supreme Court approves government takeover",
+      "detail": "A government-appointed independent board, chaired by a former IAS officer, takes charge of Unitech's management to protect homebuyers.",
+      "type": "status"
+    },
+    {
+      "date": "2021-08-27",
+      "label": "SC orders Chandras moved out of Tihar Jail",
+      "detail": "Following ED allegations that homebuyers' funds were used to bribe Tihar officials, the Supreme Court orders the brothers shifted to Mumbai prisons.",
+      "type": "delay"
+    },
+    {
+      "date": "2023-02-01",
+      "label": "Former promoters seek bail hearing",
+      "detail": "Sanjay and Ajay Chandra approach the Supreme Court seeking a hearing on long-pending bail pleas in the financial fraud case.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-16",
+      "label": "SC exempts stalled projects from RERA registration",
+      "detail": "The Supreme Court exempts various stalled Unitech projects from mandatory RERA registration to help unlock funding for completion.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-05-31",
+      "label": "Large funding gap persists under new management",
+      "detail": "Against a demand of Rs 613.20 crore from homebuyers, only about Rs 392.45 crore had been received, per company/board disclosures.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sanjay and Ajay Chandra were arrested in April 2017 and spent years in custody across the homebuyers'-fraud case, a CBI case alleging bank fraud against Canara Bank, and an Enforcement Directorate money-laundering case. Both brothers have since been granted bail; as of this entry's research, no final conviction has been reported and the underlying criminal and ED cases remain under trial. The Supreme Court's civil proceedings resulted in a government takeover of Unitech's board to protect homebuyers, which remains in place.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjay Chandra",
+        "role": "Managing Director, Unitech Ltd.",
+        "outcome": "Arrested April 2017; held in Tihar and later Mumbai jails; case under trial. Not convicted as of this entry's research."
+      },
+      {
+        "name": "Ajay Chandra",
+        "role": "Managing Director, Unitech Ltd.",
+        "outcome": "Arrested April 2017; held in Tihar and later Mumbai jails; case under trial. Not convicted as of this entry's research."
+      },
+      {
+        "name": "Ramesh Chandra",
+        "role": "Founder, Unitech Ltd.",
+        "outcome": "Named in a CBI case alleging fraud against Canara Bank; case under trial as of this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Multiple independent investigative arms of the Indian state — Delhi Police's EOW, a Supreme Court-ordered forensic audit, the CBI, and the ED — have each separately documented large-scale diversion of homebuyers' money by Unitech's promoters, and the Supreme Court took the unusual step of approving a full government takeover of the company's board. That is strong institutional confirmation of wrongdoing at the civil/regulatory level. However, the criminal cases against the Chandra family remain under trial years later, so individual criminal guilt has not been finally adjudicated by a court.",
+    "confidence": "high",
+    "reasoning": "Core facts are corroborated across multiple independent outlets and the fact of a Supreme Court-ordered government takeover, which is a strong public institutional record. Exact figures for the amount diverted vary across different investigative sources (EOW, ED, CBI) and have not been reconciled here."
+  },
+  "incomplete": [
+    "The precise, reconciled total figure for money diverted (as opposed to money simply collected from buyers) varies across sources — from roughly Rs 1,749 crore reported abroad to figures exceeding Rs 2,000 crore including Cyprus/Cayman Islands routing — and has not been settled in one authoritative document reviewed for this entry.",
+    "The current status (as of this entry's research) of the CBI's Canara Bank fraud case and the ED money-laundering case against the Chandra family was not fully confirmed, including whether any trial dates have been set.",
+    "The exact number of homebuyers still awaiting possession as of the most recent update, versus the ~29,800 originally cited by the Supreme Court-ordered audit, has not been independently reconciled."
+  ],
+  "sources": [
+    {
+      "id": "src-unitech-scroll",
+      "label": "CBI files case Unitech's Sanjay Chandra, others for allegedly defrauding Canara Bank of Rs 198 crore",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2019-01-01",
+      "url": "https://scroll.in/latest/980486/cbi-files-case-against-unitech-founder-his-two-sons-for-allegedly-defrauding-canara-bank"
+    },
+    {
+      "id": "src-unitech-audit",
+      "label": "Unitech's Chandras in cop net for fraud case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-04-01",
+      "url": "https://www.business-standard.com/article/companies/unitech-s-chandras-in-cop-net-for-fraud-case-117040100781_1.html"
+    },
+    {
+      "id": "src-unitech-2025-status",
+      "label": "SC directs Noida, G Noida agencies to sanction revised plans by Unitech",
+      "type": "independent",
+      "publisher": "Hindustan Times",
+      "date": "2024-04-27",
+      "url": "https://www.pressreader.com/india/hindustan-times-st-noida/20240427/281711209714399"
+    },
+    {
+      "id": "src-unitech-tihar",
+      "label": "SC orders shifting ex-Unitech bosses Sanjay, Ajay Chandra from Tihar jail to Mumbai prisons",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2021-08-27",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fsc-orders-shifting-ex-unitech-bosses-sanjay-ajay-chandra-from-tihar-jail-to-mumbai-prisons-1023750.html"
+    },
+    {
+      "id": "src-unitech-pgurus",
+      "label": "ED arrests Unitech promoters Sanjay & Ajay Chandra in money laundering of more than Rs. 2000 crore thru Cyprus & Cayman Islands",
+      "type": "independent",
+      "publisher": "PGurus",
+      "date": "2020-01-01",
+      "url": "https://www.pgurus.com/ed-arrests-unitech-promoters-sanjay-ajay-chandra-in-money-laundering-of-more-than-rs-2000-crore-thru-cyprus-cayman-islands/"
+    }
+  ]
+}

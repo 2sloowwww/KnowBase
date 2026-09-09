@@ -1,0 +1,182 @@
+{
+  "id": "KB-404",
+  "slug": "karnataka-40-percent-commission-allegations",
+  "title": "Karnataka's '40% Commission' Allegations",
+  "dek": "A contractors' body accused the Basavaraj Bommai-led BJP government of demanding up to 40% commission on public works contracts, fuelling a 'PayCM' campaign that became a defining 2023 election issue. A retired judge's inquiry later found no evidence of a systemic 40% structure, while naming a few individuals — and the same contractors' association has since made near-identical allegations against the Congress government that replaced it.",
+  "category": "Public Spending",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 139,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-07-06",
+  "heroStat": {
+    "value": "20,000 pages",
+    "label": "length of the Justice H.N. Nagamohan Das commission's inquiry report into the '40% commission' allegations"
+  },
+  "promise": {
+    "quote": "Local registered contractors in Karnataka have to pay 25-30% [of contract value] to elected representatives and others; after completion of works, there is harassment to pay 5-6% towards release of payment.",
+    "madeBy": "Karnataka State Contractors' Association, led by its then vice-president D. Kempanna and office-bearer Ambikapathy",
+    "role": "Trade body representing government works contractors, in a July 2021 letter to the Prime Minister's Office",
+    "date": "2021-07-06",
+    "context": "This is the contractors' association's own allegation, not a government commitment — it is the founding claim of the entire controversy, later summarised in public debate as a demand for '40% commission,' and the Bommai and Siddaramaiah governments have each denied it applies to them.",
+    "sourceIds": [
+      "src-k40-thenewsminute",
+      "src-k40-background"
+    ]
+  },
+  "target": {
+    "description": "Public works contracts awarded and paid out strictly on merit and completed work, without any percentage-based kickback demanded by officials, legislators or ministers at any stage of a contract's life cycle.",
+    "standard": "Standard public procurement integrity norms applicable to state Public Works Department (PWD) contracts.",
+    "referenceDate": "2021-07-06"
+  },
+  "reality": {
+    "description": "The Karnataka State Contractors' Association's 2021 letter to the PMO triggered a sustained political controversy: in 2022, a Koppal contractor, Santosh Patil, alleged extortion by a minister's aide before dying, which the opposition called a suicide linked to commission demands; the Congress party ran a high-profile 'PayCM' poster campaign against the Bommai government ahead of the 2023 election, which Congress won. The BJP has repeatedly said the Lokayukta cleared the Bommai government of the allegation. After coming to power, the Congress government appointed retired Karnataka High Court judge Justice H.N. Nagamohan Das to head a commission of inquiry covering works executed between July 2019 and March 2023 (the BJP's tenure). The commission submitted a roughly 20,000-page report in March 2025 which, according to reporting on it, found no clear evidence of a systemic '40%' commission structure but did name two former BJP MLAs and a senior PWD engineer over individual allegations. The state government subsequently formed a Special Investigation Team and a separate committee under retired IAS officer Sudhir Krishna to study the report further. The BJP has dismissed the report as 'political.' Separately, the Contractors' Association itself later said the same commission-demanding culture continues under the Congress government, extending the allegation to both major parties rather than resolving it.",
+    "asOfDate": "2025-03-12",
+    "sourceIds": [
+      "src-k40-report-noevidence",
+      "src-k40-committee-submits",
+      "src-k40-sit",
+      "src-k40-congress-culture"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Commission rate alleged by the Contractors' Association vs. systemic commission structure the Nagamohan Das inquiry found evidence for",
+    "unit": "percent",
+    "targetValue": 40,
+    "actualValue": 0,
+    "targetDisplay": "40% alleged",
+    "actualDisplay": "No systemic structure found",
+    "targetLabel": "Alleged commission rate",
+    "actualLabel": "Systemic evidence found by inquiry",
+    "note": "The Nagamohan Das commission's report, as reported, found no clear evidence of a uniform, systemic 40% commission structure across government contracts, while still naming specific individuals over individual allegations. This does not amount to a full exoneration or a full confirmation — both governments involved have disputed different parts of the finding, and this remains a politically contested matter."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-07-06",
+      "label": "Contractors' Association writes to the PMO",
+      "detail": "The Karnataka State Contractors' Association alleges that officials and elected representatives demand 25-30% commission on contract value, plus 5-6% to release final payments.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-04-12",
+      "label": "Koppal contractor dies amid extortion allegation",
+      "detail": "Contractor Santosh Patil dies in Udupi; opposition parties allege it followed extortion demands by an aide of a state minister, intensifying the commission controversy.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-01",
+      "label": "Congress launches 'PayCM' campaign",
+      "detail": "The Congress party runs a poster and social-media campaign against Chief Minister Basavaraj Bommai using the '40% commission' allegation ahead of the 2023 state election.",
+      "type": "status"
+    },
+    {
+      "date": "2023-05-01",
+      "label": "Congress wins Karnataka election",
+      "detail": "The Congress party, which had made the '40% commission' allegation a central campaign theme, wins the Karnataka assembly election and forms the government under Siddaramaiah.",
+      "type": "status"
+    },
+    {
+      "date": "2023-08-01",
+      "label": "Government orders judicial inquiry",
+      "detail": "The new Congress government orders a judicial probe into the '40% commission' allegations against the preceding BJP government, to be headed by retired Justice H.N. Nagamohan Das.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-03-12",
+      "label": "Nagamohan Das commission submits report",
+      "detail": "The commission submits a roughly 20,000-page report on the contractors' association's allegations and a separate report on the Narayanapura Canal modernisation works to the state government.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-03-14",
+      "label": "Report reportedly finds no systemic evidence, but names individuals",
+      "detail": "News coverage of the report says it found no clear evidence of a systemic 40% commission structure, while naming two former BJP MLAs and a senior PWD engineer over specific allegations.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-01",
+      "label": "State forms SIT and review committee",
+      "detail": "The Karnataka cabinet decides to form a Special Investigation Team and appoints retired IAS officer Sudhir Krishna to head a committee studying the commission's report further.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal chargesheet, arrest or court conviction stemming directly from the '40% commission' allegations has been confirmed as of publication. The matter has proceeded via an executive commission of inquiry rather than a criminal investigation; that commission's report has been submitted but its findings remain under review by a state SIT and a separate government-appointed committee, and no final government or judicial determination has been reached.",
+    "keyIndividuals": [
+      {
+        "name": "Basavaraj Bommai",
+        "role": "Chief Minister of Karnataka, 2021-2023 (BJP)",
+        "outcome": "Government was the subject of the original allegation; the BJP says the Lokayukta and the Nagamohan Das commission both failed to establish systemic wrongdoing; no charges filed against Bommai personally."
+      },
+      {
+        "name": "D. Kempanna / Ambikapathy",
+        "role": "Office-bearers, Karnataka State Contractors' Association, who made the original allegations",
+        "outcome": "The Nagamohan Das commission reportedly found no supporting documentation for some of Ambikapathy's specific claims regarding contract work; the Association has stood by its broader allegation and extended it to the successor Congress government."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a live political and administrative controversy, not a resolved criminal case, and this site treats it accordingly: it reports the contractors' association's allegation, the Bommai government's denial and Lokayukta-clearance claim, and the Nagamohan Das commission's mixed finding (no systemic structure established, but specific individuals named) with equal weight, rather than treating any single side's account as settled fact. The Contractors' Association's own later statement that the same commission culture persists under the Congress government underscores that this remains an open, cross-partisan allegation rather than a closed matter.",
+    "confidence": "low",
+    "reasoning": "This entry relies on secondary news coverage summarising the Nagamohan Das commission's findings rather than the report itself, which does not appear to be fully public. The SIT's and the Sudhir Krishna committee's further findings, and any resulting action, were not located as of this research and may have developed further since."
+  },
+  "incomplete": [
+    "The full text of the Justice Nagamohan Das commission's report has not been reviewed; this entry relies on news summaries of its conclusions.",
+    "The outcome of the Special Investigation Team's further inquiry, and of the Sudhir Krishna committee's review of the commission report, has not been confirmed as of publication.",
+    "It is unclear whether the two former BJP MLAs and the PWD engineer named in the report have faced any formal charges, disciplinary action, or further investigation as a result.",
+    "The current status (as of 2026) of the Contractors' Association's allegation that the same commission culture continues under the Congress government has not been independently verified beyond initial reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-k40-thenewsminute",
+      "label": "Voted BJP for change, now we pay 40% cut as bribe: Karnataka contractors are upset",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2021-07-01",
+      "url": "https://www.thenewsminute.com/karnataka/voted-bjp-change-now-we-pay-40-cut-bribe-karnataka-contractors-are-upset-162493"
+    },
+    {
+      "id": "src-k40-background",
+      "label": "After bitcoin scandal, Bommai govt faces heat over '40% commission' claim by govt contractors",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2022-01-01",
+      "url": "https://theprint.in/india/after-bitcoin-scandal-bommai-govt-faces-heat-over-40-commission-claim-by-govt-contractors/772378/"
+    },
+    {
+      "id": "src-k40-report-noevidence",
+      "label": "40 percent commission? 'No clear evidence', says report but names ex-BJP MLAs",
+      "type": "independent",
+      "publisher": "The South First",
+      "date": "2025-03-14",
+      "url": "https://thesouthfirst.com/karnataka/40-percent-commission-no-clear-evidence-says-report-but-names-ex-bjp-mlas/"
+    },
+    {
+      "id": "src-k40-committee-submits",
+      "label": "Committee probing allegation of 40 pc commission by previous Karnataka govt submits report to CM Siddaramaiah",
+      "type": "independent",
+      "publisher": "ANI",
+      "date": "2025-03-12",
+      "url": "https://www.aninews.in/news/national/general-news/committee-probing-allegation-of-40-pc-commission-by-previous-karnataka-govt-submits-report-to-cm-siddaramaiah20250312223433/"
+    },
+    {
+      "id": "src-k40-sit",
+      "label": "Now, a SIT to dig more on Nagamohan Das Report on 40pc commission charge against previous BJP rule in Karnataka",
+      "type": "independent",
+      "publisher": "Deccan Chronicle",
+      "date": "2025-03-15",
+      "url": "https://www.deccanchronicle.com/southern-states/karnataka/now-a-sit-to-dig-more-on-nagamohan-das-report-on-40pc-commission-charge-against-previous-bjp-rule-in-karnataka-1872333"
+    },
+    {
+      "id": "src-k40-congress-culture",
+      "label": "40% commission culture continuing even under Congress regime: Karnataka State Contractors' Association",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-01-01",
+      "url": "https://www.deccanherald.com/india/karnataka/40-commission-culture-continuing-even-under-congress-regime-karnataka-state-contractors-association-2887136"
+    }
+  ]
+}

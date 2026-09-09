@@ -1,0 +1,113 @@
+{
+  "id": "KB-2501",
+  "slug": "1971-war-bangladesh-liberation",
+  "title": "The 1971 War: A Decisive Indian Victory, Built on an Under-Resourced Refugee Crisis Delhi Struggled to Manage",
+  "dek": "India's 13-day war with Pakistan in December 1971 ended in one of the most one-sided military outcomes of the 20th century -- the surrender of roughly 93,000 Pakistani troops and the creation of Bangladesh. But the war grew out of a refugee and humanitarian crisis that India's government had spent months warning the world about and struggling to manage, exposing gaps between diplomatic assurances of international support and the burden India actually carried alone before the fighting began.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 35,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1971-12-16",
+  "heroStat": {
+    "value": "~93,000",
+    "label": "Pakistani military personnel who surrendered to Indian and Bangladeshi joint forces on 16 December 1971 -- the largest military surrender since the Second World War"
+  },
+  "promise": {
+    "quote": "India sought international support and intervention to address the humanitarian crisis caused by millions of refugees fleeing the Pakistani military crackdown in East Pakistan, warning the world community for months before war broke out that the burden could not be sustained by India alone.",
+    "madeBy": "Government of India under Prime Minister Indira Gandhi",
+    "role": "Prime Minister, appealing internationally through 1971 for support in managing the refugee crisis from East Pakistan",
+    "date": "1971-03-01",
+    "context": "Following the Pakistani military's crackdown on the Bengali population of East Pakistan from March 1971, an estimated ten million refugees fled into India; the Indian government repeatedly appealed to the international community for material and diplomatic support to manage the crisis and pressure Pakistan, prior to full-scale war breaking out in December 1971.",
+    "sourceIds": [
+      "src-1971-wiki-liberation"
+    ]
+  },
+  "target": {
+    "description": "International recognition of and response to the humanitarian crisis in East Pakistan, and a resolution short of full-scale war between India and Pakistan.",
+    "standard": "India's own stated diplomatic objective through 1971 of avoiding war while securing support for refugee relief and political resolution in East Pakistan",
+    "referenceDate": "1971-03-01"
+  },
+  "reality": {
+    "description": "International response to India's appeals through 1971 was limited, and full-scale war broke out on 3 December 1971 after Pakistan launched pre-emptive air strikes on Indian airbases. The Indian Army, in coordination with the Mukti Bahini (Bangladeshi liberation forces), fought a 13-day campaign that ended with the surrender of Pakistani forces in Dhaka on 16 December 1971, when Lieutenant General A.A.K. Niazi signed the Instrument of Surrender before Indian Lieutenant General Jagjit Singh Aurora. Approximately 93,000 Pakistani soldiers became prisoners of war. East Pakistan became the independent state of Bangladesh. The war is widely regarded as a decisive Indian military and strategic victory that reshaped the subcontinent, though it followed a year in which India bore the refugee and economic burden of the crisis largely on its own before the international dimension shifted decisively once war began.",
+    "asOfDate": "1971-12-16",
+    "sourceIds": [
+      "src-1971-wiki-surrender",
+      "src-1971-businessstandard"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Refugees India stated it was hosting from East Pakistan versus the scale of international material support received before war broke out",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Sustained international humanitarian and diplomatic support for refugee relief, as sought by India through 1971",
+    "actualDisplay": "Limited international response prior to the outbreak of full-scale war in December 1971",
+    "targetLabel": "Sought international support",
+    "actualLabel": "Support received before war",
+    "note": "This reflects a qualitative diplomatic gap rather than a single audited figure; refugee numbers cited by the Indian government at the time (widely put at around ten million) have not been independently re-verified in this entry."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1971-03-01",
+      "label": "Refugee crisis begins",
+      "detail": "Following Pakistan's military crackdown in East Pakistan, refugees begin fleeing into India in large numbers; India appeals internationally for support.",
+      "type": "announcement"
+    },
+    {
+      "date": "1971-12-03",
+      "label": "Pakistan launches pre-emptive air strikes",
+      "detail": "Pakistan attacks Indian airbases, formally starting the India-Pakistan war of 1971.",
+      "type": "status"
+    },
+    {
+      "date": "1971-12-16",
+      "label": "Pakistani forces surrender in Dhaka",
+      "detail": "Lieutenant General A.A.K. Niazi signs the Instrument of Surrender, ending the war and leading to the creation of Bangladesh.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a war and its diplomatic build-up, not a legal or criminal matter for India. Separate international legal and historical questions about accountability for atrocities committed in East Pakistan in 1971 have been pursued through Bangladesh's own International Crimes Tribunal in subsequent decades, which is outside the scope of this India-focused entry.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's 1971 military campaign achieved a decisive and well-documented victory, resulting in Bangladesh's independence and one of the largest troop surrenders in modern military history -- but that outcome followed months in which India's diplomatic appeals for international support with the refugee crisis went largely unanswered, leaving India to manage the burden mostly alone until war began.",
+    "confidence": "high",
+    "reasoning": "The war's military course and outcome (surrender terms, POW numbers, creation of Bangladesh) are extensively documented and undisputed. Confidence on the diplomatic dimension is more limited because this entry has not independently reviewed the full diplomatic record of which countries offered what support and when."
+  },
+  "incomplete": [
+    "This entry does not adjudicate the extensive separate historical and legal record on atrocities committed during the 1971 Bangladesh Liberation War, which has been the subject of Bangladesh's International Crimes Tribunal.",
+    "Precise refugee numbers and the scale of international aid actually delivered before December 1971 have not been independently compiled here.",
+    "The role of other major powers (the United States, Soviet Union, China) in the lead-up to and conduct of the war is not covered in depth in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-1971-wiki-liberation",
+      "label": "Bangladesh Liberation War",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War"
+    },
+    {
+      "id": "src-1971-wiki-surrender",
+      "label": "Pakistani Instrument of Surrender",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Pakistani_Instrument_of_Surrender"
+    },
+    {
+      "id": "src-1971-businessstandard",
+      "label": "Vijay Diwas: How India ended Pak's atrocities and ensured freed Bangladesh",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2018-12-16",
+      "url": "https://www.business-standard.com/article/current-affairs/vijay-diwas-how-india-ended-pak-s-atrocities-and-ensured-freed-bangladesh-118121600120_1.html"
+    }
+  ]
+}

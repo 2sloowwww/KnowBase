@@ -1,0 +1,125 @@
+{
+  "id": "KB-3038",
+  "slug": "pegasus-spyware-snooping-case",
+  "title": "The Pegasus Project: India's Own Supreme Court Never Got to Say Who Was Spying on Journalists and Opposition Leaders",
+  "dek": "A global media investigation found the phones of Indian journalists, opposition politicians and activists on a list of numbers linked to NSO Group's Pegasus spyware. India's Supreme Court appointed a technical committee that found malware on several phones -- then kept its own findings sealed even from the petitioners who brought the case.",
+  "category": "Telecom & Digital",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 907,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2021-07-18",
+  "heroStat": {
+    "value": "5 of 29",
+    "label": "phones examined by the Supreme Court's own technical committee in which malware was found -- though the committee could not confirm it was Pegasus"
+  },
+  "promise": {
+    "quote": "No unauthorised or extra-legal surveillance of Indian citizens, including journalists, opposition politicians and civil society figures, would be conducted using commercial spyware such as Pegasus, and any lawful interception would follow due process under Indian telecom and IT law.",
+    "madeBy": "Government of India, in response to Parliamentary and public questions about the Pegasus Project revelations",
+    "role": "Union Government, whose agencies would be the only lawful domestic purchasers of NSO Group's government-only spyware product",
+    "date": "2021-07-19",
+    "context": "The Pegasus Project, a July 2021 investigation by a consortium of 17 media outlets working with Amnesty International's Security Lab, examined a leaked list of over 50,000 phone numbers globally that had reportedly been selected as potential surveillance targets by clients of NSO Group, an Israeli firm that sells Pegasus spyware exclusively to government agencies.",
+    "sourceIds": [
+      "src-pegasus-washpost"
+    ]
+  },
+  "target": {
+    "description": "No use of Pegasus or comparable spyware against journalists, opposition politicians, election officials or civil society figures outside lawful, judicially or executively authorised interception procedures.",
+    "standard": "Indian Telegraph Act and Information Technology Act interception rules, which require case-by-case authorisation for lawful interception",
+    "referenceDate": "2021-07-18"
+  },
+  "reality": {
+    "description": "The Pegasus Project reported that over 300 phone numbers in India appeared on the leaked list of potential surveillance targets, including at least 40 journalists, Congress leader Rahul Gandhi, former Election Commissioner Ashok Lavasa, and various activists and opposition figures. Forensic analysis confirmed Pegasus infection on the phones of some individuals, including The Wire's co-founders Siddharth Varadarajan and M.K. Venu. The Indian government neither confirmed nor denied using Pegasus, citing national security. Petitions seeking an independent probe reached the Supreme Court, which in October 2021 appointed a technical committee, overseen by retired Justice R.V. Raveendran, to examine the allegations after the government declined to file a detailed affidavit. The committee submitted its report to the Court in July/August 2022, finding malware on five of 29 examined phones but stating it could not conclusively confirm the malware was Pegasus specifically, and noting the government had not cooperated with the committee's inquiries. The Court kept the report under seal. As of an April 2025 hearing, a Supreme Court bench declined to make the report public, and in a further hearing in 2025 the Court described government spyware use against adverse elements abstractly as not inherently wrongful, while the underlying question of who specifically was targeted and by whom has not been publicly resolved by any court or independent body.",
+    "asOfDate": "2025-04-29",
+    "sourceIds": [
+      "src-pegasus-scobserver",
+      "src-pegasus-tribune"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Phone numbers reported as potential targets versus those with a publicly confirmed, attributed outcome",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Full public disclosure of who authorised any surveillance and against whom",
+    "actualDisplay": "Supreme Court's own technical committee report has been kept sealed since 2022; no public attribution of who deployed the spyware has been made",
+    "targetLabel": "Expected transparency",
+    "actualLabel": "Actual disclosure achieved",
+    "note": "Even India's own Supreme Court, which took up the matter as a constitutional privacy and surveillance-oversight case, has not made its committee's findings public four years after the original revelations."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-07-18",
+      "label": "Pegasus Project revelations published",
+      "detail": "A consortium of 17 media outlets, working with Amnesty International's Security Lab, reports that phone numbers of Indian journalists, opposition politicians and activists appear on a leaked list of NSO Group Pegasus surveillance targets.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-08-05",
+      "label": "Parliament uproar; government declines to confirm or deny",
+      "detail": "The government neither confirms nor denies using Pegasus, citing national security, as opposition parties demand an investigation in Parliament.",
+      "type": "status"
+    },
+    {
+      "date": "2021-10-27",
+      "label": "Supreme Court appoints technical committee",
+      "detail": "The Supreme Court appoints a technical committee, supervised by retired Justice R.V. Raveendran, to examine the Pegasus allegations after the government declines to file a detailed affidavit.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-07-29",
+      "label": "Technical committee submits report",
+      "detail": "The committee submits its findings to the Supreme Court, reportedly finding malware on 5 of 29 examined phones but unable to conclusively confirm it as Pegasus, and noting a lack of government cooperation.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-29",
+      "label": "Supreme Court declines to make report public",
+      "detail": "A Supreme Court bench rules against public disclosure of the technical committee's report, citing national security and sovereignty concerns.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No individual or agency has been criminally charged, and no court has issued a public finding attributing specific Pegasus deployments in India to any named person or authority. The Supreme Court's own technical committee found malware on several examined phones but could not conclusively confirm it as Pegasus, and its full report remains sealed, with the government's cooperation with the inquiry described by the committee as inadequate.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "That numerous Indian journalists, opposition politicians and activists appeared on a leaked list of Pegasus targets, and that forensic analysis confirmed infection on at least some of their phones, is independently documented and not seriously disputed. What remains genuinely contested and unresolved is who authorised the surveillance -- the government has never confirmed or denied using the spyware, and the Supreme Court's own inquiry into the matter remains sealed years later.",
+    "confidence": "medium",
+    "reasoning": "The Pegasus Project's core findings on targeting and forensic infection are corroborated by an international media-and-Amnesty investigation and independently reported. Confidence is not 'high' on the overall accountability question because the central fact in dispute -- who deployed the spyware -- has never been publicly and authoritatively resolved by any court or government body, including India's own Supreme Court."
+  },
+  "incomplete": [
+    "The Supreme Court-appointed technical committee's full report has never been made public; only summarised excerpts have been reported.",
+    "The government of India has never confirmed or denied procuring or using Pegasus spyware, so attribution of responsibility for any specific surveillance remains unresolved.",
+    "It is genuinely disputed, and not settled by any public finding, whether appearance on the leaked target list means a phone was actually surveilled versus merely selected as a potential target."
+  ],
+  "sources": [
+    {
+      "id": "src-pegasus-washpost",
+      "label": "NSO Group's Pegasus spyware used in India to hack into phones of journalists and others",
+      "type": "independent",
+      "publisher": "The Washington Post",
+      "date": "2021-07-19",
+      "url": "https://www.washingtonpost.com/world/2021/07/19/india-nso-pegasus/"
+    },
+    {
+      "id": "src-pegasus-scobserver",
+      "label": "Pegasus Spyware Probe",
+      "type": "independent",
+      "publisher": "Supreme Court Observer",
+      "date": "2025-01-01",
+      "url": "https://www.scobserver.in/cases/manohar-lal-sharma-v-union-of-india-pegasus-spyware-probe-case-background/"
+    },
+    {
+      "id": "src-pegasus-tribune",
+      "label": "Won't disclose report that touches country's security, sovereignty: SC on Pegasus row",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2025-04-29",
+      "url": "https://www.tribuneindia.com/news/india/pegasus-row-nothing-wrong-in-using-spyware-against-adverse-elements-says-sc/"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "KB-032",
+  "slug": "mahadev-betting-app-scam",
+  "title": "The Mahadev Betting App Scam",
+  "dek": "An illegal online betting platform allegedly built a ₹6,000 crore empire with political protection in Chhattisgarh. Its promoter is now the subject of an Interpol Red Notice, detained abroad as India seeks his extradition.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 3,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-01-01",
+  "heroStat": {
+    "value": "₹6,000 cr",
+    "label": "alleged scale of the betting syndicate's finances"
+  },
+  "promise": {
+    "quote": "Online betting and gambling operations will not be permitted to operate in India, and state officials will not provide protection to illegal betting syndicates in exchange for payment.",
+    "madeBy": "Government of Chhattisgarh and Indian law enforcement generally",
+    "role": "State and central authorities responsible for enforcing gambling and money-laundering law",
+    "date": "2022-01-01",
+    "context": "The Mahadev Online Book platform, promoted by Saurabh Chandrakar and associates, allegedly ran illegal betting operations through domain names including Tiger Exchange, Gold365, and Laser247, while allegedly paying protection money to police and political figures.",
+    "sourceIds": [
+      "src-mahadev-overview"
+    ]
+  },
+  "target": {
+    "description": "No illegal betting platform operating with the knowledge or protection of state officials, consistent with India's gambling and anti-money-laundering laws.",
+    "standard": "State gambling-prohibition laws and the Prevention of Money Laundering Act.",
+    "referenceDate": "2022-01-01"
+  },
+  "reality": {
+    "description": "The ED and CBI allege the syndicate built a financial empire of roughly ₹6,000 crore, with proceeds laundered through shell entities in India and abroad, including Dubai. As of mid-2026, the ED had arrested 12 people and filed four chargesheets, attaching, freezing, or seizing properties worth roughly ₹2,426 crore. The CBI has separately conducted searches at the residence of former Chhattisgarh Chief Minister Bhupesh Baghel in connection with the case. Promoter Saurabh Chandrakar was detained by Royal Oman Police on an Interpol Red Notice issued at India's request.",
+    "asOfDate": "2026-07-14",
+    "sourceIds": [
+      "src-mahadev-cbi",
+      "src-mahadev-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged scale of the syndicate vs. assets attached, frozen, or seized",
+    "unit": "₹ crore",
+    "targetValue": 6000,
+    "actualValue": 2426,
+    "targetDisplay": "₹6,000 cr alleged empire",
+    "actualDisplay": "₹2,426 cr attached/frozen/seized (ED)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Attached",
+    "note": "The ₹6,000 crore figure describes investigators' estimate of the syndicate's overall financial scale, not a single confirmed loss to any identifiable victim — this is an illegal betting operation, not a scheme that defrauded depositors in the way a chit fund would."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2022-01-01",
+      "label": "Platform operations flagged",
+      "detail": "Illegal betting operations under the Mahadev brand come to the attention of Chhattisgarh police.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "ED opens money-laundering probe",
+      "detail": "The agency begins tracing proceeds through shell entities in India and Dubai.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "CBI searches Bhupesh Baghel's residence",
+      "detail": "The agency conducts searches at the former Chief Minister's residence in connection with the case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-07-14",
+      "label": "Chandrakar detained abroad",
+      "detail": "Royal Oman Police detain the platform's promoter on an Interpol Red Notice sought by India.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Twelve people have been arrested and four chargesheets filed by the ED as of the most recent reporting reviewed; the principal promoter is detained abroad pending extradition, and this investigation has not yet traced the case to any trial verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Saurabh Chandrakar",
+        "role": "Promoter, Mahadev Online Book",
+        "outcome": "Named as the platform's promoter; detained by Royal Oman Police in July 2026 on an Interpol Red Notice sought by India. No Indian trial verdict; extradition proceedings pending."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the existence of a large illegal betting operation and its financial scale are documented by multiple ED chargesheets and asset attachments. The extent of political protection alleged, and any resulting individual accountability beyond the platform's own promoters, has not yet been independently verified by this investigation.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn from ongoing 2026 reporting. It has not yet received the same depth of research as the site's fully developed cases, and the underlying allegations of political protection remain unproven in court."
+  },
+  "incomplete": [
+    "This is a stub entry. The specific allegations against named political figures, and their current legal status, have not yet been independently detailed here.",
+    "Chandrakar's extradition status was not resolved as of this entry's publication.",
+    "It is not established how much of the ₹2,426 crore in attached assets, if any, will ultimately be forfeited or returned to identifiable victims."
+  ],
+  "sources": [
+    {
+      "id": "src-mahadev-overview",
+      "label": "Mahadev Betting App Scam: CBI's major crackdown on a parallel financial empire exceeding Rs 6,000 Crore",
+      "type": "independent",
+      "publisher": "Organiser",
+      "date": "2026-07-12",
+      "url": "https://organiser.org/2026/07/12/369430/bharat/mahadev-betting-app-scam-cbis-major-crackdown-on-a-parallel-financial-empire-exceeding-rs-6000-crore/"
+    },
+    {
+      "id": "src-mahadev-cbi",
+      "label": "CBI conducts searches at residence of former Chhattisgarh CM Bhupesh Baghel in connection with alleged Rs 6,000 crore Mahadev app scam",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2026-01-01",
+      "url": "https://newsonair.gov.in/cbi-conducts-searches-at-residence-of-former-chhattisgarh-cm-bhupesh-baghel-in-connection-with-alleged-rs-6000-crore-mahadev-app-scam"
+    },
+    {
+      "id": "src-mahadev-arrest",
+      "label": "Mahadev betting app case: ED arrests EBIX Chairman Vikas Garg",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2026-07-14",
+      "url": "https://www.businesstoday.in/latest/corporate/story/mahadev-betting-app-case-ed-arrests-ebix-chairman-vikas-garg-542745-2026-07-14"
+    }
+  ]
+}

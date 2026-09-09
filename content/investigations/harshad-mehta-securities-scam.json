@@ -1,0 +1,117 @@
+{
+  "id": "KB-020",
+  "slug": "harshad-mehta-securities-scam",
+  "title": "The Harshad Mehta Securities Scam",
+  "dek": "A stockbroker exploited gaps between the banking and stock markets to divert bank funds into a stock-price rally he was engineering himself. When it unravelled, the market crashed and the case outlived him.",
+  "category": "Banking & Finance",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 8,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "1992-04-23",
+  "heroStat": {
+    "value": "72%",
+    "label": "market crash after the scam was exposed in April 1992"
+  },
+  "promise": {
+    "quote": "Inter-bank securities transactions routed through brokers will be backed by genuine government securities, consistent with RBI banking regulations.",
+    "madeBy": "Multiple Indian banks' securities departments, and broker Harshad Mehta",
+    "role": "Stockbroker exploiting weaknesses in bank-to-bank securities settlement systems",
+    "date": "1992-04-23",
+    "context": "Mehta is alleged to have used fake bank receipts to obtain funds from the inter-bank securities market, channelling the money into stock purchases that inflated share prices, particularly his own.",
+    "sourceIds": [
+      "src-mehta-wiki"
+    ]
+  },
+  "target": {
+    "description": "Bank funds moved between institutions only against genuine, verifiable government securities, with no diversion into the equity market.",
+    "standard": "RBI norms governing inter-bank securities transactions and the use of bank receipts.",
+    "referenceDate": "1992-04-23"
+  },
+  "reality": {
+    "description": "Journalist Sucheta Dalal's reporting exposed the scheme in April 1992. Estimates of the scam's scale vary widely, from around ₹4,000 crore in diverted bank funds to a commonly cited ₹30,000 crore figure describing the market's overall exposure. The stock market fell by roughly 72% in the aftermath. Mehta faced 27 criminal charges; he was convicted on four of them in 1999 and sentenced to five years in prison. He died of a heart attack in judicial custody in December 2001, with several appeals still pending.",
+    "asOfDate": "2001-12-31",
+    "sourceIds": [
+      "src-mehta-wiki",
+      "src-mehta-conviction"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Lower estimate of directly diverted funds vs. the broader market-exposure figure commonly cited",
+    "unit": "₹ crore",
+    "targetValue": 4000,
+    "actualValue": 30000,
+    "targetDisplay": "~₹4,000 cr directly diverted (narrower estimate)",
+    "actualDisplay": "~₹30,000 cr (broader, widely cited market-exposure figure)",
+    "targetLabel": "Narrower",
+    "actualLabel": "Broader",
+    "note": "These two very different figures both circulate widely in accounts of this case; this investigation has not traced either to a single authoritative source and reports both rather than treating one as definitive."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1992-04-23",
+      "label": "Scam exposed",
+      "detail": "Sucheta Dalal's reporting in the Times of India brings the scheme to public attention.",
+      "type": "status"
+    },
+    {
+      "date": "1992-06-01",
+      "label": "Market crash",
+      "detail": "Share prices fall sharply as the scheme unwinds, entering a bearish phase that lasted roughly two years.",
+      "type": "status"
+    },
+    {
+      "date": "1999-01-01",
+      "label": "Conviction",
+      "detail": "Mehta is convicted on four of the 27 charges against him and sentenced to five years' imprisonment.",
+      "type": "status"
+    },
+    {
+      "date": "2001-12-31",
+      "label": "Mehta dies in custody",
+      "detail": "He dies of a heart attack while several appeals remain unresolved.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Mehta was convicted on some charges before his death; this investigation has not yet researched what happened to the remaining pending appeals and charges after he died.",
+    "keyIndividuals": [
+      {
+        "name": "Harshad Mehta",
+        "role": "Stockbroker",
+        "outcome": "Convicted on four of 27 charges in 1999; sentenced to five years' imprisonment. Died in judicial custody in December 2001 with other appeals and charges still pending."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the core mechanism of the fraud and Mehta's conviction on some charges are well documented. This investigation has not yet researched what happened to the remaining unresolved charges after his death, nor the outcomes for banks and other individuals implicated.",
+    "confidence": "medium",
+    "reasoning": "The scam's basic mechanism, its market impact, and Mehta's 1999 conviction are consistently documented across sources. Confidence is not higher because this entry has not yet researched the fate of the remaining 23 charges or other implicated individuals and institutions."
+  },
+  "incomplete": [
+    "This is a stub entry. What happened to the 23 charges Mehta was not convicted on, following his death, has not been researched.",
+    "The roles and outcomes for banks and other brokers implicated alongside Mehta have not been covered in this entry.",
+    "The two widely-cited scale figures (₹4,000 crore and ₹30,000 crore) have not been reconciled or traced to primary sources."
+  ],
+  "sources": [
+    {
+      "id": "src-mehta-wiki",
+      "label": "Harshad Mehta",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Harshad_Mehta"
+    },
+    {
+      "id": "src-mehta-conviction",
+      "label": "Harshad Mehta scam: 4 former bank officials sentenced to 3 years in jail",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2017-04-12",
+      "url": "https://www.business-standard.com/amp/article/pti-stories/4-former-bank-officials-get-3-yr-jail-in-1992-securities-scam-117041200514_1.html"
+    }
+  ]
+}

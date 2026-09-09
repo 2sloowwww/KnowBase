@@ -1,0 +1,164 @@
+{
+  "id": "KB-908",
+  "slug": "antrix-devas-deal-case",
+  "title": "The Antrix-Devas Deal Case",
+  "dek": "ISRO's commercial arm signed away scarce S-band spectrum to a little-known start-up, then annulled the deal on national-security grounds after a political storm — triggering an international arbitration award of over $560 million against India. A decade later, Indian courts found the underlying deal itself was procured by fraud, wound up Devas, and set the arbitration award aside, even as foreign courts have moved to enforce it anyway.",
+  "category": "Telecom & Digital",
+  "status": "disputed",
+  "severity": "critical",
+  "severityRank": 22,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-02-01",
+  "heroStat": {
+    "value": "$562.5 M",
+    "label": "base arbitration award (before interest, reported to have grown to roughly $1.2 billion) that an ICC tribunal ordered Antrix to pay Devas after India annulled the deal"
+  },
+  "promise": {
+    "quote": "Antrix Corporation, the commercial arm of the Indian Space Research Organisation (ISRO), would lease S-band spectrum capacity on two satellites to Devas Multimedia for a hybrid satellite-terrestrial communications service, under a lawfully awarded, arms-length 2005 agreement.",
+    "madeBy": "Antrix Corporation Ltd (ISRO's commercial arm), Department of Space",
+    "role": "Government commercial entity contracting to lease satellite spectrum capacity",
+    "date": "2005-01-28",
+    "context": "Antrix signed the agreement with Devas Multimedia, a private company reportedly founded by former ISRO officials, to build two satellites (GSAT-6 and GSAT-6A) and lease their S-band transponder capacity to Devas for 12 years for a hybrid satellite-terrestrial telecom service.",
+    "sourceIds": [
+      "src-devas-orf"
+    ]
+  },
+  "target": {
+    "description": "That scarce S-band spectrum, a strategically and commercially valuable public resource, would be allocated through a transparent process free of fraud or improper influence, and that any later cancellation would similarly follow due process while honouring India's contractual and treaty obligations.",
+    "standard": "Government contracting norms for allocation of spectrum/orbital resources, and India's obligations under the ICC arbitration rules and Bilateral Investment Treaties.",
+    "referenceDate": "2005-01-28"
+  },
+  "reality": {
+    "description": "The deal drew little public attention until 2010-2011, when reports questioned why scarce S-band spectrum, comparable to spectrum caught up in the contemporaneous 2G scandal, had been allocated to Devas without competitive bidding. In February 2011, the Union Cabinet annulled the Antrix-Devas agreement, citing the government's need to reserve S-band spectrum for national security and public-interest uses. Devas took the dispute to arbitration; an ICC tribunal seated in New Delhi ruled unanimously on 14 September 2015 that Antrix had wrongfully terminated the agreement and awarded Devas $562.5 million plus 18% interest, an amount the Supreme Court itself later noted had grown to roughly $1.2 billion by 2020. Separately, from around 2012, Indian authorities including the CBI and Enforcement Directorate opened investigations into whether the original 2005 deal itself had been procured through fraud and corrupt collusion between Devas promoters and Antrix/ISRO officials. In 2021, Antrix initiated winding-up proceedings against Devas before the National Company Law Tribunal (NCLT), which found Devas had been incorporated for a fraudulent and unlawful purpose and ordered it wound up; the NCLAT upheld this, and the Supreme Court of India upheld the NCLAT's ruling in January 2022, including its finding that the entire Devas enterprise had been fraudulently conceived in connivance with certain Antrix officials. Building on these fraud findings, the Delhi High Court in August-September 2022 set aside the 2015 ICC arbitration award itself, holding it was vitiated by fraud and contrary to India's public policy. Devas's foreign shareholders, however, have continued pursuing enforcement of the original award internationally: a US federal appeals court upheld confirmation of the award against Antrix, and the Hague Court of Appeal ruled on 17 December 2024 that the award could still be enforced in the Netherlands notwithstanding its annulment at the seat in India. As of the most recent reporting reviewed, India faces continuing exposure to enforcement actions abroad even though its own courts have found the underlying contract fraudulent.",
+    "asOfDate": "2024-12-17",
+    "sourceIds": [
+      "src-devas-delhihc-2022",
+      "src-devas-sc-2022",
+      "src-devas-hague-2024"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Arbitration liability found by ICC tribunal vs. Indian courts' fraud finding",
+    "unit": "USD millions",
+    "targetValue": 562.5,
+    "actualValue": 0,
+    "targetDisplay": "$562.5M+ interest awarded to Devas (2015 ICC award)",
+    "actualDisplay": "Award set aside in India after fraud findings (2022)",
+    "targetLabel": "Original arbitration award",
+    "actualLabel": "Status of award in India after annulment",
+    "note": "Indian courts (NCLT, NCLAT, Supreme Court and Delhi High Court) have all found the underlying Devas deal was procured by fraud and have annulled the arbitral award domestically — but this has not ended India's international exposure, since foreign courts in the US and Netherlands have moved to enforce the award independently of the Indian annulment, a genuine and unresolved conflict of law that this site reports rather than treats as settled."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": null,
+    "released": null,
+    "spent": 1200,
+    "spentLabel": "approximate total liability (principal plus 18% interest) the Supreme Court noted the award had grown to by 2020, in millions of USD",
+    "unit": "million",
+    "notes": "The original ICC award was $562.5 million plus 18% interest; interest compounding over years led the Supreme Court to note a total exposure of around $1.2 billion by 2020. India's actual net financial exposure depends on the outcome of ongoing foreign enforcement proceedings and is not a settled figure.",
+    "sourceIds": [
+      "src-devas-orf"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2005-01-28",
+      "label": "Antrix-Devas agreement signed",
+      "detail": "Antrix Corporation agrees to lease S-band transponder capacity on two satellites to Devas Multimedia for 12 years.",
+      "type": "announcement"
+    },
+    {
+      "date": "2011-02-01",
+      "label": "Union Cabinet annuls the deal",
+      "detail": "The government cancels the Antrix-Devas agreement, citing the need to reserve S-band spectrum for national security and public purposes.",
+      "type": "revision"
+    },
+    {
+      "date": "2015-09-14",
+      "label": "ICC tribunal awards Devas $562.5 million",
+      "detail": "An ICC arbitration tribunal unanimously finds Antrix wrongfully terminated the agreement and awards Devas $562.5 million plus 18% interest.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-05-01",
+      "label": "Antrix seeks winding-up of Devas before NCLT",
+      "detail": "Antrix alleges Devas was incorporated for a fraudulent and unlawful purpose and that the original agreement was procured through fraud and corruption.",
+      "type": "status"
+    },
+    {
+      "date": "2021-06-01",
+      "label": "NCLT orders Devas wound up",
+      "detail": "The National Company Law Tribunal finds merit in Antrix's fraud allegations and orders Devas Multimedia wound up.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-01-17",
+      "label": "Supreme Court upholds winding-up and fraud findings",
+      "detail": "The Supreme Court upholds the NCLAT's ruling that Devas was set up fraudulently in connivance with certain Antrix officials.",
+      "type": "revision"
+    },
+    {
+      "date": "2022-08-29",
+      "label": "Delhi High Court sets aside the ICC arbitration award",
+      "detail": "The High Court annuls the 2015 award, holding it is 'patently illegal' and vitiated by fraud, relying on the winding-up proceedings' findings.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-12-17",
+      "label": "Hague Court of Appeal permits enforcement in the Netherlands",
+      "detail": "Despite the award's annulment at the seat in India, a Dutch appellate court rules the ICC award can still be enforced there, deepening India's cross-border legal exposure.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "India's domestic courts — the NCLT, NCLAT, Supreme Court, and Delhi High Court — have all found, at various stages, that the original Antrix-Devas agreement was procured through fraud and corrupt collusion involving certain Antrix/ISRO officials, and on that basis both wound up Devas and set aside the 2015 ICC arbitration award. No named individual has, per sources reviewed, been criminally convicted in connection with the alleged corruption; the fraud findings arose in civil/company-law and arbitration-annulment proceedings, not a completed criminal trial. Separately and in tension with the Indian findings, courts in the United States and the Netherlands have taken steps to enforce or uphold the original award against Antrix, meaning the matter remains legally unresolved at the international level.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a rare case where an international arbitration award against India was later undercut by Indian courts' own findings that the underlying deal was fraudulent — a serious and unusual sequence of events, but not one this site treats as a final, uncontested resolution, since foreign courts have continued to move toward enforcing the original award regardless. The case remains genuinely disputed at the international level even after India's domestic courts ruled decisively on the fraud question.",
+    "confidence": "medium",
+    "reasoning": "The core sequence — the 2005 deal, 2011 annulment, 2015 ICC award, 2021-2022 winding-up and fraud findings, the Delhi High Court's 2022 annulment of the award, and the 2024 Hague ruling — is corroborated across ThePrint, Business Standard, Aceris Law, ORF, and Kluwer Arbitration Blog reporting, with the Antrix v. Devas Delhi High Court judgment itself available via Indian Kanoon. Confidence is not higher because this entry has not reviewed the NCLT/NCLAT orders or the Delhi High Court judgment in full, and has not tracked the final status of the US and Dutch enforcement proceedings beyond the dates noted."
+  },
+  "incomplete": [
+    "This entry has not reviewed the NCLT, NCLAT, Supreme Court or Delhi High Court judgments in full text; it relies on legal-affairs and news reporting summarising their findings.",
+    "No individual has been confirmed as criminally convicted over the alleged fraud in the original 2005 deal; any CBI/ED criminal investigation's current status has not been independently confirmed.",
+    "The final outcome of enforcement proceedings in the United States and the Netherlands, and India's ultimate net financial exposure, remain unresolved as of the most recent sources reviewed and should be checked for updates.",
+    "This entry does not name any individual as responsible for the alleged fraud, since criminal responsibility (as opposed to the civil/company-law fraud findings against the enterprise) has not been established in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-devas-orf",
+      "label": "Devas v. Antrix: Lessons for India in Navigating Bilateral Investment Treaty Disputes",
+      "type": "independent",
+      "publisher": "Observer Research Foundation (ORF)",
+      "date": "2023-01-01",
+      "url": "https://www.orfonline.org/research/devas-v-antrix-lessons-for-india-in-navigating-bilateral-investment-treaty-disputes"
+    },
+    {
+      "id": "src-devas-delhihc-2022",
+      "label": "Antrix Corporation Ltd. vs Devas Multimedia Private Limited",
+      "type": "primary",
+      "publisher": "Delhi High Court (via Indian Kanoon)",
+      "date": "2022-08-29",
+      "url": "https://indiankanoon.org/doc/188667751/"
+    },
+    {
+      "id": "src-devas-sc-2022",
+      "label": "Why Delhi HC set aside $562 mn international arbitration award ISRO's Antrix had to pay Devas",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2022-09-01",
+      "url": "https://theprint.in/judiciary/why-delhi-hc-set-aside-562-mn-international-arbitration-award-isros-antrix-had-to-pay-devas/1108621/"
+    },
+    {
+      "id": "src-devas-hague-2024",
+      "label": "Devas v. Antrix: Dutch Enforcement and the Limits of Seat-Based Annulment",
+      "type": "independent",
+      "publisher": "Aceris Law",
+      "date": "2025-01-01",
+      "url": "https://www.acerislaw.com/devas-v-antrix-dutch-enforcement-and-the-limits-of-seat-based-annulment/"
+    }
+  ]
+}

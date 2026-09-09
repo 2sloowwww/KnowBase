@@ -1,0 +1,125 @@
+{
+  "id": "KB-3021",
+  "slug": "kodaikanal-mercury-poisoning-case",
+  "title": "The Kodaikanal Mercury Poisoning Case",
+  "dek": "A Hindustan Unilever thermometer factory dumped mercury-laced glass waste in a hill-town scrapyard and nearby forest for years. Workers say it killed dozens; the company denies any employee was harmed. A settlement finally came after 15 years — with no admission of liability.",
+  "category": "Natural Resources",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 258,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2001-03-01",
+  "heroStat": {
+    "value": "~300 tonnes",
+    "label": "of mercury-contaminated waste later shipped out of Kodaikanal for disposal after the factory's closure"
+  },
+  "promise": {
+    "quote": "The factory's operations, including handling of mercury used to manufacture thermometers, met applicable safety and environmental standards.",
+    "madeBy": "Hindustan Unilever Limited (then Hindustan Lever Limited)",
+    "role": "Operator of the mercury thermometer factory in Kodaikanal, Tamil Nadu, set up in the 1980s to manufacture thermometers largely for export",
+    "date": "1983-01-01",
+    "context": "The factory made glass mercury thermometers in the hill town of Kodaikanal from the 1980s. Contract workers handled broken glass thermometer waste without adequate protective equipment, and factory waste was found dumped in a scrapyard near a school and in nearby forest land.",
+    "sourceIds": [
+      "src-kdk-wiki"
+    ]
+  },
+  "target": {
+    "description": "Mercury, a well-documented neurotoxin, handled and disposed of according to hazardous-waste safety norms, with no worker exposure and no environmental contamination of surrounding forest or water sources.",
+    "standard": "Standard occupational-safety and hazardous-waste-handling norms applicable to mercury processing.",
+    "referenceDate": "1983-01-01"
+  },
+  "reality": {
+    "description": "In March 2001, mercury-laced glass waste from the factory was discovered dumped in a scrapyard near a Kodaikanal school, prompting Tamil Nadu Pollution Control Board action and the factory's closure that year. The company subsequently exported nearly 300 tonnes of mercury-contaminated waste to the United States for recycling. A workers' group representing roughly 600 former contract employees said mercury poisoning had killed 45 workers and 18 family members over more than three decades of the factory's operation; Hindustan Unilever has disputed this, acknowledging some contamination at the site but denying that any employee was harmed by mercury exposure. After a nearly 15-year legal and public campaign, the company reached a settlement with around 591 former workers and their families in 2016, providing payments for livelihood and health support, without accepting legal liability for the alleged deaths or illnesses.",
+    "asOfDate": "2016-01-01",
+    "sourceIds": [
+      "src-kdk-wiki",
+      "src-kdk-inquirer"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Deaths alleged by workers' group vs. deaths the company has acknowledged responsibility for",
+    "unit": "people",
+    "targetValue": 45,
+    "actualValue": 0,
+    "targetDisplay": "45 worker deaths alleged by a workers' group",
+    "actualDisplay": "0 deaths for which the company has accepted responsibility",
+    "targetLabel": "Alleged",
+    "actualLabel": "Acknowledged",
+    "note": "This is a genuinely disputed figure: the death toll is a workers' group estimate, not an independently verified or judicially established count, and Hindustan Unilever disputes it entirely while acknowledging site contamination existed."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1983-01-01",
+      "label": "Factory begins mercury thermometer production",
+      "detail": "Hindustan Lever Limited's Kodaikanal unit began manufacturing glass mercury thermometers, largely for export.",
+      "type": "announcement"
+    },
+    {
+      "date": "2001-03-01",
+      "label": "Mercury waste found near school",
+      "detail": "Mercury-contaminated glass waste from the factory was discovered dumped in a local scrapyard, triggering regulatory scrutiny.",
+      "type": "status"
+    },
+    {
+      "date": "2001-03-07",
+      "label": "Factory shut down",
+      "detail": "The Tamil Nadu Pollution Control Board ordered the factory closed following the discovery.",
+      "type": "status"
+    },
+    {
+      "date": "2003-01-01",
+      "label": "Contaminated waste exported for recycling",
+      "detail": "The company shipped nearly 300 tonnes of mercury waste from the site to the United States.",
+      "type": "status"
+    },
+    {
+      "date": "2016-01-01",
+      "label": "Settlement reached with former workers",
+      "detail": "Hindustan Unilever settled with around 591 former workers and their families for an undisclosed amount, without admitting legal liability for alleged health impacts.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was resolved through a private, out-of-court settlement rather than a court verdict or criminal conviction. Hindustan Unilever has never admitted legal liability for the alleged worker deaths, and no criminal case against any individual has been reported.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "That the factory dumped mercury-contaminated waste improperly and that contamination existed at the site is not disputed — the company itself has acknowledged this. What remains genuinely contested is the human cost: whether mercury exposure caused the deaths and illnesses a workers' group attributes to it, a claim the company denies and no court or independent inquiry has definitively settled.",
+    "confidence": "medium",
+    "reasoning": "The factory closure, waste dumping, and 2016 settlement are well documented by multiple independent sources. The disputed death toll rests on competing claims from the workers' group and the company, with no independent epidemiological finding located that resolves the disagreement."
+  },
+  "incomplete": [
+    "The exact settlement amount paid to former workers in 2016 was not disclosed publicly and could not be independently verified here.",
+    "No independent epidemiological study resolving the disputed death toll (workers' group claim of 45 deaths vs. the company's denial) was located.",
+    "Long-term environmental monitoring data for the site after the 2003 waste removal was not independently reviewed here."
+  ],
+  "sources": [
+    {
+      "id": "src-kdk-wiki",
+      "label": "Kodaikanal mercury poisoning",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2023-01-01",
+      "url": "https://en.wikipedia.org/wiki/Kodaikanal_mercury_poisoning"
+    },
+    {
+      "id": "src-kdk-inquirer",
+      "label": "Unilever India settles mercury poisoning claims with workers",
+      "type": "independent",
+      "publisher": "Philippine Daily Inquirer (Reuters)",
+      "date": "2016-01-01",
+      "url": "https://newsinfo.inquirer.net/772600/unilever-india-settles-mercury-poisoning-claims-with-workers"
+    },
+    {
+      "id": "src-kdk-landconflict",
+      "label": "After 15-year legal battle, HUL pays mercury-exposed workers in Kodaikanal; waste sent to US",
+      "type": "independent",
+      "publisher": "Land Conflict Watch",
+      "date": "2021-01-01",
+      "url": "https://www.landconflictwatch.org/conflicts/twenty-years-on-community-still-distressed-by-mercury-waste-dumped-by-hul-in-kodaikanal"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "KB-2308",
+  "slug": "yes-bank-at1-bonds-writeoff-case",
+  "title": "The Yes Bank AT1 Bond Write-Off Battle",
+  "dek": "When regulators rescued Yes Bank in 2020, they wiped out ₹8,415 crore of bondholders' money entirely while shareholders kept some value. Investors fought back — and three years later, a court agreed the write-off had gone further than the law allowed.",
+  "category": "Banking & Finance",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 90,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2020-03-14",
+  "heroStat": {
+    "value": "₹8,415 cr",
+    "label": "in Additional Tier 1 bonds written off to zero as part of Yes Bank's 2020 RBI-led reconstruction"
+  },
+  "promise": {
+    "quote": "The write-down of AT1 bonds, if it occurs, follows RBI's Basel III capital framework and is triggered and authorised strictly in accordance with the bonds' terms and applicable regulation.",
+    "madeBy": "Yes Bank Ltd and the Reserve Bank of India, in structuring and approving the bank's 2020 reconstruction scheme",
+    "role": "RBI-administered private bank undergoing a regulator-led rescue, and the banking regulator approving the reconstruction",
+    "date": "2020-03-13",
+    "context": "This reflects the general regulatory framework governing AT1 bond write-downs during bank reconstruction, rather than a specific representation this entry has reviewed directly from the Yes Bank reconstruction scheme document.",
+    "sourceIds": [
+      "src-yesbank-at1-overview"
+    ]
+  },
+  "target": {
+    "description": "Any write-down of AT1 bonds during a bank's reconstruction would be authorised strictly within the legal powers granted to the RBI-appointed administrator under the applicable scheme, and would follow the contractual loss-absorption hierarchy for such instruments.",
+    "standard": "RBI's Basel III-based AT1 bond regulations and the Yes Bank Reconstruction Scheme, 2020, framed under the Banking Regulation Act.",
+    "referenceDate": "2020-03-13"
+  },
+  "reality": {
+    "description": "As part of the RBI-led rescue of Yes Bank on 14 March 2020, Additional Tier 1 bonds worth ₹8,415 crore were written off to zero, even as equity shareholders retained some value in the reconstructed bank — an outcome bondholders, led by Axis Trustee Services and other institutional investors, challenged before the Bombay High Court, arguing the RBI-appointed administrator lacked the authority to approve a full write-off and that only the RBI itself could authorise such a step. In January 2023, the Bombay High Court ruled in favour of the bondholders, striking down the write-off and holding that the administrator had exceeded his powers after the bank's reconstruction process had already begun. Yes Bank, the RBI, and the Union government appealed to the Supreme Court, which by mid-2026 had reserved its verdict after completing hearings, with the Court reportedly describing the complete write-off as an \"extreme\" step and questioning the legal authority under which it was carried out. As of the most recent reporting reviewed, the Supreme Court's final ruling remained pending.",
+    "asOfDate": "2026-05-20",
+    "sourceIds": [
+      "src-yesbank-at1-hc-ruling",
+      "src-yesbank-at1-sc-reserved"
+    ]
+  },
+  "gap": {
+    "metricLabel": "AT1 bond value written off to zero vs. value a court has ordered restored to bondholders",
+    "unit": "INR crore",
+    "targetValue": 8415,
+    "actualValue": 0,
+    "targetDisplay": "₹8,415 cr written off (2020)",
+    "actualDisplay": "₹0 confirmed restored (Supreme Court verdict pending)",
+    "targetLabel": "Written off",
+    "actualLabel": "Restored per final verdict",
+    "note": "The Bombay High Court ruled the write-off unlawful in January 2023, but that ruling itself is under appeal before the Supreme Court, whose verdict was still reserved as of the most recent reporting reviewed. No bondholder has therefore had funds definitively restored under a final, unappealed order."
+  },
+  "money": {
+    "currency": "INR",
+    "unit": "crore",
+    "spent": 8415,
+    "spentLabel": "AT1 bonds written off to zero",
+    "notes": "The ₹8,415 crore figure represents the full face value of Yes Bank's outstanding Additional Tier 1 bonds written off during the March 2020 reconstruction.",
+    "sourceIds": [
+      "src-yesbank-at1-overview"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-03-13",
+      "label": "RBI approves Yes Bank Reconstruction Scheme",
+      "detail": "The rescue plan, involving a consortium of banks led by SBI, includes a full write-down of AT1 bonds.",
+      "type": "announcement"
+    },
+    {
+      "date": "2020-03-14",
+      "label": "₹8,415 crore AT1 bonds written off to zero",
+      "detail": "Bondholders lose their entire investment while equity shareholders retain some value.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "Bombay High Court rules for bondholders",
+      "detail": "The court strikes down the write-off, finding the RBI-appointed administrator exceeded his authority.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-05-20",
+      "label": "Supreme Court reserves verdict",
+      "detail": "After hearings on appeals by Yes Bank, the RBI, and the Union government, the Supreme Court reserves its ruling, questioning the legal basis for the full write-off.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This matter is unresolved and disputed. The Bombay High Court ruled the 2020 AT1 bond write-off unlawful in January 2023, but that ruling is under appeal, with the Supreme Court's final verdict reserved and still pending as of the most recent reporting reviewed.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "A real and substantial regulatory dispute: Yes Bank's 2020 rescue wiped out ₹8,415 crore in AT1 bondholder value, a lower Indian court later found the write-off exceeded the administrator's legal authority, and the final outcome now rests with the Supreme Court. This site reports the case as unresolved rather than assuming either the original write-off or the High Court's reversal is the final word.",
+    "confidence": "medium",
+    "reasoning": "The scale of the write-off, the Bombay High Court's 2023 ruling, and the Supreme Court's reserved verdict are corroborated across multiple independent financial-press reports; this entry has not directly reviewed the High Court judgment or the underlying Yes Bank Reconstruction Scheme document."
+  },
+  "incomplete": [
+    "The Supreme Court's final verdict has not been issued as of the most recent reporting reviewed for this entry, so the ultimate legal outcome remains unknown.",
+    "This entry has not independently reviewed the Bombay High Court's January 2023 judgment or the RBI's original reconstruction scheme document.",
+    "The exact number and category of AT1 bondholders (institutional vs. retail) affected has not been itemised in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-yesbank-at1-overview",
+      "label": "Legal battle over Yes Bank AT1 bond write-off reaches Supreme Court",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2026-05-20",
+      "url": "https://www.business-standard.com/companies/news/legal-battle-over-yes-bank-at1-bond-write-off-reaches-supreme-court-126052001603_1.html"
+    },
+    {
+      "id": "src-yesbank-at1-hc-ruling",
+      "label": "Bombay High Court Quashes Write Off Of Yes Bank AT-1 Bonds Worth Over 8000 Crs.",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2023-01-01",
+      "url": "https://www.livelaw.in/news-updates/bombay-high-court-yes-bank-write-off-8000-crore-bond-after-reconstruction-rbi-administrator-219669"
+    },
+    {
+      "id": "src-yesbank-at1-sc-reserved",
+      "label": "Supreme Court Reserves Order on Yes Bank's ₹8,415 Cr AT-1 Bond Write-Down",
+      "type": "independent",
+      "publisher": "Outlook Business",
+      "date": "2026-05-20",
+      "url": "https://www.outlookbusiness.com/corporate/supreme-court-reserves-order-on-yes-banks-8415-cr-at-1-bond-write-down"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "KB-1508",
+  "slug": "army-colonel-defence-tender-bribery-case",
+  "title": "The Colonel Himanshu Bali Defence Tender Bribery Case",
+  "dek": "An Army Ordnance Corps colonel allegedly steered a defence tender to a Kanpur supplier for a ₹50-lakh bribe routed through hawala — a small-sum case that the CBI says exposes how manipulated tenders and inflated bills reach the battlefield.",
+  "category": "Defence & Security",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 240,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2026-05-18",
+  "heroStat": {
+    "value": "₹50 lakh",
+    "label": "bribe the CBI alleges was demanded and routed via hawala for a defence tender award"
+  },
+  "promise": {
+    "quote": "Defence procurement tenders will be awarded on merit, with equipment quality and pricing assessed independently of any private payment to the awarding officer.",
+    "madeBy": "Indian Army Ordnance Corps procurement process",
+    "role": "Military procurement chain responsible for tendering and quality-clearing defence supplies",
+    "date": "2026-04-24",
+    "context": "The CBI alleges a defence tender was awarded to a Kanpur-based supplier, Eastern Global Limited, just two days after a meeting at which a bribe was allegedly discussed.",
+    "sourceIds": [
+      "src-armycol-the420"
+    ]
+  },
+  "target": {
+    "description": "Tenders awarded strictly on the basis of quality, compliance, and price, with no bribes influencing tender awards, equipment quality clearances, or bill approvals.",
+    "standard": "Defence Procurement Procedure norms and the Prevention of Corruption Act, 1988 (as amended 2018).",
+    "referenceDate": "2026-04-24"
+  },
+  "reality": {
+    "description": "The CBI arrested Colonel Himanshu Bali of the Army Ordnance Corps in May 2026 over allegations he accepted a ₹50 lakh bribe from a defence supplier in exchange for manipulating tenders, approving allegedly substandard equipment, and clearing inflated bills. The agency's FIR alleges the tender was awarded to Eastern Global Limited, a Kanpur-based defence supplier, on 24 April 2026, two days after a meeting at which the bribe was allegedly agreed. When the beneficiary, identified as Akshat Agrawal, cited difficulty arranging cash, Colonel Bali allegedly directed that the payment be delivered via an associate to a middleman in Delhi's Chandni Chowk, routed through illegal hawala channels.",
+    "asOfDate": "2026-05-22",
+    "sourceIds": [
+      "src-armycol-the420",
+      "src-armycol-ibg"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged bribe amount vs. confirmed cash recovered by investigators",
+    "unit": "₹ lakh",
+    "targetValue": 50,
+    "actualValue": 0,
+    "targetDisplay": "₹50 lakh alleged bribe",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged bribe",
+    "actualLabel": "Cash recovered",
+    "note": "This investigation did not find a confirmed cash-recovery figure specific to this case in the sources reviewed."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2026-04-22",
+      "label": "Bribe allegedly discussed",
+      "detail": "A meeting is alleged to have taken place (reported as at a Park Street location) where the bribe arrangement was discussed.",
+      "type": "status"
+    },
+    {
+      "date": "2026-04-24",
+      "label": "Tender awarded",
+      "detail": "The defence tender is awarded to Eastern Global Limited, which the CBI alleges was due to undue favours from Colonel Bali.",
+      "type": "status"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "CBI registers FIR",
+      "detail": "The CBI formally registers a case under the Prevention of Corruption Act and Bharatiya Nyaya Sanhita provisions for criminal conspiracy.",
+      "type": "announcement"
+    },
+    {
+      "date": "2026-05-22",
+      "label": "Colonel Bali arrested",
+      "detail": "The CBI arrests Colonel Himanshu Bali in connection with the alleged bribery scheme.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Colonel Himanshu Bali has been arrested and an FIR registered; this investigation has not confirmed a chargesheet or trial outcome.",
+    "keyIndividuals": [
+      {
+        "name": "Colonel Himanshu Bali",
+        "role": "Officer, Army Ordnance Corps",
+        "outcome": "Arrested by the CBI in May 2026; no chargesheet or trial verdict confirmed as of this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the CBI's FIR alleges a specific, documented bribery-for-tender scheme, but as an allegation at the arrest stage, it has not been tested at trial.",
+    "confidence": "low",
+    "reasoning": "This entry is based on a small number of independent reports of the CBI's FIR and arrest from May 2026, without access to the FIR text itself or any subsequent chargesheet."
+  },
+  "incomplete": [
+    "This is a stub entry; whether Colonel Bali has since been chargesheeted or granted bail has not been tracked.",
+    "The equipment allegedly cleared as compliant despite being substandard has not been specified.",
+    "Whether this case connects to a wider pattern of tender manipulation within the Army Ordnance Corps beyond this single instance has not been established."
+  ],
+  "sources": [
+    {
+      "id": "src-armycol-the420",
+      "label": "CBI Arrests Army Colonel in Alleged ₹50 Lakh Defence Tender Bribery Case",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2026-05-22",
+      "url": "https://the420.in/cbi-army-colonel-rs50-lakh-bribery-defence-tender-case/"
+    },
+    {
+      "id": "src-armycol-ibg",
+      "label": "CBI Arrests an Army Colonel in Alleged Defence Procurement Corruption Case",
+      "type": "independent",
+      "publisher": "IBG News",
+      "date": "2026-05-22",
+      "url": "https://ibgnews.com/2026/05/22/cbi-arrests-an-army-colonel-in-alleged-defence-procurement-corruption-case/"
+    },
+    {
+      "id": "src-armycol-dailypioneer",
+      "label": "CBI Arrests Army Colonel in ₹50 Lakh Bribery Case Linked to Defence Procurement Scam",
+      "type": "independent",
+      "publisher": "Daily Pioneer",
+      "date": "2026-05-22",
+      "url": "https://dailypioneer.com/news/slug-lite/cbi-arrests-army-colonel-in-rs-50-lakh-bribery-case?year=2026"
+    }
+  ]
+}

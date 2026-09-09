@@ -1,0 +1,140 @@
+{
+  "id": "KB-2200",
+  "slug": "uttarakhand-2013-kedarnath-floods-disaster-management-failure",
+  "title": "The 2013 Uttarakhand Floods: A Disaster Management System That Was Never Built",
+  "dek": "India's 2005 Disaster Management Act promised a nationwide architecture of preparedness, early warning and coordinated response. When cloudbursts triggered flash floods across Uttarakhand in June 2013, killing thousands including at Kedarnath, a CAG audit found the state's disaster management authority had barely met, no early-warning plan existed, and two Doppler radars sanctioned five years earlier were still not installed.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 80,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2013-06-17",
+  "heroStat": {
+    "value": "0 meetings",
+    "label": "Times Uttarakhand's state executive disaster management committee met between its January 2008 formation and the June 2013 floods, per CAG"
+  },
+  "promise": {
+    "quote": "To build a safe and disaster resilient India by developing a holistic, proactive, multi-disaster oriented and technology driven strategy through a culture of prevention, mitigation, preparedness and response.",
+    "madeBy": "National Disaster Management Authority, Government of India",
+    "role": "Apex statutory body constituted under the Disaster Management Act, 2005",
+    "date": "2009-01-01",
+    "context": "Stated vision of the National Policy on Disaster Management, 2009, framed under the Disaster Management Act, 2005, which required every state to set up a State Disaster Management Authority and executive committee to ensure preparedness, mitigation and early-warning systems.",
+    "sourceIds": [
+      "src-uk-ndma-policy"
+    ]
+  },
+  "target": {
+    "description": "A functioning state disaster management authority that meets regularly, a documented early-warning plan for flash floods and cloudbursts, and installed weather-monitoring infrastructure (including Doppler radars sanctioned for the state), as required under the Disaster Management Act, 2005.",
+    "standard": "Disaster Management Act, 2005; National Policy on Disaster Management, 2009",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "Uttarakhand's State Disaster Management Authority was set up in 2007 but, per a CAG performance audit, framed no rules or regulations to make itself effective; a state executive committee formed in January 2008 never met between its formation and the disaster. The state had prepared no early-warning plan, and its communication systems were found inadequate for timely alerts to vulnerable populations. Two Doppler radars sanctioned by the Union government in June 2008 for installation in Nainital and Mussoorie, to be purchased and manned by the India Meteorological Department, had still not been installed as of August 2012 for want of land from the state government. On 16-17 June 2013, extreme rainfall and a cloudburst around the Kedarnath area triggered flash floods across the Mandakini, Alaknanda and Bhagirathi river basins; official counts put deaths at 197 confirmed with over 4,000 people reported missing, while some independent estimates of the toll ran into the thousands. A subsequent 2018 CAG performance audit of post-disaster reconstruction found continuing implementation failures: against 113 houses sanctioned for Kedarnath's Tirth Purohits, only 40 had been taken up for construction, and against damaged roads requiring 16 bridges, no bridge reconstruction had been undertaken while only a portion of the damaged road network had been restored.",
+    "asOfDate": "2018-08-01",
+    "sourceIds": [
+      "src-uk-cag-loopholes",
+      "src-uk-cag-reconstruction",
+      "src-uk-preventionweb"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Tirth Purohit houses sanctioned for reconstruction vs. taken up for construction",
+    "unit": "houses",
+    "targetValue": 113,
+    "actualValue": 40,
+    "targetDisplay": "113 houses sanctioned",
+    "actualDisplay": "40 houses taken up",
+    "targetLabel": "Sanctioned",
+    "actualLabel": "Under construction",
+    "note": "Figures from the CAG's 2018 performance audit of post-2013-disaster reconstruction in Uttarakhand; no bridge reconstruction had been undertaken against 16 bridges identified as damaged."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2005-12-23",
+      "label": "Disaster Management Act enacted",
+      "detail": "Parliament passes the Disaster Management Act, 2005, mandating a National Disaster Management Authority and requiring every state to constitute its own disaster management authority and executive committee.",
+      "type": "announcement"
+    },
+    {
+      "date": "2008-06-01",
+      "label": "Doppler radars sanctioned for Uttarakhand",
+      "detail": "The Union government sanctions two Doppler weather radars for installation in Nainital and Mussoorie, to be purchased and operated by the India Meteorological Department with land provided by the state.",
+      "type": "announcement"
+    },
+    {
+      "date": "2008-01-01",
+      "label": "State executive committee constituted, then dormant",
+      "detail": "Uttarakhand's state executive committee for disaster management is formed but, per CAG, does not meet even once before the 2013 disaster.",
+      "type": "status"
+    },
+    {
+      "date": "2012-08-01",
+      "label": "Doppler radars still not installed",
+      "detail": "Four years after being sanctioned, the two Doppler radars remain uninstalled for want of land from the state government, per CAG findings.",
+      "type": "delay"
+    },
+    {
+      "date": "2013-06-17",
+      "label": "Cloudburst triggers Kedarnath flash floods",
+      "detail": "Extreme rainfall and a cloudburst around Kedarnath trigger flash floods across the Mandakini, Alaknanda and Bhagirathi basins; officially 197 deaths are confirmed with over 4,000 people reported missing.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "CAG faults reconstruction progress",
+      "detail": "A CAG performance audit finds reconstruction of housing and bridges lagging years after the disaster, including no bridge reconstruction against 16 identified damaged bridges.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a governance and administrative-failure case, not a criminal prosecution. No individual has been criminally convicted over the state's disaster-preparedness failures; the findings are drawn from CAG performance audits, which recommend administrative and policy remedies rather than assign criminal liability.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The core failure is documented by India's own constitutional auditor: a state disaster management authority that existed on paper but never functioned, an early-warning system that was never built, and weather infrastructure that sat sanctioned but uninstalled for years before a preventable-in-part tragedy. The reconstruction audit five years later found the pattern of non-implementation continuing.",
+    "confidence": "high",
+    "reasoning": "Findings are drawn from CAG performance audit reports, a primary institutional source, corroborated by independent reporting on the same audits. Death toll figures vary between official confirmed counts and higher independent estimates, which is flagged below."
+  },
+  "incomplete": [
+    "Official death toll figures vary: government counts of confirmed dead (197) sit alongside separate figures of over 4,000 people reported missing, and some independent accounts cite total toll estimates in the thousands; this entry has not reconciled these figures against a single authoritative source.",
+    "This entry has not directly reviewed the full CAG performance audit reports cited, relying on published summaries and independent reporting of their findings.",
+    "The current status of Uttarakhand's disaster management authority and early-warning infrastructure as of 2026 has not been verified."
+  ],
+  "sources": [
+    {
+      "id": "src-uk-ndma-policy",
+      "label": "National Policy on Disaster Management, 2009",
+      "type": "primary",
+      "publisher": "National Disaster Management Authority / National Institute of Disaster Management, Government of India",
+      "date": "2009-01-01",
+      "url": "https://nidm.gov.in/PDF/policies/ndm_policy2009.pdf"
+    },
+    {
+      "id": "src-uk-cag-loopholes",
+      "label": "CAG had pointed out loopholes in Uttarakhand's disaster preparedness before 2013 floods",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2021-02-19",
+      "url": "https://www.deccanherald.com/india/cag-had-pointed-loopholes-2267523"
+    },
+    {
+      "id": "src-uk-cag-reconstruction",
+      "label": "Performance Audit Report on Reconstruction of Infrastructure Post 2013 Disaster in Uttarakhand",
+      "type": "primary",
+      "publisher": "Comptroller and Auditor General of India",
+      "date": "2018-01-01",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2018/Chapter_1_Reconstruction_of_Infrastructure_Post_2013_Disaster_in_Uttarakhand-_An_Overview_of_Report_No_2_of_2018_Performance_audit_on_Reconstruction_of_Infrastructure_Post_2013_Disaster_in_Uttarakh.pdf"
+    },
+    {
+      "id": "src-uk-preventionweb",
+      "label": "Uttarakhand fails to deliver early warning system 8 years after it was promised",
+      "type": "independent",
+      "publisher": "PreventionWeb (UNDRR)",
+      "date": "2021-01-01",
+      "url": "https://www.preventionweb.net/news/uttarakhand-fails-deliver-early-warning-system-8-years-after-it-was-promised"
+    }
+  ]
+}

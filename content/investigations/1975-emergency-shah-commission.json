@@ -1,0 +1,145 @@
+{
+  "id": "KB-2503",
+  "slug": "1975-emergency-shah-commission",
+  "title": "The Emergency: Declared to Save the Nation From 'Internal Disturbance'. A Government-Ordered Inquiry Found No Such Crisis Existed",
+  "dek": "In June 1975, President Fakhruddin Ali Ahmed proclaimed a national Emergency citing threats from internal disturbance, days after a court found Prime Minister Indira Gandhi guilty of electoral malpractice. The Shah Commission of Inquiry, set up by the government that succeeded her, concluded the stated justification was not supported by the actual circumstances, and documented widespread press censorship and abuse of power during the 21-month Emergency.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 36,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1978-03-11",
+  "heroStat": {
+    "value": "21 months",
+    "label": "Duration of the national Emergency, from 25 June 1975 to 21 March 1977, during which fundamental rights were suspended and press pre-censorship was imposed"
+  },
+  "promise": {
+    "quote": "A grave emergency exists whereby the security of India is threatened by internal disturbance.",
+    "madeBy": "President Fakhruddin Ali Ahmed, on the advice of the Union government led by Prime Minister Indira Gandhi",
+    "role": "President of India, issuing the Emergency proclamation under Article 352 of the Constitution",
+    "date": "1975-06-25",
+    "context": "The proclamation came days after the Allahabad High Court found Indira Gandhi guilty of electoral malpractice in her 1971 election and disqualified her from holding elected office for six years, amid growing political protest against her government.",
+    "sourceIds": [
+      "src-emergency-britannica",
+      "src-emergency-pib"
+    ]
+  },
+  "target": {
+    "description": "A constitutional emergency provision intended to be invoked only in the face of a genuine, demonstrable threat to national security from internal disturbance, war or external aggression.",
+    "standard": "Article 352 of the Constitution of India, which conditions a national Emergency proclamation on the existence of an actual threat to security from war, external aggression or internal disturbance",
+    "referenceDate": "1975-06-25"
+  },
+  "reality": {
+    "description": "The Shah Commission of Inquiry, appointed by the Janata Party government that succeeded Indira Gandhi's after the Emergency ended, investigated the circumstances of its declaration and the conduct of the government during it. The Commission found that the situation in the country did not amount to the kind of internal disturbance that justified suspending the constitutional order, concluding that no genuine economic crisis, law-and-order collapse or comparable threat existed at the time, and that the Emergency was invoked substantially to protect Indira Gandhi's political position against legal and political challenge following the Allahabad High Court verdict. The Commission also documented the rise of significant extra-constitutional authority exercised by Sanjay Gandhi, with officials acting on informal instruction outside normal legal process. From 26 June 1975, pre-censorship was imposed on newspapers, requiring government clearance before publication of news, editorials and photographs; the Commission found that this censorship regime enabled abuses -- including mass detentions under preventive-detention laws and, separately and independently documented, a coercive family-planning sterilisation programme -- to occur with reduced public scrutiny and fewer avenues for victims to expose injustice. The Emergency was lifted and elections called in 1977, in which Indira Gandhi's Congress party was voted out.",
+    "asOfDate": "1978-03-11",
+    "sourceIds": [
+      "src-emergency-sentinel-shah",
+      "src-emergency-adr"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Stated constitutional threshold for an Article 352 Emergency versus the Shah Commission's finding on whether it was met",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Genuine, demonstrable threat to national security from internal disturbance",
+    "actualDisplay": "Shah Commission found no such crisis existed and attributed the Emergency substantially to protecting political authority",
+    "targetLabel": "Constitutional standard invoked",
+    "actualLabel": "Commission's finding",
+    "note": "This reflects the qualitative conclusion of a government-appointed commission of inquiry, not a numeric audit; its findings have been politically contested by supporters of the government that declared the Emergency."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1975-06-12",
+      "label": "Allahabad High Court verdict against Indira Gandhi",
+      "detail": "Justice Jagmohanlal Sinha finds Indira Gandhi guilty of electoral malpractice in her 1971 election campaign and voids her election.",
+      "type": "status"
+    },
+    {
+      "date": "1975-06-25",
+      "label": "National Emergency proclaimed",
+      "detail": "President Fakhruddin Ali Ahmed proclaims a national Emergency under Article 352, citing internal disturbance.",
+      "type": "announcement"
+    },
+    {
+      "date": "1975-06-26",
+      "label": "Press pre-censorship imposed",
+      "detail": "The government imposes pre-publication censorship on newspapers nationwide, requiring official clearance for news, editorials and photographs.",
+      "type": "status"
+    },
+    {
+      "date": "1977-03-21",
+      "label": "Emergency lifted after election defeat",
+      "detail": "Following Congress's defeat in the March 1977 general election, the Emergency is formally revoked.",
+      "type": "revision"
+    },
+    {
+      "date": "1978-03-11",
+      "label": "Shah Commission submits its findings",
+      "detail": "The Shah Commission of Inquiry, appointed by the Janata government, submits its report finding the Emergency's stated justification unsupported by the actual circumstances and documenting abuses of power during it.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Shah Commission was a government-appointed commission of inquiry, not a criminal court, and its findings and recommendations for prosecutions were largely not acted upon by subsequent governments; most individuals implicated in Emergency-era abuses were not criminally convicted. The episode remains a subject of significant ongoing political debate in India, with the Emergency's necessity and conduct viewed very differently across the political spectrum.",
+    "keyIndividuals": [
+      {
+        "name": "Indira Gandhi",
+        "role": "Prime Minister of India during the Emergency",
+        "outcome": "Was not criminally prosecuted over the Emergency's declaration or conduct; returned to power as Prime Minister in the 1980 general election after Congress's 1977 defeat"
+      },
+      {
+        "name": "Sanjay Gandhi",
+        "role": "Son of Indira Gandhi, identified by the Shah Commission as exercising significant extra-constitutional authority during the Emergency, including over the family-planning sterilisation programme",
+        "outcome": "Was not criminally convicted over Emergency-era conduct; died in a 1980 plane crash"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A government-appointed commission of inquiry concluded that the stated constitutional justification for the 1975 Emergency -- a threat to security from internal disturbance -- was not supported by the actual circumstances, and documented that press censorship and suspension of rights during the 21-month period enabled abuses of power that were harder for the public and courts to check at the time.",
+    "confidence": "high",
+    "reasoning": "The basic facts of the Emergency's declaration, duration, press censorship regime, and the Shah Commission's core findings are extensively documented and are not seriously disputed as historical fact, though political interpretation of those facts remains contested. Confidence is not higher because this entry has not directly reviewed the full multi-volume Shah Commission report, relying on secondary summaries and independent reporting."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the full Shah Commission report, relying on independent summaries and reporting of its findings.",
+    "The Emergency remains a politically contested topic in India; this entry presents the Shah Commission's own findings and does not adjudicate broader partisan debate about the period.",
+    "Specific allegations of mass detentions, custodial deaths and forced sterilisations during the Emergency are extensively documented elsewhere but are not independently itemised or verified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-emergency-britannica",
+      "label": "The Emergency | India, 1975, Indira Gandhi, History, & Facts",
+      "type": "independent",
+      "publisher": "Encyclopaedia Britannica",
+      "date": "2024-01-01",
+      "url": "https://www.britannica.com/event/the-Emergency-India"
+    },
+    {
+      "id": "src-emergency-pib",
+      "label": "The Emergency in India",
+      "type": "primary",
+      "publisher": "Press Information Bureau, Government of India",
+      "date": "2024-01-01",
+      "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=149224&reg=48&lang=2"
+    },
+    {
+      "id": "src-emergency-sentinel-shah",
+      "label": "The 1975 Emergency's brutal record: What the Shah Commission revealed",
+      "type": "independent",
+      "publisher": "The Sentinel (Assam)",
+      "date": "2025-06-25",
+      "url": "https://www.sentinelassam.com/more-news/editorial/the-1975-emergencys-brutal-record-what-the-shah-commission-revealed"
+    },
+    {
+      "id": "src-emergency-adr",
+      "label": "Samvidhan Hatya Diwas: How Congress muzzled freedom of Press during 1975 National Emergency",
+      "type": "independent",
+      "publisher": "Association for Democratic Reforms",
+      "date": "2024-06-25",
+      "url": "https://adrindia.org/content/national-emergency-1975-how-congress-muzzled-freedom-of-press"
+    }
+  ]
+}

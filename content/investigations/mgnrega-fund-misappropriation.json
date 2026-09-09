@@ -1,0 +1,147 @@
+{
+  "id": "KB-009",
+  "slug": "mgnrega-fund-misappropriation",
+  "title": "MGNREGA Fund Misappropriation",
+  "dek": "India's rural jobs guarantee scheme is meant to pay real wages to real workers for real work done. The government's own vigilance audits keep finding fake job cards, ghost workers, and payments to the dead — and recovery of the misused money is minimal.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "minor",
+  "severityRank": 261,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2024-01-01",
+  "heroStat": {
+    "value": "12.3%",
+    "label": "of identified nationwide misappropriation actually recovered, as of March 2025"
+  },
+  "promise": {
+    "quote": "Every rural household that demands work under the Mahatma Gandhi National Rural Employment Guarantee Act will be given 100 days of guaranteed wage employment, with wages paid for genuine work actually performed.",
+    "madeBy": "Ministry of Rural Development, Government of India",
+    "role": "Union ministry administering MGNREGA, a statutory rural employment guarantee scheme enacted in 2005",
+    "date": "2006-02-02",
+    "context": "MGNREGA guarantees up to 100 days of paid manual work per rural household per year, funded by the central government and implemented through state governments and local panchayats.",
+    "sourceIds": [
+      "src-mgnrega-vigilance"
+    ]
+  },
+  "target": {
+    "description": "Wages paid only to genuine, verified job-card holders for work actually performed and measured, with funds tracked and any misuse promptly identified and recovered.",
+    "standard": "MGNREGA's own statutory framework, including mandatory social audits and the scheme's financial management guidelines.",
+    "referenceDate": "2006-02-02"
+  },
+  "reality": {
+    "description": "A vigilance audit by the Ministry of Rural Development itself found over 11 lakh instances of financial and administrative irregularities across 55 districts in 25 states and union territories, amounting to more than ₹300 crore in flagged misuse, including fake job cards, ghost worksites, and wages paid in the names of deceased beneficiaries. Separately, nationally tracked figures show total identified financial misappropriation of ₹169.75 crore as of 29 March 2025, of which only ₹20.93 crore — about 12.3% — had been recovered. State-level findings vary in scale: Karnataka's Raichur district alone saw a social audit flag about ₹200 crore in irregularities on specific projects, and a union minister told Parliament that West Bengal had issued roughly 25 lakh fake job cards, a claim this investigation reports as a ministerial statement rather than an independently verified figure.",
+    "asOfDate": "2025-03-29",
+    "sourceIds": [
+      "src-mgnrega-vigilance",
+      "src-mgnrega-recovery",
+      "src-mgnrega-karnataka"
+    ]
+  },
+  "gap": {
+    "metricLabel": "National financial misappropriation identified vs. actually recovered (as of March 2025)",
+    "unit": "₹ crore",
+    "targetValue": 169.75,
+    "actualValue": 20.93,
+    "targetDisplay": "₹169.75 cr misappropriation identified",
+    "actualDisplay": "₹20.93 cr recovered (~12.3%)",
+    "targetLabel": "Identified",
+    "actualLabel": "Recovered",
+    "note": "This ₹169.75 crore figure is the nationally tracked misappropriation total as of a specific date (29 March 2025) and is a different, narrower figure from the ₹300 crore+ flagged separately by the ministry's own multi-state vigilance audit — the two use different scopes and time windows and should not be added together."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 169.75,
+    "allocatedLabel": "National misappropriation identified (as of Mar 2025)",
+    "released": 20.93,
+    "releasedLabel": "Amount recovered",
+    "spent": null,
+    "spentLabel": "Amount still outstanding",
+    "unit": "crore",
+    "notes": "These figures come from nationally tracked misappropriation data as of a specific reporting date; they are far smaller in scale than the headline national scandals on this site, which is exactly why this case sits at the 'smaller issue' end of this list — the concern here is a low, persistent recovery rate on a large number of small, geographically scattered incidents, not one giant scandal.",
+    "sourceIds": [
+      "src-mgnrega-recovery"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2006-02-02",
+      "label": "MGNREGA launched",
+      "detail": "The scheme comes into force, guaranteeing up to 100 days of rural wage employment per household per year.",
+      "type": "announcement"
+    },
+    {
+      "date": "2015-01-01",
+      "label": "Social audits become a routine mechanism",
+      "detail": "Independent social audits, mandated by the Act, begin more systematically surfacing local-level irregularities across states.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "West Bengal fake job cards flagged",
+      "detail": "A union minister tells Parliament roughly 25 lakh fake job cards had been issued in West Bengal under the scheme, with a CBI probe under consideration.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-29",
+      "label": "National misappropriation figure stands at ₹169.75 crore",
+      "detail": "Of this, only ₹20.93 crore had been recovered nationally.",
+      "type": "status"
+    },
+    {
+      "date": "2026-04-07",
+      "label": "Karnataka systemic failures flagged",
+      "detail": "Reporting on a CAG-linked review describes systemic misappropriation in Karnataka's implementation of the scheme, including the Raichur district findings.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is not one prosecutable case but a pattern of recurring, geographically scattered irregularities identified through the scheme's own audit mechanisms. Some individual cases have led to local action (for example, two people booked in the Raichur, Karnataka findings); there is no single national criminal case or verdict to report.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The government's own audit machinery — not outside critics — has repeatedly confirmed fake job cards, ghost beneficiaries, and payments to the dead within MGNREGA. What stands out is not any single large theft but a chronic, low recovery rate: only about one rupee in eight of identified nationwide misappropriation has actually been recovered, a pattern found consistently enough across states to call systemic rather than incidental.",
+    "confidence": "medium",
+    "reasoning": "The core finding — persistent irregularities and low recovery — is confirmed directly by the implementing ministry's own vigilance data, which is about as strong a source as this kind of claim can have. Confidence is not 'high' because the West Bengal fake-job-card figure rests on a single ministerial statement rather than a published audit, and this investigation could not fully reconcile the different national and state-level figures into one consistent picture."
+  },
+  "incomplete": [
+    "The relationship between the ministry's multi-state vigilance-audit figure (over ₹300 crore across 55 districts) and the separately tracked national misappropriation figure (₹169.75 crore as of March 2025) is not clearly reconciled in available public reporting.",
+    "The West Bengal '25 lakh fake job cards' figure comes from a single ministerial statement in Parliament and has not been independently corroborated by a published audit for this investigation.",
+    "It is not established what share of the ₹300 crore+ in vigilance-audit findings has led to any recovery or disciplinary action, as distinct from the narrower ₹169.75 crore figure that does have a tracked recovery rate."
+  ],
+  "sources": [
+    {
+      "id": "src-mgnrega-vigilance",
+      "label": "CAG Audit Exposes Major Irregularities in MGNREGA Implementation Across Odisha",
+      "type": "independent",
+      "publisher": "Down To Earth",
+      "date": "2025-01-01",
+      "url": "https://www.downtoearth.org.in/governance/cag-audit-finds-gross-irregularities-in-implementation-of-mgnrega-across-odisha"
+    },
+    {
+      "id": "src-mgnrega-recovery",
+      "label": "MGNREGA Faces Widespread Scrutiny As Audit Uncovers Fake Projects, Corruption And Payments To The Deceased",
+      "type": "independent",
+      "publisher": "The Hans India",
+      "date": "2025-04-01",
+      "url": "https://www.thehansindia.com/news/national/mgnrega-faces-widespread-scrutiny-as-audit-uncovers-fake-projects-corruption-and-payments-to-the-deceased-1039777"
+    },
+    {
+      "id": "src-mgnrega-karnataka",
+      "label": "Karnataka social audit report exposes ₹200-crore irregularities in Raichur MGNREGA projects; 2 booked",
+      "type": "independent",
+      "publisher": "The South First",
+      "date": "2026-01-01",
+      "url": "https://thesouthfirst.com/karnataka/karnataka-social-audit-report-exposes-%E2%82%B9200-crore-irregularities-in-raichur-mgnrega-projects-2-booked/"
+    },
+    {
+      "id": "src-mgnrega-wb",
+      "label": "25 lakh fake job cards issued in West Bengal under MGNREGA, Centre considering CBI probe: Giriraj [Singh]",
+      "type": "independent",
+      "publisher": "Careers360 News",
+      "date": "2024-01-01",
+      "url": "https://news.careers360.com/25-lakh-fake-job-cards-issued-in-west-bengal-under-mgnrega-centre-considering-cbi-probe-giriraj"
+    }
+  ]
+}

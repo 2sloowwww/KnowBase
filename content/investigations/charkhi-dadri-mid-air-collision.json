@@ -1,0 +1,95 @@
+{
+  "id": "KB-2010",
+  "slug": "charkhi-dadri-mid-air-collision",
+  "title": "The Charkhi Dadri Mid-Air Collision",
+  "dek": "Indian air traffic control guaranteed vertical separation between two aircraft sharing the same narrow air corridor into Delhi. It failed to hold, and 349 people died in what remains the deadliest mid-air collision in aviation history — a disaster that took India's aviation regulator years to fully act on.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 76,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1996-11-12",
+  "heroStat": {
+    "value": "349",
+    "label": "people killed when Saudi Arabian Airlines Flight 763 and Kazakhstan Airlines Flight 1907 collided mid-air near Charkhi Dadri, Haryana"
+  },
+  "promise": {
+    "quote": "Aircraft operating on converging or crossing tracks in Indian-controlled airspace will be kept safely separated by air traffic control, with each aircraft maintaining its assigned altitude.",
+    "madeBy": "Indian air traffic control (Delhi Air Traffic Control) and the Directorate General of Civil Aviation (DGCA)",
+    "role": "Government authorities responsible for air traffic separation and civil aviation safety oversight in Indian airspace",
+    "date": "1996-11-12",
+    "context": "Delhi's airspace at the time relied on a single narrow corridor shared by arriving and departing traffic on similar tracks, with vertical separation as the primary safeguard between opposite-direction flights at different assigned altitudes.",
+    "sourceIds": [
+      "src-charkhi-wiki"
+    ]
+  },
+  "target": {
+    "description": "Reliable vertical and lateral separation maintained between aircraft on conflicting tracks, enforced through clear air traffic control instructions, effective radio communication, and (as later mandated) onboard collision-avoidance systems.",
+    "standard": "International Civil Aviation Organization (ICAO) standards for air traffic separation and communication in controlled airspace.",
+    "referenceDate": "1996-11-12"
+  },
+  "reality": {
+    "description": "On 12 November 1996, Saudi Arabian Airlines Flight 763, departing Delhi at an assigned altitude of 14,000 feet, collided head-on with Kazakhstan Airlines Flight 1907, an Ilyushin Il-76 inbound to Delhi that had been assigned 15,000 feet but had descended below that altitude — to 14,500 feet and then lower — in violation of air traffic control instructions. India's court of inquiry found the primary cause was the Kazakh crew's descent below its assigned altitude, attributing this in part to the crew's limited English proficiency, which left them dependent on their radio operator to relay ATC instructions, compounded by breakdowns in cockpit crew resource management. All 349 people aboard both aircraft were killed, making it the deadliest mid-air collision and the second-deadliest aviation accident in history at the time. Following the disaster, the DGCA mandated that all public-transport aircraft operating in Indian airspace be fitted with Airborne Collision Avoidance Systems (ACAS), equivalent to TCAS II, by 1 January 1999 — a safety mandate that, while eventually implemented, took over two years to come into force after the crash that prompted it.",
+    "asOfDate": "1999-01-01",
+    "sourceIds": [
+      "src-charkhi-wiki"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time from the collision to India's mandatory collision-avoidance system (TCAS) deadline",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 2,
+    "targetDisplay": "Immediate mandate expected after a fatal collision",
+    "actualDisplay": "~2 years to TCAS mandate deadline",
+    "targetLabel": "Time to safety-standard mandate",
+    "actualLabel": "Actual time taken",
+    "note": "TCAS technology already existed and was in growing international use before 1996; this gap reflects the time India's regulator took to make it mandatory even after a collision it would very likely have prevented."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1996-11-12",
+      "label": "Mid-air collision near Charkhi Dadri",
+      "detail": "Saudi Arabian Airlines Flight 763 and Kazakhstan Airlines Flight 1907 collide over Charkhi Dadri, Haryana, killing all 349 people aboard both aircraft.",
+      "type": "milestone"
+    },
+    {
+      "date": "1997-01-01",
+      "label": "Court of inquiry investigates",
+      "detail": "An Indian court of inquiry investigates the collision, ultimately attributing it primarily to the Kazakh aircraft's unauthorised descent below its assigned altitude.",
+      "type": "status"
+    },
+    {
+      "date": "1999-01-01",
+      "label": "TCAS II mandate takes effect",
+      "detail": "The DGCA's requirement for Airborne Collision Avoidance Systems on all public-transport aircraft in Indian airspace becomes mandatory.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was investigated as an aviation safety disaster through India's court-of-inquiry process rather than through a criminal prosecution against any individual; this entry has not found confirmation of any criminal charges filed against surviving personnel or air traffic controllers, nor of any compensation litigation outcomes."
+  },
+  "verdict": {
+    "summary": "A real, well-documented, and still historically significant governance failure: a promised standard of guaranteed aircraft separation broke down through a combination of a pilot's non-compliant descent, a language and communication gap, and — critically — India's own regulatory choice, at the time, not to require onboard collision-avoidance technology that could very likely have prevented the disaster even after the descent occurred. The DGCA's mandate came only after, not before, the crash.",
+    "confidence": "high",
+    "reasoning": "The facts of the collision, the court of inquiry's findings on cause, the casualty count, and the DGCA's subsequent TCAS mandate are extensively documented and cross-corroborated in aviation-safety literature and encyclopedic sources; this entry did not, however, review the original court-of-inquiry report or DGCA circular directly."
+  },
+  "incomplete": [
+    "This entry has not reviewed the original Indian court-of-inquiry report or the DGCA's TCAS-mandating circular directly — it relies on secondary summaries of their findings.",
+    "Any compensation paid to victims' families, and by whom, has not been confirmed for this entry.",
+    "Whether any individual air traffic controllers or officials faced disciplinary or legal consequences beyond the systemic TCAS mandate has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-charkhi-wiki",
+      "label": "1996 Charkhi Dadri mid-air collision",
+      "type": "independent",
+      "publisher": "Wikipedia, citing Indian court of inquiry findings and contemporaneous aviation-safety reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/1996_Charkhi_Dadri_mid-air_collision"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "KB-2003",
+  "slug": "nk-proteins-nsel-default",
+  "title": "NK Proteins — The Largest Single Defaulter in the NSEL Scam",
+  "dek": "Within the broader National Spot Exchange collapse, one Gujarat cottonseed-oil company alone owed nearly ₹1,000 crore — the single largest default on the exchange's books, and a case study in how one trader's borrowing drove the wider payment crisis.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 161,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2013-09-04",
+  "heroStat": {
+    "value": "₹970 cr",
+    "label": "outstanding liability owed by NK Proteins Ltd. to the National Spot Exchange as of October 2013 — the largest of any of the 24 defaulting members"
+  },
+  "promise": {
+    "quote": "Contracts traded on the National Spot Exchange, including those transacted by member-borrowers such as NK Proteins, will be backed by genuine, collateralised commodity stock as required for a spot exchange.",
+    "madeBy": "National Spot Exchange Ltd. (NSEL), with NK Proteins Ltd. as its largest member-borrower",
+    "role": "NK Proteins was a Gujarat-based cottonseed and edible-oil processor (market leader in Gujarat cottonseed oil under its Tirupati brand) that borrowed through NSEL's paired contracts",
+    "date": "2013-07-31",
+    "context": "NK Proteins, promoted by Nilesh Patel — son-in-law of NSEL's then chairman Shankarlal Guru — was one of 24 NSEL members whose paired long-short contracts were later found by regulators to function as unsecured borrowing rather than genuine, collateralised commodity trades.",
+    "sourceIds": [
+      "src-nkp-biggest-defaulter"
+    ]
+  },
+  "target": {
+    "description": "Borrowing on the exchange backed by verified, collateralised commodity inventory, with no member permitted to build an outsized, effectively unsecured exposure to the exchange's payment system.",
+    "standard": "Forward Contracts (Regulation) Act norms and NSEL's own exchange rules requiring genuine, stock-backed contracts.",
+    "referenceDate": "2013-07-31"
+  },
+  "reality": {
+    "description": "When NSEL suspended trading on 31 July 2013, NK Proteins was identified as the single largest defaulter among the exchange's 24 defaulting members, with a net outstanding liability reported at ₹969.89 crore as of 15 October 2013 — against a total exchange-wide default of roughly ₹5,600 crore. Mumbai Police's Economic Offences Wing (EOW) arrested Nilesh Patel, NK Proteins' promoter, around 22 October 2013, and separately moved in November 2013 to attach properties belonging to the company to help recover dues owed to NSEL's roughly 13,000 affected investors and traders. Later press reports referenced further custody proceedings against him in subsequent years, which this entry has not independently verified.",
+    "asOfDate": "2013-11-22",
+    "sourceIds": [
+      "src-nkp-biggest-defaulter",
+      "src-nkp-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "NK Proteins' outstanding liability to NSEL vs. confirmed recovery",
+    "unit": "INR crore",
+    "targetValue": 970,
+    "actualValue": 0,
+    "targetDisplay": "₹969.89 cr owed, Oct 2013",
+    "actualDisplay": "No confirmed full recovery found",
+    "targetLabel": "Outstanding liability",
+    "actualLabel": "Recovery confirmed by this entry",
+    "note": "This entry did not find a confirmed figure for how much of NK Proteins' specific liability was ultimately recovered by NSEL or its creditors, as distinct from exchange-wide recovery efforts covering all 24 defaulters."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 970,
+    "allocatedLabel": "NK Proteins' outstanding liability to NSEL, reported as of 15 October 2013",
+    "unit": "crore",
+    "notes": "This figure covers only NK Proteins' individual exposure and is a subset of the NSEL-wide default reported at roughly ₹5,574–5,600 crore across all 24 defaulting members, covered separately in this site's main NSEL scam entry.",
+    "sourceIds": [
+      "src-nkp-biggest-defaulter"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2013-07-31",
+      "label": "NSEL suspends trading",
+      "detail": "The exchange-wide payment crisis becomes public; NK Proteins is subsequently identified as a defaulting member.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-09-04",
+      "label": "NK Proteins named biggest defaulter",
+      "detail": "Financial press reporting identifies NK Proteins as the largest single defaulter among NSEL's 24 defaulting members.",
+      "type": "status"
+    },
+    {
+      "date": "2013-10-15",
+      "label": "Outstanding liability confirmed at ₹969.89 crore",
+      "detail": "NK Proteins' net outstanding liability to NSEL is reported at this figure as of this date.",
+      "type": "status"
+    },
+    {
+      "date": "2013-11-22",
+      "label": "EOW moves to attach NK Proteins' properties",
+      "detail": "Mumbai Police's Economic Offences Wing seeks to attach company assets to aid recovery for NSEL investors and traders.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-10-22",
+      "label": "Nilesh Patel arrested",
+      "detail": "NK Proteins' promoter is arrested by the EOW and remanded to police custody as the largest identified NSEL defaulter.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "NK Proteins' promoter Nilesh Patel was arrested in 2014 in connection with the NSEL default; this entry did not find confirmation of a final court verdict specific to NK Proteins as distinct from the broader, still-unresolved NSEL prosecution covered in this site's main NSEL scam entry.",
+    "keyIndividuals": [
+      {
+        "name": "Nilesh Patel",
+        "role": "Promoter and managing director, NK Proteins Ltd.",
+        "outcome": "Arrested by Mumbai EOW in October 2013 as the identified largest NSEL defaulter, with later press reports referencing further custody proceedings in subsequent years; final case outcome not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Within the wider NSEL collapse, NK Proteins stands out as the single largest individual defaulter — its near-₹970 crore exposure was, on its own, roughly a sixth of the entire exchange-wide default. This entry treats it as a distinct, well-documented sub-case worth tracking separately from the exchange-wide NSEL story already covered on this site.",
+    "confidence": "medium",
+    "reasoning": "The ₹969.89 crore figure and Nilesh Patel's arrest are documented in contemporaneous Business Standard and DeshGujarat reporting citing EOW and exchange data; this entry has not reviewed a primary EOW chargesheet or court order directly, and could not confirm the case's final legal outcome."
+  },
+  "incomplete": [
+    "The final outcome of criminal proceedings against Nilesh Patel and NK Proteins has not been confirmed as of a recent date, and press reports of custody proceedings in later years (2014-2015) have not been reconciled with the October 2013 arrest date used here.",
+    "The amount, if any, specifically recovered from NK Proteins (as distinct from exchange-wide NSEL recovery efforts) has not been confirmed.",
+    "Whether NK Proteins' liability figure was later revised in subsequent EOW or court filings has not been checked beyond the October 2013 figure cited here."
+  ],
+  "sources": [
+    {
+      "id": "src-nkp-biggest-defaulter",
+      "label": "NK Proteins: The biggest defaulter in NSEL's books",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2013-09-04",
+      "url": "https://www.business-standard.com/article/markets/nk-proteins-the-biggest-defaulter-in-nsel-s-books-113090401221_1.html"
+    },
+    {
+      "id": "src-nkp-arrest",
+      "label": "Tirupati oil fame NK Proteins MD Nilesh Patel arrested",
+      "type": "independent",
+      "publisher": "DeshGujarat",
+      "date": "2013-10-22",
+      "url": "https://deshgujarat.com/2013/10/22/tirupati-oil-fame-nk-proteins-md-nilesh-patel-arrested/"
+    }
+  ]
+}

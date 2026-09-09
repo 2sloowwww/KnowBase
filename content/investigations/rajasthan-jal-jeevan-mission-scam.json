@@ -1,0 +1,141 @@
+{
+  "id": "KB-3018",
+  "slug": "rajasthan-jal-jeevan-mission-scam",
+  "title": "The Rajasthan Jal Jeevan Mission Tendering Scam",
+  "dek": "India's flagship scheme to pipe drinking water to every rural household was supposed to run on competitive, verified tenders. In Rajasthan, contractors allegedly won pipeline and tap-connection contracts worth hundreds of crores using forged certificates from a state-run engineering firm, with a serving minister accused of taking bribes to fix the process.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 193,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2023-08-01",
+  "heroStat": {
+    "value": "₹900+ cr",
+    "label": "value of Rajasthan Public Health Engineering Department tenders under investigation for alleged fraud and bribery in Jal Jeevan Mission contracts"
+  },
+  "promise": {
+    "quote": "Every rural household in India will receive a functional tap water connection by 2024, delivered through transparent, competitively tendered contracts for pipelines, pumps and household connections.",
+    "madeBy": "Government of India (Jal Jeevan Mission, Ministry of Jal Shakti) and the Government of Rajasthan's Public Health Engineering Department (PHED), which implemented the scheme in the state",
+    "role": "Central and state authorities jointly responsible for planning, tendering and executing the rural piped water scheme",
+    "date": "2021-01-01",
+    "context": "Between 2021 and 2023, Rajasthan's PHED awarded a series of tenders worth over Rs 900 crore for pipeline-laying, pump installation and household tap connections across multiple districts under the Jal Jeevan Mission.",
+    "sourceIds": [
+      "src-jjm-theprint"
+    ]
+  },
+  "target": {
+    "description": "Jal Jeevan Mission tenders awarded on genuine, verified contractor eligibility and competitive bidding, executed with real infrastructure delivering functional household tap connections, free of bribery or forged documentation.",
+    "standard": "Jal Jeevan Mission guidelines and Rajasthan's public procurement rules for PHED tenders.",
+    "referenceDate": "2021-01-01"
+  },
+  "reality": {
+    "description": "Investigators allege that Jaipur-based contractors used fake work-completion certificates purportedly issued by the state-run Indian Railway Construction International Limited (IRCON) to qualify for PHED tenders they were not otherwise eligible for, and paid bribes to public servants to secure tenders and get inflated bills sanctioned. Following an eight-month preliminary enquiry that began in August 2023, the CBI registered a formal FIR in May 2024 against an executive engineer and contractors, alleging criminal conspiracy, forgery and cheating in tenders worth around Rs 900 crore. The Enforcement Directorate separately pursued a money-laundering angle, arresting several contractors and, in 2024, former Congress minister Mahesh Joshi, who had held the PHED portfolio, in connection with the alleged scam. As of the most recent reporting reviewed, the case remained under investigation and trial, with the CAG separately having flagged broader Jal Jeevan Mission implementation failures nationally, including supply of contaminated or non-potable water despite reported new connections.",
+    "asOfDate": "2024-05-01",
+    "sourceIds": [
+      "src-jjm-theprint",
+      "src-jjm-deccan"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Tender value under investigation vs. verified genuine eligibility of winning contractors",
+    "unit": "₹ crore",
+    "targetValue": 900,
+    "actualValue": 0,
+    "targetDisplay": "₹900+ crore in tenders meant to be awarded to genuinely eligible, competitively selected contractors",
+    "actualDisplay": "CBI alleges the eligibility certificates underlying these tenders were forged",
+    "targetLabel": "Promised",
+    "actualLabel": "Alleged actual",
+    "note": "The Rs 900 crore figure reflects the reported scale of tenders under investigation, not a court-confirmed loss figure; the allegations are, as of the most recent reporting, unproven in court."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 900,
+    "allocatedLabel": "Approximate value of PHED tenders under CBI investigation",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "This figure describes the scale of tenders under investigation as reported by multiple outlets; it is not a court-established loss or fraud amount, and the case remains at the investigation and trial stage.",
+    "sourceIds": [
+      "src-jjm-theprint"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-01-01",
+      "label": "PHED tenders awarded",
+      "detail": "Rajasthan's Public Health Engineering Department awarded a series of tenders for pipelines, pumps and household taps under the Jal Jeevan Mission.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-08-01",
+      "label": "CBI preliminary enquiry begins",
+      "detail": "The CBI opened an eight-month preliminary enquiry into alleged irregularities in the Jal Jeevan Mission tenders in Rajasthan.",
+      "type": "status"
+    },
+    {
+      "date": "2024-05-01",
+      "label": "CBI registers formal FIR",
+      "detail": "The CBI booked an executive engineer and contractors for criminal conspiracy, forgery and cheating over tenders worth around Rs 900 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-01",
+      "label": "ED arrests contractors and a former minister",
+      "detail": "The Enforcement Directorate arrested several contractors and former PHED minister Mahesh Joshi in a related money-laundering investigation.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CBI has registered an FIR and the Enforcement Directorate has made multiple arrests, including of a former state minister, but as of the most recent reporting reviewed the case remains at the investigation stage with no trial verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Mahesh Joshi",
+        "role": "Former Rajasthan minister who held the Public Health Engineering Department portfolio",
+        "outcome": "Arrested by the Enforcement Directorate in 2024 in connection with the alleged Jal Jeevan Mission tendering scam; case under trial, no conviction as of the most recent reporting reviewed."
+      },
+      {
+        "name": "Contractors and a PHED executive engineer",
+        "role": "Named in the CBI's May 2024 FIR",
+        "outcome": "Booked for criminal conspiracy, forgery and cheating; case under investigation and trial as of the most recent reporting reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That fraudulent eligibility documents and bribery allegedly underpinned a large share of Rajasthan's Jal Jeevan Mission tenders is a serious, actively investigated allegation backed by a formal CBI FIR and ED arrests, not yet a judicially settled fact. No trial verdict has been reported, and the accused, including the former minister, are presumed innocent.",
+    "confidence": "medium",
+    "reasoning": "The CBI FIR, ED arrests and the roughly Rs 900 crore tender figure are corroborated across multiple independent Indian outlets, but the case remains under investigation and trial, so the ultimate truth of the specific fraud and bribery allegations against each individual has not yet been judicially determined."
+  },
+  "incomplete": [
+    "No trial verdict has been reported for any of the accused, including former minister Mahesh Joshi; all remain presumed innocent pending trial.",
+    "The precise amount of any bribes paid, as distinct from the total tender value under investigation, was not established with confidence in sources reviewed.",
+    "The current operational status of the tap connections built under these contested tenders (i.e. whether households are actually receiving water) was not independently verified for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-jjm-theprint",
+      "label": "The making of Rs 960 crore Rajasthan Jal Jeevan Mission scam that triggered manhunt for ex-IAS",
+      "type": "independent",
+      "publisher": "The Print",
+      "date": "2024-05-20",
+      "url": "https://theprint.in/india/the-making-of-rs-960-crore-rajasthan-jal-jeevan-mission-scam-that-triggered-manhunt-for-ex-ias/2882567/"
+    },
+    {
+      "id": "src-jjm-drishti",
+      "label": "Jal Jeevan Mission Scam in Rajasthan",
+      "type": "independent",
+      "publisher": "Drishti IAS",
+      "date": "2024-05-01",
+      "url": "https://www.drishtiias.com/state-pcs-current-affairs/jal-jeevan-mission-scam-in-rajasthan"
+    },
+    {
+      "id": "src-jjm-deccan",
+      "label": "ED makes third arrest in Rajasthan's Jal Jeevan Mission irregularities case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-06-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Frajasthan%2Fed-makes-third-arrest-in-rajasthans-jal-jeevan-mission-irregularities-case-3073511"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "KB-1503",
+  "slug": "concast-steel-power-bank-fraud",
+  "title": "The Concast Steel & Power Bank Fraud",
+  "dek": "A Kolkata industrialist allegedly built a ₹6,200-crore 'paper empire' of 60 shell companies to fake sales and win loans from a bank consortium — with a former UCO Bank chairman accused of taking a cut to keep the credit flowing.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 150,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-07-01",
+  "heroStat": {
+    "value": "₹6,210 cr",
+    "label": "in bank losses alleged, against roughly ₹434 cr recovered through asset liquidation so far"
+  },
+  "promise": {
+    "quote": "Credit facilities extended to Concast Steel & Power Ltd will be repaid according to sanctioned terms, based on accurately reported stock, sales, and production.",
+    "madeBy": "Concast Steel & Power Ltd, under promoter Sanjay Sureka",
+    "role": "Kolkata-based iron and steel company; borrower from a consortium of public sector banks",
+    "date": "2016-09-30",
+    "context": "The company availed credit facilities from 11 public sector banks and five financial institutions before turning into a non-performing asset on 30 September 2016.",
+    "sourceIds": [
+      "src-concast-the420"
+    ]
+  },
+  "target": {
+    "description": "Loans backed by genuine, verifiable stock, sales, and production data, with bank officials exercising independent, non-corrupt credit appraisal and monitoring.",
+    "standard": "RBI prudential lending norms and standard bank consortium credit-monitoring practice.",
+    "referenceDate": "2016-09-30"
+  },
+  "reality": {
+    "description": "The CBI and ED allege that Sanjay Sureka created a network of nearly 60 shell companies to project a fictional turnover running into thousands of crores, using fake sales, purchase, and transport documents to show production and sales volumes that did not exist, securing loans from a consortium of government-owned banks that eventually defaulted at over ₹6,210 crore. S.K. Goel, a former Chairman and Managing Director of UCO Bank (2007–2010), was arrested in connection with allegedly taking bribes to keep credit flowing to the group; his family members and associates have had assets attached. Sureka and associates were arrested in December 2024 after the ED initiated money-laundering proceedings based on the CBI's FIR. The ED has continued attaching Sureka's and Goel's assets through 2025 and early 2026, and conducted fresh raids in Kolkata and Howrah, though asset liquidation had recovered only around ₹434 crore against the total default as of the most recent reporting reviewed.",
+    "asOfDate": "2026-01-01",
+    "sourceIds": [
+      "src-concast-the420",
+      "src-concast-opindia",
+      "src-concast-moneylife"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total alleged bank losses vs. amount recovered through asset liquidation",
+    "unit": "₹ crore",
+    "targetValue": 6210,
+    "actualValue": 434,
+    "targetDisplay": "₹6,210 cr alleged losses",
+    "actualDisplay": "~₹434 cr recovered",
+    "targetLabel": "Alleged bank losses",
+    "actualLabel": "Recovered",
+    "note": "Recovery figure is drawn from a single report and may not reflect the most current total; this investigation has not independently confirmed a more recent recovery tally."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹6,210.7 crore in bank losses is alleged (excluding interest); the ED has attached over ₹133 crore in Sureka's assets, ₹210 crore in immovable property attached earlier, and over ₹106 crore linked to Goel's family and associates.",
+    "sourceIds": [
+      "src-concast-moneylife",
+      "src-concast-the420"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016-09-30",
+      "label": "Account turns NPA",
+      "detail": "Concast Steel & Power's loan account is classified as a non-performing asset after alleged large-scale fund diversion.",
+      "type": "status"
+    },
+    {
+      "date": "2019-07-01",
+      "label": "Fraud reported to banks",
+      "detail": "Consortium banks flag the account as fraudulent, setting the stage for a CBI referral.",
+      "type": "status"
+    },
+    {
+      "date": "2024-12-01",
+      "label": "Sureka and associates arrested",
+      "detail": "The ED arrests Sanjay Sureka and associates after opening money-laundering proceedings based on the CBI's FIR.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-05-16",
+      "label": "Former UCO Bank CMD arrested",
+      "detail": "S.K. Goel is arrested at his New Delhi residence over alleged bribes taken to sustain credit to the group.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-02-01",
+      "label": "Immovable property attached",
+      "detail": "The ED attaches immovable properties worth ₹210.07 crore under the PMLA.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Further asset attachments and raids",
+      "detail": "The ED attaches additional assets worth ₹133.09 crore and conducts fresh raids in Kolkata and Howrah.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Sanjay Sureka and S.K. Goel have both been arrested; multiple rounds of asset attachment have followed. No chargesheet-stage or trial outcome is confirmed in the sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjay Sureka",
+        "role": "Promoter, Concast Steel & Power Ltd",
+        "outcome": "Arrested by the ED in December 2024; case under investigation, no trial verdict reported."
+      },
+      {
+        "name": "S.K. Goel",
+        "role": "Former Chairman and Managing Director, UCO Bank",
+        "outcome": "Arrested in May 2025 over alleged bribes linked to the case; no trial verdict reported."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: investigators allege a sustained, decade-long scheme combining shell-company fabrication with an alleged banker payoff, but recovery for the defrauded banks remains a small fraction of the alleged loss, and no court has yet ruled on guilt.",
+    "confidence": "low",
+    "reasoning": "This entry synthesises several independent reports spanning 2024 through early 2026 but has not independently verified the shell-company structure or obtained primary CBI/ED filings."
+  },
+  "incomplete": [
+    "This is a stub entry; the full list of 60 alleged shell companies and their individual roles has not been documented here.",
+    "The most recent recovery/asset-liquidation total beyond the ~₹434 crore figure cited in early-2026 reporting has not been confirmed.",
+    "Whether a chargesheet has been filed against Sureka, Goel, or other accused has not been established."
+  ],
+  "sources": [
+    {
+      "id": "src-concast-the420",
+      "label": "₹6,200-Crore Bank Scam: 'Paper Empire' Built Through a Web of 60 Shell Firms",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2026-01-01",
+      "url": "https://the420.in/6200-crore-bank-scam-paper-empire-60-shell-firms-uco-bank-cmd-sureka/"
+    },
+    {
+      "id": "src-concast-opindia",
+      "label": "6200 crore loan scam: How Sanjay Sureka and UCO Bank's SK Goel looted a consortium of PSUs for years before being caught",
+      "type": "independent",
+      "publisher": "OpIndia",
+      "date": "2026-01-01",
+      "url": "https://www.opindia.com/2026/01/uco-banks-former-cmd-amassed-100-crores-by-helping-a-corrupt-industrialist-get-loans-worth-6200-crores-through-shell-companies-how-ed-busted-the-scam/"
+    },
+    {
+      "id": "src-concast-moneylife",
+      "label": "Rs6,210 Crore Bank Fraud Case: ED Attaches Rs133 Crore Assets of Concast Steel and Power Promoter Sanjay Sureka",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2025-12-01",
+      "url": "https://www.moneylife.in/article/rs6210-crore-bank-fraud-case-ed-attaches-rs133-crore-assets-of-concast-steel-and-power-promoter-sanjay-sureka/78579.html"
+    },
+    {
+      "id": "src-concast-dh",
+      "label": "ED conducts raids in Kolkata, Howrah in Rs 6,000-crore bank fraud case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2026-01-01",
+      "url": "https://www.deccanherald.com/india/west-bengal/ed-conducts-raids-in-kolkata-howrah-in-rs-6000-crore-bank-fraud-case-3358067"
+    }
+  ]
+}

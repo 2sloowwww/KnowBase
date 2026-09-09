@@ -1,0 +1,138 @@
+{
+  "id": "KB-021",
+  "slug": "rose-valley-chit-fund-scam",
+  "title": "The Rose Valley Chit Fund Scam",
+  "dek": "A group collected an estimated ₹12,000–17,000 crore from small investors through unregistered schemes — by some estimates several times the size of the better-known Saradha scandal that broke around the same time.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 71,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "~₹12,000 cr",
+    "label": "estimated scale of the scheme, per the Enforcement Directorate"
+  },
+  "promise": {
+    "quote": "Deposits collected through Rose Valley Group's investment and hospitality-linked schemes will be invested as represented and returned with the promised returns.",
+    "madeBy": "Rose Valley Group, led by chairman Gautam Kundu",
+    "role": "Private conglomerate operating collective investment schemes across eastern India",
+    "date": "2013-01-01",
+    "context": "Like Saradha, Rose Valley ran deposit-collection schemes across West Bengal and neighbouring states that regulators later found to be unregistered collective investment schemes.",
+    "sourceIds": [
+      "src-rosevalley-wiki"
+    ]
+  },
+  "target": {
+    "description": "Deposits collected and managed as a properly registered collective investment scheme, with funds actually invested and returns paid as promised.",
+    "standard": "SEBI (Collective Investment Schemes) Regulations.",
+    "referenceDate": "2013-01-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate estimated the scheme's scale at around ₹12,000 crore, with some reporting citing figures up to ₹17,000 crore — several times the size of Saradha. Gautam Kundu was arrested by the ED in March 2015 and remained in custody for an extended period; his wife, Subhra Kundu, was separately arrested by the CBI in 2021. As of the most recent reporting reviewed, the ED had attached assets worth roughly ₹1,171.71 crore in the case.",
+    "asOfDate": "2023-04-28",
+    "sourceIds": [
+      "src-rosevalley-ed",
+      "src-rosevalley-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Estimated scale of the scheme vs. assets attached by the ED",
+    "unit": "₹ crore",
+    "targetValue": 12000,
+    "actualValue": 1172,
+    "targetDisplay": "~₹12,000 cr estimated scheme size",
+    "actualDisplay": "₹1,171.71 cr in assets attached (ED)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Attached",
+    "note": "Some reports cite a higher figure of roughly ₹17,000 crore for the total scheme size; this investigation reports the ED's ₹12,000 crore estimate as its primary figure pending reconciliation."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 12000,
+    "allocatedLabel": "Estimated scheme size (ED)",
+    "released": 1172,
+    "releasedLabel": "Assets attached (ED, cumulative)",
+    "spent": null,
+    "spentLabel": "Amount returned to depositors",
+    "unit": "crore",
+    "notes": "This investigation has not found a figure for how much, if any, has been returned to depositors from the attached assets.",
+    "sourceIds": [
+      "src-rosevalley-ed"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2013-01-01",
+      "label": "Scheme's difficulties emerge",
+      "detail": "Around the same time as the Saradha collapse, Rose Valley's schemes come under regulatory scrutiny.",
+      "type": "status"
+    },
+    {
+      "date": "2015-03-01",
+      "label": "Gautam Kundu arrested",
+      "detail": "The Enforcement Directorate arrests the group's chairman.",
+      "type": "status"
+    },
+    {
+      "date": "2021-01-16",
+      "label": "Wife arrested",
+      "detail": "The CBI arrests Subhra Kundu, Gautam Kundu's wife, in connection with the case.",
+      "type": "status"
+    },
+    {
+      "date": "2023-04-28",
+      "label": "Further assets attached",
+      "detail": "The ED attaches an additional ₹54 crore in a fresh action, bringing cumulative attachments to roughly ₹1,171.71 crore.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Gautam Kundu has been in and out of custody for an extended period without this investigation having confirmed a final trial verdict; interim bail has reportedly been granted at various points on personal grounds.",
+    "keyIndividuals": [
+      {
+        "name": "Gautam Kundu",
+        "role": "Chairman, Rose Valley Group",
+        "outcome": "Arrested by the ED, March 2015; reports indicate interim bail has been granted at points during prolonged proceedings. No confirmed final trial verdict as of the sources reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the scheme and the arrests of its principal figures are documented. This investigation has not yet established a clear, current trial status or confirmed how the ₹12,000 crore and ₹17,000 crore figures relate to each other.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases, and the sources reviewed do not clearly establish a current, final case status."
+  },
+  "incomplete": [
+    "This is a stub entry. A clear, current trial status for Gautam Kundu and other accused has not been confirmed.",
+    "The discrepancy between the ₹12,000 crore and ₹17,000 crore scale estimates has not been reconciled.",
+    "It is not established how much, if any, of the attached assets have been returned to depositors."
+  ],
+  "sources": [
+    {
+      "id": "src-rosevalley-wiki",
+      "label": "Rose Valley financial scandal",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Rose_Valley_financial_scandal"
+    },
+    {
+      "id": "src-rosevalley-ed",
+      "label": "ED attaches assets worth Rs 54 cr in 2014 Rose Valley money laundering case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-04-28",
+      "url": "https://www.business-standard.com/india-news/ed-attaches-assets-worth-rs-54-cr-in-2014-rose-valley-money-laundering-case-123042800986_1.html"
+    },
+    {
+      "id": "src-rosevalley-bail",
+      "label": "Rose Valley Chit Fund Scam: Calcutta High Court Grants Interim Bail To Chairman Gautam Kundu",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2021-01-01",
+      "url": "https://www.livelaw.in/news-updates/calcutta-high-court-interim-bail-gautam-kundu-rose-valley-179050"
+    }
+  ]
+}

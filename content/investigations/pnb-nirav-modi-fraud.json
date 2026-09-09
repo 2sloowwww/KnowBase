@@ -1,0 +1,175 @@
+{
+  "id": "KB-006",
+  "slug": "pnb-nirav-modi-fraud",
+  "title": "The Punjab National Bank – Nirav Modi Fraud",
+  "dek": "Fraudulent bank guarantees let two jewellery businessmen raise billions in unauthorised overseas credit from a state-run bank. One is fighting extradition from a London prison; the other was just recommended for extradition from Belgium.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 99,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-01-29",
+  "heroStat": {
+    "value": "₹13,000–14,357 cr",
+    "label": "reported fraud amount (figures vary by source and date)"
+  },
+  "promise": {
+    "quote": "Letters of Undertaking issued by Punjab National Bank branch officials would be properly authorised, recorded in the bank's core systems, and issued only against appropriate collateral.",
+    "madeBy": "Punjab National Bank, a majority government-owned public sector bank",
+    "role": "Public sector bank; issuer of the Letters of Undertaking at the centre of the case",
+    "date": "2011-01-01",
+    "context": "Between 2011 and 2017, officials at a single PNB branch in Mumbai allegedly issued fraudulent Letters of Undertaking — guarantees used to raise credit from other banks' overseas branches — without recording them in the bank's core banking system.",
+    "sourceIds": [
+      "src-pnb-outlook"
+    ]
+  },
+  "target": {
+    "description": "Bank guarantees issued only through the bank's standard authorisation and core-system recording process, against real collateral, as required under RBI banking supervision norms.",
+    "standard": "RBI guidelines on issuance and recording of Letters of Undertaking and bank guarantees.",
+    "referenceDate": "2011-01-01"
+  },
+  "reality": {
+    "description": "PNB disclosed in January 2018 that fraudulent Letters of Undertaking, allegedly issued over roughly seven years by since-implicated branch officials, had been used by firms linked to diamantaire Nirav Modi and his uncle Mehul Choksi to raise unauthorised credit from overseas branches of other Indian banks — reported at ₹13,000–14,357 crore depending on the source and date of reporting. Both men left India before the fraud became public. Nirav Modi has been held in a London prison since March 2019 while contesting extradition; his latest attempt to reopen the case was dismissed in March 2026. Mehul Choksi was arrested in Belgium, and an Antwerp court recommended his extradition to India in April 2026, with Belgium's government making the final call.",
+    "asOfDate": "2026-04-03",
+    "sourceIds": [
+      "src-pnb-uk",
+      "src-pnb-choksi"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged fraud amount vs. assets confiscated under India's Fugitive Economic Offenders Act",
+    "unit": "₹ crore",
+    "targetValue": 14357,
+    "actualValue": 693,
+    "targetDisplay": "up to ₹14,357 cr alleged (high end of reported range)",
+    "actualDisplay": "₹692.90 cr confiscated (Nirav Modi and associates)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Confiscated",
+    "note": "Reported fraud figures range from about ₹13,000 crore to ₹14,357 crore depending on the source; this investigation reports the range rather than treating either figure as definitive. The ₹692.90 crore confiscation figure applies specifically to Nirav Modi and his associates under the Fugitive Economic Offenders Act and does not include any separate recovery from Mehul Choksi's assets."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 14357,
+    "allocatedLabel": "Alleged fraud (high end of reported range)",
+    "released": 693,
+    "releasedLabel": "Assets confiscated (Nirav Modi, under FEOA)",
+    "spent": null,
+    "spentLabel": "Amount returned to PNB",
+    "unit": "crore",
+    "notes": "The Indian government has separately stated that Nirav Modi is among 15 declared fugitive economic offenders collectively owing banks around ₹58,000 crore — a figure covering multiple unrelated cases, not this one alone.",
+    "sourceIds": [
+      "src-pnb-feo"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2011-01-01",
+      "label": "Alleged fraudulent LoUs begin",
+      "detail": "Branch officials at a single PNB branch allegedly began issuing unauthorised, unrecorded Letters of Undertaking.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-01-29",
+      "label": "PNB discloses the fraud",
+      "detail": "The bank informed stock exchanges of the fraudulent transactions, then estimated at over ₹11,000 crore and later revised upward.",
+      "type": "status"
+    },
+    {
+      "date": "2018-02-15",
+      "label": "CBI and ED open investigations",
+      "detail": "Both agencies registered cases against Nirav Modi, Mehul Choksi, and associated companies.",
+      "type": "status"
+    },
+    {
+      "date": "2018-08-01",
+      "label": "Both men declared fugitive economic offenders",
+      "detail": "India used its Fugitive Economic Offenders Act to seek confiscation of their assets.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-01",
+      "label": "Nirav Modi arrested in London",
+      "detail": "He has remained in custody in the UK since, contesting extradition.",
+      "type": "status"
+    },
+    {
+      "date": "2021-01-01",
+      "label": "Mehul Choksi located in Antigua",
+      "detail": "Choksi's whereabouts and subsequent movements became the subject of extradition efforts by India.",
+      "type": "status"
+    },
+    {
+      "date": "2026-03-25",
+      "label": "Nirav Modi's UK appeal dismissed",
+      "detail": "A UK court dismissed his latest attempt to reopen the extradition case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Belgian court recommends Choksi's extradition",
+      "detail": "An Antwerp court advised extraditing Choksi to India; Belgium's Interior Ministry has the final decision.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Neither principal accused has been tried or convicted in India. Both cases are currently centred on extradition proceedings in foreign courts, not domestic trial.",
+    "keyIndividuals": [
+      {
+        "name": "Nirav Modi",
+        "role": "Diamond jeweller; principal accused",
+        "outcome": "Declared a fugitive economic offender; held in a UK prison since March 2019 contesting extradition; latest appeal dismissed March 2026. No Indian trial verdict."
+      },
+      {
+        "name": "Mehul Choksi",
+        "role": "Businessman, Gitanjali Group; Nirav Modi's uncle; principal accused",
+        "outcome": "Declared a fugitive economic offender; arrested in Belgium; extradition to India recommended by an Antwerp court in April 2026, pending final government decision. No Indian trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That fraudulent guarantees were issued and used to raise unauthorised credit is not seriously disputed — PNB itself disclosed it, and the fugitive-economic-offender proceedings against both men have advanced on that basis. What remains unresolved after eight years is accountability: no Indian criminal trial has concluded, both men are abroad, and confirmed asset recovery covers only a small fraction of the amount PNB says it lost.",
+    "confidence": "medium",
+    "reasoning": "The occurrence and rough scale of the fraud is well documented by the bank's own disclosures and multiple extradition-court proceedings that have accepted India's case for the purposes of extradition. Confidence is not 'high' because no Indian court has yet delivered a final criminal verdict, and the exact fraud figure varies across sources."
+  },
+  "incomplete": [
+    "No Indian criminal trial has concluded for either principal accused; both remain abroad pending extradition outcomes.",
+    "This investigation could not find a single reconciled recovery figure combining Nirav Modi's confiscated assets with any separate recovery from Mehul Choksi.",
+    "The exact final fraud amount varies across sources reviewed (roughly ₹13,000 crore to ₹14,357 crore); no single figure has been treated as definitively settled here."
+  ],
+  "sources": [
+    {
+      "id": "src-pnb-outlook",
+      "label": "How Mehul Choksi, Nirav Modi Defrauded Punjab National Bank Of Rs 13,500 Crore",
+      "type": "independent",
+      "publisher": "Outlook India",
+      "date": "2021-01-01",
+      "url": "https://www.outlookindia.com/national/how-mehul-choksi-nirav-modi-defrauded-punjab-national-bank-of-rs-13500-crore-pnb-bank-fraud-case-explained"
+    },
+    {
+      "id": "src-pnb-uk",
+      "label": "UK court rejects the bail plea of fugitive businessman Nirav Modi",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2024-05-11",
+      "url": "https://www.newsonair.gov.in/uk-court-rejects-the-bail-plea-of-fugitive-businessman-nirav-modi"
+    },
+    {
+      "id": "src-pnb-choksi",
+      "label": "Mehul Choksi arrested in Belgium on India's request for extradition",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2021-04-01",
+      "url": "https://gulfnews.com/world/asia/india/mehul-choksi-arrested-in-belgium-on-indias-request-for-extradition-2-1.500093199"
+    },
+    {
+      "id": "src-pnb-feo",
+      "label": "Centre says 15 fugitive economic offenders including Vijay Mallya, Nirav Modi owe Rs 58,000 cr to banks",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-01-01",
+      "url": "https://www.deccanherald.com/india/centre-says-15-fugitive-economic-offenders-including-vijay-mallya-nirav-modi-owe-rs-58000-cr-to-banks-3816219"
+    }
+  ]
+}

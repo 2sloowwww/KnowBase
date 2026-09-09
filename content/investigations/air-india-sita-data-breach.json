@@ -1,0 +1,110 @@
+{
+  "id": "KB-3002",
+  "slug": "air-india-sita-data-breach",
+  "title": "The Air India Passenger Data Breach",
+  "dek": "A cyberattack on Air India's foreign passenger-data processor exposed a decade of passport, payment card and frequent-flyer details for 4.5 million travellers. Five years on, no regulator has fined Air India and no criminal prosecution over the breach has been publicly reported.",
+  "category": "Telecom & Digital",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 183,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2021-03-19",
+  "heroStat": {
+    "value": "4.5 million",
+    "label": "Air India passengers whose personal data — including passport and payment card details spanning nearly a decade — was exposed in the SITA breach"
+  },
+  "promise": {
+    "quote": "We take data privacy very seriously and have taken all steps to secure the personal data of our customers.",
+    "madeBy": "Air India",
+    "role": "India's flag-carrier airline, then still government-owned, disclosing the breach to affected passengers",
+    "date": "2021-05-21",
+    "context": "Statement made in Air India's public notification to customers after the scale of the SITA breach became clear.",
+    "sourceIds": [
+      "src-airindia-bleeping"
+    ]
+  },
+  "target": {
+    "description": "That passenger personal data — names, dates of birth, contact details, passport numbers, ticket information and payment card data — held by Air India and its ticketing infrastructure provider would be kept secure against unauthorised access.",
+    "standard": "Information Technology Act, 2000 and its reasonable-security-practices rules, which require body corporates handling sensitive personal data to maintain reasonable security safeguards.",
+    "referenceDate": "2021-02-01"
+  },
+  "reality": {
+    "description": "Air India disclosed on 21 May 2021 that a cyberattack on SITA, the Switzerland-based passenger-service-system provider used by Air India and dozens of other airlines, had compromised personal data of about 4.5 million Air India passengers registered between August 2011 and February 2021. Exposed data included names, dates of birth, contact information, passport details, ticket information, and Star Alliance and Air India frequent-flyer program data; some payment card details were also affected, though CVV numbers and passwords were not exposed. Air India said it had secured its systems, engaged external specialists, notified banks and reset frequent-flyer passwords, but as of this entry's writing no Indian regulator is known to have issued a public penalty against Air India over the incident, and no criminal case specific to the Air India breach has been widely reported.",
+    "asOfDate": "2021-05-21",
+    "sourceIds": [
+      "src-airindia-bleeping",
+      "src-airindia-forbes"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years of passenger data exposed vs. months before disclosure to affected customers",
+    "unit": "years/months",
+    "targetValue": 0,
+    "actualValue": 2,
+    "targetDisplay": "0 months delay expected",
+    "actualDisplay": "~2 months between SITA hack disclosure and Air India's customer notification",
+    "targetLabel": "Prompt disclosure",
+    "actualLabel": "Actual delay",
+    "note": "Air India first acknowledged the SITA hack in March 2021 but did not detail the scale of impact on its own customers until May 2021, once SITA's forensic investigation concluded the breach was larger than initially understood."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-02-01",
+      "label": "SITA's servers are hacked",
+      "detail": "Attackers compromise passenger-service-system servers operated by SITA, used by Air India, Singapore Airlines, Lufthansa, Malaysia Airlines, Cathay Pacific and other carriers.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-03-19",
+      "label": "Air India first informs passengers of the SITA attack",
+      "detail": "Air India acknowledges the SITA cyberattack but does not yet detail the scale of the impact on its own passenger data.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-05-21",
+      "label": "Full scale of the breach disclosed",
+      "detail": "Air India confirms personal data of about 4.5 million passengers registered over nearly a decade was compromised.",
+      "type": "revision"
+    },
+    {
+      "date": "2021-05-22",
+      "label": "Air India response measures announced",
+      "detail": "Air India says it secured affected servers, engaged external cybersecurity specialists, notified banks and reset frequent-flyer passwords.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No public record of a regulatory fine or criminal prosecution specific to the Air India SITA breach has been identified as of this entry. The matter remains without a disclosed formal legal resolution in India."
+  },
+  "verdict": {
+    "summary": "A real, large-scale, independently confirmed breach of Indian airline passenger data — spanning nearly a decade of records for 4.5 million people — for which no public accountability outcome (fine, penalty or prosecution) specific to Air India has been reported since 2021.",
+    "confidence": "high",
+    "reasoning": "The breach and its scale are corroborated by multiple independent outlets (Bleeping Computer, TechCrunch, Forbes, The Record) as well as Air India's own customer notification; the absence of a subsequent regulatory or criminal resolution is based on the lack of reporting on one, which is a negative claim and could change if action is later disclosed."
+  },
+  "incomplete": [
+    "This entry cannot confirm with certainty that no regulatory or contractual penalty was ever privately imposed on Air India or SITA — only that none has been publicly reported.",
+    "India's Digital Personal Data Protection Act was not yet in force at the time of this breach, so the applicable Indian legal framework was limited to IT Act rules; this entry has not independently verified whether IT Act enforcement action was taken.",
+    "The exact number of Indian passengers (as distinct from the global total of 4.5 million) affected has not been separately confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-airindia-bleeping",
+      "label": "Air India data breach impacts 4.5 million customers",
+      "type": "independent",
+      "publisher": "Bleeping Computer",
+      "date": "2021-05-21",
+      "url": "https://www.bleepingcomputer.com/news/security/air-india-data-breach-impacts-45-million-customers/"
+    },
+    {
+      "id": "src-airindia-forbes",
+      "label": "Air India Data Breach: Hackers Access Personal Details Of 4.5 Million Customers",
+      "type": "independent",
+      "publisher": "Forbes",
+      "date": "2021-05-23",
+      "url": "https://www.forbes.com/sites/carlypage/2021/05/23/air-india-data-breach-hackers-access-personal-details-of-45-million-customers/"
+    }
+  ]
+}

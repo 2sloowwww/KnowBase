@@ -1,0 +1,126 @@
+{
+  "id": "KB-2202",
+  "slug": "kerala-2018-floods-dam-management-failure",
+  "title": "The 2018 Kerala Floods: A Dam Rule Curve That Was Never Followed",
+  "dek": "Kerala's dams, including the giant Idukki reservoir, were meant to hold a flood cushion in reserve and warn of releases in time to protect people downstream. A CAG-directed IISc study of the August 2018 floods, which killed over 480 people, found the flood cushion went unused, no advance rain or inflow warnings were issued, and sudden gate openings turned a severe monsoon into a catastrophe.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 78,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2018-08-15",
+  "heroStat": {
+    "value": "110.42 MCM",
+    "label": "Idukki reservoir's unused flood cushion capacity during the critical 14-18 August 2018 period, per the IISc study"
+  },
+  "promise": {
+    "quote": "The sudden releases from the Mullaperiyar Dam ... forced us [Kerala] to release more water from the Idukki reservoir, downstream of Mullaperiyar, which is one of the causes of this deluge.",
+    "madeBy": "Government of Kerala",
+    "role": "State government, in an affidavit filed before the Supreme Court of India",
+    "date": "2018-08-24",
+    "context": "Kerala's own affidavit to the Supreme Court, made while defending its handling of dam releases during the floods, itself acknowledged that reservoir-release decisions contributed to the disaster's severity — a claim later examined in detail by an independent academic study commissioned at the CAG's direction.",
+    "sourceIds": [
+      "src-kerala-affidavit"
+    ]
+  },
+  "target": {
+    "description": "Dam operation that reserves a flood cushion below full reservoir level ahead of forecast heavy inflows, issues advance warnings of large releases to downstream authorities and the public, and coordinates release timing among cascading reservoirs (Mullaperiyar-Idukki-Periyar) to avoid compounding a flood peak.",
+    "standard": "Central Water Commission dam operation and flood-forecasting norms; Kerala's own dam rule-curve and reservoir operation guidelines",
+    "referenceDate": "2018-08-01"
+  },
+  "reality": {
+    "description": "A study by the Indian Institute of Science, Bengaluru, carried out at the direction of the Comptroller and Auditor General, found that faulty dam management aggravated the August 2018 Kerala floods, which killed more than 480 people and displaced over a million. Although Idukki dam's operating protocol stipulates it be used for flood control as well as power generation, the study found it was operated primarily for power generation, and during the critical 14-18 August 2018 period, the reservoir's flood cushion of 110.42 million cubic metres — the buffer between full storage and the maximum permissible water level — was not utilised; had it been used, the study concluded the first phase of gate releases could have been avoided. The study also found no advance rain warnings or inflow forecasts had been issued to dam operators ahead of the extreme rainfall, hampering release planning. Kerala's own Supreme Court affidavit acknowledged that sudden upstream releases from the Tamil Nadu-controlled Mullaperiyar dam forced larger downstream releases from Idukki, compounding the flooding — a claim that intersected with, but did not resolve, longstanding Kerala-Tamil Nadu disputes over Mullaperiyar's operation. The episode renewed long-running allegations, including from activist groups, that the floods were substantially \"man-made\" through dam mismanagement rather than purely a natural disaster.",
+    "asOfDate": "2021-03-30",
+    "sourceIds": [
+      "src-kerala-iisc-study",
+      "src-kerala-sandrp",
+      "src-kerala-affidavit"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Idukki reservoir flood cushion available vs. utilised during 14-18 August 2018",
+    "unit": "million cubic metres",
+    "targetValue": 110.42,
+    "actualValue": 0,
+    "targetDisplay": "110.42 MCM flood cushion available",
+    "actualDisplay": "0 MCM of cushion utilised",
+    "targetLabel": "Available flood cushion",
+    "actualLabel": "Utilised during critical period",
+    "note": "Per the IISc study commissioned at the direction of the CAG; the study found utilising the cushion could have avoided the first phase of gate releases."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2018-08-08",
+      "label": "Extreme monsoon rainfall begins over Kerala",
+      "detail": "Unusually heavy and sustained monsoon rainfall begins across Kerala's river catchments, rapidly filling reservoirs including Idukki and Mullaperiyar.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-08-14",
+      "label": "Critical reservoir period begins without flood-cushion use",
+      "detail": "Between 14 and 18 August, Idukki's flood cushion of 110.42 MCM goes unused even as inflows rise, per the later IISc study; gates are opened as levels approach capacity.",
+      "type": "delay"
+    },
+    {
+      "date": "2018-08-15",
+      "label": "Kerala floods peak",
+      "detail": "Flooding across Kerala peaks, ultimately killing more than 480 people and displacing over a million, in what is described as the state's worst flood in nearly a century.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-08-24",
+      "label": "Kerala's Supreme Court affidavit cites Mullaperiyar releases",
+      "detail": "Kerala tells the Supreme Court that sudden releases from the Tamil Nadu-controlled Mullaperiyar dam forced larger downstream releases from Idukki, contributing to the deluge.",
+      "type": "status"
+    },
+    {
+      "date": "2021-03-30",
+      "label": "IISc study finds dam mismanagement worsened floods",
+      "detail": "The CAG-directed IISc study concludes that failure to use the available flood cushion and the absence of advance rain and inflow warnings aggravated the 2018 floods.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a governance and reservoir-operation failure documented through an academic study commissioned at the direction of the CAG and Kerala's own Supreme Court submissions, not a criminal case. No dam official or minister has been criminally prosecuted specifically over the 2018 release decisions; the interstate Mullaperiyar dispute with Tamil Nadu remains a separate, long-running legal matter before the Supreme Court.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "An academic study commissioned at the direction of India's constitutional auditor found that Kerala's dam operators, including at the flagship Idukki reservoir, did not use the flood-cushion buffer their own operating protocol allowed for, had no advance rainfall or inflow warning system feeding into release decisions, and that the resulting late, sudden gate openings compounded a severe monsoon into one of Kerala's deadliest floods in a century.",
+    "confidence": "medium",
+    "reasoning": "The IISc study's findings are corroborated across multiple independent reports, and Kerala's own Supreme Court affidavit corroborates the causal role of upstream releases. Confidence is not higher because this entry has not directly reviewed the IISc study or the CAG's underlying audit, and because dam-management responsibility for the 2018 floods remains contested between Kerala and Tamil Nadu authorities and among independent researchers."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the IISc study or the CAG audit that commissioned it, relying on secondary reporting of their findings.",
+    "The extent to which Mullaperiyar dam operation (under Tamil Nadu's control) versus Idukki's own management (under Kerala's control) was primarily responsible for the flood severity remains disputed between the two states and has not been independently adjudicated in this entry.",
+    "No specific individual accountability findings or disciplinary action tied to the 2018 dam release decisions have been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-kerala-iisc-study",
+      "label": "Faulty dam management worsened the 2018 Kerala floods, says IISc study",
+      "type": "independent",
+      "publisher": "Onmanorama",
+      "date": "2021-03-30",
+      "url": "https://www.onmanorama.com/news/kerala/2021/03/30/kerala-floods-a-result-of-improper-dam-management.html"
+    },
+    {
+      "id": "src-kerala-sandrp",
+      "label": "Idukki Dam releases water when Kerala is in Floods: Could this have been avoided?",
+      "type": "independent",
+      "publisher": "South Asia Network on Dams, Rivers and People (SANDRP)",
+      "date": "2018-08-10",
+      "url": "https://sandrp.in/2018/08/10/idukki-releases-water-when-kerala-is-in-floods-could-this-be-avoided/"
+    },
+    {
+      "id": "src-kerala-affidavit",
+      "label": "Kerala accuses TN of aggravating flood fury",
+      "type": "independent",
+      "publisher": "Hindustan Times (via PressReader)",
+      "date": "2018-08-24",
+      "url": "https://www.pressreader.com/india/hindustan-times-bathinda/20180824/281908774001898"
+    }
+  ]
+}

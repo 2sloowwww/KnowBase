@@ -1,0 +1,134 @@
+{
+  "id": "KB-2502",
+  "slug": "pokhran-1974-peaceful-nuclear-explosion",
+  "title": "'Smiling Buddha': India Called Its First Nuclear Test Peaceful. The World's Nuclear Suppliers Didn't Buy It",
+  "dek": "When India detonated its first nuclear device at Pokhran in May 1974, the government described it as a 'peaceful nuclear explosion' for purposes like mining, not a weapons test. Canada and the United States responded by cutting off nuclear cooperation, and the test became the catalyst for a new global export-control regime -- the Nuclear Suppliers Group -- built specifically to stop India's approach from being repeated.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 49,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1974-05-18",
+  "heroStat": {
+    "value": "1978",
+    "label": "Year the US Nuclear Non-Proliferation Act imposed sweeping export restrictions targeting states like India that had crossed nuclear-weapons-relevant thresholds"
+  },
+  "promise": {
+    "quote": "The nuclear device tested at Pokhran was for peaceful purposes only, such as mining and other civil engineering applications, and did not represent a step toward developing nuclear weapons.",
+    "madeBy": "Government of India / Indian Ministry of External Affairs",
+    "role": "Official government characterisation of the test at the time of and following the 18 May 1974 detonation",
+    "date": "1974-05-18",
+    "context": "India detonated its first nuclear device at Pokhran, Rajasthan, using plutonium produced in the Canadian-supplied CIRUS research reactor, which had been provided along with US-supplied heavy water under agreements intended for peaceful research purposes.",
+    "sourceIds": [
+      "src-pokhran-orf",
+      "src-pokhran-large-stanford"
+    ]
+  },
+  "target": {
+    "description": "Use of nuclear materials and reactor technology supplied by Canada and the United States strictly for peaceful, non-explosive civilian research purposes, consistent with the terms under which that cooperation was originally extended.",
+    "standard": "The bilateral nuclear cooperation agreements under which Canada supplied the CIRUS reactor and the United States supplied heavy water to India",
+    "referenceDate": "1956-01-01"
+  },
+  "reality": {
+    "description": "Canada, whose CANDU-derived CIRUS reactor and cooperation had supplied the plutonium used in the test, suspended nuclear cooperation with India and in December 1974 adopted a new nonproliferation policy explicitly barring use of its supplied technology or material in any explosive device, including so-called 'peaceful' ones. The United States likewise curtailed nuclear cooperation, and in 1978 Congress passed the Nuclear Non-Proliferation Act, which imposed strict new conditions -- widely understood to target India -- on nuclear exports to states outside the Non-Proliferation Treaty engaging in unsafeguarded enrichment or reprocessing. In 1975, at US initiative, major nuclear-supplier states formed the Nuclear Suppliers Group, an export-control regime created specifically in response to the Pokhran test to prevent similar transfers of ostensibly civilian nuclear technology being diverted toward weapons capability. India, for its part, did not test again until 1998 (Pokhran-II), and has never signed the Non-Proliferation Treaty, maintaining that its nuclear programme reflects a legitimate right to indigenous technology rather than a violation of the terms under which it received foreign assistance.",
+    "asOfDate": "1978-03-10",
+    "sourceIds": [
+      "src-pokhran-nnpa-wiki",
+      "src-pokhran-cigi"
+    ]
+  },
+  "gap": {
+    "metricLabel": "India's stated purpose for the Pokhran-I device versus the international nuclear-supplier response it triggered",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Test framed as a 'peaceful nuclear explosion' with no weapons implications",
+    "actualDisplay": "Canada and the US suspended nuclear cooperation and a new global export-control cartel (the NSG) was formed specifically in response",
+    "targetLabel": "Official framing",
+    "actualLabel": "International response",
+    "note": "This is a qualitative diplomatic and policy gap rather than a single quantified figure."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1956-01-01",
+      "label": "CIRUS reactor cooperation begins",
+      "detail": "Canada supplies India the CIRUS research reactor, with US-supplied heavy water, under agreements intended for peaceful civilian research.",
+      "type": "announcement"
+    },
+    {
+      "date": "1974-05-18",
+      "label": "India tests 'Smiling Buddha' at Pokhran",
+      "detail": "India detonates its first nuclear device, using plutonium from the CIRUS reactor, describing it as a peaceful nuclear explosion.",
+      "type": "milestone"
+    },
+    {
+      "date": "1974-12-01",
+      "label": "Canada suspends nuclear cooperation",
+      "detail": "Canada adopts a new nonproliferation policy barring its nuclear technology or material from use in any explosive device, including peaceful ones, and curtails cooperation with India.",
+      "type": "revision"
+    },
+    {
+      "date": "1975-02-01",
+      "label": "Nuclear Suppliers Group formed",
+      "detail": "Major nuclear-supplier states, led by the United States, establish the Nuclear Suppliers Group to regulate nuclear exports to non-NPT states, in direct response to the Pokhran test.",
+      "type": "status"
+    },
+    {
+      "date": "1978-03-10",
+      "label": "US Nuclear Non-Proliferation Act passed",
+      "detail": "The United States Congress passes the Nuclear Non-Proliferation Act, imposing strict new export conditions widely understood as targeting India's nuclear programme.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a diplomatic and nonproliferation-policy matter, not a criminal or judicial one. No individual was prosecuted; the consequences played out through bilateral and multilateral policy responses (Canadian and US sanctions, formation of the NSG) rather than legal proceedings.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's official 'peaceful nuclear explosion' framing of its 1974 test was rejected in practice by the international nuclear-supplier community, which responded with cooperation cutoffs from Canada and the US and the creation of an entirely new global export-control regime, the Nuclear Suppliers Group, built specifically to prevent India's approach from being replicated.",
+    "confidence": "high",
+    "reasoning": "The test's basic facts, India's official framing, and the resulting Canadian and US policy responses and NSG formation are well-documented and broadly consistent across independent historical sources. Confidence is not higher because this entry has not reviewed the full declassified diplomatic cables or internal Indian government deliberations from the period."
+  },
+  "incomplete": [
+    "The internal Indian government reasoning and debate behind the 'peaceful' framing at the time has not been independently verified through primary declassified records in this entry.",
+    "The longer-run trajectory of India's nuclear program through Pokhran-II (1998) and the 2008 India-US civil nuclear agreement, which substantially normalised India's nuclear status internationally, is outside the scope of this entry.",
+    "Exact scope and duration of Canadian and US sanctions, and their measurable economic impact on India, have not been comprehensively compiled here."
+  ],
+  "sources": [
+    {
+      "id": "src-pokhran-orf",
+      "label": "50 years of Pokhran I: Revisiting India's peaceful nuclear explosion",
+      "type": "independent",
+      "publisher": "Observer Research Foundation",
+      "date": "2024-05-18",
+      "url": "https://www.orfonline.org/english/expert-speak/50-years-of-pokhran-i-revisiting-india-s-peaceful-nuclear-explosion"
+    },
+    {
+      "id": "src-pokhran-large-stanford",
+      "label": "Pokhran-I: India's First Nuclear Bomb",
+      "type": "independent",
+      "publisher": "Stanford University (large.stanford.edu)",
+      "date": "2014-01-01",
+      "url": "http://large.stanford.edu/courses/2014/ph241/donohue1/"
+    },
+    {
+      "id": "src-pokhran-nnpa-wiki",
+      "label": "Nuclear Non-Proliferation Act of 1978",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_Non-Proliferation_Act_of_1978"
+    },
+    {
+      "id": "src-pokhran-cigi",
+      "label": "Canada, India, and changing the non-proliferation rules",
+      "type": "independent",
+      "publisher": "Centre for International Governance Innovation",
+      "date": "2020-01-01",
+      "url": "https://www.cigionline.org/articles/canada-india-and-changing-non-proliferation-rules/"
+    }
+  ]
+}

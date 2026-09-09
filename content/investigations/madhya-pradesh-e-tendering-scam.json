@@ -1,0 +1,161 @@
+{
+  "id": "KB-847",
+  "slug": "madhya-pradesh-e-tendering-scam",
+  "title": "The Madhya Pradesh E-Tendering Scam",
+  "dek": "Investigators alleged that Madhya Pradesh's e-procurement portal, meant to make government tendering tamper-proof and transparent, was itself hacked to alter bid prices and steer roughly Rs 3,000 crore worth of contracts across multiple state departments to a handful of favoured private companies. Three directors of the Bhopal IT firm accused of the tampering were arrested in 2018, but this entry could not confirm any final trial verdict against the bureaucrats and politicians the EOW's FIR also named.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 133,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-06-01",
+  "heroStat": {
+    "value": "₹3,000 cr",
+    "label": "in government contracts across multiple Madhya Pradesh departments alleged to have been manipulated through unauthorised tampering of the state's e-procurement portal"
+  },
+  "promise": {
+    "quote": "Madhya Pradesh's e-tendering (e-procurement) portal, introduced to digitise government contract bidding, was designed to make the tendering process tamper-proof, transparent, and free from human manipulation of bid prices.",
+    "madeBy": "Madhya Pradesh State Electronics Development Corporation (MPSEDC)",
+    "role": "State agency operating the e-procurement portal used by government departments",
+    "date": "2012-01-01",
+    "context": "This reflects the general stated rationale for adopting e-procurement systems rather than a verified quotation from a specific MPSEDC policy document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-mpetender-newsclick"
+    ]
+  },
+  "target": {
+    "description": "That bids submitted through the state e-procurement portal would remain sealed, unaltered, and free from unauthorised access until the official opening, ensuring contracts were awarded on a fair, competitive basis.",
+    "standard": "Madhya Pradesh government procurement rules and IT security requirements for the e-procurement system, alongside IPC and Prevention of Corruption Act provisions against tampering with public records for illicit gain.",
+    "referenceDate": "2012-01-01"
+  },
+  "reality": {
+    "description": "An investigation -- reportedly triggered around January 2018 and escalating through mid-2018 -- alleged that the MPSEDC e-procurement portal had been tampered with via unauthorised access across nine separate tendering processes, altering bid prices to favour five private companies based in Hyderabad, Mumbai, Vadodara and Bhopal, across contracts worth around Rs 3,000 crore spanning multiple state government departments. CERT-In's technical review reportedly confirmed that e-tenders had been 'modified' through unauthorised access to the software. Madhya Pradesh's Economic Offences Wing (EOW) registered an FIR against unidentified officials of five departments as well as unnamed politicians, and separately raided the Bhopal office of Osmo IT Solutions, an IT firm whose systems' IP addresses were allegedly traced to the tampering; three of its directors -- Vinay Choudhary, Varun Chaturvedi and Sumit Golwalkar -- were arrested. The scam surfaced during the final months of the BJP state government led by Shivraj Singh Chouhan and became a prominent issue in the 2018 Madhya Pradesh assembly election campaign, including criticism from Congress leader Rahul Gandhi; the PMO reportedly declined to disclose action-taken details on the matter in response to an RTI query around September 2018. The Supreme Court subsequently directed the trial court to complete the trial and pronounce judgment within a set period after rejecting a bail plea from one of the accused, who had already spent about two years in custody. This entry's research could not confirm the eventual outcome of the EOW's investigation or trial -- including whether any bureaucrats or politicians were ever formally named or convicted, and whether the arrested IT-firm directors were convicted, acquitted, or remain under trial.",
+    "asOfDate": "2019-01-01",
+    "sourceIds": [
+      "src-mpetender-newsclick",
+      "src-mpetender-nh"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Government contracts alleged to be tampered vs. contracts confirmed judicially invalidated or officials convicted",
+    "unit": "count",
+    "targetValue": 9,
+    "actualValue": 0,
+    "targetDisplay": "9 tendering processes alleged to have been tampered with",
+    "actualDisplay": "No confirmed convictions or contract invalidations found",
+    "targetLabel": "Alleged tampered tender processes",
+    "actualLabel": "Judicially confirmed tampering / convictions",
+    "note": "This entry could not confirm whether any of the nine tendering processes flagged by investigators were formally cancelled or re-awarded, or whether the underlying EOW case reached a trial verdict; the actualValue of 0 reflects the absence of confirmed judicial outcomes in available sources, not a claim that no wrongdoing occurred."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 3000,
+    "allocatedLabel": "Approximate value of government contracts alleged to have been manipulated via the tampered e-procurement portal",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The Rs 3,000 crore figure represents the combined value of contracts across nine tendering processes and five departments alleged to have been affected by the portal tampering, per EOW's investigation as reported in contemporaneous media. No court-confirmed final loss or recovery figure was found.",
+    "sourceIds": [
+      "src-mpetender-newsclick"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-01-01",
+      "label": "Irregularities in e-tendering portal detected",
+      "detail": "Authorities detect signs of unauthorised tampering in the Madhya Pradesh e-procurement portal affecting multiple tender processes.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-06-01",
+      "label": "EOW registers FIR; scam becomes public",
+      "detail": "Madhya Pradesh's Economic Offences Wing registers an FIR against unidentified officials across five departments and unnamed politicians over the alleged Rs 3,000 crore e-tendering manipulation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-06-15",
+      "label": "Osmo IT Solutions raided; three directors arrested",
+      "detail": "EOW raids the Bhopal office of Osmo IT Solutions and arrests directors Vinay Choudhary, Varun Chaturvedi and Sumit Golwalkar, alleging their firm's systems were used to tamper with the portal.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-09-11",
+      "label": "PMO declines to disclose action-taken details",
+      "detail": "The Prime Minister's Office reportedly declines to share action-taken details on the e-tendering scam in response to an RTI query, amid the case's prominence in the 2018 state election campaign.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Supreme Court orders time-bound trial completion",
+      "detail": "The Supreme Court, while rejecting a bail plea from an accused who had spent about two years in custody, directs the Madhya Pradesh trial court to complete the trial and pronounce judgment within a set timeframe.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Madhya Pradesh's EOW registered an FIR against unidentified departmental officials and politicians, and separately arrested three directors of Osmo IT Solutions over the alleged portal tampering. The Supreme Court directed the trial court to complete the case within a set period after one accused's bail plea was rejected. This entry's research could not confirm the eventual trial outcome for the arrested IT-firm directors, nor whether any specific officials or politicians were ever formally named, chargesheeted, or convicted.",
+    "keyIndividuals": [
+      {
+        "name": "Vinay Choudhary",
+        "role": "Director, Osmo IT Solutions",
+        "outcome": "Arrested June 2018; final trial outcome not confirmed by this entry's research."
+      },
+      {
+        "name": "Varun Chaturvedi",
+        "role": "Director, Osmo IT Solutions",
+        "outcome": "Arrested June 2018; final trial outcome not confirmed by this entry's research."
+      },
+      {
+        "name": "Sumit Golwalkar",
+        "role": "Director, Osmo IT Solutions",
+        "outcome": "Arrested June 2018; final trial outcome not confirmed by this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated case of an alleged technical compromise of a government e-procurement system used to award roughly Rs 3,000 crore in contracts, corroborated by an EOW FIR, arrests of the implicated IT firm's directors, and a CERT-In technical finding of unauthorised portal modification. It has not, on the basis of available sources, resulted in a confirmed conviction of any accused, and this entry could not verify whether the officials and politicians named only as 'unidentified' in the original FIR were ever formally identified or prosecuted.",
+    "confidence": "low",
+    "reasoning": "The initial EOW FIR, arrests, and CERT-In finding are corroborated across NewsClick, National Herald, and other contemporaneous 2018 reporting. However, this entry's research found no confirmation of the case's resolution after the Supreme Court's 2019 order to complete the trial within a set period, leaving the final legal outcome unconfirmed."
+  },
+  "incomplete": [
+    "The final trial outcome for the three arrested Osmo IT Solutions directors has not been confirmed.",
+    "Whether any government officials or politicians were ever formally named, chargesheeted, or convicted in connection with the alleged tampering has not been confirmed.",
+    "The exact date the Supreme Court issued its trial-completion order, and whether that deadline was met, has not been confirmed.",
+    "Whether any of the nine allegedly tampered tender awards were cancelled, re-awarded, or otherwise judicially invalidated has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-mpetender-newsclick",
+      "label": "MP EOW Books 'Bureaucrats, Politicians' in Rs 3K Crore E-tender Scam",
+      "type": "independent",
+      "publisher": "NewsClick",
+      "date": "2018-06-01",
+      "url": "https://www.newsclick.in/Madhya-Pradesh-E-Tender-Scam"
+    },
+    {
+      "id": "src-mpetender-nh",
+      "label": "MP E-tendering scam: Three directors of IT firm arrested in ₹3000 crore scam",
+      "type": "independent",
+      "publisher": "National Herald",
+      "date": "2018-06-15",
+      "url": "https://www.nationalheraldindia.com/india/mp-e-tendering-scam-three-directors-of-it-firm-arrested-in-indian-rupee3000-crore-scam"
+    },
+    {
+      "id": "src-mpetender-pmo-rti",
+      "label": "PMO declines action taken details on e-tendering scam in MP",
+      "type": "independent",
+      "publisher": "Millennium Post",
+      "date": "2018-09-11",
+      "url": "https://www.pressreader.com/india/millennium-post/20180911/281844349529428"
+    },
+    {
+      "id": "src-mpetender-sc-msn",
+      "label": "E-tender scam: SC orders MP court to finish trial, pronounce judgment in one year",
+      "type": "independent",
+      "publisher": "MSN / news agency report",
+      "date": "2019-01-01",
+      "url": "https://www.msn.com/en-in/news/trendingtopics/e-tender-scam-sc-orders-mp-court-to-finish-trial-pronounce-judgment-in-one-year/ar-AAL70lS"
+    }
+  ]
+}

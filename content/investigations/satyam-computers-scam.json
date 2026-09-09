@@ -1,0 +1,116 @@
+{
+  "id": "KB-018",
+  "slug": "satyam-computers-scam",
+  "title": "The Satyam Computers Scam",
+  "dek": "The chairman of one of India's biggest IT companies confessed, in a letter to his own board, to inflating profits and fabricating a cash balance for years — a confession that instantly became India's best-known corporate accounting fraud.",
+  "category": "Banking & Finance",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 5,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2009-01-07",
+  "heroStat": {
+    "value": "₹7,000–14,000 cr",
+    "label": "reported scale of the accounting fraud (figures vary by source)"
+  },
+  "promise": {
+    "quote": "Satyam Computer Services' published accounts, including its cash and bank balances, accurately reflect the company's true financial position.",
+    "madeBy": "Satyam Computer Services Ltd., under chairman B. Ramalinga Raju",
+    "role": "Publicly listed Indian IT services company",
+    "date": "2009-01-07",
+    "context": "On 7 January 2009, Raju wrote to Satyam's board admitting that the company's balance sheet had been inflated for several years, including a fictitious cash balance of over ₹5,000 crore.",
+    "sourceIds": [
+      "src-satyam-wiki"
+    ]
+  },
+  "target": {
+    "description": "Financial statements audited and certified as accurate under standard listed-company disclosure and audit norms, with no fabricated assets or overstated revenue.",
+    "standard": "SEBI listing disclosure norms and Companies Act audit requirements.",
+    "referenceDate": "2009-01-07"
+  },
+  "reality": {
+    "description": "Raju's confession described years of inflating revenue, margins, and cash balances to maintain the company's stock price. Reported estimates of the fraud's scale range from roughly ₹7,000 crore to, per the CBI, as much as ₹14,000 crore. In April 2015, a special court convicted Raju, his brother B. Rama Raju, and eight others of cheating, forgery, and criminal breach of trust, sentencing Raju to seven years in prison and a ₹5 crore fine.",
+    "asOfDate": "2015-04-09",
+    "sourceIds": [
+      "src-satyam-verdict",
+      "src-satyam-wiki"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Lower reported fraud estimate vs. the CBI's higher estimate",
+    "unit": "₹ crore",
+    "targetValue": 7000,
+    "actualValue": 14000,
+    "targetDisplay": "₹7,000 cr (commonly cited figure, used in the conviction)",
+    "actualDisplay": "up to ₹14,000 cr (CBI's higher estimate)",
+    "targetLabel": "Convicted amount",
+    "actualLabel": "CBI estimate",
+    "note": "Both figures appear across reputable reporting; this investigation has not reconciled which, if either, was the amount formally relied on on for sentencing versus a broader investigative estimate."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2009-01-07",
+      "label": "Raju's confession letter",
+      "detail": "He admits to the board that the company's accounts have been falsified for years.",
+      "type": "status"
+    },
+    {
+      "date": "2009-01-09",
+      "label": "Raju arrested",
+      "detail": "He is taken into custody along with his brother and other executives.",
+      "type": "status"
+    },
+    {
+      "date": "2015-04-09",
+      "label": "Convictions and sentencing",
+      "detail": "A special court convicts all ten accused; Raju receives seven years and a ₹5 crore fine.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Raju and nine others were convicted in April 2015. This investigation has not yet fully researched the outcome of subsequent appeals or the current status of each individual's sentence.",
+    "keyIndividuals": [
+      {
+        "name": "B. Ramalinga Raju",
+        "role": "Founder & Chairman, Satyam Computer Services",
+        "outcome": "Convicted April 2015 of cheating, forgery, and criminal breach of trust; sentenced to seven years' imprisonment and a ₹5 crore fine. This investigation has not yet confirmed the final status of any appeal."
+      },
+      {
+        "name": "B. Rama Raju",
+        "role": "Co-founder; brother of B. Ramalinga Raju",
+        "outcome": "Convicted alongside his brother in April 2015."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: this is one of the clearer cases on this site — a documented confession followed by a criminal conviction. What remains unresearched here is the appellate history and each individual's current status.",
+    "confidence": "medium",
+    "reasoning": "The confession and the 2015 convictions are well documented across multiple reputable sources. Confidence is not marked higher only because this investigation has not yet traced the case through any subsequent appeals to a final, current status."
+  },
+  "incomplete": [
+    "This is a stub entry. The status of any appeals against the 2015 convictions has not yet been researched.",
+    "The exact scale of the fraud is reported inconsistently (₹7,000 crore to ₹14,000 crore) across sources reviewed, and this investigation has not identified a single authoritative figure.",
+    "The fate of investors and the company's eventual sale (Satyam was acquired by Tech Mahindra in 2009) has not been covered in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-satyam-wiki",
+      "label": "Ramalinga Raju",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Ramalinga_Raju"
+    },
+    {
+      "id": "src-satyam-verdict",
+      "label": "Ramalinga Raju found guilty in Satyam scam case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2015-04-09",
+      "url": "https://www.business-standard.com/article/companies/ramalinga-raju-found-guilty-in-satyam-scam-case-business-standard-news-115040900164_1.html"
+    }
+  ]
+}

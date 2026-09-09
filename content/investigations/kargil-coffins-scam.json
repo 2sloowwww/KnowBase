@@ -1,0 +1,139 @@
+{
+  "id": "KB-904",
+  "slug": "kargil-coffins-scam",
+  "title": "The Kargil Coffins Scam",
+  "dek": "A CAG report questioned why the Army paid roughly ten times the going rate for aluminium coffins bought in a wartime emergency during the 1999 Kargil conflict. A CBI case naming three officers and a US supplier ended in a full court discharge in 2013, finding no evidence — and courts later cleared the then Defence Minister and Prime Minister of any personal role.",
+  "category": "Defence & Security",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 226,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2001-01-01",
+  "heroStat": {
+    "value": "~$2,000",
+    "label": "reportedly paid per aluminium casket in the emergency 1999 wartime purchase, against a roughly $172 per-unit price CAG flagged as available elsewhere"
+  },
+  "promise": {
+    "quote": "Emergency wartime procurement of essential supplies, including coffins/caskets and body bags for soldiers killed in the 1999 Kargil conflict, would be conducted at fair market rates through proper procedure despite the urgency.",
+    "madeBy": "Ministry of Defence, Government of India",
+    "role": "Wartime procurement authority during the Kargil conflict",
+    "date": "1999-06-01",
+    "context": "During and immediately after the 1999 Kargil War, the Ministry of Defence undertook emergency purchases of a range of supplies, including aluminium caskets and body bags for soldiers' remains, from foreign suppliers including a US-based firm.",
+    "sourceIds": [
+      "src-kargil-wiki"
+    ]
+  },
+  "target": {
+    "description": "That emergency wartime purchases would still be made at reasonable, justifiable prices and delivered in a timely manner appropriate to the emergency that necessitated them.",
+    "standard": "Standard government procurement norms as assessed retrospectively by the Comptroller and Auditor General.",
+    "referenceDate": "1999-06-01"
+  },
+  "reality": {
+    "description": "A 2001 CAG report on Kargil-related emergency purchases flagged the coffin/casket purchase as a specific instance of overpricing, noting caskets were bought at roughly $2,000 apiece when reportedly available for around $172 elsewhere, and separately found that a large share (reported as over four-fifths) of emergency supplies for the conflict arrived more than six months after the fighting had ended — undercutting the 'emergency' justification for the elevated prices. The report did not name then-Defence Minister George Fernandes, who was separately given a clean chit in relation to the allegations. The CBI registered a case in June 2006 under IPC cheating and conspiracy provisions and the Prevention of Corruption Act, and filed a chargesheet in August 2009 naming three Army officers — Major General Arun Roye, Colonel S.K. Malik and Colonel F.B. Singh — along with US national Victor Baiza, whose firm supplied the caskets and body bags. In December 2013, a special CBI court discharged all the accused, finding no evidence to support the charges. In October 2015, the Supreme Court separately declined to entertain a plea seeking to reopen scrutiny of the roles of Fernandes and then-Prime Minister Atal Bihari Vajpayee, effectively closing off any further judicial examination of their personal involvement.",
+    "asOfDate": "2015-10-13",
+    "sourceIds": [
+      "src-kargil-wiki",
+      "src-kargil-cpim"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged overpricing ratio vs. accountability secured",
+    "unit": "ratio",
+    "targetValue": 172,
+    "actualValue": 0,
+    "targetDisplay": "~$172 per unit (CAG-flagged comparable price)",
+    "actualDisplay": "0 convictions after full court discharge",
+    "targetLabel": "Comparable market price",
+    "actualLabel": "Convictions secured",
+    "note": "A roughly elevenfold price gap was flagged by the CAG, but the eventual CBI case against the named officers and supplier ended in a 2013 discharge for lack of evidence — this site reports that outcome rather than treating the CAG's pricing concern as proof of a criminal fraud."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1999-06-01",
+      "label": "Emergency wartime purchases made during Kargil conflict",
+      "detail": "The Ministry of Defence procures a range of emergency supplies, including aluminium caskets and body bags, from foreign suppliers.",
+      "type": "announcement"
+    },
+    {
+      "date": "2001-01-01",
+      "label": "CAG report flags coffin pricing and delivery delays",
+      "detail": "The Comptroller and Auditor General's report on Kargil emergency procurement questions the roughly $2,000-per-unit casket price against a cited $172 comparable, and finds much of the emergency supply arrived well after the conflict ended.",
+      "type": "milestone"
+    },
+    {
+      "date": "2006-06-01",
+      "label": "CBI registers case",
+      "detail": "The CBI books a case under IPC cheating/conspiracy provisions and the Prevention of Corruption Act over the coffin/casket procurement.",
+      "type": "status"
+    },
+    {
+      "date": "2009-08-01",
+      "label": "CBI files chargesheet",
+      "detail": "The CBI names Major General Arun Roye, Colonel S.K. Malik, Colonel F.B. Singh, and US supplier Victor Baiza in its chargesheet.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-12-01",
+      "label": "Special CBI court discharges all accused",
+      "detail": "The court finds no evidence to sustain the charges and discharges all four accused.",
+      "type": "revision"
+    },
+    {
+      "date": "2015-10-13",
+      "label": "Supreme Court declines to reopen scrutiny of Fernandes, Vajpayee",
+      "detail": "The Court effectively closes the matter as it pertains to the personal roles of the then Defence Minister and Prime Minister.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case is closed. All four individuals named in the CBI's 2009 chargesheet were discharged by a special CBI court in December 2013 for lack of evidence, and the Supreme Court in October 2015 declined to reopen the question of any personal role by George Fernandes or Atal Bihari Vajpayee. No conviction was secured against anyone in connection with the coffin/casket procurement.",
+    "keyIndividuals": [
+      {
+        "name": "George Fernandes",
+        "role": "Defence Minister during the Kargil War",
+        "outcome": "Not named in the CAG report; given a clean chit; Supreme Court declined in 2015 to reopen scrutiny of his role."
+      },
+      {
+        "name": "Maj Gen Arun Roye, Col S.K. Malik, Col F.B. Singh",
+        "role": "Army officers involved in the emergency procurement",
+        "outcome": "Chargesheeted by the CBI in 2009; discharged by a special court in December 2013 for lack of evidence."
+      },
+      {
+        "name": "Victor Baiza",
+        "role": "US national, supplier of caskets and body bags",
+        "outcome": "Chargesheeted by the CBI in 2009; discharged by a special court in December 2013 for lack of evidence."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a closed case: a CAG report flagged a large pricing gap and severe delivery delays in a wartime emergency purchase, but the CBI's eventual prosecution of the named officers and supplier ended in a full discharge for lack of evidence, and the Supreme Court declined to revisit the roles of the political leadership. This site reports the discharge and clean chits with the same weight as the original CAG concern, rather than treating the initial allegations as an established scam.",
+    "confidence": "medium",
+    "reasoning": "The CAG's pricing findings, the CBI case timeline, the 2013 discharge, and the 2015 Supreme Court order are corroborated across Wikipedia, CPI(M) archival commentary (used only for factual chronology, not political framing), and contemporaneous news coverage. Confidence is not higher because this entry has not reviewed the CAG report, CBI chargesheet, or court orders directly."
+  },
+  "incomplete": [
+    "This entry has not reviewed the original 2001 CAG report, the CBI's 2009 chargesheet, or the December 2013 discharge order directly.",
+    "The precise reasoning in the special CBI court's 2013 discharge order (e.g., whether it found the price gap justified, or found a lack of evidence of criminal intent specifically) has not been independently confirmed beyond secondary summaries.",
+    "This entry does not adjudicate whether the underlying pricing was in fact reasonable given wartime emergency conditions — both the CAG's original concern and the court's eventual discharge are reported without this site taking a further position."
+  ],
+  "sources": [
+    {
+      "id": "src-kargil-wiki",
+      "label": "Kargil coffin scam",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2023-01-01",
+      "url": "https://en.wikipedia.org/wiki/Kargil_coffin_scam"
+    },
+    {
+      "id": "src-kargil-cpim",
+      "label": "Remove George Fernandes — Coffin Scandal (contemporaneous political statement, used for chronology only)",
+      "type": "independent",
+      "publisher": "Communist Party of India (Marxist)",
+      "date": "2001-01-01",
+      "url": "https://cpim.org/remove-george-fernandes-coffin-scandal/"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "KB-1506",
+  "slug": "tamil-nadu-beach-sand-mining-scam",
+  "title": "The Tamil Nadu Beach Sand Mining Scam",
+  "dek": "The CBI alleges a private mining firm and its associates illegally extracted ₹3,581 crore worth of rare minerals like monazite from Tamil Nadu's beaches over 17 years — but the Supreme Court has now stayed the agency's own probe.",
+  "category": "Natural Resources",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 155,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "₹5,832 cr",
+    "label": "total scale of the alleged scam, against ₹3,581 cr the CBI attributes to illegal extraction between 2000 and 2017"
+  },
+  "promise": {
+    "quote": "Beach sand mineral extraction, including of restricted and atomic minerals like monazite, will occur only under valid statutory licences and within permitted limits, without a nexus between private firms, officials, and politicians.",
+    "madeBy": "Tamil Nadu mining regulatory framework and central atomic-minerals licensing regime",
+    "role": "Regulatory safeguard over beach sand mineral extraction, a sector restricted due to the presence of radioactive monazite",
+    "date": "2013-01-01",
+    "context": "Beach sand mining in Tamil Nadu has been a subject of allegations for over a decade, involving companies including V.V. Mineral accused of illegally mining minerals worth thousands of crores.",
+    "sourceIds": [
+      "src-tnsand-organiser"
+    ]
+  },
+  "target": {
+    "description": "Beach sand mineral extraction conducted only under valid licences, with radioactive and strategically restricted minerals like monazite handled under central government control, and no illegal nexus enabling large-scale unlicensed mining.",
+    "standard": "Atomic Energy Act restrictions on monazite and related minerals, and Tamil Nadu mining licensing rules.",
+    "referenceDate": "2013-01-01"
+  },
+  "reality": {
+    "description": "The CBI booked six firms and 21 individuals in April 2025 in connection with an alleged ₹5,832-crore beach sand mining scam, following raids on 5 April 2025 at 12 locations targeting V.V. Mineral and other firms. The agency's case alleges illegal mining of rare minerals, including monazite, worth ₹3,581.11 crore between 2000 and 2017, alongside claims of a nexus between private firms, politicians, and officials. However, the Supreme Court subsequently stayed the CBI's probe into the matter, halting the investigation's progress as of the most recent reporting reviewed.",
+    "asOfDate": "2025-06-01",
+    "sourceIds": [
+      "src-tnsand-organiser",
+      "src-tnsand-dh"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total alleged scam value vs. the specific illegal-extraction figure the CBI's FIR attributes to 2000-2017",
+    "unit": "₹ crore",
+    "targetValue": 5832,
+    "actualValue": 3581,
+    "targetDisplay": "₹5,832 cr (total alleged scam)",
+    "actualDisplay": "₹3,581 cr (illegal extraction, 2000-2017)",
+    "targetLabel": "Total alleged scam",
+    "actualLabel": "Illegal extraction value",
+    "note": "The gap between figures likely reflects different components of the case (extraction value versus broader financial impact including exports and processing), which this investigation has not fully disaggregated."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-01-01",
+      "label": "Allegations first surface",
+      "detail": "Reports and inquiries begin into allegedly illegal beach sand mining by private firms including V.V. Mineral in Tamil Nadu.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-05",
+      "label": "CBI raids 12 locations",
+      "detail": "The CBI conducts searches targeting V.V. Mineral and other firms as part of its investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-07",
+      "label": "CBI books six firms, 21 individuals",
+      "detail": "The agency formally registers a case alleging a ₹5,832 crore scam, including illegal mining of monazite and other rare minerals worth ₹3,581.11 crore.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-06-01",
+      "label": "Supreme Court stays CBI probe",
+      "detail": "The Supreme Court halts the CBI's investigation into the beach sand mining allegations.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The CBI registered a case against six firms and 21 individuals in April 2025, but the Supreme Court has stayed the investigation; no chargesheet or trial outcome is reported as of this entry's publication.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the CBI's own filing alleges a large-scale, long-running illegal mining operation involving a restricted, radioactive mineral, but the case's progress has since been halted by the Supreme Court, leaving the underlying allegations formally untested in court.",
+    "confidence": "low",
+    "reasoning": "This entry is based on reporting of the CBI's April 2025 case registration and a subsequent Supreme Court stay, drawn from a small number of independent sources. The grounds for the Supreme Court's stay have not been detailed here."
+  },
+  "incomplete": [
+    "This is a stub entry; the specific legal grounds on which the Supreme Court stayed the CBI probe have not been researched.",
+    "The named individuals among the 21 accused have not been detailed here.",
+    "The current status of the stay (interim vs. final) as of September 2026 has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-tnsand-organiser",
+      "label": "Rs 5,832 crore beach sand mining scam exposed; CBI files case",
+      "type": "independent",
+      "publisher": "Organiser",
+      "date": "2025-04-07",
+      "url": "https://organiser.org/2025/04/07/286375/bharat/tamil-nadu-cbi-books-six-firms-21-individuals-in-rs-5832-crore-beach-sand-mining-scam/"
+    },
+    {
+      "id": "src-tnsand-dh",
+      "label": "Supreme Court stays CBI probe into Rs 5,832 crore beach sand mining scam in Tamil Nadu",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-06-01",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/supreme-court-stays-cbi-probe-into-rs-5832-crore-beach-sand-mining-scam-in-tamil-nadu-3518890"
+    },
+    {
+      "id": "src-tnsand-federal",
+      "label": "SC stalls CBI probe into Rs 5,832-cr beach sand-mining 'scam' in TN",
+      "type": "independent",
+      "publisher": "The Federal",
+      "date": "2025-06-01",
+      "url": "https://thefederal.com/category/states/south/tamil-nadu/supreme-court-sand-mining-scam-tamil-nadu-cbi-184328"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "KB-2002",
+  "slug": "sahara-q-shop-mlm-scheme",
+  "title": "The Sahara Q Shop Scheme",
+  "dek": "Marketed as a retail chain fighting food adulteration and fronted by star cricketers, Sahara Q Shop collected money from investors as advances for goods and gold — money regulators later said was funnelled into other, unregistered Sahara group schemes.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 248,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2012-10-27",
+  "heroStat": {
+    "value": "15,000+",
+    "label": "complaints reported against nine Sahara group companies including Sahara Q Shop, which the Ministry of Corporate Affairs referred to the Serious Fraud Investigation Office"
+  },
+  "promise": {
+    "quote": "Sahara Q Shop is a retail venture against adulteration, offering genuine, quality-assured products — an investment and business opportunity distinct from Sahara's other financial schemes.",
+    "madeBy": "Sahara India Pariwar, through Sahara Q Shop Unique Products Range Ltd (SQSUPRL) and Sahara Q Gold Mart Ltd (SQGML)",
+    "role": "Sahara group retail and consumer-products venture, promoted with brand campaigns fronted by cricketers including Sachin Tendulkar and Mahendra Singh Dhoni",
+    "date": "2012-10-27",
+    "context": "From around 2012, Sahara Q Shop entities collected money from the public described as advances against future supply of retail goods and gold, positioned separately from the OFCD schemes already under SEBI scrutiny in the main Sahara–SEBI case.",
+    "sourceIds": [
+      "src-qshop-sfio",
+      "src-qshop-sebi-warning"
+    ]
+  },
+  "target": {
+    "description": "Funds collected from the public used for their stated retail purpose, with any scheme resembling a collective investment or deposit-taking arrangement registered with the appropriate regulator.",
+    "standard": "Companies Act provisions on deposit-taking and SEBI's regulations on collective investment schemes and public fundraising.",
+    "referenceDate": "2012-10-27"
+  },
+  "reality": {
+    "description": "SEBI publicly warned investors in October 2012 not to invest in Sahara Q Shop, and the Ministry of Corporate Affairs ordered the Serious Fraud Investigation Office (SFIO) to probe Sahara Q Shop Unique Products Range Ltd in October 2018 following complaints from 744 people; total complaints across nine linked Sahara companies were later reported at over 15,000. In parliamentary remarks, the finance ministry stated the SFIO's probe found that Sahara Q Shop investments were being converted into schemes run by Sahara group's cooperative societies rather than used for the stated retail business. Because Sahara Q Shop and its sister entities fell outside the specific OFCD companies (SIRECL and SHICL) covered by the Supreme Court's 2012 refund order in the main Sahara–SEBI case, investors in Q Shop were not covered by the SEBI refund mechanism set up for that separate matter, leaving their money in a distinct and, as of the most recent reporting reviewed, still largely unresolved dispute.",
+    "asOfDate": "2020-01-01",
+    "sourceIds": [
+      "src-qshop-sfio",
+      "src-qshop-sebi-warning"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Complaints referred for SFIO investigation vs. confirmed investor refunds under this scheme",
+    "unit": "count",
+    "targetValue": 15000,
+    "actualValue": 0,
+    "targetDisplay": "15,000+ complaints",
+    "actualDisplay": "No confirmed refund mechanism found",
+    "targetLabel": "Complaints logged against Sahara Q Shop and linked entities",
+    "actualLabel": "Refunds under this scheme confirmed by this entry",
+    "note": "Unlike the SIRECL/SHICL OFCD case, this entry did not find a confirmed, court-ordered refund mechanism specifically covering Sahara Q Shop investors as of the sources reviewed."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2012-10-27",
+      "label": "SEBI publicly warns against Sahara Q Shop",
+      "detail": "SEBI advises investors not to invest in the Sahara Q Shop scheme, separate from its ongoing OFCD enforcement action against two other Sahara companies.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-10-31",
+      "label": "MCA orders SFIO probe",
+      "detail": "The Ministry of Corporate Affairs directs the Serious Fraud Investigation Office to investigate Sahara Q Shop Unique Products Range Ltd following complaints from 744 people.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-01-01",
+      "label": "Complaints against linked Sahara entities exceed 15,000",
+      "detail": "Reporting describes over 15,000 complaints across nine Sahara group companies including Sahara Q Shop, Sahara Gold Mart, and Sahara Housing Investment Corporation.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The SFIO investigation into Sahara Q Shop Unique Products Range Ltd, ordered in 2018, and the broader set of complaints against linked Sahara companies remain the subject of regulatory and parliamentary scrutiny. This entry did not find confirmation of a completed SFIO report, prosecution, or dedicated refund order specific to Sahara Q Shop investors."
+  },
+  "verdict": {
+    "summary": "Sahara Q Shop is a real, distinct strand of the wider Sahara group's history of raising money from the public through schemes that regulators later scrutinised as improperly structured or diverted. Because it was pursued through the MCA/SFIO route rather than the SEBI OFCD route that produced the more famous ₹25,000-crore refund order, Q Shop investors' money follows a separate and, on the evidence reviewed, still largely unresolved track.",
+    "confidence": "medium",
+    "reasoning": "SEBI's 2012 investor warning and the MCA's 2018 SFIO referral are documented in contemporaneous reporting and a parliamentary statement referenced in press coverage; this entry has not reviewed the SFIO's report or any court order directly, and could not confirm a refund mechanism specific to this scheme."
+  },
+  "incomplete": [
+    "The current status and findings of the SFIO's investigation into Sahara Q Shop Unique Products Range Ltd have not been confirmed beyond the 2018 referral and subsequent parliamentary remarks referenced in press coverage.",
+    "No confirmed figure for total money collected specifically through Sahara Q Shop and its sister entities (as distinct from the OFCD schemes) was found and verified for this entry.",
+    "Whether any refund mechanism specific to Sahara Q Shop investors has since been created is not confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-qshop-sfio",
+      "label": "SFIO searches Sahara's office in Lucknow, probe against group widens",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2020-10-29",
+      "url": "https://www.business-standard.com/amp/article/companies/sfio-searches-sahara-s-office-in-lucknow-probe-against-group-widens-120102901543_1.html"
+    },
+    {
+      "id": "src-qshop-sebi-warning",
+      "label": "Don't invest in Sahara Q Shop, says SEBI",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2012-10-27",
+      "url": "https://www.business-standard.com/article/markets/don-t-invest-in-sahara-q-shop-says-sebi-112102700079_1.html"
+    }
+  ]
+}

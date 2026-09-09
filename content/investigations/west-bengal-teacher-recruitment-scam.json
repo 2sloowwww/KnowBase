@@ -1,0 +1,124 @@
+{
+  "id": "KB-029",
+  "slug": "west-bengal-teacher-recruitment-scam",
+  "title": "The West Bengal Teacher Recruitment Scam",
+  "dek": "A state's teacher-hiring exams were allegedly rigged for cash. Investigators recovered so much physical currency from one associate's flats that it had to be counted with note-counting machines running for days.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 107,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-07-22",
+  "heroStat": {
+    "value": "₹49.8 cr+",
+    "label": "in cash alone recovered from one associate's properties"
+  },
+  "promise": {
+    "quote": "Teacher recruitment through the West Bengal School Service Commission (SSC) will be conducted on merit, through fair and transparent examinations.",
+    "madeBy": "West Bengal School Service Commission, under the state's School Education Department",
+    "role": "State body responsible for recruiting teachers to government and government-aided schools",
+    "date": "2022-07-01",
+    "context": "Allegations centred on recruitment exams held in preceding years, with investigators alleging candidates paid bribes, routed through officials and intermediaries, to secure teaching posts they had not qualified for on merit.",
+    "sourceIds": [
+      "src-wbssc-wiki"
+    ]
+  },
+  "target": {
+    "description": "Recruitment based strictly on exam merit, with no manipulation of results, waitlists, or appointment orders in exchange for payment.",
+    "standard": "Standard public recruitment norms requiring merit-based selection through the Commission's own examination process.",
+    "referenceDate": "2022-07-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate arrested then-Education Minister Partha Chatterjee in July 2022 and, in raids on properties linked to his associate Arpita Mukherjee, recovered cash in stages reported at ₹20 crore, then ₹15 crore, then ₹27.9 crore, with an earlier search separately reported at ₹49.8 crore in cash and jewellery worth ₹5.08 crore — among the largest cash seizures in an Indian corruption investigation. The ED separately said it had attached assets worth ₹641 crore linked to the case. Chatterjee was granted conditional bail by the Supreme Court in early 2025 after roughly three years in custody.",
+    "asOfDate": "2025-01-01",
+    "sourceIds": [
+      "src-wbssc-cash",
+      "src-wbssc-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Assets the ED says it has attached vs. cash physically recovered in raids",
+    "unit": "₹ crore",
+    "targetValue": 641,
+    "actualValue": 49.8,
+    "targetDisplay": "₹641 cr in assets attached (ED)",
+    "actualDisplay": "₹49.8 cr in cash recovered in one set of raids",
+    "targetLabel": "Attached",
+    "actualLabel": "Cash found",
+    "note": "Reported cash-recovery figures vary across different raids and reports (₹15 cr, ₹20 cr, ₹27.9 cr, and ₹49.8 cr all appear in different accounts); this investigation has not fully reconciled these into a single total and reports the largest single figure found."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2022-07-22",
+      "label": "Partha Chatterjee arrested",
+      "detail": "The ED arrests the then-Education Minister.",
+      "type": "status"
+    },
+    {
+      "date": "2022-07-27",
+      "label": "Major cash seizures begin",
+      "detail": "Raids on properties linked to Arpita Mukherjee recover tens of crores in cash and gold over several days.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-01",
+      "label": "Chatterjee granted bail",
+      "detail": "The Supreme Court grants conditional bail after roughly three years in custody.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Both principal accused have been arrested and one has since been granted bail; this investigation has not yet confirmed the trial's current stage or any verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Partha Chatterjee",
+        "role": "Former West Bengal Education Minister",
+        "outcome": "Arrested July 2022; granted conditional bail by the Supreme Court, early 2025, after roughly three years in custody. No trial verdict confirmed as of the sources reviewed."
+      },
+      {
+        "name": "Arpita Mukherjee",
+        "role": "Associate of Partha Chatterjee",
+        "outcome": "Properties linked to her were the site of the case's largest cash recoveries. This investigation has not confirmed her current legal status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of cash recovered from properties linked to the case is extraordinary and well documented by multiple independent reports of the raids themselves. This investigation has not yet established the trial's current stage or confirmed any verdict for either principal accused.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, which are strongly corroborated by physical evidence (recovered cash) reported across multiple sources. Confidence in the overall case status is capped at low because this investigation has not yet traced the case to a confirmed trial verdict."
+  },
+  "incomplete": [
+    "This is a stub entry. The trial's current stage and any verdict have not been confirmed.",
+    "The different reported cash-recovery figures across multiple raids have not been reconciled into a single total.",
+    "Other named accused beyond Chatterjee and Mukherjee have not been detailed in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-wbssc-wiki",
+      "label": "2022 West Bengal School Service Commission recruitment scam",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/West_Bengal_School_Service_Commission_recruitment_scam"
+    },
+    {
+      "id": "src-wbssc-cash",
+      "label": "ED seizes Rs 20 crore cash after raids on West Bengal minister Partha Chatterjee's aide",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-07-23",
+      "url": "https://www.deccanherald.com/national/east-and-northeast/ed-seizes-rs-20-crore-cash-after-raids-on-west-bengal-minister-partha-chatterjees-aide-1129141.html"
+    },
+    {
+      "id": "src-wbssc-bail",
+      "label": "West Bengal School Jobs Scam: Ex-WB Minister Partha Chatterjee Released on Bail After 3 Years",
+      "type": "independent",
+      "publisher": "LawChakra",
+      "date": "2025-01-01",
+      "url": "https://lawchakra.in/legal-updates/west-bengal-school-jobs-scam/"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "KB-405",
+  "slug": "punjab-illegal-sand-mining-scam",
+  "title": "Punjab's Illegal Sand Mining Scam",
+  "dek": "A 2018 police FIR into unauthorised sand mining in Punjab has grown into a years-long, cross-party money-laundering investigation touching a former Chief Minister's nephew, a sitting minister's aide and border-district panchayat land deals — with ED raids continuing under three different state governments and no convictions yet.",
+  "category": "Natural Resources",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 231,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-01-01",
+  "heroStat": {
+    "value": "₹10 crore+",
+    "label": "cash the ED says it seized in a single round of 2022 sand-mining raids, including from a former Chief Minister's relative"
+  },
+  "promise": {
+    "quote": "Sand and gravel mining in Punjab's riverbeds will be conducted only through legally auctioned leases, with royalty properly paid to the state and no extraction beyond permitted limits.",
+    "madeBy": "Government of Punjab, Department of Mines and Geology",
+    "role": "State authority responsible for regulating and auctioning riverbed mineral (sand and gravel) mining leases",
+    "date": "2018-01-01",
+    "context": "This reflects the baseline statutory standard for sand mining leases under the Punjab Minor Mineral Rules, which the underlying 2018 FIR and subsequent ED probe allege was systematically violated by unauthorised and cartel-controlled extraction.",
+    "sourceIds": [
+      "src-psm-2018fir"
+    ]
+  },
+  "target": {
+    "description": "Riverbed sand and gravel extracted only under valid, competitively auctioned leases, with royalty paid to the state and extraction confined to permitted sites and quantities.",
+    "standard": "Punjab Minor Mineral Rules and mining lease auction norms.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate's money-laundering investigation stems from a 2018 FIR filed by Punjab Police against companies and individuals over illegal sand mining. Under the Congress government, the ED in 2022 raided around a dozen premises across Chandigarh, Mohali, Ludhiana and Pathankot, including those linked to Bhupinder Singh Honey, nephew of then Chief Minister Charanjit Singh Channi, seizing roughly ₹10 crore in cash and questioning Channi himself; the AAP-led opposition at the time (Arvind Kejriwal) alleged the Chief Minister's relatives were involved. After the AAP won the 2022 state election, the same investigation continued and, if anything, widened: in 2023 AAP minister Fauja Singh Sarari resigned after an audio clip alleging an 'extortion plan' went viral, and in 2024 the ED raided 13 locations in Ropar tied to illegal mining on land previously seized in a separate drug case. In 2025-2026, ED searches expanded to Pathankot, Amritsar and Gurdaspur, examining a money-laundering angle tied to both illegal sand mining and a separate, controversial allotment of roughly 92 acres of panchayat land near the Pakistan border, with an AAP-linked individual, Vijay Kataruchak, named as a person of interest. As of publication, the case remains at the investigation stage across multiple state governments; no conviction has been reported.",
+    "asOfDate": "2026-01-01",
+    "sourceIds": [
+      "src-psm-2022raids",
+      "src-psm-sarari",
+      "src-psm-2024ropar",
+      "src-psm-2026raids"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years the ED money-laundering probe has run vs. convictions secured",
+    "unit": "years",
+    "targetValue": 8,
+    "actualValue": 0,
+    "targetDisplay": "8 years of investigation (2018-2026)",
+    "actualDisplay": "0 convictions",
+    "targetLabel": "Years under investigation",
+    "actualLabel": "Convictions secured",
+    "note": "The underlying FIR dates to 2018; the ED's PMLA investigation has continued across the Congress (Channi), and AAP (Mann) state governments without producing a publicly confirmed conviction."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ED reported seizing approximately ₹10 crore in cash during 2022 raids (about ₹8 crore of it from premises linked to a former Chief Minister's nephew). No comprehensive, court-verified estimate of total illegal sand-mining proceeds across the full multi-year investigation was found in available sources.",
+    "sourceIds": [
+      "src-psm-2022raids"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-01-01",
+      "label": "Punjab Police registers FIR",
+      "detail": "Punjab Police files an FIR against companies and individuals over illegal sand mining, later forming the basis of the ED's money-laundering case.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-04-01",
+      "label": "ED raids target CM's nephew",
+      "detail": "The ED raids around a dozen premises across Punjab, including those linked to Bhupinder Singh Honey, nephew of Chief Minister Charanjit Singh Channi, seizing roughly ₹10 crore in cash.",
+      "type": "status"
+    },
+    {
+      "date": "2022-04-14",
+      "label": "ED questions former CM Channi",
+      "detail": "The ED questions former Chief Minister Charanjit Singh Channi in connection with the sand-mining money-laundering probe, ahead of the state election.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-07",
+      "label": "AAP minister Fauja Singh Sarari resigns",
+      "detail": "Punjab minister Fauja Singh Sarari resigns after an audio clip alleging an extortion plan connected to mining goes viral; AAP issues him a show-cause notice.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "Vigilance Bureau case over panchayat land",
+      "detail": "Punjab Vigilance Bureau registers a case against a retired official over an allegedly improper allotment of about 92 acres of border-area panchayat land, later folded into the ED's sand-mining probe.",
+      "type": "status"
+    },
+    {
+      "date": "2024-05-29",
+      "label": "ED raids 13 locations in Ropar",
+      "detail": "The ED conducts searches at 13 premises in Ropar district, citing illegal mining activity on land previously seized in connection with a separate drug case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "ED raids Pathankot, Amritsar, Gurdaspur",
+      "detail": "The ED searches mining firms, stone crushers and residences linked to alleged AAP functionary Vijay Kataruchak, examining both sand mining and the border panchayat land allotment.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case remains an active ED money-laundering investigation, built on a 2018 Punjab Police FIR, with no publicly confirmed chargesheet, trial conclusion or conviction as of publication. It has proceeded across three different state governments (Congress, AAP) without political change ending the probe.",
+    "keyIndividuals": [
+      {
+        "name": "Charanjit Singh Channi",
+        "role": "Former Chief Minister of Punjab (Congress)",
+        "outcome": "Questioned by the ED in 2022; his nephew's premises were raided and cash seized; Channi has not been reported as arrested or chargesheeted personally as of publication."
+      },
+      {
+        "name": "Fauja Singh Sarari",
+        "role": "Punjab Cabinet Minister (AAP)",
+        "outcome": "Resigned in January 2023 after a viral audio clip alleging extortion; not reported as arrested or chargesheeted as of publication."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a long-running, cross-party investigation rather than a case tied to one government or party: it began under a Congress-led Vigilance/Police FIR, implicated a Congress Chief Minister's relative, continued after AAP took power and has since touched an AAP minister and an AAP-linked figure. No convictions have been reported at any stage, and the persistence of raids across successive governments is itself the most notable, and least dramatic, fact about this case.",
+    "confidence": "medium",
+    "reasoning": "The sequence of raids, resignations and questioning is well documented in contemporaneous reporting from multiple outlets. Confidence is not higher because this entry has not reviewed the underlying FIR, any ED prosecution complaint, or court records directly, and because the full scope of alleged illegal proceeds has not been independently quantified in the sources reviewed."
+  },
+  "incomplete": [
+    "No comprehensive, agency-confirmed total estimate of illegal sand-mining proceeds across the full multi-year investigation was located.",
+    "This entry has not reviewed the 2018 FIR, the Vigilance Bureau case, or any ED prosecution complaint directly.",
+    "The current (2026) status of the Pathankot/Amritsar/Gurdaspur investigation strand, including whether any arrests have resulted, has not been confirmed beyond initial raid reporting.",
+    "It is unclear whether any formal charges have been filed against Bhupinder Singh Honey or other named individuals as of publication."
+  ],
+  "sources": [
+    {
+      "id": "src-psm-2018fir",
+      "label": "ED raids AAP minister's 'aide' in Punjab border sand mining case, land allotment also under scanner",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2026-01-01",
+      "url": "https://theprint.in/politics/ed-raids-aap-ministers-aide-in-punjab-border-sand-mining-case-land-allotment-also-under-scanner/2989372/"
+    },
+    {
+      "id": "src-psm-2022raids",
+      "label": "ED seizes Rs 10 crore cash, including from Punjab CM's relative, in sand mining raids",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-04-01",
+      "url": "https://www.deccanherald.com/india/ed-seizes-rs-10-crore-cash-including-from-punjab-cms-relative-in-sand-mining-raids-1072546.html"
+    },
+    {
+      "id": "src-psm-sarari",
+      "label": "Punjab: AAP Minister Fauja Singh Sarari resigns over extortion case",
+      "type": "independent",
+      "publisher": "OpIndia",
+      "date": "2023-01-07",
+      "url": "https://www.opindia.com/2023/01/punjab-aap-mla-resigns-extortion-audio-viral/"
+    },
+    {
+      "id": "src-psm-2024ropar",
+      "label": "Illegal mining case: ED raids 13 places in Punjab's Ropar",
+      "type": "independent",
+      "publisher": "Webindia123",
+      "date": "2024-05-29",
+      "url": "https://news.webindia123.com/news/Articles/India/20240529/4201442.html"
+    },
+    {
+      "id": "src-psm-2026raids",
+      "label": "Punjab CM, his relatives involved in illegal sand mining, alleges Kejriwal",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-04-14",
+      "url": "https://www.deccanherald.com/india/punjab-cm-his-relatives-involved-in-illegal-sand-mining-alleges-kejriwal-1072322.html"
+    }
+  ]
+}

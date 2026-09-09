@@ -1,0 +1,183 @@
+{
+  "id": "KB-401",
+  "slug": "chhattisgarh-coal-levy-scam",
+  "title": "The Chhattisgarh Coal Levy Scam",
+  "dek": "The ED alleges a cartel of bureaucrats, a coal transporter and politicians ran an illegal ₹25-per-tonne levy on coal transported across Chhattisgarh, extorting an estimated ₹540 crore that was allegedly funnelled into elections and bribes. Years on, the accused remain under trial, and the Supreme Court has granted several of them interim bail while criticising delays in the case.",
+  "category": "Natural Resources",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 126,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-10-01",
+  "heroStat": {
+    "value": "₹540 crore",
+    "label": "extortion the ED alleges was collected via an illegal per-tonne coal transport levy (2020–2022)"
+  },
+  "promise": {
+    "quote": "Coal transport permissions (NOCs) in Chhattisgarh will be issued through a lawful, transparent district administration process, with no extra-legal charges imposed on transporters or traders.",
+    "madeBy": "Government of Chhattisgarh, under the Indian National Congress",
+    "role": "State government administering coal transport NOCs and mineral-sector welfare",
+    "date": "2020-07-01",
+    "context": "This reflects the baseline standard for issuing coal transport No Objection Certificates (NOCs) that the ED's investigation alleges was subverted by an illegal cartel; it is not a specific public pledge by any individual.",
+    "sourceIds": [
+      "src-ccl-ed-overview"
+    ]
+  },
+  "target": {
+    "description": "Coal transport NOCs issued to businesses on a lawful basis, without any additional per-tonne 'levy' collected by, or on behalf of, government officials or middlemen.",
+    "standard": "Mineral Concession Rules and standard anti-corruption norms governing the issuance of statutory transport permissions.",
+    "referenceDate": "2020-07-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate alleges that between mid-2020 and mid-2022, a cartel led by coal transporter Suryakant Tiwari — allegedly working with then-IAS officers Ranu Sahu and Samir Vishnoi, and Saumya Chaurasia, then deputy secretary to Chief Minister Bhupesh Baghel — imposed an illegal levy of roughly ₹25 per tonne on coal moved through the state, collecting an estimated ₹540 crore. The ED says diaries and digital records recovered during raids show the money was used to pay bribes to officials and politicians and to fund election-related expenses. The state's own Economic Offences Wing (EOW) separately registered a case naming 35 accused, including two sitting Congress MLAs. As of 2026, the case remains under trial: the ED has filed multiple prosecution complaints (its equivalent of a chargesheet), several accused including Chaurasia, Sahu and Tiwari were arrested and later granted interim bail by the Supreme Court in May 2025, and the matter continues before the PMLA special court. No one has been convicted.",
+    "asOfDate": "2026-03-01",
+    "sourceIds": [
+      "src-ccl-ed-overview",
+      "src-ccl-election-funds",
+      "src-ccl-sc-bail",
+      "src-ccl-chargesheet"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Accused named across ED and EOW proceedings vs. convictions secured to date",
+    "unit": "people",
+    "targetValue": 35,
+    "actualValue": 0,
+    "targetDisplay": "35 named",
+    "actualDisplay": "0 convicted",
+    "targetLabel": "Named as accused",
+    "actualLabel": "Convicted",
+    "note": "The EOW's case names 35 accused and the ED has filed prosecution complaints against dozens of individuals and entities; as of publication none have been convicted, and several key accused are out on Supreme Court-granted interim bail while the trial proceeds."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ED estimates the illegal levy generated approximately ₹540 crore in cash between roughly July 2020 and June 2022, based on diaries and digital records recovered during its investigation. This is an investigative estimate, not a court-established figure. Separately, ED has attached assets worth over ₹150 crore combined across accused including Suryakant Tiwari, Saumya Chaurasia and Ranu Sahu.",
+    "sourceIds": [
+      "src-ccl-election-funds",
+      "src-ccl-ed-overview"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-10-01",
+      "label": "ED begins probe",
+      "detail": "The Enforcement Directorate opens a money-laundering investigation into alleged illegal coal levy collection in Chhattisgarh, registering an ECIR based on an EOW/police case.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-12-02",
+      "label": "Saumya Chaurasia arrested",
+      "detail": "The ED arrests Saumya Chaurasia, then deputy secretary in Chief Minister Bhupesh Baghel's office, in the money-laundering case.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-30",
+      "label": "Second prosecution complaint filed",
+      "detail": "ED names Chaurasia and six others, including two mining officials, as accused in a supplementary chargesheet.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-08-01",
+      "label": "Supplementary chargesheet names MLAs and IAS officer",
+      "detail": "A further ED chargesheet names two sitting Congress MLAs and an IAS officer, Ranu Sahu, among the accused.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-02-04",
+      "label": "ED attaches over 100 properties",
+      "detail": "The ED attaches more than 100 movable and immovable properties linked to Suryakant Tiwari and others under PMLA.",
+      "type": "status"
+    },
+    {
+      "date": "2025-05-29",
+      "label": "Supreme Court grants interim bail",
+      "detail": "The Supreme Court grants interim bail to several key accused, including Suryakant Tiwari, Ranu Sahu and Saumya Chaurasia, citing prolonged incarceration without trial progress, with conditions including passport surrender and a bar on entering Chhattisgarh except for legal proceedings.",
+      "type": "status"
+    },
+    {
+      "date": "2025-05-31",
+      "label": "Accused released from custody",
+      "detail": "The six accused granted interim bail are released from prison.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case remains under trial before the PMLA special court in Chhattisgarh. Multiple ED prosecution complaints (chargesheets) have been filed naming 35 accused in total across the ED and EOW proceedings; several key accused have been granted interim bail by the Supreme Court but the underlying trial has not concluded, and no verdict of guilt or innocence has been reached for any accused.",
+    "keyIndividuals": [
+      {
+        "name": "Saumya Chaurasia",
+        "role": "Then deputy secretary to Chief Minister Bhupesh Baghel",
+        "outcome": "Arrested December 2022; over 50 properties attached by ED; granted interim bail by the Supreme Court in May 2025; trial ongoing."
+      },
+      {
+        "name": "Ranu Sahu",
+        "role": "IAS officer, then Collector of Korba/Raigarh districts",
+        "outcome": "Arrested and jailed; granted interim bail by the Supreme Court in May 2025; trial ongoing."
+      },
+      {
+        "name": "Suryakant Tiwari",
+        "role": "Coal transporter the ED describes as the alleged kingpin of the levy network",
+        "outcome": "Arrested; over 100 properties attached; granted interim bail by the Supreme Court in May 2025; trial ongoing."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a live, multi-year money-laundering investigation with serious allegations backed by asset attachments and multiple prosecution complaints, but it has not produced a single conviction and the accused have consistently denied wrongdoing. The Supreme Court's decision to grant interim bail to several key accused in 2025, citing the slow pace of the trial, is itself a significant and easily overlooked development — it does not exonerate anyone, but it reflects judicial concern about how long the case has dragged on without resolution.",
+    "confidence": "medium",
+    "reasoning": "The scale of ED action (chargesheets, arrests, asset attachments) is well documented in contemporaneous reporting, but this entry has not reviewed the prosecution complaints or the Supreme Court's bail order directly, and relies on news coverage of them. The case is explicitly distinct from the separate, unrelated Chhattisgarh liquor policy case covered elsewhere on this site."
+  },
+  "incomplete": [
+    "This entry has not independently reviewed the ED's prosecution complaints or the EOW's FIR; figures and allegations are drawn from news reporting of those documents.",
+    "The current status of the separate state EOW/police case (as opposed to the ED's PMLA case) against the 35 named accused, including the two Congress MLAs, has not been independently confirmed as of publication.",
+    "No trial verdict exists yet for any accused; this entry will need updating once the PMLA special court reaches a decision.",
+    "Full details of the Supreme Court's reasoning in the May 2025 interim bail order have not been reviewed directly."
+  ],
+  "sources": [
+    {
+      "id": "src-ccl-ed-overview",
+      "label": "Chhattisgarh Coal Levy Scam: ED Attaches Over 50 Properties Of Suspended Deputy Secretary Saumya Chaurasia",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2023-06-01",
+      "url": "https://www.freepressjournal.in/india/chhattisgarh-coal-levy-scam-ed-attaches-over-50-properties-of-suspended-deputy-secretary-saumya-chaurasia"
+    },
+    {
+      "id": "src-ccl-election-funds",
+      "label": "Chhattisgarh coal levy: extortion funds used for election expenses, to bribe politicians, says ED",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2023-08-17",
+      "url": "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-coal-levy-extortion-funds-used-for-election-expenses-bribe-politicians-ed-3859325"
+    },
+    {
+      "id": "src-ccl-chargesheet",
+      "label": "Chhattisgarh: ED's supplementary chargesheet in coal scam names two Congress MLAs, IAS official Sahu",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2023-08-01",
+      "url": "https://theprint.in/india/chhattisgarh-eds-supplementary-chargesheet-in-coal-scam-names-two-congress-mlas-ias-official-sahu/1720762/"
+    },
+    {
+      "id": "src-ccl-sc-bail",
+      "label": "Supreme Court Grants Interim Bail To Chhattisgarh Coal Scam Accused - Suryakant Tiwari, Ranu Sahu, Saumya Chaurasia & Others",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2025-05-29",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-grants-interim-bail-to-chhattisgarh-coal-scam-accused-suryakant-tiwari-ranu-sahu-saumya-chaurasia-293715"
+    },
+    {
+      "id": "src-ccl-properties",
+      "label": "Chhattisgarh Coal Levy Scam: ED attaches over 100 properties of key accused Suryakant Tiwari and others",
+      "type": "independent",
+      "publisher": "Organiser",
+      "date": "2025-02-04",
+      "url": "https://organiser.org/2025/02/04/276655/politics/chhattisgarh-coal-levy-scam-ed-attaches-over-100-movable-and-immovable-properties-of-accused-individuals/"
+    }
+  ]
+}

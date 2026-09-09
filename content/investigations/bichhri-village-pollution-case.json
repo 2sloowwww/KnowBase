@@ -1,0 +1,125 @@
+{
+  "id": "KB-3020",
+  "slug": "bichhri-village-pollution-case",
+  "title": "The Bichhri Village Chemical Poisoning Case",
+  "dek": "Chemical factories in a Rajasthan village dumped toxic sludge that ruined groundwater and farmland for miles around. India's Supreme Court applied the 'polluter pays' principle three decades ago and ordered compensation. Villagers say they are still waiting for clean water.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 194,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1989-01-01",
+  "heroStat": {
+    "value": "35+ years",
+    "label": "villagers have waited for the compensation and clean water ordered by the Supreme Court in 1996"
+  },
+  "promise": {
+    "quote": "Industries that pollute the environment and cause harm to residents must pay the full cost of remedying that damage and restoring the environment, under the 'polluter pays' principle.",
+    "madeBy": "Supreme Court of India",
+    "role": "Apex court, ruling in Indian Council for Enviro-Legal Action v. Union of India",
+    "date": "1996-02-13",
+    "context": "Chemical units including Silver Chemicals and Jyoti Chemicals set up operations in and around Bichhri village, Udaipur district, Rajasthan, in the late 1980s to manufacture H-acid and other chemicals, discharging highly toxic untreated effluent directly into the ground.",
+    "sourceIds": [
+      "src-bichhri-unep"
+    ]
+  },
+  "target": {
+    "description": "Contaminated groundwater and soil in and around Bichhri restored to safe, usable condition, with affected residents and farmers fully compensated for lost health, livelihoods and land value, as ordered by the Supreme Court.",
+    "standard": "Supreme Court judgment in Indian Council for Enviro-Legal Action v. Union of India (1996) applying the absolute liability and polluter-pays principles.",
+    "referenceDate": "1996-02-13"
+  },
+  "reality": {
+    "description": "The chemical units operated for roughly a year in the late 1980s before being shut down, but in that time produced thousands of tonnes of highly toxic sludge and wastewater that percolated into the groundwater, rendering well water undrinkable and farmland unfit for cultivation across the area. The Supreme Court's 1996 order directing the companies to pay for remediation and compensation went largely unenforced; the polluting units and their promoters filed repeated review and curative petitions for over 15 years to avoid payment. In 2011 the Supreme Court dismissed these petitions, imposed an additional Rs 10 lakh fine, and ordered 12% compound interest on the original amount for the delay. As of 2023, residents and independent reporting say groundwater in Bichhri remains contaminated, promised remediation work is incomplete, and most affected families have still not received full compensation.",
+    "asOfDate": "2023-09-01",
+    "sourceIds": [
+      "src-bichhri-mongabay",
+      "src-bichhri-unep"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the Supreme Court's compensation order vs. years to full payment and remediation",
+    "unit": "years",
+    "targetValue": 1,
+    "actualValue": 27,
+    "targetDisplay": "Compensation and remediation expected to follow the 1996 order",
+    "actualDisplay": "27+ years since the order; remediation and compensation still reported incomplete as of 2023",
+    "targetLabel": "Expected",
+    "actualLabel": "Actual",
+    "note": "There is no fixed statutory deadline for compliance; the comparison illustrates the scale of delay since the Supreme Court's original 1996 judgment, reinforced by its own 2011 order finding continued non-compliance."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1987-01-01",
+      "label": "Chemical units begin operating near Bichhri",
+      "detail": "Silver Chemicals, Jyoti Chemicals and related units began producing H-acid and other chemicals in Bichhri village, Udaipur district.",
+      "type": "announcement"
+    },
+    {
+      "date": "1989-01-01",
+      "label": "Contamination becomes public",
+      "detail": "Villagers and the Indian Council for Enviro-Legal Action approached courts over toxic effluent contaminating groundwater and farmland.",
+      "type": "status"
+    },
+    {
+      "date": "1996-02-13",
+      "label": "Supreme Court applies polluter-pays principle",
+      "detail": "The Court ordered the polluting units to bear the cost of remediation and pay compensation, holding them absolutely liable.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-01-01",
+      "label": "Supreme Court dismisses delay tactics",
+      "detail": "After over 15 years of review and curative petitions by the companies, the Court dismissed all applications, imposed a further Rs 10 lakh fine, and ordered 12% compound interest for the years of non-payment.",
+      "type": "status"
+    },
+    {
+      "date": "2023-09-01",
+      "label": "Contamination and non-payment still reported",
+      "detail": "Independent reporting found groundwater in Bichhri still contaminated and many affected residents still awaiting compensation more than three decades after the case began.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Supreme Court found the polluting industries liable and ordered compensation and remediation in a landmark 1996 judgment, reaffirmed in 2011 after prolonged non-compliance. No criminal conviction of any individual has been reported; this is a civil liability case, and enforcement of the court's own compensation order has remained incomplete for decades.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "That the Bichhri chemical units caused severe, lasting groundwater and soil contamination is judicially established beyond dispute — the Supreme Court found this as fact in 1996 and again in 2011. What remains unresolved three decades later is enforcement: independent reporting as recently as 2023 indicates the court-ordered compensation and remediation are still incomplete.",
+    "confidence": "medium",
+    "reasoning": "The contamination and the Supreme Court's findings are well documented in the judgment itself and independent legal analysis. The claim that remediation and compensation remain incomplete rests on 2023 field reporting rather than a single authoritative compliance audit, so confidence is medium rather than high."
+  },
+  "incomplete": [
+    "This investigation could not find a single authoritative, up-to-date accounting of exactly how much of the court-ordered compensation has been paid to date versus how much remains outstanding.",
+    "The current health status of affected residents and any more recent (post-2023) remediation efforts were not independently verified here.",
+    "Whether any individual promoters of the polluting companies faced separate criminal liability, beyond the civil compensation order, was not established in sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-bichhri-unep",
+      "label": "Indian Council for Enviro-Legal Action and others v. Union of India and others",
+      "type": "primary",
+      "publisher": "UNEP Law and Environment Assistance Platform (case summary of Supreme Court judgment)",
+      "date": "1996-02-13",
+      "url": "https://leap.unep.org/en/countries/in/national-case-law/indian-council-enviro-legal-action-and-others-petitioners-v-union"
+    },
+    {
+      "id": "src-bichhri-mongabay",
+      "label": "A village contaminated by industrial waste has been waiting for justice for over three decades",
+      "type": "independent",
+      "publisher": "Mongabay India",
+      "date": "2023-09-01",
+      "url": "https://india.mongabay.com/2023/09/a-village-contaminated-by-industrial-waste-has-been-waiting-for-justice-for-over-three-decades/"
+    },
+    {
+      "id": "src-bichhri-ipleaders",
+      "label": "Indian Enviro Legal Council v. Union of India: analysis of the polluter pays principle",
+      "type": "independent",
+      "publisher": "iPleaders",
+      "date": "2021-01-01",
+      "url": "https://blog.ipleaders.in/indian-enviro-legal-council-v-union-india-analysis-polluter-pays-principle/"
+    }
+  ]
+}

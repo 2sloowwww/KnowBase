@@ -1,0 +1,133 @@
+{
+  "id": "KB-605",
+  "slug": "punjab-foodgrain-procurement-tender-scam",
+  "title": "Grain Trucks That Were Actually Scooters — Punjab's Foodgrain Transport Scam",
+  "dek": "Punjab's Vigilance Bureau alleges a former food and civil supplies minister rigged transport tenders for moving procured wheat and paddy — with vehicle lists that turned out to be bikes and cars, worth up to Rs 2,000 crore. He was arrested and later granted bail; trial is ongoing.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 121,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-08-22",
+  "heroStat": {
+    "value": "₹2,000 cr",
+    "label": "alleged value of the fraud the Punjab Vigilance Bureau attributes to rigged 2020-21 foodgrain transportation tenders"
+  },
+  "promise": {
+    "quote": "Tenders for the transport of procured wheat and paddy from Punjab's mandis to storage points for the 2020-21 season would be awarded on merit, to contractors with genuine, roadworthy vehicles capable of carrying foodgrain.",
+    "madeBy": "Punjab Department of Food, Civil Supplies and Consumer Affairs",
+    "role": "State department responsible for procuring and transporting wheat and paddy under the public distribution system",
+    "date": "2020-01-01",
+    "context": "This reflects the basic integrity requirement of any public transport tender rather than a specific quoted departmental statement for the 2020-21 tenders, which this entry has not located.",
+    "sourceIds": [
+      "src-punjab-tribune-vb"
+    ]
+  },
+  "target": {
+    "description": "That transport contracts for moving procured wheat and paddy under the 2020-21 season tenders would go to contractors with real, verifiable, foodgrain-capable vehicles, awarded through a fair and unrigged tender process.",
+    "standard": "Punjab government procurement and tendering rules governing food-grain transport contracts under the public distribution system.",
+    "referenceDate": "2020-01-01"
+  },
+  "reality": {
+    "description": "The Punjab Vigilance Bureau registered a corruption case on 22 August 2022 against Bharat Bhushan Ashu, the state's former Food and Civil Supplies Minister, alleging he orchestrated favouritism in the award of 2020-21 foodgrain transportation tenders, with the fraud valued at roughly Rs 2,000 crore. The investigation found that vehicle lists submitted by winning contractors listed registration numbers belonging to motorcycles and cars — vehicles incapable of carrying foodgrain — and that gate passes for loading and unloading grain were issued against these same non-functional vehicle registrations. One contractor, Telu Ram, was found to have paid a Rs 26 lakh bribe to secure a contract for lifting and transporting wheat and paddy from Ludhiana district mandis. Ashu was arrested by the Vigilance Bureau in Ludhiana; the Enforcement Directorate separately arrested him under money-laundering charges in the same matter. Properties belonging to his personal assistant were attached, and several Food and Civil Supplies department officials were also arrested or dismissed in connection with the case.",
+    "asOfDate": "2023-01-01",
+    "sourceIds": [
+      "src-punjab-tribune-vb",
+      "src-punjab-tribune-ed"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged value of the rigged transport-tender fraud",
+    "unit": "INR crore",
+    "targetValue": 0,
+    "actualValue": 2000,
+    "targetDisplay": "₹0 expected loss from a fair tender",
+    "actualDisplay": "~₹2,000 cr fraud alleged by Vigilance Bureau",
+    "targetLabel": "Expected integrity of the tender process",
+    "actualLabel": "Vigilance Bureau's alleged fraud value",
+    "note": "The Rs 2,000 crore figure is the Vigilance Bureau's own valuation of the alleged fraud as reported in contemporaneous news coverage; this entry has not independently reviewed the FIR or any charge sheet to verify the calculation methodology behind that figure."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "No official breakdown of total tender value, amount actually diverted, or recovered proceeds has been located. The Rs 2,000 crore figure is the Vigilance Bureau's alleged fraud valuation; a separate, specific bribe of Rs 26 lakh paid by contractor Telu Ram is separately documented.",
+    "sourceIds": [
+      "src-punjab-tribune-vb"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-01-01",
+      "label": "2020-21 transport tenders floated",
+      "detail": "Punjab's Food and Civil Supplies department invites tenders for transporting procured wheat and paddy from mandis to storage points for the 2020-21 season.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-08-22",
+      "label": "Vigilance Bureau registers corruption case",
+      "detail": "VB books former minister Bharat Bhushan Ashu and others, alleging rigged tender favouritism and a fraud valued at roughly Rs 2,000 crore involving vehicles incapable of transporting foodgrain.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-11-01",
+      "label": "Ashu arrested; associates and officials held",
+      "detail": "Vigilance Bureau arrests Ashu in Ludhiana; his personal assistant goes on the run before later being arrested; properties linked to the case are attached; department officials are separately arrested or dismissed.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "Prosecution sanction granted; ED separately arrests Ashu",
+      "detail": "Authorities grant the Vigilance Bureau sanction to prosecute Ashu; the Enforcement Directorate separately arrests him on money-laundering charges arising from the same tender allegations.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A Vigilance Bureau corruption case (registered August 2022) and a separate Enforcement Directorate money-laundering case are both pending against Bharat Bhushan Ashu and associates over the 2020-21 foodgrain transport tenders. Ashu was arrested by both agencies; this entry has not found confirmation of a chargesheet outcome, trial verdict, or his current bail/custody status as of 2026, and he is entitled to a presumption of innocence pending any conviction.",
+    "keyIndividuals": [
+      {
+        "name": "Bharat Bhushan Ashu",
+        "role": "Former Punjab Minister for Food, Civil Supplies and Consumer Affairs; later Punjab Congress working president",
+        "outcome": "Booked by the Vigilance Bureau (August 2022) and arrested; separately arrested by the Enforcement Directorate on money-laundering charges in the same matter. This entry has not confirmed his current bail status, any chargesheet, or trial outcome."
+      },
+      {
+        "name": "Telu Ram",
+        "role": "Transport contractor",
+        "outcome": "Alleged by the Vigilance Bureau to have paid a Rs 26 lakh bribe to secure a foodgrain transport contract in Ludhiana district. This entry has not confirmed any arrest or prosecution outcome specific to him."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, actively prosecuted allegation of large-scale tender-rigging in Punjab's public foodgrain transport system, involving a named former minister who was arrested by two separate investigative agencies. The Rs 2,000 crore fraud figure and the underlying allegations remain to be proven at trial, and this entry treats them as allegations, not established fact, pending any court verdict.",
+    "confidence": "medium",
+    "reasoning": "The Vigilance Bureau FIR, Ashu's arrest, the ED's parallel money-laundering case, and the fake-vehicle-registration allegations are corroborated across multiple contemporaneous Tribune reports; however, this entry has not reviewed the FIR or chargesheet directly, and no trial verdict or final case disposition has been located."
+  },
+  "incomplete": [
+    "No chargesheet outcome or trial verdict has been found for the Vigilance Bureau or ED cases against Bharat Bhushan Ashu; his current bail/custody status as of 2026 is unconfirmed by this entry.",
+    "The exact methodology behind the Rs 2,000 crore fraud valuation has not been verified against the original FIR or chargesheet.",
+    "This case (2020-21 transport tenders, Punjab Food & Civil Supplies department) is distinct from a separately reported Rs 607 crore CAG-flagged wheat-storage/rotting issue at Punjab Agro Foodgrains Corporation and the Punjab State Warehousing Corporation (2014-15 to 2017-18), and from Haryana's separate 2023-24 'ghost paddy procurement' scandal in Karnal district — this entry covers only the Ashu-era Punjab transport-tender case and does not conflate it with those related but distinct episodes.",
+    "The exact dates of Ashu's arrest and the prosecution-sanction grant are approximated to the month based on available reporting; precise dates were not confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-punjab-tribune-vb",
+      "label": "VB arrests Punjab ex-minister Bharat Bhushan Ashu in transport scam",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2022-11-01",
+      "url": "https://www.tribuneindia.com/news/punjab/vb-arrests-punjab-ex-minister-bharat-bhushan-ashu-in-transport-scam-424304"
+    },
+    {
+      "id": "src-punjab-tribune-ed",
+      "label": "ED arrests Ashu in transportation tender scam",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2023-01-01",
+      "url": "https://www.tribuneindia.com/news/punjab/ed-arrests-ashu-in-transportation-tender-scam"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "KB-1403",
+  "slug": "paytm-payments-bank-rbi-restrictions",
+  "title": "Paytm Payments Bank's RBI Shutdown",
+  "dek": "For two years the RBI flagged 'persistent non-compliance' at Paytm Payments Bank behind closed doors. In January 2024 it went public — ordering the bank to stop taking deposits and processing most transactions within weeks, effectively ending its banking business.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 153,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-03-11",
+  "heroStat": {
+    "value": "₹5.39 cr",
+    "label": "monetary penalty the RBI imposed on Paytm Payments Bank in October 2023 for violating KYC, licensing, and reporting norms, months before its far larger January 2024 restrictions"
+  },
+  "promise": {
+    "quote": "Paytm Payments Bank Ltd. would maintain adequate systems for customer due diligence, know-your-customer (KYC) verification, transaction monitoring, and regulatory reporting expected of a licensed payments bank under RBI supervision.",
+    "madeBy": "Paytm Payments Bank Ltd. (a One97 Communications-promoted entity)",
+    "role": "RBI-licensed payments bank",
+    "date": "2017-01-01",
+    "context": "This reflects the standard compliance obligations of any RBI-licensed payments bank rather than a specific public quotation; Paytm Payments Bank began operations in 2017.",
+    "sourceIds": [
+      "src-paytm-rbi-overview"
+    ]
+  },
+  "target": {
+    "description": "Compliance with RBI's KYC/AML Master Directions, licensing conditions for payments banks (including limits on deposits and prohibition on lending), beneficial-ownership verification for onboarded merchants, and timely, accurate regulatory reporting including on cybersecurity incidents.",
+    "standard": "RBI Master Direction on KYC; RBI licensing conditions for Payments Banks; Prevention of Money Laundering Act compliance requirements.",
+    "referenceDate": "2022-03-11"
+  },
+  "reality": {
+    "description": "The RBI first publicly acted against Paytm Payments Bank on 11 March 2022, directing it to stop onboarding new customers with immediate effect, citing 'material supervisory concerns.' In October 2023, the RBI imposed a monetary penalty of ₹5.39 crore on the bank for violating a series of norms, including failing to identify beneficial owners of entities onboarded for payout services and failing to monitor those payout transactions or risk-profile the entities involved. On 31 January 2024, the RBI escalated sharply: it barred Paytm Payments Bank from accepting any fresh deposits, conducting credit transactions, or facilitating fund transfers, top-ups, or FASTag/NCMC recharges after 29 February 2024 (a deadline later extended slightly to 15 March 2024), and ordered that nodal accounts of One97 Communications and Paytm Payments Services be wound down. The RBI stated this followed a comprehensive system audit and continued material supervisory concerns and persistent non-compliance after the 2022 restriction. RBI Governor Shaktikanta Das subsequently said the central bank had given 'sufficient time' for the entity to fix compliance issues before acting. The restrictions effectively ended Paytm Payments Bank's core banking operations; parent company One97 Communications (Paytm) subsequently restructured its business to route payments and other services through partner banks instead.",
+    "asOfDate": "2024-03-15",
+    "sourceIds": [
+      "src-rbi-jan2024-restrictions",
+      "src-rbi-oct2023-penalty",
+      "src-rbi-governor-comment"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years between RBI's first public restriction (2022) and its business-ending action (2024)",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 2,
+    "targetDisplay": "Immediate compliance expected under license conditions",
+    "actualDisplay": "~2 years from first public restriction to effective shutdown",
+    "targetLabel": "Expected timeline to compliance",
+    "actualLabel": "Actual timeline to shutdown",
+    "note": "The RBI's own public statements describe the gap as due to 'persistent non-compliance' despite time given to remediate, not as evidence the RBI acted hastily; this framing reflects the RBI's account, not an independently audited timeline of the bank's compliance efforts."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 5.39,
+    "spentLabel": "Monetary penalty imposed by RBI in October 2023 for KYC/AML and related violations",
+    "unit": "INR crore",
+    "notes": "This penalty preceded and was distinct from the much larger operational restrictions imposed in January 2024, which had no separate monetary fine attached but effectively shut down the bank's core business lines.",
+    "sourceIds": [
+      "src-rbi-oct2023-penalty"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-03-11",
+      "label": "RBI halts new customer onboarding",
+      "detail": "The RBI directs Paytm Payments Bank to stop onboarding new customers with immediate effect, citing 'material supervisory concerns,' without publicly detailing the specific findings.",
+      "type": "status"
+    },
+    {
+      "date": "2023-10-11",
+      "label": "RBI imposes ₹5.39 crore penalty",
+      "detail": "The RBI fines Paytm Payments Bank for KYC/AML violations, including failure to identify beneficial owners of onboarded entities and inadequate monitoring of payout transactions.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-01-31",
+      "label": "RBI orders sweeping restrictions",
+      "detail": "The RBI bars Paytm Payments Bank from accepting fresh deposits, credit transactions, and most fund transfers/top-ups after 29 February 2024, and orders One97 Communications' and Paytm Payments Services' nodal accounts to be closed, citing persistent non-compliance found in a system audit.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-02-08",
+      "label": "RBI governor defends the clampdown",
+      "detail": "Governor Shaktikanta Das says the RBI gave 'sufficient time' to Paytm Payments Bank and other non-complying entities before acting.",
+      "type": "status"
+    },
+    {
+      "date": "2024-03-15",
+      "label": "Restrictions take effect",
+      "detail": "Paytm Payments Bank winds up most of its deposit-taking and transaction-processing operations by the extended deadline, ending its role as a functioning payments bank; Paytm shifts services to partner banks.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a regulatory enforcement matter, not a criminal case. The RBI's restrictions were issued under its banking-regulation supervisory powers rather than through prosecution, and no criminal charges against Paytm Payments Bank or its officers have been reported in connection with these specific compliance failures.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The RBI's escalating action — a 2022 onboarding freeze, a 2023 monetary penalty, and a 2024 operational shutdown — reflects a documented pattern of KYC/AML and licensing-condition violations at Paytm Payments Bank found through RBI's own supervisory audits, not an unsubstantiated allegation. The bank has not disputed the underlying findings in public statements reviewed for this entry, though it has said it is working to resolve the issues.",
+    "confidence": "medium",
+    "reasoning": "The RBI's own press releases and orders regarding the 2022 restriction, the 2023 penalty, and the 2024 restrictions are well corroborated by multiple independent financial-press sources. Confidence is not higher because this entry has not directly reviewed the RBI's underlying orders or system-audit findings, only reporting about them."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the RBI's original orders, press releases, or the underlying system-audit report referenced in the January 2024 action.",
+    "Paytm Payments Bank's or One97 Communications' full response and remediation steps have not been comprehensively documented here.",
+    "The longer-term impact on Paytm's overall business (One97 Communications) beyond the immediate 2024 restructuring is not covered in this stub entry.",
+    "Whether any individual bank officers faced personal regulatory or disciplinary consequences has not been established from sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-paytm-rbi-overview",
+      "label": "RBI's Regulatory Clampdown: Navigating the Paytm Saga",
+      "type": "independent",
+      "publisher": "NLIU Centre for Business and Commercial Laws (CBCL)",
+      "date": "2024-02-01",
+      "url": "https://cbcl.nliu.ac.in/banking-law/rbis-regulatory-clampdown-navigating-the-paytm-saga/"
+    },
+    {
+      "id": "src-rbi-jan2024-restrictions",
+      "label": "RBI restricts Paytm Payments Bank from fresh deposits, credit transactions",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-01-31",
+      "url": "https://www.business-standard.com/companies/news/rbi-restricts-paytm-payments-bank-from-fresh-deposits-credit-transactions-124013100687_1.html"
+    },
+    {
+      "id": "src-rbi-oct2023-penalty",
+      "label": "RBI slaps Rs 5.39 crore penalty on Paytm PB for violating series of norms",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-10-12",
+      "url": "https://www.business-standard.com/companies/news/rbi-slaps-rs-5-39-crore-penalty-on-paytm-pb-for-violating-series-of-norms-123101201150_1.html"
+    },
+    {
+      "id": "src-rbi-governor-comment",
+      "label": "Sufficient time given to non-complying entities: RBI Governor over clampdown on Paytm",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-02-08",
+      "url": "https://www.deccanherald.com/business/companies/rbi-takes-action-against-paytm-bank-for-persistent-non-compliances-bank-to-wrap-up-all-operations-by-march-15-2873041"
+    }
+  ]
+}

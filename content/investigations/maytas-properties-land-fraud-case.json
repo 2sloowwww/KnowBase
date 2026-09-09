@@ -1,0 +1,142 @@
+{
+  "id": "KB-2406",
+  "slug": "maytas-properties-land-fraud-case",
+  "title": "Maytas Properties — Where Satyam's Missing Money Went",
+  "dek": "Before he confessed to India's biggest accounting fraud, Ramalinga Raju tried to make Satyam buy his sons' land-banking company, Maytas Properties, for $1.6 billion. Investigators later concluded Satyam's funds had already been quietly diverted to buy up Hyderabad-area land through it.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 171,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2008-12-16",
+  "heroStat": {
+    "value": "$1.6 bn",
+    "label": "the value of the proposed Satyam acquisition of Maytas Properties and Maytas Infra, announced 16 December 2008 and withdrawn within hours amid shareholder revolt"
+  },
+  "promise": {
+    "quote": "This acquisition creates one of India's most valuable and unique companies... it fits our overall strategy of taking Satyam beyond the software business.",
+    "madeBy": "B. Ramalinga Raju",
+    "role": "Chairman, Satyam Computer Services",
+    "date": "2008-12-16",
+    "context": "Statement made to justify Satyam's board approving the same-day acquisition of Maytas Properties and Maytas Infra, both founded and controlled by Raju's sons, for a combined $1.6 billion.",
+    "sourceIds": [
+      "src-maytas-wiki"
+    ]
+  },
+  "target": {
+    "description": "That the proposed related-party acquisition of Maytas Properties and Maytas Infra by listed, shareholder-owned Satyam Computer Services would be a genuine, arm's-length strategic diversification decision in shareholders' interest, as Satyam's board and chairman represented it to be.",
+    "standard": "Corporate governance norms under the Companies Act and SEBI listing rules requiring related-party transactions to be conducted at fair value and in the interest of minority shareholders, with proper disclosure of conflicts of interest.",
+    "referenceDate": "2008-12-16"
+  },
+  "reality": {
+    "description": "Satyam's board approved the Maytas acquisition on 16 December 2008 without prior shareholder consultation; a sharp fall in Satyam's share price and an investor and analyst backlash forced the board to abandon the deal within about 12 hours. Three weeks later, on 7 January 2009, Raju publicly confessed to fabricating Satyam's accounts for years, inflating profits and a non-existent cash balance of roughly ₹5,040 crore. Investigators examining the fraud found that funds siphoned from Satyam had been used to acquire land in and around Hyderabad, much of it routed through or connected to Maytas Properties and Maytas Infra — both founded and run by Raju's two sons and named as 'Satyam' spelled backwards. On 19 January 2009, the Ministry of Corporate Affairs expanded the Serious Fraud Investigation Office's probe to formally cover Maytas Infra and Maytas Properties, citing the perceived nexus with Satyam's diverted funds. Maytas Properties itself effectively collapsed as a going concern; infrastructure lender IL&FS took over management of the healthier Maytas Infra in 2009 to prevent its own collapse, and the company was later renamed IL&FS Engineering and Construction Company.",
+    "asOfDate": "2011-01-01",
+    "sourceIds": [
+      "src-maytas-wiki",
+      "src-maytas-bs1",
+      "src-maytas-bs2"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Value of the Satyam-to-Maytas acquisition Raju's board approved vs. value shareholders judged it worth once the related-party conflict became public",
+    "unit": "USD billion",
+    "targetValue": 1.6,
+    "actualValue": 0,
+    "targetDisplay": "$1.6 bn deal approved by Satyam's board",
+    "actualDisplay": "$0 — deal scrapped within ~12 hours",
+    "targetLabel": "Board-approved value",
+    "actualLabel": "Outcome after shareholder revolt",
+    "note": "The near-total and near-immediate reversal reflects how starkly shareholders and markets judged the related-party transaction once its terms became public, well before Raju's fraud confession three weeks later."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 1.6,
+    "allocatedLabel": "$1.6 billion proposed acquisition value (Maytas Properties + Maytas Infra combined)",
+    "unit": "billion",
+    "notes": "This entry has not found a specific, audited figure for the total amount of Satyam funds independently investigators concluded were diverted into Maytas-linked land purchases, as distinct from the broader ~₹7,800 crore Satyam accounting fraud figure covered separately on this site's Satyam entry.",
+    "sourceIds": [
+      "src-maytas-wiki"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2008-12-16",
+      "label": "Satyam board approves Maytas acquisition",
+      "detail": "Board approves buying Maytas Properties and Maytas Infra, both controlled by Raju's sons, for a combined $1.6 billion, without prior shareholder consultation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2008-12-17",
+      "label": "Deal scrapped within hours",
+      "detail": "Sharp share-price fall and investor backlash force Satyam's board to withdraw the acquisition the same day it was announced.",
+      "type": "revision"
+    },
+    {
+      "date": "2009-01-07",
+      "label": "Raju confesses to Satyam accounting fraud",
+      "detail": "Raju admits to fabricating profits and a fictitious cash balance of roughly ₹5,040 crore; resigns and is arrested.",
+      "type": "milestone"
+    },
+    {
+      "date": "2009-01-19",
+      "label": "SFIO probe expanded to Maytas Properties and Maytas Infra",
+      "detail": "Ministry of Corporate Affairs directs SFIO to investigate both Maytas companies for a suspected nexus with Satyam's diverted funds.",
+      "type": "milestone"
+    },
+    {
+      "date": "2009-08-01",
+      "label": "IL&FS takes over Maytas Infra",
+      "detail": "IL&FS replaces Raju's sons as promoter of Maytas Infra to stabilise the company; Maytas Properties, more directly tied to the land-banking allegations, does not recover.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "B. Ramalinga Raju was arrested in January 2009 and prosecuted over the core Satyam accounting fraud, for which he was convicted in 2015 (a matter covered in this site's separate Satyam entry). The SFIO's specific investigation into Maytas Properties and Maytas Infra as a destination for diverted Satyam funds was formally opened in January 2009; this entry has not found a reported final SFIO finding or separate criminal conviction specific to the Maytas land-fraud allegations as distinct from the main Satyam accounting-fraud case.",
+    "keyIndividuals": [
+      {
+        "name": "B. Ramalinga Raju",
+        "role": "Chairman, Satyam Computer Services; father of Maytas's founders",
+        "outcome": "Arrested January 2009; convicted in 2015 in the main Satyam accounting-fraud case. This entry has not confirmed a separate, Maytas-specific criminal finding."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real and well-documented episode: a listed company's board tried to funnel $1.6 billion of shareholder value into two related-party firms controlled by the chairman's sons, an attempt only stopped by investor revolt — and which, in hindsight following Raju's fraud confession three weeks later, investigators linked to a broader pattern of diverting Satyam funds into Hyderabad-area land purchases via the Maytas companies. This entry treats the land-diversion allegation as substantiated by the SFIO's decision to formally investigate Maytas on that basis, but has not found a separate, conclusive final finding isolating the Maytas land fraud from the main Satyam accounting case.",
+    "confidence": "medium",
+    "reasoning": "The proposed acquisition, its reversal, Raju's confession, and the SFIO's expanded probe into Maytas are corroborated by Wikipedia's sourced account and contemporaneous Business Standard reporting on IL&FS's takeover of Maytas Infra. This entry has not reviewed the SFIO's Maytas-specific findings or any court judgment addressing the land-diversion allegations directly, which is why confidence is rated medium rather than high."
+  },
+  "incomplete": [
+    "This entry has not reviewed the SFIO's investigation report into Maytas Properties and Maytas Infra directly, nor confirmed whether it reached a final, published conclusion distinct from the main Satyam fraud proceedings.",
+    "The specific rupee amount of Satyam funds investigators concluded were diverted into Maytas-linked land purchases (as opposed to the broader Satyam accounting fraud total) has not been independently confirmed here.",
+    "The eventual fate of the land parcels acquired through Maytas Properties, and any restitution to Satyam shareholders from them, has not been established in available reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-maytas-wiki",
+      "label": "Maytas",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2026-01-01",
+      "url": "https://en.wikipedia.org/wiki/Maytas",
+      "note": "Used for the overall timeline of the proposed acquisition, its reversal, and the SFIO probe; cross-checked against Business Standard reporting below."
+    },
+    {
+      "id": "src-maytas-bs1",
+      "label": "Maytas Properties crumbles, IL&FS saves Maytas Infra",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2009-12-16",
+      "url": "https://www.business-standard.com/amp/article/companies/maytas-properties-crumbles-il-fs-saves-maytas-infra-109121600048_1.html"
+    },
+    {
+      "id": "src-maytas-bs2",
+      "label": "IL&FS to take control of Maytas Infra",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2009-02-11",
+      "url": "https://www.business-standard.com/amp/article/companies/il-fs-to-take-control-of-maytas-infra-109021100018_1.html"
+    }
+  ]
+}

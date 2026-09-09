@@ -1,0 +1,193 @@
+{
+  "id": "KB-2903",
+  "slug": "rg-kar-medical-college-doctor-case",
+  "title": "The RG Kar Medical College Case: A Hospital's Duty of Care, Broken",
+  "dek": "A trainee doctor was raped and murdered inside her own hospital's seminar room in Kolkata in August 2024 -- a place meant to be safe under the hospital administration's basic duty of care to staff on duty. What followed was not just a brutal crime but an alleged cover-up by the hospital's own leadership, a CBI takeover, and nationwide doctors' protests demanding workplace safety that the system had failed to guarantee.",
+  "category": "Employment & Welfare",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 61,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2024-08-09",
+  "heroStat": {
+    "value": "14+ hours",
+    "label": "delay reported between discovery of the body and registration of a formal FIR treating it as a crime rather than unnatural death"
+  },
+  "promise": {
+    "quote": "We are here... Precisely because of this reason, we are constituting a National Task Force to recommend measures for the safety and security of doctors across the country.",
+    "madeBy": "Supreme Court of India (bench led by Chief Justice D.Y. Chandrachud)",
+    "role": "Supreme Court of India, exercising suo motu cognisance",
+    "date": "2024-08-20",
+    "context": "The Supreme Court took suo motu cognisance of the RG Kar killing on August 18, 2024 and, on August 20, ordered the constitution of a ten-member National Task Force to recommend nationwide measures for doctors' workplace safety -- an institutional response to the basic promise that a hospital duty shift should not expose a doctor to fatal violence.",
+    "sourceIds": [
+      "src-rgkar-scobserver"
+    ]
+  },
+  "target": {
+    "description": "A government hospital where a trainee doctor on an overnight duty shift can rest in a designated space without fear of assault, and where, if a crime does occur, hospital administration preserves the crime scene, cooperates fully with investigators, and does not itself become an obstacle to justice.",
+    "standard": "Basic hospital safety and workplace-security protocols expected of a state-run teaching hospital, and standard criminal-investigation procedure requiring prompt FIR registration and crime-scene preservation.",
+    "referenceDate": "2024-08-09"
+  },
+  "reality": {
+    "description": "On the morning of August 9, 2024, the body of a 31-year-old postgraduate trainee doctor was found in a seminar room at RG Kar Medical College and Hospital in Kolkata, where she had been resting during an overnight duty shift; she had been raped and murdered. Kolkata Police took more than 12 hours to register the case as a crime rather than an unnatural death, and reports and later CBI findings alleged that the crime scene was not properly cordoned off, that unauthorised individuals including doctors summoned by the hospital's then-principal Sandip Ghosh were allowed near the scene, that the post-mortem was conducted after dark in reported violation of norms, and that the victim's parents were pressured to cremate the body quickly. Sandip Ghosh resigned as principal shortly after the case became public but was reappointed to another institution, prompting further outrage, before the Calcutta High Court ordered him on leave and the CBI later arrested him -- initially over separate financial irregularities at the hospital, and subsequently on charges of destroying evidence and misleading the investigation, alongside a local police officer. The case triggered nationwide protests by resident doctors demanding safer workplaces, including a symbolic 'Reclaim the Night' movement. Civic police volunteer Sanjay Roy was convicted of the rape and murder based on DNA and forensic evidence and sentenced to life imprisonment on January 20, 2025, a sentence the West Bengal government has appealed to the Calcutta High Court seeking the death penalty; the CBI's separate probe into alleged administrative cover-up and evidence tampering was ongoing as of the most recent public reporting available to this entry.",
+    "asOfDate": "2025-01-21",
+    "sourceIds": [
+      "src-rgkar-abc",
+      "src-rgkar-scc",
+      "src-rgkar-outlook",
+      "src-rgkar-ibtimes"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Hours between discovery of the body and registration of a criminal FIR, vs. expected immediate registration",
+    "unit": "hours",
+    "targetValue": 1,
+    "actualValue": 14,
+    "targetDisplay": "Immediate FIR registration upon discovery of a suspicious death",
+    "actualDisplay": "Reported delay of over 12-14 hours before the case was converted into a murder/rape FIR",
+    "targetLabel": "Standard",
+    "actualLabel": "Reported delay",
+    "note": "Exact hour counts vary slightly between reports; this figure reflects widely reported estimates of the delay and is not drawn from an official timeline document."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 1700000,
+    "spentLabel": "Rs 17 lakh",
+    "unit": "absolute",
+    "notes": "The special court ordered the West Bengal government to pay Rs 17 lakh in compensation to the victim's family as part of the January 20, 2025 sentencing order.",
+    "sourceIds": [
+      "src-rgkar-scc"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2024-08-09",
+      "label": "Trainee doctor found dead at RG Kar Hospital",
+      "detail": "The body of a 31-year-old postgraduate trainee is found in a seminar room after an overnight duty shift; she had been raped and murdered.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-09",
+      "label": "Delayed FIR and alleged crime-scene lapses",
+      "detail": "Police take over 12 hours to register a crime FIR; reports and later CBI findings allege the crime scene was compromised and the post-mortem conducted irregularly.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-08-13",
+      "label": "Calcutta High Court transfers probe to CBI",
+      "detail": "Amid public distrust in the state police investigation, the Calcutta High Court orders the case transferred to the Central Bureau of Investigation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-08-14",
+      "label": "'Reclaim the Night' protests nationwide",
+      "detail": "Nationwide protests by doctors and citizens demand safer hospital workplaces; the movement's symbolic peak is a midnight 'Reclaim the Night' march across Indian cities.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-20",
+      "label": "Supreme Court orders National Task Force",
+      "detail": "The Supreme Court, having taken suo motu cognisance of the case on August 18, orders constitution of a ten-member National Task Force to recommend nationwide measures for doctors' workplace safety.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-09-02",
+      "label": "Sandip Ghosh arrested by CBI",
+      "detail": "Former RG Kar principal Sandip Ghosh is arrested by the CBI, initially in connection with alleged financial irregularities at the hospital.",
+      "type": "status"
+    },
+    {
+      "date": "2024-09-14",
+      "label": "Ghosh and police officer arrested over evidence tampering",
+      "detail": "The CBI arrests Sandip Ghosh and Tala police station officer-in-charge Abhijit Mondal on charges of destroying and tampering with evidence and misleading the probe.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-01-18",
+      "label": "Sanjay Roy found guilty",
+      "detail": "A special court finds civic volunteer Sanjay Roy guilty of the rape and murder based on DNA and forensic evidence.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-20",
+      "label": "Life sentence handed down",
+      "detail": "The court sentences Roy to life imprisonment, finding the crime did not meet the 'rarest of rare' threshold for the death penalty, and orders Rs 17 lakh compensation to the family.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-21",
+      "label": "State government appeals for death penalty",
+      "detail": "The West Bengal government moves the Calcutta High Court challenging the life sentence and seeking the death penalty for Roy.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sanjay Roy was convicted of rape and murder and sentenced to life imprisonment in January 2025; the West Bengal government has appealed seeking the death penalty. A separate CBI case alleging evidence tampering and cover-up by former principal Sandip Ghosh and a police officer was ongoing as of the most recent reporting available to this entry, with no publicly reported final verdict on those charges.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjay Roy",
+        "role": "Civic police volunteer, convicted of rape and murder",
+        "outcome": "Sentenced to life imprisonment on 20 January 2025; state government has appealed seeking death penalty"
+      },
+      {
+        "name": "Sandip Ghosh",
+        "role": "Former Principal, RG Kar Medical College and Hospital",
+        "outcome": "Arrested by CBI on financial irregularity charges, later charged with evidence tampering and obstructing the probe; case ongoing"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The state's basic duty to keep a doctor safe inside her own workplace, and its administration's duty to handle the aftermath of a crime with integrity, were both broken -- one man has been convicted for the killing itself, but the allegations of an institutional cover-up by the hospital's own leadership remain a live, separately prosecuted matter. The doctors' protest movement it triggered forced a national conversation on healthcare workplace safety whose durable policy outcomes are still unfolding.",
+    "confidence": "medium",
+    "reasoning": "The conviction and sentencing of Sanjay Roy are well documented by multiple independent outlets and the special court's own order. Confidence on the broader institutional cover-up allegations is capped at medium because the CBI case against Sandip Ghosh and the police officer, and the state government's death-penalty appeal, remained pending as of the sources available to this entry, so no final judicial finding exists yet on those questions."
+  },
+  "incomplete": [
+    "The outcome of the CBI's separate case against Sandip Ghosh and police officer Abhijit Mondal over alleged evidence tampering was not confirmed as resolved in the sources reviewed for this entry.",
+    "The outcome of the West Bengal government's appeal to the Calcutta High Court seeking the death penalty for Sanjay Roy was not confirmed as resolved in the sources reviewed for this entry.",
+    "This entry does not name the victim, following the reporting convention used by most Indian outlets for victims of sexual violence."
+  ],
+  "sources": [
+    {
+      "id": "src-rgkar-abc",
+      "label": "Life imprisonment for Sanjay Roy in Kolkata doctor rape and murder",
+      "type": "independent",
+      "publisher": "ABC News (Australia)",
+      "date": "2025-01-20",
+      "url": "https://www.abc.net.au/news/2025-01-20/sanjay-roy-life-imprisonment-for-doctor-rape-murder/104839834"
+    },
+    {
+      "id": "src-rgkar-scc",
+      "label": "Kolkata Court sentences Sanjay Roy to life imprisonment in RG Kar Rape & Murder Case",
+      "type": "independent",
+      "publisher": "SCC Online (Bar and Bench group legal news)",
+      "date": "2025-01-20",
+      "url": "https://www.scconline.com/blog/post/2025/01/20/kolkata-court-sentences-sanjay-roy-life-imprisonment-rg-kar-rape-murder-case/"
+    },
+    {
+      "id": "src-rgkar-outlook",
+      "label": "CBI Report: RG Kar Case Reveal Police Involvement",
+      "type": "independent",
+      "publisher": "Outlook India",
+      "date": "2024-09-15",
+      "url": "https://www.outlookindia.com/national/cbi-report-rg-kar-case-reveal-police-involvement"
+    },
+    {
+      "id": "src-rgkar-ibtimes",
+      "label": "Year Ender: Bengal's shocker RG Kar case in 2024 saw massive protests amid shoddy probe claims",
+      "type": "independent",
+      "publisher": "IBTimes India",
+      "date": "2024-12-30",
+      "url": "https://www.ibtimes.co.in/year-ender-bengals-shocker-rg-kar-case-2024-saw-massive-protests-amid-shoddy-probe-claims-877326"
+    },
+    {
+      "id": "src-rgkar-scobserver",
+      "label": "Kolkata rape and murder case: 'We are here,' Supreme Court assures doctors; sets up National Task Force",
+      "type": "independent",
+      "publisher": "Supreme Court Observer",
+      "date": "2024-08-20",
+      "url": "https://www.scobserver.in/journal/kolkata-rape-and-murder-case-we-are-here-supreme-court-assures-doctors-sets-up-national-task-force/"
+    }
+  ]
+}

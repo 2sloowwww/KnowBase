@@ -1,0 +1,121 @@
+{
+  "id": "KB-2209",
+  "slug": "delhi-ncr-air-pollution-governance-failure",
+  "title": "Delhi's Air: Three Decades of Supreme Court Orders, One Statutory Commission, Still No Clean Air",
+  "dek": "Since 1998, the Supreme Court has driven a succession of statutory and quasi-statutory bodies — first the EPCA, then the statutory Commission for Air Quality Management — tasked with fixing Delhi-NCR's air. In January 2026, the Court itself declared the CAQM 'unserious' and 'failing in performing its duty,' after two decades of missed deadlines, un-prosecuted violations and air quality that remains among the worst of any capital region in the world.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 83,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1998-01-01",
+  "heroStat": {
+    "value": "40+ years",
+    "label": "Span of Supreme Court-driven litigation over Delhi's air quality, per contemporaneous legal reporting, without the region achieving safe air quality standards"
+  },
+  "promise": {
+    "quote": "The Commission for Air Quality Management ... is failing in performing its duty.",
+    "madeBy": "Supreme Court of India",
+    "role": "Apex court, exercising continuing supervisory jurisdiction over Delhi-NCR air pollution since 1998",
+    "date": "2026-01-06",
+    "context": "Remark made by the Supreme Court while criticising the CAQM's response to the Delhi-NCR air pollution crisis, describing its approach as 'unserious' and stating it was 'in no hurry to identify cause or solution,' and rejecting the Commission's request for a two-month extension to submit findings.",
+    "sourceIds": [
+      "src-delhi-sc-unserious"
+    ]
+  },
+  "target": {
+    "description": "A statutory body for Delhi-NCR air quality management that identifies pollution sources with reliable data, enforces the Graded Response Action Plan and other emergency measures, prosecutes violators, and delivers a measurable, sustained improvement in air quality index levels toward national and international safe standards.",
+    "standard": "Commission for Air Quality Management in National Capital Region and Adjoining Areas Act, 2021; National Clean Air Programme targets; Supreme Court directions issued in the ongoing M.C. Mehta and related air-quality litigation",
+    "referenceDate": "2020-10-01"
+  },
+  "reality": {
+    "description": "The Environment Pollution (Prevention and Control) Authority (EPCA) was constituted by the Supreme Court in 1998 to address Delhi-NCR's air pollution but, lacking statutory backing, had limited power to enforce compliance; it was dissolved in October 2020 and replaced by the statutory Commission for Air Quality Management (CAQM), created by ordinance and then by Act of Parliament, which retained EPCA's Graded Response Action Plan (GRAP) as its main operational tool. Despite the new body's statutory powers, the Supreme Court has since October 2025 repeatedly criticised the CAQM over a series of shortcomings, including infrequent committee meetings, absenteeism among its officials, a 'wait and watch' approach to emergency measures, and what the Court characterised as a lack of intent in prosecuting officials and polluters found in violation of pollution-control orders. In January 2026, hearing the matter amid 'very poor' air quality readings in Delhi, the Supreme Court described the CAQM as 'unserious' and 'in no hurry to identify cause or solution,' rejected the Commission's request for a further two-month extension, and separately noted that CAQM reports continued to reveal missed deadlines for proposed measures and inadequate attention to major pollution sources including thermal power plants — a pattern independent commentary has described as a decades-long cycle in which each newly empowered pollution body eventually draws the same judicial rebukes as its predecessor, without Delhi-NCR's air quality durably improving.",
+    "asOfDate": "2026-01-06",
+    "sourceIds": [
+      "src-delhi-sc-unserious",
+      "src-delhi-caqm-history",
+      "src-delhi-caqm-gaps"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years the Supreme Court has supervised Delhi-NCR air pollution litigation vs. years the region has met national air quality standards",
+    "unit": "years",
+    "targetValue": 28,
+    "actualValue": 0,
+    "targetDisplay": "28 years of continuous Supreme Court supervision (1998-2026)",
+    "actualDisplay": "0 years of durable compliance with safe air quality standards",
+    "targetLabel": "Years under judicial oversight",
+    "actualLabel": "Years of sustained compliance",
+    "note": "Delhi-NCR has not achieved a sustained period of compliance with National Ambient Air Quality Standards despite nearly three decades of continuous Supreme Court-driven institutional intervention, per court and independent reporting as of January 2026."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1998-01-01",
+      "label": "Supreme Court constitutes EPCA",
+      "detail": "The Supreme Court sets up the Environment Pollution (Prevention and Control) Authority for the National Capital Region to address air pollution, though the body lacks statutory enforcement powers.",
+      "type": "announcement"
+    },
+    {
+      "date": "2020-10-01",
+      "label": "EPCA dissolved, statutory CAQM created",
+      "detail": "The government dissolves EPCA and creates the statutory Commission for Air Quality Management in National Capital Region and Adjoining Areas, intended to have stronger enforcement powers than its predecessor.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-10-01",
+      "label": "Supreme Court begins renewed criticism of CAQM",
+      "detail": "The Supreme Court begins a series of hearings criticising the CAQM over infrequent meetings, absenteeism and a lack of urgency in identifying and acting on pollution sources.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Supreme Court calls CAQM 'unserious,' rejects extension",
+      "detail": "Amid 'very poor' Delhi air quality, the Supreme Court states the CAQM is 'failing in performing its duty,' calls its approach 'unserious,' and rejects the Commission's request for a two-month extension to report on major pollution causes.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is an ongoing governance failure supervised through continuing Supreme Court writ jurisdiction rather than a criminal case. The Court has repeatedly found the statutory air-quality body underperforming its statutory mandate, but this entry found no record of criminal prosecution or conviction of CAQM officials themselves for the body's institutional shortcomings; enforcement action under the CAQM Act has been directed at polluting entities and individuals separately, with prosecution rates themselves cited by the Court as inadequate.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Nearly three decades after the Supreme Court first intervened directly in Delhi-NCR's air pollution crisis, and five years after Parliament replaced an unempowered advisory body with a statutory commission specifically to fix the enforcement gap, the Court's own 2026 assessment is that the new body is 'unserious' and 'failing in performing its duty' — a rare case where the judiciary itself, rather than an external auditor or journalist, has formally declared the current governance architecture a continuing failure.",
+    "confidence": "high",
+    "reasoning": "The Supreme Court's own remarks, quoted and reported contemporaneously across multiple independent outlets in January 2026, are the core evidentiary basis for this entry's central claim. Confidence on the specific institutional history (EPCA to CAQM transition) is high and drawn from consistent independent reporting; confidence on granular causes of persistently poor air quality (stubble burning versus vehicular emissions versus industrial sources) is not assessed here as it remains a matter of ongoing scientific and policy dispute."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CAQM's own reports or Supreme Court order texts directly, relying on contemporaneous independent reporting of the January 2026 hearings.",
+    "The relative contribution of different pollution sources (stubble burning, vehicular emissions, industrial and thermal-plant emissions, construction dust) to Delhi-NCR's air quality crisis remains scientifically and politically contested and is not adjudicated in this entry.",
+    "Specific prosecution and penalty statistics under the CAQM Act, and how they compare to violations detected, have not been compiled here beyond the Supreme Court's general criticism of low enforcement.",
+    "The outcome of the Supreme Court's rejected extension request and subsequent CAQM reporting after January 2026 has not been tracked in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-delhi-sc-unserious",
+      "label": "Supreme Court slams CAQM over air pollution: 'Unserious; in no hurry to identify cause or solution'",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2026-01-06",
+      "url": "https://www.businesstoday.in/india/story/supreme-court-slams-caqm-over-air-pollution-unserious-in-no-hurry-to-identify-cause-or-solution-509666-2026-01-06"
+    },
+    {
+      "id": "src-delhi-caqm-history",
+      "label": "A 40-year legal battle for clean air: Why Delhi breathes poison despite steadfast judicial crusade",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2025-01-01",
+      "url": "https://theprint.in/judiciary/a-40-year-legal-battle-for-clean-air/2796459/"
+    },
+    {
+      "id": "src-delhi-caqm-gaps",
+      "label": "Supreme Court reviews CAQM's scientific roadmap on Delhi-NCR air pollution, but gaps remain",
+      "type": "independent",
+      "publisher": "Down To Earth",
+      "date": "2026-01-01",
+      "url": "https://www.downtoearth.org.in/pollution/supreme-court-reviews-caqms-scientific-roadmap-on-delhi-ncr-air-pollution-but-gaps-remain"
+    }
+  ]
+}

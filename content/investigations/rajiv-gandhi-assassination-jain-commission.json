@@ -1,0 +1,163 @@
+{
+  "id": "KB-2904",
+  "slug": "rajiv-gandhi-assassination-jain-commission",
+  "title": "Rajiv Gandhi's Assassination and the Security That Wasn't There",
+  "dek": "A former prime minister who had lost his Special Protection Group cover after leaving office was killed by a suicide bomber at a public rally in Sriperumbudur in May 1991. The Jain Commission set up to investigate spent years examining not just who plotted the killing, but why the security arrangements around a man who remained a prime assassination target were left so thin.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 67,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1991-05-21",
+  "heroStat": {
+    "value": "9",
+    "label": "individuals initially convicted and sentenced to death by a special TADA court in 1998 for the assassination conspiracy, before the Supreme Court later commuted most sentences"
+  },
+  "promise": {
+    "quote": "to provide for the constitution and regulation of an armed force of the Union for providing proximate security to the Prime Minister of India and the members of his immediate family.",
+    "madeBy": "Parliament of India",
+    "role": "Legislature, via the Special Protection Group Act, 1988",
+    "date": "1988-06-02",
+    "context": "As originally enacted in 1988, the SPG Act extended proximate armed protection only to the sitting Prime Minister, not to former Prime Ministers -- meaning Rajiv Gandhi lost his SPG cover automatically when he left office in December 1989, despite remaining a top LTTE target. Parliament amended the Act to extend five-year cover to former Prime Ministers only after his assassination.",
+    "sourceIds": [
+      "src-rajivg-spgact"
+    ]
+  },
+  "target": {
+    "description": "Security arrangements at public rallies proportionate to the well-documented, specific threat that Rajiv Gandhi faced from the LTTE following India's IPKF intervention in Sri Lanka, including physical barriers preventing unscreened individuals from approaching him closely -- a threat serious enough that Parliament later judged it necessary to extend statutory SPG cover to former Prime Ministers.",
+    "standard": "The level of protection expected for a former prime minister and incumbent political party president campaigning ahead of a general election, given known and specific threats against his life; the state security arrangements actually provided by Tamil Nadu police in the SPG's absence.",
+    "referenceDate": "1991-05-21"
+  },
+  "reality": {
+    "description": "On the night of May 21, 1991, former Prime Minister Rajiv Gandhi was killed by a suicide bomber, Thenmozhi Rajaratnam ('Dhanu'), an LTTE operative, who approached him closely at an election rally in Sriperumbudur, Tamil Nadu, and detonated an explosive belt, killing herself, Gandhi and 14 others. Gandhi's Special Protection Group cover had lapsed after he left office in 1989 and was not restored despite the LTTE's well-known hostility toward him over India's earlier military intervention in Sri Lanka (the IPKF deployment) and his post-election-victory statements about disarming Tamil militant groups. Multiple inquiries followed: a Justice Verma Commission's 1992 report concluded that overall security arrangements had significant lapses; the Jain Commission, set up specifically to probe the conspiracy and any political complicity, submitted an interim report in 1997 alleging that the DMK state government had allowed LTTE cadres safe passage and sanctuary in Tamil Nadu, and a final report in 1998 that examined the security failure at length, without producing consensus on a single decisive cause. A special TADA court convicted 26 people in 1998, sentencing several to death; the Supreme Court in 1999 commuted most death sentences to life imprisonment, upholding only four, later reduced further; all convicts had, by 2022, been released after the Supreme Court invoked its special powers to grant remission, more than three decades after the killing.",
+    "asOfDate": "2022-05-18",
+    "sourceIds": [
+      "src-rajivg-wiki",
+      "src-rajivg-jain-tamilnation",
+      "src-rajivg-jain-elibrary"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years the Jain Commission took to deliver findings vs. initial expected timeline",
+    "unit": "years",
+    "targetValue": 2,
+    "actualValue": 7,
+    "targetDisplay": "Commission expected to report within roughly two years of its 1991 constitution",
+    "actualDisplay": "Final report delivered in March 1998, roughly seven years after the assassination",
+    "targetLabel": "Expected",
+    "actualLabel": "Actual",
+    "note": "These figures are approximate; the Commission produced interim findings earlier (1997) but its final, comprehensive report was not submitted until 1998."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1989-12-02",
+      "label": "Rajiv Gandhi loses SPG cover",
+      "detail": "After his government's electoral defeat, Rajiv Gandhi ceases to be prime minister and loses automatic Special Protection Group cover, despite remaining a high-profile political leader.",
+      "type": "status"
+    },
+    {
+      "date": "1991-05-21",
+      "label": "Assassination at Sriperumbudur",
+      "detail": "A suicide bomber linked to the LTTE kills Rajiv Gandhi and 14 others at an election rally near Chennai.",
+      "type": "milestone"
+    },
+    {
+      "date": "1992-06-01",
+      "label": "Verma Commission submits report",
+      "detail": "An initial commission of inquiry finds significant lapses in the security arrangements provided to Gandhi at the rally.",
+      "type": "status"
+    },
+    {
+      "date": "1997-08-28",
+      "label": "Jain Commission interim report",
+      "detail": "Justice M.C. Jain's interim report alleges the Tamil Nadu state government under the DMK provided sanctuary that helped the LTTE plan the assassination -- a politically explosive finding.",
+      "type": "status"
+    },
+    {
+      "date": "1998-01-28",
+      "label": "TADA court convicts 26 accused",
+      "detail": "A special court convicts 26 individuals in the conspiracy, sentencing several, including some who had died before trial's end, to death.",
+      "type": "status"
+    },
+    {
+      "date": "1998-03-07",
+      "label": "Jain Commission final report",
+      "detail": "The Commission's final report is submitted, examining the security failure and conspiracy in detail.",
+      "type": "status"
+    },
+    {
+      "date": "1999-05-11",
+      "label": "Supreme Court commutes most death sentences",
+      "detail": "The Supreme Court upholds only four of the original death sentences, commuting the rest to life imprisonment.",
+      "type": "revision"
+    },
+    {
+      "date": "2022-05-18",
+      "label": "Final convicts released",
+      "detail": "The Supreme Court orders the release of the last remaining convicts, including Nalini Sriharan and others, invoking its special constitutional powers, more than 30 years after the killing.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "26 people were convicted by a special TADA court in 1998; the Supreme Court in 1999 upheld death sentences for only four of them and commuted the rest, and by 2022 all surviving convicts had been released by Supreme Court order invoking Article 142 powers.",
+    "keyIndividuals": [
+      {
+        "name": "Nalini Sriharan",
+        "role": "Convicted conspirator, present at the assassination site",
+        "outcome": "Death sentence commuted to life imprisonment; released on parole/order in 2022"
+      },
+      {
+        "name": "Thenmozhi Rajaratnam ('Dhanu')",
+        "role": "Suicide bomber",
+        "outcome": "Died in the explosion"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The basic promise that a former prime minister and known assassination target would receive security proportionate to that threat was not kept -- his SPG cover had lapsed and was not reinstated despite specific, known danger from the LTTE. Multiple commissions confirmed serious security lapses, though responsibility was contested and politically charged, particularly the Jain Commission's allegations against the Tamil Nadu state government, which remain disputed.",
+    "confidence": "medium",
+    "reasoning": "The core facts of the assassination, the lapse of SPG cover, and the existence of multiple critical inquiry findings are well documented. Confidence is capped at medium because the Jain Commission's political allegations against the DMK were contested at the time and this entry does not adjudicate their accuracy, and because full commission reports are not easily independently verifiable online in their entirety."
+  },
+  "incomplete": [
+    "The Jain Commission's allegations of complicity by the Tamil Nadu state government of the time remain politically disputed and are not independently adjudicated in this entry.",
+    "This entry does not include a comprehensive account of every individual convicted or the full range of sentence modifications across two decades of appeals.",
+    "The exact original statutory text of the 1988 SPG Act preamble and Section 4 is drawn from a secondary summary of the Act rather than this entry's own reading of the full original gazette text; the substance (that former Prime Ministers were not covered until the post-assassination 1991 amendment) is corroborated by multiple independent secondary sources on the SPG's history."
+  ],
+  "sources": [
+    {
+      "id": "src-rajivg-jain-elibrary",
+      "label": "Final Report of the Jain Commission of Inquiry on the Assassination of Shri Rajiv Gandhi",
+      "type": "primary",
+      "publisher": "Parliament of India Digital Library (Sansad e-Library)",
+      "date": "1998-03-07",
+      "url": "https://elibrary.sansad.in/items/cf80a767-d175-4a84-8d7e-3402d1151799"
+    },
+    {
+      "id": "src-rajivg-wiki",
+      "label": "Assassination of Rajiv Gandhi",
+      "type": "independent",
+      "publisher": "Wikipedia (cross-checked secondary reference)",
+      "date": "2022-05-18",
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Rajiv_Gandhi"
+    },
+    {
+      "id": "src-rajivg-jain-tamilnation",
+      "label": "Jain Commission -- Threats to Rajiv Gandhi",
+      "type": "primary",
+      "publisher": "Jain Commission report excerpts, hosted by Tamil Nation",
+      "date": "1998-03-07",
+      "url": "https://tamilnation.org/intframe/india/jaincommission/threats_to_rajiv/ch2sec1"
+    },
+    {
+      "id": "src-rajivg-spgact",
+      "label": "The Special Protection Group Act, 1988 (Act No. 34 of 1988)",
+      "type": "primary",
+      "publisher": "India Code, Legislative Department, Government of India",
+      "date": "1988-06-02",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1824/1/aA1988-34.pdf"
+    }
+  ]
+}

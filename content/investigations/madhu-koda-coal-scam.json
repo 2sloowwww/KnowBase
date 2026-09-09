@@ -1,0 +1,158 @@
+{
+  "id": "KB-3011",
+  "slug": "madhu-koda-coal-scam",
+  "title": "The Madhu Koda Coal Block Allocation Case",
+  "dek": "As Jharkhand's chief minister, Madhu Koda allocated a coal block meant for genuine industrial development to a private company in exchange for kickbacks. He is one of the few politicians from the wider coal-scam era actually convicted and jailed for it.",
+  "category": "Natural Resources",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 187,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2012-09-01",
+  "heroStat": {
+    "value": "3 years",
+    "label": "prison sentence given to former Jharkhand chief minister Madhu Koda on conviction in the Rajhara North coal block case"
+  },
+  "promise": {
+    "quote": "Captive coal blocks will be allocated to companies on merit, to those with genuine end-use projects, under the government's screening committee process.",
+    "madeBy": "Government of Jharkhand and the Union Ministry of Coal, under the coal block allocation regime then in force",
+    "role": "State and central authorities responsible for screening and allocating captive coal blocks to private companies",
+    "date": "2008-01-01",
+    "context": "Between 2006 and 2009, as an independent MLA who became Jharkhand's chief minister, Madhu Koda's government was involved in recommending and allocating coal blocks, including the Rajhara North block, to private companies without the transparent, competitive screening the policy required.",
+    "sourceIds": [
+      "src-koda-bt"
+    ]
+  },
+  "target": {
+    "description": "Coal block allocations decided by an inter-ministerial screening committee on documented, merit-based criteria, free of bribery or personal enrichment of the officials involved.",
+    "standard": "Coal Mines (Nationalisation) Act allocation framework and the government's own screening-committee guidelines for captive coal blocks.",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "The CBI's investigation, part of the wider coal block allocation scam probe ordered by the Supreme Court, found that as chief minister Madhu Koda, along with then coal secretary H.C. Gupta, then Jharkhand chief secretary A.K. Basu and Koda aide Vijay Joshi, engineered the allocation of the Rajhara North coal block to Kolkata-based Vini Iron and Steel Udyog Ltd (VISUL) in exchange for illegal gratification, bypassing merit-based screening. On 16 December 2017, a special CBI court in Delhi convicted Koda, Gupta, Basu and Joshi of criminal conspiracy and corruption, sentencing each to three years' imprisonment; Koda was additionally fined Rs 25 lakh and VISUL was fined Rs 50 lakh as a company. All four were granted statutory bail to pursue appeals in the Delhi High Court, where the case is under appeal as of the most recent reporting available.",
+    "asOfDate": "2018-01-01",
+    "sourceIds": [
+      "src-koda-bs",
+      "src-koda-gulf"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Promised merit-based allocation vs. actual outcome",
+    "unit": "case",
+    "targetValue": 1,
+    "actualValue": 1,
+    "targetDisplay": "Coal block allocated on documented merit to a genuine end-use applicant",
+    "actualDisplay": "Coal block allocated in exchange for bribes; allocation later found criminal and its beneficiaries convicted",
+    "targetLabel": "Promised",
+    "actualLabel": "Convicted outcome",
+    "note": "This case concerns one coal block (Rajhara North) among the roughly 200 blocks the Supreme Court later cancelled across the broader 2012-14 coal allocation scam; it is reported here as a distinct, concluded prosecution rather than as representative of the entire scam's financial scale."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 25,
+    "allocatedLabel": "Fine imposed on Madhu Koda by the special CBI court",
+    "released": 50,
+    "releasedLabel": "Fine imposed on VISUL, the company that received the coal block",
+    "spent": null,
+    "unit": "lakh",
+    "notes": "Figures here are the court-imposed fines in this specific case, not an estimate of the underlying bribe amount or of the Comptroller and Auditor General's much larger notional 'presumptive loss' estimate for the coal scam as a whole, which this investigation does not treat as a settled figure.",
+    "sourceIds": [
+      "src-koda-bs"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Rajhara North coal block allocated",
+      "detail": "The block was allocated to VISUL during Madhu Koda's tenure as Jharkhand chief minister.",
+      "type": "announcement"
+    },
+    {
+      "date": "2012-08-01",
+      "label": "CAG report on coal block allocations",
+      "detail": "The Comptroller and Auditor General's report on coal block allocations nationwide triggered wider public and judicial scrutiny of allocations including Koda's.",
+      "type": "status"
+    },
+    {
+      "date": "2012-09-01",
+      "label": "CBI registers case",
+      "detail": "The CBI registered a case against Koda and others over the Rajhara North allocation as part of its Supreme Court-monitored coal scam investigations.",
+      "type": "status"
+    },
+    {
+      "date": "2014-09-24",
+      "label": "Supreme Court cancels coal block allocations nationwide",
+      "detail": "The Supreme Court cancelled 214 of 218 coal blocks allocated since 1993, including allocations found to be arbitrary or improper, as part of the broader coal scam litigation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-12-16",
+      "label": "Special court convicts Koda and three others",
+      "detail": "A special CBI court convicted Madhu Koda, H.C. Gupta, A.K. Basu and Vijay Joshi of corruption and criminal conspiracy, sentencing each to three years in prison.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Madhu Koda and three co-accused were convicted by a special CBI court in December 2017 and sentenced to three years' imprisonment each. They were granted statutory bail pending appeal to the Delhi High Court.",
+    "keyIndividuals": [
+      {
+        "name": "Madhu Koda",
+        "role": "Former Chief Minister of Jharkhand",
+        "outcome": "Convicted 16 December 2017 of criminal conspiracy and corruption; sentenced to 3 years' imprisonment and fined Rs 25 lakh; released on statutory bail pending appeal."
+      },
+      {
+        "name": "H.C. Gupta",
+        "role": "Former Union Coal Secretary",
+        "outcome": "Convicted alongside Koda; sentenced to 3 years' imprisonment and fined Rs 1 lakh; released on statutory bail pending appeal."
+      },
+      {
+        "name": "A.K. Basu",
+        "role": "Former Jharkhand Chief Secretary",
+        "outcome": "Convicted alongside Koda; sentenced to 3 years' imprisonment; released on statutory bail pending appeal."
+      },
+      {
+        "name": "Vijay Joshi",
+        "role": "Aide to Madhu Koda",
+        "outcome": "Convicted alongside Koda; sentenced to 3 years' imprisonment; released on statutory bail pending appeal."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a confirmed conviction, not merely an allegation: a special CBI court found Madhu Koda and three co-accused guilty of corruptly allocating a coal block and sentenced them to prison. It stands as one of the clearer instances of an actual criminal conviction emerging from the broader 2012-14 coal block allocation scandal.",
+    "confidence": "high",
+    "reasoning": "The conviction, sentence and fine amounts are reported consistently across multiple independent Indian outlets covering the December 2017 verdict, and are not disputed."
+  },
+  "incomplete": [
+    "The outcome of the Delhi High Court appeal against the December 2017 conviction was not confirmed in sources reviewed for this entry.",
+    "This entry covers only the Rajhara North block case; Madhu Koda faced separate cases (including a disproportionate assets case) not detailed here.",
+    "The precise monetary bribe amount received by Koda in the Rajhara North allocation, as distinct from the court-imposed fine, was not conclusively established across sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-koda-bt",
+      "label": "Coal scam: Ex Jharkhand CM Madhu Koda, former coal secretary get 3 years in jail",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2017-12-16",
+      "url": "https://www.businesstoday.in/latest/economy-politics/story/coal-scam-ex-jharkhand-cm-madhu-koda-former-coal-secretary-get-3-years-in-jail-87792-2017-12-16"
+    },
+    {
+      "id": "src-koda-bs",
+      "label": "Coal scam case: Ex-Jharkhand CM Madhu Koda gets 3 yrs jail, Rs 25-lakh fine",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-12-16",
+      "url": "https://www.business-standard.com/article/current-affairs/coal-scam-case-ex-jharkhand-cm-madhu-koda-gets-3-yrs-jail-rs-25-lakh-fine-117121600198_1.html"
+    },
+    {
+      "id": "src-koda-gulf",
+      "label": "Jharkhand ex-chief minister Koda convicted in coal scam case",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2017-12-16",
+      "url": "https://gulfnews.com/world/asia/india/jharkhand-ex-chief-minister-koda-convicted-in-coal-scam-case-1.2140133"
+    }
+  ]
+}

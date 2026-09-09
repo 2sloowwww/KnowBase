@@ -1,0 +1,165 @@
+{
+  "id": "KB-566",
+  "slug": "uti-us64-scheme-scandal",
+  "title": "The UTI US-64 Collapse — When India's Flagship Mutual Fund Froze",
+  "dek": "For decades, Unit Trust of India's US-64 scheme was sold to millions of small savers as a safe, steady-dividend investment. In July 2001, UTI abruptly froze all sales and repurchases, trapping investors — after years of the fund's declared price being propped up far above its real net asset value and after heavy, opaque exposure to stocks at the centre of the Ketan Parekh scam.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 27,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2001-07-02",
+  "heroStat": {
+    "value": "₹14,500 cr",
+    "label": "package the Indian government committed to help bail out and unwind the US-64 scheme after its 2001 freeze, ahead of the scheme's eventual wind-down in 2003"
+  },
+  "promise": {
+    "quote": "US-64 is a safe, stable investment for the small saver, offering a steady annual dividend and the ability to buy and sell units at a declared price on any business day.",
+    "madeBy": "Unit Trust of India (UTI), under successive chairmen including P.S. Subramanyam",
+    "role": "India's first and largest mutual-fund-like institution, established by an Act of Parliament in 1964 to channel household savings into the capital markets",
+    "date": "1990-01-01",
+    "context": "This reflects UTI's long-standing public positioning of US-64 as a safe, high-dividend scheme for retail investors through the 1990s, rather than a verified quotation from a specific UTI prospectus, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-uti-indianmirror"
+    ]
+  },
+  "target": {
+    "description": "That UTI would declare a sale/repurchase price for US-64 units that reflected the scheme's actual net asset value, invest and manage the underlying portfolio prudently and transparently, and treat all unit-holders — small savers and large institutions alike — equally with respect to information and exit opportunities.",
+    "standard": "Basic fiduciary duties of a public trust managing pooled retail savings, and (from 2001 onward, following reform) SEBI mutual-fund regulations requiring NAV-based, transparent pricing.",
+    "referenceDate": "1990-01-01"
+  },
+  "reality": {
+    "description": "Through the 1990s, US-64's declared dividend rose from 18% (1990-95) to 26% by 1995, but the scheme's underlying net asset value fell as the decade wore on, with UTI reportedly continuing to sell and repurchase units at prices well above true NAV — by October 1998, sale and repurchase prices were roughly 47-50% above the scheme's estimated NAV. UTI's portfolio carried heavy, non-transparent exposure to a cluster of ten stocks (dubbed the 'K-10' stocks) associated with stockbroker Ketan Parekh's market manipulation; when those stocks crashed after the Ketan Parekh scam broke in 2001, UTI's holdings were hit hard. On 2 July 2001, UTI's board of trustees, after then-chairman P.S. Subramanyam met finance minister Yashwant Sinha that morning, decided to freeze all sales and repurchases of US-64 units for six months, trapping millions of small investors who could not exit. The freeze and subsequent revelations triggered a Joint Parliamentary Committee (JPC) investigation, which held then-Finance Secretary Ajit Kumar, former UTI chairman P.S. Subramanyam, and principal contributor IDBI squarely responsible for the collapse; reporting on the JPC's findings also describes allegations that UTI's leadership ran a public-relations campaign reassuring small investors while privately alerting large corporates to withdraw funds. The government ultimately committed a ₹14,500 crore package toward unwinding US-64, converting it into a repayable, government-backed instrument and winding the scheme down by around June 2003, with unit-holders eventually redeemed at a face value of ₹10 in a phased manner. Beyond the single case pursued over the Cyberspace Infosys investment, this entry has not found evidence that government agencies including the CBI pursued criminal prosecution of the wider set of questionable investment decisions the JPC examined.",
+    "asOfDate": "2003-06-01",
+    "sourceIds": [
+      "src-uti-indianmirror",
+      "src-uti-paranjoy",
+      "src-uti-lemonn"
+    ]
+  },
+  "gap": {
+    "metricLabel": "US-64 unit price vs. estimated net asset value, October 1998",
+    "unit": "percent above NAV",
+    "targetValue": 0,
+    "actualValue": 48,
+    "targetDisplay": "0% — price should track actual NAV",
+    "actualDisplay": "~47-50% above estimated NAV (Oct 1998)",
+    "targetLabel": "Expected pricing discipline",
+    "actualLabel": "Reported overpricing versus NAV",
+    "note": "This specific overpricing figure is drawn from a single retrospective secondary source and has not been cross-verified against a primary UTI or SEBI document; it is presented as an illustrative, not precisely audited, figure."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 14500,
+    "allocatedLabel": "Government bailout/unwind package committed for US-64",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ₹14,500 crore figure is the widely reported size of the government's support package for unwinding US-64; this entry has not confirmed a precise, audited breakdown of how much was ultimately disbursed versus recovered from the underlying portfolio over time.",
+    "sourceIds": [
+      "src-uti-indianmirror"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1964-01-01",
+      "label": "Unit Trust of India established",
+      "detail": "UTI is created by Act of Parliament as India's first mutual-fund-like vehicle; the Unit Scheme 1964 (US-64) becomes its flagship open-ended scheme.",
+      "type": "announcement"
+    },
+    {
+      "date": "1998-10-01",
+      "label": "US-64 units trading far above estimated NAV",
+      "detail": "Reports describe US-64 units being sold and repurchased at prices roughly 47-50% above the scheme's estimated net asset value.",
+      "type": "status"
+    },
+    {
+      "date": "2001-03-01",
+      "label": "Ketan Parekh scam breaks",
+      "detail": "The unravelling of stockbroker Ketan Parekh's market manipulation exposes UTI's heavy, opaque exposure to the associated 'K-10' stocks.",
+      "type": "milestone"
+    },
+    {
+      "date": "2001-07-02",
+      "label": "UTI freezes US-64 sales and repurchases",
+      "detail": "UTI's board of trustees suspends all US-64 transactions for six months, trapping unit-holders, after chairman P.S. Subramanyam meets the finance minister that morning.",
+      "type": "milestone"
+    },
+    {
+      "date": "2002-01-01",
+      "label": "Joint Parliamentary Committee probe",
+      "detail": "A JPC investigating the securities scam examines UTI's role and holds the Finance Secretary, UTI's former chairman, and principal contributor IDBI responsible for the collapse.",
+      "type": "milestone"
+    },
+    {
+      "date": "2002-11-04",
+      "label": "Government moves to wind down US-64 and assured-return schemes",
+      "detail": "The government commits to a bailout and restructuring package, including converting US-64 into a repayable, government-backed instrument.",
+      "type": "revision"
+    },
+    {
+      "date": "2003-06-01",
+      "label": "US-64 wound down",
+      "detail": "The scheme is formally wound up, with unit-holders redeemed at declared face value in a phased process backed by the government's ~₹14,500 crore support.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The UTI US-64 affair was addressed primarily through a Joint Parliamentary Committee inquiry and an administrative/financial wind-down rather than through criminal prosecution. The JPC assigned institutional and individual responsibility (to the Finance Secretary, UTI's former chairman, and IDBI) in its findings, but this entry has not found evidence of a successful criminal prosecution covering the bulk of the questionable investment decisions examined, beyond a single reported case concerning the Cyberspace Infosys investment. This should be treated as a case of confirmed institutional failure with limited individual legal accountability, rather than one resolved through conviction or acquittal.",
+    "keyIndividuals": [
+      {
+        "name": "P.S. Subramanyam",
+        "role": "Chairman, Unit Trust of India",
+        "outcome": "Held responsible by the Joint Parliamentary Committee for the collapse; this entry has not confirmed any criminal conviction against him."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a real and major failure of a public financial institution: years of mispriced units, opaque exposure to manipulated stocks, and a sudden freeze that trapped millions of small savers, followed by a taxpayer-funded bailout. It is written as a stub because this entry has not reviewed the JPC report itself, and could not confirm whether meaningful individual legal accountability (beyond the single Cyberspace Infosys case referenced in secondary sources) was ever achieved.",
+    "confidence": "low",
+    "reasoning": "Multiple independent retrospective sources (Paranjoy Guha Thakurta's account, IndianMirror, Lemonn) consistently describe the freeze, the JPC's findings, and the bailout, but this entry has not reviewed the JPC report, SEBI/RBI records, or court filings directly, and specific figures such as the NAV-overpricing percentage rely on a single secondary source."
+  },
+  "incomplete": [
+    "This entry has not reviewed the Joint Parliamentary Committee's report directly — its findings are summarised from secondary retrospective accounts.",
+    "The claim that UTI's leadership ran a public campaign reassuring small investors while privately tipping off large corporates to exit is attributed to a specific retrospective account and has not been independently corroborated by this entry from a primary source; it should be treated as an allegation, not established fact.",
+    "The NAV-overpricing figure (47-50% above NAV in October 1998) comes from a single secondary source and has not been cross-checked against a primary UTI/SEBI record.",
+    "The outcome of the 'Cyberspace Infosys' case referenced as the one prosecution pursued is not detailed or confirmed by this entry.",
+    "This entry has not confirmed how much of the ₹14,500 crore package was ultimately disbursed versus how much of that was later recovered as the wound-down portfolio was liquidated over subsequent years."
+  ],
+  "sources": [
+    {
+      "id": "src-uti-indianmirror",
+      "label": "UTI-US-64 Scam",
+      "type": "independent",
+      "publisher": "Indian Mirror",
+      "date": "2015-01-01",
+      "url": "https://www.indianmirror.com/indian-industries/indian-scams/utiscam.html"
+    },
+    {
+      "id": "src-uti-paranjoy",
+      "label": "The UTI fiasco: So who is responsible?",
+      "type": "independent",
+      "publisher": "paranjoy.in",
+      "date": "2002-01-01",
+      "url": "https://paranjoy.in/article/the-uti-fiasco-so-who-is-responsible"
+    },
+    {
+      "id": "src-uti-lemonn",
+      "label": "UTI Scam 2001: How India's Biggest Financial Scandal Shook Investors",
+      "type": "independent",
+      "publisher": "Lemonn",
+      "date": "2023-01-01",
+      "url": "https://lemonn.co.in/blog/bytes/uti-scam-2001-india/"
+    },
+    {
+      "id": "src-uti-bs-bailout",
+      "label": "Bailout boost for US-64",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2002-09-03",
+      "url": "https://www.business-standard.com/article/markets/bailout-boost-for-us-64-102090301025_1.html"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "KB-563",
+  "slug": "pincon-group-ponzi-scheme",
+  "title": "The Pincon Group Chit Fund Collapse",
+  "dek": "A Kolkata-based conglomerate raised hundreds of crores from small investors across half a dozen states through fixed-deposit-style schemes and unlisted debentures routed via shell companies. Its chairman and seven others were eventually sentenced to life imprisonment — one of the few Bengal-era Ponzi cases to reach a final criminal verdict.",
+  "category": "Banking & Finance",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 134,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-11-06",
+  "heroStat": {
+    "value": "₹1,600 cr",
+    "label": "SEBI's estimate of funds Pincon Group and its affiliated shell companies raised from roughly 3 lakh investors across West Bengal, Rajasthan, Gujarat, Madhya Pradesh, Bihar, Haryana, and Uttar Pradesh"
+  },
+  "promise": {
+    "quote": "Invest in Pincon Group's fixed deposit, monthly income, and recurring deposit schemes, or its group companies' secured redeemable non-convertible debentures, for guaranteed high returns.",
+    "madeBy": "Pincon Group of Companies, under chairman Manoranjan Roy",
+    "role": "Kolkata-based conglomerate operating chit-fund-style deposit schemes and, through affiliates like Pincon Spirit and LRN Finance, non-convertible debenture offerings marketed as private placements",
+    "date": "2010-01-01",
+    "context": "This reflects the general nature of Pincon's deposit and debenture schemes as described in SEBI orders and court reporting, rather than a verified quotation from Pincon's own marketing material, which this entry has not directly reviewed.",
+    "sourceIds": [
+      "src-pincon-moneylife"
+    ]
+  },
+  "target": {
+    "description": "That Pincon Group would repay depositors and debenture-holders their principal plus the promised interest on maturity, using funds genuinely invested in its stated businesses (including a liquor/beverages arm, Pincon Spirit) rather than money from newer investors, and that its debenture offerings would comply with private-placement limits under company law.",
+    "standard": "IPC provisions against cheating and criminal breach of trust, the West Bengal Protection of Interest of Depositors in Financial Establishments Act, 2013, SEBI's Collective Investment Scheme and debenture-issuance regulations, and Companies Act limits on the number of investors in a private placement.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "Pincon Group ran deposit schemes (fixed deposit, monthly income, recurring deposit) directly and, through affiliates such as Pincon Spirit Ltd and LRN Finance, issued non-convertible debentures at around 14% interest to far more investors than the 49-person cap allowed for private placements under company law — according to SEBI, roughly 3 lakh investors across West Bengal and at least five other states, raising an estimated ₹1,600 crore. In Rajasthan alone, the state's Special Operations Group found Roy and associates had collected about ₹56 crore from over 25,000 investors, diverting funds raised in the name of one company (Greenage Food Products and others) into Pincon Spirit rather than the businesses investors were told they were funding; Roy was arrested by Rajasthan police in 2017. Separately, SEBI barred Pincon-linked entities and directors, including Roy, from the securities market for illegally raising funds from the public. A criminal case filed in 2017 at Khejuri police station in West Bengal's Purba Medinipur district, alleging misappropriation of roughly ₹638 crore collected under the group's deposit schemes, went to trial at a court in Tamluk; in October 2020, that court convicted Roy, his wife Mousumi Roy, and six others, sentencing all eight to life imprisonment along with fines of ₹5 lakh each. The Enforcement Directorate has separately pursued a money-laundering investigation and reported arrests of Pincon associates as recently as 2023. The court in the Tamluk case directed that seized Pincon properties be sold to compensate investors.",
+    "asOfDate": "2023-03-04",
+    "sourceIds": [
+      "src-pincon-life-sentence",
+      "src-pincon-moneylife",
+      "src-pincon-ed-2023"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Funds SEBI estimates were raised vs. amount covered by the criminal case that reached conviction",
+    "unit": "INR crore",
+    "targetValue": 1600,
+    "actualValue": 638,
+    "targetDisplay": "₹1,600 cr raised nationally (SEBI estimate)",
+    "actualDisplay": "₹638 cr covered in the Khejuri PS case that led to convictions",
+    "targetLabel": "Total funds raised (SEBI estimate)",
+    "actualLabel": "Amount at issue in the convicted case",
+    "note": "The 2020 life-sentence conviction resolved one criminal case covering about ₹638 crore; it is not confirmed whether or how the remaining raised funds, spread across other states and companies, have been separately prosecuted or recovered."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Figures vary by source and by which Pincon entity/case is being described: SEBI's estimate of ~₹1,600 crore raised nationally, ~₹56 crore in Rajasthan specifically, and ~₹638 crore in the West Bengal case that produced the 2020 convictions.",
+    "sourceIds": [
+      "src-pincon-moneylife",
+      "src-pincon-life-sentence"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "label": "Pincon Group deposit and debenture schemes expand",
+      "detail": "The group and affiliates including Pincon Spirit and LRN Finance raise funds from investors across West Bengal and other states via deposit schemes and NCDs.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-01-01",
+      "label": "Rajasthan SOG investigation and Roy's arrest",
+      "detail": "Rajasthan's Special Operations Group finds roughly ₹56 crore collected from over 25,000 investors in the state alone and arrests Manoranjan Roy and associates.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-11-06",
+      "label": "SEBI action against Pincon entities reported",
+      "detail": "SEBI bars Pincon-linked companies including LRN Finance and its directors, including Roy, from the securities market for unlawfully raising public funds beyond private-placement limits.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-01-01",
+      "label": "Criminal case registered in West Bengal",
+      "detail": "A case is filed at Khejuri police station, Purba Medinipur, alleging misappropriation of about ₹638 crore under the group's deposit schemes, tried later at a court in Tamluk.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-10-03",
+      "label": "Life imprisonment for Roy and seven others",
+      "detail": "The Tamluk court convicts Manoranjan Roy, his wife Mousumi Roy, and six others, sentencing each to life imprisonment plus a ₹5 lakh fine, and orders seized Pincon assets sold to compensate investors.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-03-04",
+      "label": "ED continues money-laundering probe",
+      "detail": "The Enforcement Directorate reports fresh arrests of Pincon Group associates in its ongoing PMLA investigation.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "One major criminal case against Pincon Group (the Khejuri PS matter covering roughly ₹638 crore) reached a final verdict in October 2020, with Manoranjan Roy, his wife, and six others convicted and sentenced to life imprisonment. SEBI has separately barred Pincon-linked entities and directors from the securities market. An Enforcement Directorate money-laundering investigation, covering the group's wider fund-raising across multiple states, remains active with reported arrests as recently as 2023 — meaning parts of the broader Pincon affair remain unresolved even though the flagship criminal case concluded with convictions.",
+    "keyIndividuals": [
+      {
+        "name": "Manoranjan Roy",
+        "role": "Chairman, Pincon Group",
+        "outcome": "Arrested by Rajasthan SOG in 2017; convicted and sentenced to life imprisonment by a Tamluk court in October 2020 in the Khejuri PS case; separately named in SEBI securities-market bans and an ongoing ED money-laundering probe."
+      },
+      {
+        "name": "Mousumi Roy",
+        "role": "Director, Pincon Group (Manoranjan Roy's wife)",
+        "outcome": "Convicted and sentenced to life imprisonment alongside her husband in October 2020."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Pincon Group is a real, multi-state Ponzi-style collapse that — unlike many of Bengal's chit-fund scandals from the same era — reached an actual criminal conviction: life imprisonment for its chairman, his wife, and six others in 2020. It is written as a stub here because a separate, larger money-laundering investigation covering the group's full multi-state fund-raising appears to remain open, and this entry has not reconciled the different loss figures (₹56 crore, ₹638 crore, ₹1,600 crore) tied to different cases and jurisdictions.",
+    "confidence": "medium",
+    "reasoning": "The 2020 life-sentence conviction is corroborated by multiple independent reports (Millennium Post, Daijiworld, Hindustan Times/Kolkata Telegram) describing the same Tamluk court verdict, and SEBI's public order confirms the securities-market bans and the ₹1,600 crore national estimate. However, this entry has not reviewed the SEBI order, the Tamluk judgment, or the ED's PMLA filings directly, and could not fully reconcile figures across the Rajasthan, West Bengal, and national totals."
+  },
+  "incomplete": [
+    "This entry has not reviewed the SEBI adjudication order, the Tamluk court judgment, or ED PMLA filings directly — it relies on news reporting summarising each.",
+    "The relationship between the ₹56 crore Rajasthan figure, the ₹638 crore West Bengal case figure, and the ₹1,600 crore national SEBI estimate has not been fully reconciled — they may overlap or be cumulative across different companies and time periods.",
+    "The exact date SEBI's order banning Pincon entities and directors was passed is not confirmed by this entry.",
+    "Whether Roy's and others' convictions have been appealed, and the outcome of any appeal, is not confirmed by this entry.",
+    "Note: this entry substitutes for a requested case file on a 'Kanishka Gold' Ponzi scheme in Kolkata, which this entry's research could not verify as a distinct, documented scheme under that name — search results instead surfaced an unrelated Chennai jewellery company bank-loan fraud case (Kanishk Gold Pvt Ltd) with no evident Kolkata Ponzi-scheme connection. Pincon Group was substituted as a well-documented Kolkata-based Ponzi/chit-fund case from the same era."
+  ],
+  "sources": [
+    {
+      "id": "src-pincon-moneylife",
+      "label": "Pincon Spirits' Chairman Monoranjan Roy arrested in Rs56 crore scam; Company fails to update SEBI and Exchanges",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2017-11-06",
+      "url": "https://www.moneylife.in/article/pincon-spirits-chairman-monoranjan-roy-arrested-in-rs56-crore-scam-company-fails-to-update-sebi-and-exchanges/52095.html"
+    },
+    {
+      "id": "src-pincon-life-sentence",
+      "label": "Life imprisonment to 8 in Pincon chit fund case",
+      "type": "independent",
+      "publisher": "Millennium Post",
+      "date": "2020-10-04",
+      "url": "https://www.millenniumpost.in/kolkata/life-imprisonment-to-8-in-pincon-chit-fund-case-420071"
+    },
+    {
+      "id": "src-pincon-daijiworld",
+      "label": "Life imprisonment to eight in West Bengal's Pincon chit fund case",
+      "type": "independent",
+      "publisher": "Daijiworld",
+      "date": "2020-10-04",
+      "url": "https://www.daijiworld.com/news/newsDisplay.aspx?newsID=757486"
+    },
+    {
+      "id": "src-pincon-ed-2023",
+      "label": "PMLA Probe: ED Arrests Pincon Group Associates after Custodial Interrogation",
+      "type": "independent",
+      "publisher": "RegTech Times",
+      "date": "2023-03-04",
+      "url": "https://regtechtimes.com/pmla-probe-ed-arrests-pincon-group-associates/"
+    }
+  ]
+}

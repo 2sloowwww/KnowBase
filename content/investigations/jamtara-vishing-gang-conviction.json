@@ -1,0 +1,143 @@
+{
+  "id": "KB-3026",
+  "slug": "jamtara-vishing-gang-conviction",
+  "title": "The Jamtara Vishing Gang Conviction",
+  "dek": "A district in rural Jharkhand became synonymous with phone-based bank fraud after thousands of Indians were tricked into revealing account details. Years after the schemes multiplied, a special court delivered one of the few full convictions.",
+  "category": "Telecom & Digital",
+  "status": "convicted",
+  "severity": "moderate",
+  "severityRank": 259,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2017-01-01",
+  "heroStat": {
+    "value": "5 convicts, 5 years RI",
+    "label": "sentenced under India's anti-money-laundering law for vishing fraud"
+  },
+  "promise": {
+    "quote": "Bank customers' account details, OTPs and card information are meant to be protected by telecom KYC rules and banking security protocols, preventing impersonation-based phone fraud (vishing).",
+    "madeBy": "Telecom and banking regulatory framework (RBI KYC and telecom SIM verification norms)",
+    "role": "Regulatory safeguard against phone-based financial fraud",
+    "date": "2017-01-01",
+    "context": "From around 2013 onward, groups of young men in Jamtara district, Jharkhand, developed a cottage industry of calling victims nationwide, posing as bank or telecom representatives, and tricking them into sharing OTPs, PINs or card details to drain their accounts — a phenomenon later dramatised in the Netflix series 'Jamtara'.",
+    "sourceIds": [
+      "src-jamtara-deccan-conviction"
+    ]
+  },
+  "target": {
+    "description": "Bank customers should not be able to be defrauded of their account funds merely by receiving a phone call; and where such fraud occurs, the proceeds should be traceable and confiscated, and the perpetrators tried and sentenced under criminal and anti-money-laundering law.",
+    "standard": "RBI customer-protection and KYC norms; Prevention of Money Laundering Act, 2002 (PMLA).",
+    "referenceDate": "2017-01-01"
+  },
+  "reality": {
+    "description": "A special PMLA court in Ranchi convicted five residents of Jamtara — Ganesh Mandal, his son Pradeep Kumar Mandal, Santosh Mandal, and his sons Pintu Mandal and Ankush Kumar Mandal — of money laundering on 20 July 2024, arising from vishing fraud in which callers impersonated bank or telecom officials to steal victims' financial details nationwide. On 23 July 2024 the court sentenced all five to five years' rigorous imprisonment and fined each ₹2.5 lakh, with a further six months' imprisonment in default of payment. The court separately confiscated properties belonging to the convicts worth about ₹68 lakh. Jamtara has since become shorthand nationally for phone-based bank fraud, with police forces across multiple states continuing to make fresh arrests of alleged Jamtara-linked gangs even after this conviction.",
+    "asOfDate": "2024-07-23",
+    "sourceIds": [
+      "src-jamtara-deccan-sentence",
+      "src-jamtara-dailyjagran"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Reported scale of Jamtara-style vishing fraud nationally vs. confirmed convictions",
+    "unit": "cases",
+    "targetValue": 100,
+    "actualValue": 5,
+    "targetDisplay": "Hundreds of Jamtara-linked arrests reported across states since 2017",
+    "actualDisplay": "5 individuals confirmed convicted in this PMLA case (July 2024)",
+    "targetLabel": "Arrested/alleged",
+    "actualLabel": "Convicted",
+    "note": "The '100' figure is an illustrative order-of-magnitude marker for repeated arrests reported across years and states, not a single reconciled count; this investigation could not find one official national tally of Jamtara-linked arrests or convictions."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "allocatedLabel": "Total nationwide losses attributed to Jamtara-style vishing fraud",
+    "released": 0.68,
+    "releasedLabel": "Value of convicts' property confiscated by the court",
+    "spent": 0.125,
+    "spentLabel": "Total fines imposed (₹2.5 lakh × 5 convicts)",
+    "unit": "crore",
+    "notes": "No single reconciled figure exists for total nationwide losses from Jamtara-origin vishing fraud; this case represents one specific set of convictions rather than the full scale of the phenomenon.",
+    "sourceIds": [
+      "src-jamtara-deccan-sentence"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017-01-01",
+      "label": "Vishing fraud from Jamtara draws national attention",
+      "detail": "Reports of coordinated phone-fraud rings operating out of Jamtara district multiply, prompting the district's nickname as India's 'cybercrime capital'.",
+      "type": "announcement"
+    },
+    {
+      "date": "2020-01-01",
+      "label": "Netflix's 'Jamtara' dramatises the phenomenon",
+      "detail": "The web series brought national and international attention to the district's vishing rackets.",
+      "type": "status"
+    },
+    {
+      "date": "2024-07-20",
+      "label": "Special PMLA court convicts five Jamtara men",
+      "detail": "A Ranchi court convicted Ganesh Mandal, Pradeep Kumar Mandal, Santosh Mandal, Pintu Mandal and Ankush Kumar Mandal of money laundering tied to vishing fraud.",
+      "type": "status"
+    },
+    {
+      "date": "2024-07-23",
+      "label": "Sentencing and asset confiscation",
+      "detail": "The court sentenced all five to five years' rigorous imprisonment, fined them ₹2.5 lakh each, and confiscated property worth about ₹68 lakh.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Five individuals were convicted and sentenced by a special PMLA court in July 2024. This is one specific, concluded case; it does not represent the resolution of the broader, ongoing phenomenon of Jamtara-linked vishing fraud nationally.",
+    "keyIndividuals": [
+      {
+        "name": "Ganesh Mandal",
+        "role": "Convicted accused",
+        "outcome": "Convicted 20 July 2024; sentenced to 5 years' rigorous imprisonment and fined ₹2.5 lakh."
+      },
+      {
+        "name": "Santosh Mandal",
+        "role": "Convicted accused",
+        "outcome": "Convicted 20 July 2024; sentenced to 5 years' rigorous imprisonment and fined ₹2.5 lakh."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This specific case shows the system working as intended: investigation, prosecution and conviction under anti-money-laundering law, with assets confiscated. But it is a narrow slice of a much larger, continuing problem — Jamtara-linked vishing arrests have continued in multiple states in the years since, indicating that individual convictions have not resolved the underlying scale of phone-based bank fraud.",
+    "confidence": "high",
+    "reasoning": "The conviction, sentencing, fine and confiscation figures are confirmed by multiple independent reports. The broader national scale of Jamtara-style fraud is well documented anecdotally but lacks a single official reconciled count, which is flagged rather than asserted."
+  },
+  "incomplete": [
+    "No single official, reconciled count of total Jamtara-linked arrests, prosecutions or convictions nationwide could be found.",
+    "The total value of funds the five convicts personally laundered (as opposed to the value of confiscated property) was not specified in sources reviewed.",
+    "Whether any of the convicts have filed an appeal was not confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-jamtara-deccan-conviction",
+      "label": "Jharkhand court convicts 5 Jamtara cyber criminals for money laundering",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-07-20",
+      "url": "https://www.deccanherald.com/india/jharkhand/ed-jamtara-conviction-3114032"
+    },
+    {
+      "id": "src-jamtara-deccan-sentence",
+      "label": "Ranchi court sentences 5 Jamtara cyber criminals to 5 years of rigorous imprisonment",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-07-23",
+      "url": "https://www.deccanherald.com/india/jharkhand/ranchi-court-sentences-5-jamtara-cyber-criminals-to-5-years-of-rigorous-imprisonment-3120649"
+    },
+    {
+      "id": "src-jamtara-dailyjagran",
+      "label": "Jharkhand: Five Cyber Criminals From Jamtara Convicted Of Money Laundering By Special PMLA Court",
+      "type": "independent",
+      "publisher": "Daily Jagran",
+      "date": "2024-07-20",
+      "url": "https://www.thedailyjagran.com/india/jharkhand-five-cyber-criminals-from-jamtara-convicted-of-money-laundering-by-special-pmla-court-10174994"
+    }
+  ]
+}

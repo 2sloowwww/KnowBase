@@ -1,0 +1,96 @@
+{
+  "id": "KB-048",
+  "slug": "odisha-illegal-mining-scam",
+  "title": "The Odisha Illegal Mining Scam",
+  "dek": "A government-appointed commission found nearly 23 crore tonnes of iron and manganese ore extracted illegally over a decade, worth an estimated ₹60,000 crore — implicating some of India's biggest steel and mining companies.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 15,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2014-02-10",
+  "heroStat": {
+    "value": "22.8 cr tonnes",
+    "label": "of iron and manganese ore the Shah Commission found illegally extracted"
+  },
+  "promise": {
+    "quote": "Mining leases in Odisha will operate strictly within sanctioned boundaries and environmental clearances, with royalties honestly paid to the state.",
+    "madeBy": "Government of Odisha and mining lease-holders operating in the state",
+    "role": "State government mining administration and licensed lease-holders including major steel and mining companies",
+    "date": "2008-01-01",
+    "context": "Justice M.B. Shah Commission of Inquiry examined illegal iron and manganese mining in Odisha over 2008–2011, ultimately tabling its report in Parliament in 2014.",
+    "sourceIds": [
+      "src-odisha-shah-report"
+    ]
+  },
+  "target": {
+    "description": "Mining conducted strictly within sanctioned lease boundaries and with proper environmental clearances, with all extracted ore accounted for and royalties paid.",
+    "standard": "Mines and Minerals (Development and Regulation) Act and forest and environmental clearance requirements.",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "The Shah Commission found that 22.80 crore tonnes of iron and manganese ore, valued at approximately ₹59,200 crore (commonly rounded to ₹60,000 crore), had been illegally extracted from Odisha between 2008 and 2011. In one specific instance, the commission found ore worth ₹2,000 crore extracted from just 54 hectares of forest land between 2003 and 2010 without any clearance. Major companies including Tata Steel, SAIL, JSPL, and the Aditya Birla Group were named among those found to have unlawfully mined beyond their sanctioned terms. The commission recommended a CBI probe and that recovered amounts fund development in the affected Keonjhar and Sundargarh districts.",
+    "asOfDate": "2014-02-10",
+    "sourceIds": [
+      "src-odisha-shah-report"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total illegal ore extraction value found vs. value recovered for affected districts",
+    "unit": "₹ crore",
+    "targetValue": 59200,
+    "actualValue": 0,
+    "targetDisplay": "₹59,200 cr in illegally mined ore",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged loss",
+    "actualLabel": "Recovered for districts",
+    "note": "This investigation did not find a confirmed figure for how much, if any, of the commission's recommended recovery has actually been collected and directed to Keonjhar and Sundargarh district development, and reports it as unestablished rather than assuming it to be zero."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Period under investigation begins",
+      "detail": "The Shah Commission's inquiry covers illegal mining from this point.",
+      "type": "announcement"
+    },
+    {
+      "date": "2011-01-01",
+      "label": "Period under investigation ends",
+      "detail": "The commission's core findings cover mining activity through this year.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-02-10",
+      "label": "Shah Commission report tabled",
+      "detail": "The report is presented in Parliament, finding ₹59,200 crore in illegal extraction.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The Shah Commission's findings are an official government inquiry report, not a criminal verdict. This investigation has not yet traced what, if any, criminal prosecutions resulted from its CBI-probe recommendation.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of illegal extraction is documented in an official commission of inquiry report tabled in Parliament, which is a strong form of evidence even though it is not itself a criminal verdict. This investigation has not established what criminal or recovery action, if any, followed the report's recommendations over the following decade.",
+    "confidence": "medium",
+    "reasoning": "The Shah Commission's findings are an official government report and are not seriously disputed as to their factual basis. Confidence is not higher because this investigation has not traced any resulting prosecutions or confirmed recovery to a conclusion."
+  },
+  "incomplete": [
+    "This is a stub entry. Any criminal prosecutions resulting from the Shah Commission's CBI-probe recommendation have not been traced.",
+    "Whether the recommended recovery amount was ever collected and directed to Keonjhar and Sundargarh district development has not been confirmed.",
+    "Individual company responses and any penalties specifically imposed on the named companies have not been detailed here."
+  ],
+  "sources": [
+    {
+      "id": "src-odisha-shah-report",
+      "label": "Shah Commission says Rs 60K cr lost to illegal mining in Odisha",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2014-02-10",
+      "url": "https://www.business-standard.com/article/current-affairs/shah-commission-says-rs-60k-cr-lost-to-illegal-mining-in-odisha-114021000801_1.html"
+    }
+  ]
+}

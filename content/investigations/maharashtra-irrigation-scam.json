@@ -1,0 +1,179 @@
+{
+  "id": "KB-1304",
+  "slug": "maharashtra-irrigation-scam",
+  "title": "The Maharashtra Irrigation Scam",
+  "dek": "Roughly ₹70,000 crore was spent on Vidarbha and state irrigation projects over a decade while the state's actual irrigation potential grew by a small fraction of that investment's promise. A whistleblowing chief engineer's 2012 letter named Ajit Pawar directly; years of inquiries, a state white paper, and dozens of FIRs later, the anti-corruption bureau gave him a clean chit still being litigated when he died in a plane crash in January 2026.",
+  "category": "Public Spending",
+  "status": "disputed",
+  "severity": "critical",
+  "severityRank": 29,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-05-05",
+  "heroStat": {
+    "value": "0.1%",
+    "label": "rise in the state's irrigation potential officially reported in 2012, against roughly ₹70,000 crore spent on projects since 1999"
+  },
+  "promise": {
+    "quote": "Investment in Vidarbha and statewide irrigation projects will substantially expand the area under irrigation and address the region's agrarian distress.",
+    "madeBy": "Government of Maharashtra, Water Resources Department, under successive Nationalist Congress Party ministers including Ajit Pawar (1999-2009) and Sunil Tatkare (2009 onward)",
+    "role": "State government department responsible for approving and executing irrigation project costs and contracts, including through the Vidarbha Irrigation Development Corporation (VIDC)",
+    "date": "1999-01-01",
+    "context": "This reflects the department's standing justification for large and repeated cost escalations on irrigation projects over a decade, rather than a single quoted pledge; it is the implicit promise behind roughly ₹70,000 crore in spending under the NCP-held irrigation portfolio from 1999 to 2009 and beyond.",
+    "sourceIds": [
+      "src-mis-wiki"
+    ]
+  },
+  "target": {
+    "description": "Irrigation investment translating into a corresponding, verifiable expansion of irrigated land, with project costs approved through transparent, competitively justified processes rather than repeated, unexplained escalation.",
+    "standard": "Standard public works and financial-propriety norms governing state government capital expenditure and CAG-auditable project approvals.",
+    "referenceDate": "1999-01-01"
+  },
+  "reality": {
+    "description": "A 2012 state Economic Survey disclosed that despite roughly ₹70,000 crore in irrigation spending since 1999, the state's irrigation potential had increased by only about 0.1%. Chief Engineer Vijay Pandhare, a member of the state's technical advisory committee, wrote to the Governor and Chief Minister in February and again on 5 May 2012, alleging that more than half the money had been 'pocketed by corrupt politicians and contractors' and directly naming Ajit Pawar, who had held the irrigation portfolio as minister and chairman of the Vidarbha Irrigation Development Corporation from 1999 to 2009. Investigative reporting, including by Tehelka, detailed how Pawar had approved cost escalations of roughly ₹17,700 crore across 32 Vidarbha projects within a three-month window in 2009. Ajit Pawar resigned as Deputy Chief Minister on 25 September 2012 amid the controversy (later returning to office). Public interest litigations before the Nagpur bench of the Bombay High Court prompted Anti-Corruption Bureau inquiries into thousands of VIDC tenders across dozens of projects; by 2019 the state government's own white paper claimed a considerably larger rise in irrigation potential than the 2012 figures suggested, and in December 2019 the ACB filed an affidavit in the Bombay High Court stating it had found no criminal liability against Ajit Pawar. Opposition parties rejected both the white paper and the clean chit, and the scam resurfaced as a political issue in the 2024 Maharashtra assembly election. Ajit Pawar, who by then was serving as Deputy Chief Minister, died in a plane crash near Baramati on 28 January 2026; any criminal proceedings that might have targeted him personally would, as a matter of law, abate with his death.",
+    "asOfDate": "2026-01-28",
+    "sourceIds": [
+      "src-mis-wiki",
+      "src-mis-acb-cleanchit",
+      "src-pawar-death"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount spent on irrigation projects (1999-2009) vs. amount a whistleblower alleged was actually lost to corruption",
+    "unit": "INR crore",
+    "targetValue": 70000,
+    "actualValue": 35000,
+    "targetDisplay": "₹70,000 cr spent",
+    "actualDisplay": "₹35,000 cr allegedly lost/wasted",
+    "targetLabel": "Total irrigation spend",
+    "actualLabel": "Amount whistleblower Vijay Pandhare alleged was wasted or diverted",
+    "note": "These figures come from a whistleblowing chief engineer's letter and contemporaneous investigative reporting, not from a court or CAG finding that has been independently confirmed by this entry; the state government's own 2019 white paper disputed the scale of the problem."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 70000,
+    "allocatedLabel": "Approximate total spending on Maharashtra irrigation projects, 1999-2009",
+    "released": null,
+    "spent": 70000,
+    "unit": "crore",
+    "notes": "Whistleblower Vijay Pandhare alleged roughly ₹35,000 crore of this was wasted or diverted; a Jan Manch petition separately documented cost escalation of 38 VIDC projects from ₹6,672.27 crore to ₹26,722.33 crore within seven months in 2009. None of these figures has been confirmed by a final CAG or court finding reviewed by this entry.",
+    "sourceIds": [
+      "src-mis-wiki"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1999-01-01",
+      "label": "NCP takes charge of irrigation portfolio",
+      "detail": "Following the formation of the Congress-NCP coalition government, the Nationalist Congress Party takes charge of Maharashtra's Water Resources Department, with Ajit Pawar as minister and chairman of the Vidarbha Irrigation Development Corporation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2009-01-01",
+      "label": "Rapid cost escalations approved for Vidarbha projects",
+      "detail": "Investigative reporting later alleges that in a roughly three-month window in 2009, cost escalations worth approximately ₹17,700 crore were approved across 32 Vidarbha irrigation projects.",
+      "type": "status"
+    },
+    {
+      "date": "2010-12-01",
+      "label": "Portfolio transferred; Pawar becomes Deputy CM",
+      "detail": "Ajit Pawar transfers the irrigation portfolio to Sunil Tatkare and becomes Deputy Chief Minister of Maharashtra.",
+      "type": "status"
+    },
+    {
+      "date": "2012-05-05",
+      "label": "Whistleblower letter names Ajit Pawar",
+      "detail": "Chief Engineer Vijay Pandhare's 15-page letter to the Governor and Chief Minister alleges massive corruption in irrigation project approvals and directly names Ajit Pawar.",
+      "type": "status"
+    },
+    {
+      "date": "2012-08-01",
+      "label": "PIL filed in Bombay High Court",
+      "detail": "The Jan Manch organisation petitions the Nagpur bench of the Bombay High Court over the scale of VIDC project cost escalation.",
+      "type": "status"
+    },
+    {
+      "date": "2012-09-25",
+      "label": "Ajit Pawar resigns as Deputy CM",
+      "detail": "Ajit Pawar resigns amid the controversy; he later returns to government.",
+      "type": "status"
+    },
+    {
+      "date": "2019-11-01",
+      "label": "State government releases white paper",
+      "detail": "The Maharashtra government releases a white paper on irrigation projects, claiming a substantially larger rise in irrigation potential than the 2012 figures had shown.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-12-06",
+      "label": "ACB gives Ajit Pawar a clean chit",
+      "detail": "The Anti-Corruption Bureau files an affidavit in the Bombay High Court's Nagpur bench stating no criminal liability was found against Ajit Pawar in the VIDC irrigation matters investigated.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Scam resurfaces as an election issue",
+      "detail": "Opposition parties raise the irrigation scam again ahead of the 2024 Maharashtra assembly election, disputing both the 2019 white paper and the ACB's clean chit to Ajit Pawar.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-28",
+      "label": "Ajit Pawar dies in a plane crash",
+      "detail": "Maharashtra Deputy Chief Minister Ajit Pawar dies when a chartered Learjet 45 crashes near Baramati Airport in heavy fog, along with four other occupants.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Dozens of FIRs and a handful of chargesheets were filed by the Anti-Corruption Bureau against various VIDC officials and contractors over specific irrigation contracts, but Ajit Pawar himself received a formal ACB clean chit in December 2019, which opposition parties and the original whistleblower disputed without securing its reversal in court. Pawar's death in January 2026 means any future personal criminal liability for him cannot now be adjudicated; the status of ACB proceedings against other officials and contractors as of 2026 has not been confirmed by this entry.",
+    "keyIndividuals": [
+      {
+        "name": "Ajit Pawar",
+        "role": "Maharashtra Water Resources Minister and VIDC chairman (1999-2009); later Deputy Chief Minister",
+        "outcome": "Named by a whistleblowing chief engineer in 2012; resigned as Deputy CM amid the controversy the same year; given a clean chit by the state Anti-Corruption Bureau in December 2019, a finding disputed by opposition parties. Died in a plane crash on 28 January 2026, before any change to his legal status. Presumed to have committed no offence, consistent with the ACB's own finding."
+      },
+      {
+        "name": "Vijay Pandhare",
+        "role": "Chief Engineer, Maharashtra Water Resources Department; member of the state technical advisory committee",
+        "outcome": "Whistleblower whose 2012 letters triggered the public controversy; faced no reported adverse action tied to his allegations, which were disputed by the state's 2019 white paper."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a genuinely disputed case rather than a settled one: a state government whistleblower alleged massive, specific corruption in irrigation project cost approvals; contemporaneous journalism corroborated some of the cost-escalation figures; yet the state's own anti-corruption bureau cleared the official most directly named, and a state white paper disputed the scale of the underlying failure. No court has definitively resolved the conflict between these findings, and with Ajit Pawar's death in January 2026, the central figure in the controversy can no longer be tried or cleared through further proceedings, leaving the matter permanently unresolved as a legal question even as its politics continue.",
+    "confidence": "low",
+    "reasoning": "The scale of spending, the whistleblower's letters, the 2019 white paper, and the ACB's clean chit are corroborated across a detailed Wikipedia account cross-checked against contemporaneous news reports. Confidence is capped at low because this entry has not reviewed the CAG's underlying audit findings, the ACB's affidavit, or any FIRs/chargesheets directly; could not confirm the current status of the broader ACB probe into other officials and contractors as of 2026; and relied on a single secondary compilation for much of the detailed timeline."
+  },
+  "incomplete": [
+    "The current, 2026 status of the broader ACB investigation into VIDC contracts and officials (beyond the Ajit Pawar clean chit) has not been confirmed; reporting reviewed here dates mainly to 2019-2020.",
+    "This entry has not reviewed the CAG's audit findings on the irrigation projects, the ACB's clean-chit affidavit, or any FIRs/chargesheets directly.",
+    "Whether any of the FIRs or chargesheets filed against other VIDC officials or contractors have resulted in convictions has not been verified.",
+    "The precise effect of Ajit Pawar's January 2026 death on any pending litigation naming him (as opposed to future proceedings) has not been independently confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-mis-wiki",
+      "label": "Maharashtra Irrigation Scam",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2025-03-01",
+      "url": "https://en.wikipedia.org/wiki/Maharashtra_Irrigation_Scam"
+    },
+    {
+      "id": "src-mis-acb-cleanchit",
+      "label": "ACB gives clean chit to Ajit Pawar in 12 VIDC irrigation scam",
+      "type": "independent",
+      "publisher": "The Statesman",
+      "date": "2019-12-06",
+      "url": "https://www.thestatesman.com/world/acb-gives-clean-chit-to-ajit-pawar-in-12-vidc-irrigation-scam-1502835491.html"
+    },
+    {
+      "id": "src-pawar-death",
+      "label": "Maharashtra Deputy CM Ajit Pawar dies in plane crash",
+      "type": "primary",
+      "publisher": "News On AIR (Prasar Bharati / All India Radio)",
+      "date": "2026-01-28",
+      "url": "https://www.newsonair.gov.in/maharashtra-deputy-cm-ajit-pawar-dies-in-plane-crash"
+    }
+  ]
+}

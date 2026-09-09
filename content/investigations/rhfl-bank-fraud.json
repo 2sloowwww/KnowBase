@@ -1,0 +1,111 @@
+{
+  "id": "KB-034",
+  "slug": "rhfl-bank-fraud",
+  "title": "The Reliance Home Finance Bank Fraud",
+  "dek": "A CBI chargesheet filed this July alleges a housing finance company diverted borrowed funds to other companies in the same corporate group, leaving a ten-bank consortium with a loss of ₹3,526 crore.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 72,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2025-01-01",
+  "heroStat": {
+    "value": "₹3,526 cr",
+    "label": "loss to a 10-bank consortium, per the CBI chargesheet"
+  },
+  "promise": {
+    "quote": "Funds borrowed by Reliance Home Finance Ltd. from the lending consortium will be used for their disclosed purpose, not diverted to related companies within the same corporate group.",
+    "madeBy": "Reliance Home Finance Ltd. (RHFL), part of the Reliance ADA Group",
+    "role": "Non-bank housing finance company, borrowing from a 10-bank public sector consortium",
+    "date": "2018-01-01",
+    "context": "The CBI's chargesheet, filed in July 2026, alleges that funds RHFL borrowed were diverted through intermediary and conduit entities to other Reliance ADA Group companies, in violation of the terms of the loans.",
+    "sourceIds": [
+      "src-rhfl-chargesheet"
+    ]
+  },
+  "target": {
+    "description": "Loan funds used strictly for RHFL's own disclosed housing-finance business, with no diversion to related-party entities in breach of lending terms.",
+    "standard": "RBI norms on related-party lending and standard consortium loan covenants.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "The CBI filed its first chargesheet in July 2026, naming RHFL and three former executives — CEO Ravindra Sudhalkar, Chief Risk Officer Krishanan Gopalakrishnan Iyer, and former Reliance Capital risk executive Dhananjay Bhagwanprasad Tiwari — alleging criminal conspiracy and cheating that caused a ₹3,526.35 crore loss to the ten-bank public sector consortium. Sudhalkar and another former director, Amit Bapna, had already been arrested and were in judicial custody. Supplementary chargesheets, including on the role of company directors and possible public servants, remained pending.",
+    "asOfDate": "2026-07-10",
+    "sourceIds": [
+      "src-rhfl-chargesheet",
+      "src-rhfl-details"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Consortium loss alleged vs. number chargesheeted in the first CBI filing",
+    "unit": "people",
+    "targetValue": 4,
+    "actualValue": 2,
+    "targetDisplay": "4 named in first chargesheet",
+    "actualDisplay": "2 in custody as of the chargesheet",
+    "targetLabel": "Chargesheeted",
+    "actualLabel": "In custody",
+    "note": "This gap reflects the state of arrests at the time of the first chargesheet, not a financial recovery figure — this investigation did not find a confirmed asset-recovery amount for this specific case."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2018-01-01",
+      "label": "Alleged diversion period begins",
+      "detail": "RHFL is alleged to have begun diverting borrowed funds to related Reliance ADA Group entities.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-01-01",
+      "label": "CBI case registered",
+      "detail": "The agency opens an investigation based on complaints from the lending consortium's banks.",
+      "type": "status"
+    },
+    {
+      "date": "2026-07-10",
+      "label": "First CBI chargesheet filed",
+      "detail": "The CBI names RHFL and three former executives, alleging a ₹3,526.35 crore loss.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. A chargesheet has been filed and two individuals were in custody as of the filing; this investigation has not yet traced the case to a trial verdict, and supplementary chargesheets were still expected.",
+    "keyIndividuals": [
+      {
+        "name": "Ravindra Sudhalkar",
+        "role": "Former Executive Director & CEO, RHFL",
+        "outcome": "Arrested; named in the CBI's July 2026 chargesheet; in judicial custody as of the filing. No trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the CBI's chargesheet and the scale of the alleged consortium loss are documented in contemporaneous reporting. This investigation has not yet established the trial's progress beyond the first chargesheet, or the outcome of the promised supplementary filings.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn from very recent (July 2026) chargesheet reporting. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. Supplementary chargesheets naming further directors, entities, or public servants had not yet been filed as of this entry's publication.",
+    "No confirmed asset-recovery figure for the lending consortium was found in the sources reviewed.",
+    "The relationship between this case and other CBI cases against Reliance ADA Group entities (Reliance Communications, Reliance Commercial Finance) has not been mapped in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-rhfl-chargesheet",
+      "label": "CBI files first chargesheet against 4 in ₹3,526-crore RHFL bank fraud case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2026-07-10",
+      "url": "https://www.business-standard.com/companies/news/cbi-files-first-chargesheet-against-4-in-3-526-crore-rhfl-bank-fraud-case-126071000149_1.html"
+    },
+    {
+      "id": "src-rhfl-details",
+      "label": "Reliance Home Finance Case: CBI Files First Chargesheet Against RHFL, 3 Former Executives",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2026-07-10",
+      "url": "https://www.freepressjournal.in/mumbai/reliance-home-finance-case-cbi-files-first-chargesheet-against-rhfl-3-former-executives"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "KB-2704",
+  "slug": "2001-gujarat-bhuj-earthquake-reconstruction",
+  "title": "The Bhuj Earthquake Killed Over 13,000 People. Gujarat Promised Every House Rebuilt to Seismic Code -- Most Were, but Thousands Waited Years",
+  "dek": "The magnitude-7.7 earthquake that struck Kutch district on 26 January 2001 was one of independent India's deadliest, killing well over 13,000 people and damaging over a million homes. Gujarat's government created a dedicated disaster authority within two weeks and promised owner-driven, seismically compliant reconstruction for all. Official figures show the large majority of eligible homes were eventually repaired or rebuilt, but independent reviews found the process took years longer than planned and left a meaningful share of households -- particularly poorer and rural ones -- waiting well past the government's own targets.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 54,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2001-01-26",
+  "heroStat": {
+    "value": "~13,800",
+    "label": "People officially recorded as killed by the 26 January 2001 Bhuj (Kutch) earthquake, with over 1.6 lakh injured and over a million houses damaged"
+  },
+  "promise": {
+    "quote": "The reconstruction programme will repair or rebuild all eligible damaged houses to seismically resistant standards on an owner-driven basis, with government financial and technical assistance, within a defined timeframe.",
+    "madeBy": "Gujarat State Disaster Management Authority (GSDMA), Government of Gujarat",
+    "role": "State disaster authority created specifically to plan and implement post-earthquake reconstruction",
+    "date": "2001-02-08",
+    "context": "GSDMA was established by the Gujarat government on 8 February 2001, just under two weeks after the earthquake, and was later given statutory backing under the Gujarat State Disaster Management Act, 2003; the reconstruction programme targeted repair of 929,682 eligible houses and full reconstruction of 213,685 more, across 16 affected districts.",
+    "sourceIds": [
+      "src-bhuj-gsdma-adrc"
+    ]
+  },
+  "target": {
+    "description": "Repair of all eligible damaged houses and full reconstruction of all eligible destroyed houses, to seismically resistant building standards, within a reasonable post-disaster timeframe measured in a small number of years.",
+    "standard": "GSDMA's own reconstruction targets: 929,682 houses to be repaired and 213,685 to be reconstructed",
+    "referenceDate": "2001-02-08"
+  },
+  "reality": {
+    "description": "By 2003, roughly two years after the earthquake, official figures showed 882,896 houses (about 94 percent of the repair target) had been repaired and 113,271 houses (about 53 percent of the reconstruction target) had been fully rebuilt -- meaning reconstruction of destroyed homes lagged well behind repair of damaged ones at that stage. GSDMA and independent reviews, including a World Health Organization retrospective published on the 20th anniversary of the quake, describe the programme's owner-driven reconstruction model as a broadly successful template later adopted elsewhere in India, and by the mid-2000s the large majority of eligible households had received assistance. However, independent post-disaster assessments and academic reviews also documented that poorer households, tenants, and residents of certain rural and tribal areas of Kutch faced significantly longer delays, bureaucratic hurdles in proving ownership or eligibility, and gaps in the compensation and monitoring process, meaning full resolution for the last cohort of affected households took considerably longer than the initial post-disaster timeframe implied.",
+    "asOfDate": "2003-12-31",
+    "sourceIds": [
+      "src-bhuj-gsdma-adrc",
+      "src-bhuj-who"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Houses targeted for full reconstruction versus houses actually reconstructed by 2003",
+    "unit": "houses",
+    "targetValue": 213685,
+    "actualValue": 113271,
+    "targetDisplay": "213,685 houses targeted for full reconstruction",
+    "actualDisplay": "113,271 houses (~53%) reconstructed by end of 2003",
+    "targetLabel": "Reconstruction target",
+    "actualLabel": "Reconstructed by 2003",
+    "note": "Repair figures were much closer to target (94% by 2003) than full reconstruction figures (53%); this entry does not have verified figures for total completion in later years, which independent sources indicate eventually rose substantially but with continuing delays for a smaller residual cohort."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2001-01-26",
+      "label": "Bhuj earthquake strikes on Republic Day",
+      "detail": "A magnitude-7.7 earthquake centred near Bhuj in Kutch district, Gujarat, kills over 13,000 people and damages more than a million homes.",
+      "type": "status"
+    },
+    {
+      "date": "2001-02-08",
+      "label": "Gujarat creates GSDMA",
+      "detail": "The state government establishes the Gujarat State Disaster Management Authority within two weeks of the earthquake to plan and lead reconstruction.",
+      "type": "announcement"
+    },
+    {
+      "date": "2003-01-01",
+      "label": "GSDMA given statutory backing",
+      "detail": "The Gujarat State Disaster Management Act, 2003 formalises GSDMA's statutory role in disaster planning, risk mapping and reconstruction oversight.",
+      "type": "revision"
+    },
+    {
+      "date": "2003-12-31",
+      "label": "Reconstruction figures show uneven progress",
+      "detail": "Official data shows 94% of targeted house repairs complete but only about 53% of targeted full reconstructions complete, nearly three years after the earthquake.",
+      "type": "status"
+    },
+    {
+      "date": "2021-01-26",
+      "label": "20th anniversary retrospectives assess the programme",
+      "detail": "Reviews including a World Health Organization feature describe the owner-driven reconstruction model as broadly successful and influential, while independent academic assessments continue to note that the most vulnerable households faced the longest delays.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a natural disaster and a subsequent state-run reconstruction programme, not a legal or criminal matter. No prosecution or judicial inquiry has attached individual culpability for delays in the reconstruction process.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Gujarat's response to the Bhuj earthquake, including the rapid creation of GSDMA and an owner-driven reconstruction model later replicated elsewhere in India, is broadly regarded as a disaster-management success relative to many other Indian reconstruction efforts. But the state's own data shows reconstruction of fully destroyed homes lagged well behind repair of damaged ones for years after the quake, and independent assessments found the poorest and most rural households waited longest and faced the most bureaucratic friction.",
+    "confidence": "high",
+    "reasoning": "Death toll, damage figures, and the 2003 repair/reconstruction completion percentages come from GSDMA's own data as reported by independent recovery-review sources. Confidence on the experience of specific vulnerable household cohorts is medium-high, based on general academic and WHO retrospective assessments rather than a household-level audit this entry has independently reviewed."
+  },
+  "incomplete": [
+    "This entry does not have verified, sourced figures for total reconstruction completion beyond 2003; later-year completion rates are described qualitatively based on retrospective assessments rather than a specific dataset.",
+    "The precise scale and duration of delays faced by tenants, landless households and specific rural or tribal communities in Kutch has not been independently quantified here.",
+    "Total programme cost and final expenditure figures for GSDMA's reconstruction effort have not been independently verified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-bhuj-gsdma-adrc",
+      "label": "Gujarat Earthquake 2001 Recovery Report",
+      "type": "independent",
+      "publisher": "Asian Disaster Reduction Center (ADRC)",
+      "date": "2010-01-01",
+      "url": "https://www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf"
+    },
+    {
+      "id": "src-bhuj-who",
+      "label": "Resilient reconstruction: 20 years after Gujarat earthquake",
+      "type": "independent",
+      "publisher": "World Health Organization",
+      "date": "2021-01-26",
+      "url": "https://www.who.int/india/news-room/feature-stories/detail/resilient-reconstruction-20-years-after-gujarat-earthquake"
+    }
+  ]
+}

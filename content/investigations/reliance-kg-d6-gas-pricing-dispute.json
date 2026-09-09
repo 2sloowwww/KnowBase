@@ -1,0 +1,157 @@
+{
+  "id": "KB-052",
+  "slug": "reliance-kg-d6-gas-pricing-dispute",
+  "title": "The Reliance KG-D6 Gas Pricing and Cost-Inflation Dispute",
+  "dek": "A private family agreement promised gas at one price; the government fixed another. The Supreme Court settled that fight in 2010. A separate, still-unresolved question — whether Reliance inflated its project costs to shrink the government's cut — has spent over 15 years in dispute, most recently in international arbitration.",
+  "category": "Natural Resources",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 215,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2009-09-01",
+  "heroStat": {
+    "value": "$247M",
+    "label": "still disputed in international arbitration over alleged cost inflation at Reliance's KG-D6 gas block — a question first raised by the CAG around 2011, still unresolved 15 years later"
+  },
+  "promise": {
+    "quote": "Reliance Industries will supply Reliance Natural Resources Ltd. with 28 million cubic metres of KG-D6 gas per day for 17 years at a price of $2.34 per mmBtu.",
+    "madeBy": "Reliance Industries Limited",
+    "role": "Operator of the KG-D6 gas block, under a private agreement dividing the original Reliance group between brothers Mukesh and Anil Ambani",
+    "date": "2005-06-18",
+    "context": "The reported terms of the June 2005 Ambani family demerger settlement, which Anil Ambani's Reliance Natural Resources Ltd. (RNRL) later sought to enforce against Mukesh Ambani's Reliance Industries Ltd. (RIL) in court.",
+    "sourceIds": [
+      "src-kgd6-sc"
+    ]
+  },
+  "target": {
+    "description": "That gas from a national natural resource is priced and allocated according to a single, government-approved formula applied uniformly to all buyers rather than a private family agreement, and that project costs used to calculate the government's share of profit petroleum reflect actual, reasonable expenditure rather than inflated figures.",
+    "standard": "A government-approved gas-pricing formula applied equally to all consumers, and cost-recovery limited to actual, reasonable, auditable expenditure under the production-sharing contract's terms.",
+    "referenceDate": "2007"
+  },
+  "reality": {
+    "description": "Two distinct disputes ran through this project. First, when the government's Empowered Group of Ministers fixed KG-D6 gas at a uniform $4.2/mmBtu for all buyers rather than honouring the family MOU's $2.34/mmBtu rate, RNRL sued RIL to enforce the private agreement. India's Supreme Court ruled on 7 May 2010, in Reliance Natural Resources Ltd v. Reliance Industries Ltd, that the family MOU was not legally binding on the two corporate entities and that the government, as owner of the gas, has the authority to fix its price — a decision in Mukesh Ambani and RIL's favour that effectively ended RNRL's claim. Second, and separately, a CAG report examining KG-D6's rising project costs found the Oil Ministry and Directorate General of Hydrocarbons had failed to adequately scrutinise cost increases, and recommended disallowing roughly $357 million of the expenditure RIL claimed for cost recovery, implying the development cost had been inflated ('gold-plated') to reduce the government's share of profit petroleum. RIL has denied inflating costs. That dispute evolved into international arbitration; per the most recent reporting reviewed (December 2025), a three-member tribunal had concluded hearings on a related $247 million government claim, with a ruling expected sometime in 2026 — not yet confirmed as delivered at the time of this entry's publication.",
+    "asOfDate": "2025-12-27",
+    "sourceIds": [
+      "src-kgd6-sc",
+      "src-kgd6-judgment",
+      "src-kgd6-cag",
+      "src-kgd6-arbitration"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Gas price claimed under the private family MOU vs. price the government fixed for all buyers",
+    "unit": "USD per mmBtu",
+    "targetValue": 2.34,
+    "actualValue": 4.2,
+    "targetDisplay": "$2.34/mmBtu",
+    "actualDisplay": "$4.20/mmBtu",
+    "targetLabel": "MOU price (RNRL's claim)",
+    "actualLabel": "Government-fixed price (upheld by the Supreme Court)",
+    "note": "This gap concerns only the resolved RIL–RNRL family dispute, settled by the Supreme Court in 2010. A separate, still-unresolved dispute over alleged cost inflation in KG-D6's project accounts — the subject of the CAG's original criticism, described in Reality above — remains in international arbitration."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2000",
+      "label": "KG-D6 production-sharing contract signed",
+      "detail": "A Reliance-led consortium wins rights to explore block KG-DWN-98/3 in the Krishna-Godavari basin.",
+      "type": "announcement"
+    },
+    {
+      "date": "2005-06-18",
+      "label": "Ambani family demerger MOU signed",
+      "detail": "Reportedly commits RIL to supply RNRL 28 mmscmd of KG-D6 gas at $2.34/mmBtu for 17 years.",
+      "type": "milestone"
+    },
+    {
+      "date": "2009-04-01",
+      "label": "KG-D6 begins gas production",
+      "type": "milestone"
+    },
+    {
+      "date": "2009-09-01",
+      "label": "Government fixes a uniform gas price",
+      "detail": "The Empowered Group of Ministers sets $4.2/mmBtu for all buyers, rejecting the family MOU's rate.",
+      "type": "revision"
+    },
+    {
+      "date": "2010-05-07",
+      "label": "Supreme Court rules for RIL",
+      "detail": "Holds the family MOU is not binding on the two corporate entities and that the government may fix gas pricing as the resource owner.",
+      "type": "status"
+    },
+    {
+      "date": "2011",
+      "label": "CAG criticises KG-D6 cost oversight",
+      "detail": "Finds the Oil Ministry and DGH failed to adequately scrutinise rising project costs; recommends disallowing roughly $357 million in claimed expenditure.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-27",
+      "label": "Arbitration nears conclusion",
+      "detail": "Reporting describes a $247 million related claim in international arbitration, with hearings concluded and a ruling expected sometime in 2026.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The RIL–RNRL family dispute over gas pricing was conclusively resolved by the Supreme Court in 2010 in RIL's favour. The CAG's separate cost-inflation allegation has never been resolved by a court; it evolved into an ongoing international arbitration whose outcome remained pending as of the most recent reporting reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Mukesh Ambani",
+        "role": "Chairman, Reliance Industries Limited",
+        "outcome": "Supreme Court ruled in RIL's favour in the 2010 family gas-pricing dispute; the separate CAG cost-inflation allegation against the KG-D6 project remains in unresolved international arbitration."
+      },
+      {
+        "name": "Anil Ambani",
+        "role": "Chairman, Reliance Natural Resources Ltd. / Reliance Group (post-demerger)",
+        "outcome": "RNRL's claim to gas at the family MOU's $2.34/mmBtu rate was rejected by the Supreme Court in 2010."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case is really two disputes that happen to share a gas field. The Ambani brothers' fight over a private family pricing agreement was cleanly and finally resolved by India's Supreme Court in 2010, in Mukesh Ambani and RIL's favour. The separate, more consequential question — whether Reliance inflated KG-D6's development costs to shrink the government's share of profit petroleum, as the CAG alleged — has never been judicially settled; it has spent over a decade in dispute with no confirmed final ruling as of this entry's publication.",
+    "confidence": "medium",
+    "reasoning": "The 2010 Supreme Court judgment is a matter of public record and widely reported. The CAG's cost-inflation allegation and the resulting arbitration are documented in multiple independent business-press reports, but this entry has not reviewed the CAG report or arbitration filings directly, and the arbitration's outcome remains genuinely unresolved and unverified as of publication."
+  },
+  "incomplete": [
+    "The KG-D6 cost-recovery arbitration's final ruling, expected sometime in 2026 per reporting from December 2025, had not been confirmed as delivered in the sources reviewed for this entry.",
+    "This entry has not reviewed the original CAG report or the arbitration tribunal's filings directly.",
+    "The exact date of the Empowered Group of Ministers' decision fixing the $4.2/mmBtu price, and the exact publication date of the CAG's cost-inflation report, have not been precisely confirmed here."
+  ],
+  "sources": [
+    {
+      "id": "src-kgd6-sc",
+      "label": "Supreme Court says no to cheaper gas for RNRL",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2010-05-08",
+      "url": "https://www.business-standard.com/article/companies/supreme-court-says-no-to-cheaper-gas-for-rnrl-110050800003_1.html"
+    },
+    {
+      "id": "src-kgd6-judgment",
+      "label": "Reliance Natural Resources Ltd vs Reliance Industries Ltd on 7 May, 2010",
+      "type": "primary",
+      "publisher": "Supreme Court of India (via Indian Kanoon)",
+      "date": "2010-05-07",
+      "url": "https://indiankanoon.org/doc/1070490/"
+    },
+    {
+      "id": "src-kgd6-cag",
+      "label": "Gas exploration in KG basin: Government, Reliance respond to CAG concerns",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2011",
+      "url": "https://www.deccanherald.com/india/gas-exploration-kg-basinrespond-cag-2107256"
+    },
+    {
+      "id": "src-kgd6-arbitration",
+      "label": "Reliance's $247 million KG D6 liability likely to be settled in 2026 after 13 years",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2025-12-27",
+      "url": "https://www.businesstoday.in/latest/corporate/story/reliances-247-million-kg-d6-liability-likely-to-be-settled-in-2026-after-13-years-508363-2025-12-27"
+    }
+  ]
+}

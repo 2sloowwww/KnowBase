@@ -1,0 +1,136 @@
+{
+  "id": "KB-037",
+  "slug": "yes-bank-anil-ambani-fraud",
+  "title": "The Yes Bank – Anil Ambani Group Loan Fraud",
+  "dek": "A bank's exposure to one business group doubled to ₹13,000 crore in a single year. Investigators now allege it was quid pro quo — and they say they've found the shell companies to prove it.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 12,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-03-31",
+  "heroStat": {
+    "value": "₹13,000 cr",
+    "label": "Yes Bank's exposure to the Reliance ADA Group at its peak"
+  },
+  "promise": {
+    "quote": "Yes Bank's lending and investment decisions regarding Reliance ADA Group companies will be made on commercial merit, not in exchange for personal benefit to bank executives.",
+    "madeBy": "Yes Bank, under co-founder and then-CEO Rana Kapoor",
+    "role": "Private sector bank",
+    "date": "2017-03-31",
+    "context": "Yes Bank's exposure to the Reliance Anil Dhirubhai Ambani Group (ADAG) stood at roughly ₹6,000 crore as of March 2017 and had doubled to roughly ₹13,000 crore by March 2018, a large share of which later turned non-performing.",
+    "sourceIds": [
+      "src-yesbank-adag-exposure"
+    ]
+  },
+  "target": {
+    "description": "Lending and investment decisions made on ordinary commercial credit assessment, without personal benefit flowing to the bank's own executives in exchange.",
+    "standard": "RBI norms on related-party lending, conflict of interest, and prudent credit exposure limits.",
+    "referenceDate": "2017-03-31"
+  },
+  "reality": {
+    "description": "The CBI registered FIRs in September 2022 based on Yes Bank management's own complaint alleging quid pro quo transactions between Reliance firms and Rana Kapoor. The bank suffered a loss of roughly ₹3,300 crore from these dealings after a large share of the ADAG exposure turned non-performing. By late 2025, the CBI said it had found evidence of fund diversion through shell companies connecting the two sides, and had chargesheeted Anil Ambani, with his son Jai Anmol Ambani also under investigation.",
+    "asOfDate": "2025-12-19",
+    "sourceIds": [
+      "src-yesbank-adag-shell",
+      "src-yesbank-adag-chargesheet"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Peak exposure to the group vs. the bank's resulting loss",
+    "unit": "₹ crore",
+    "targetValue": 13000,
+    "actualValue": 3300,
+    "targetDisplay": "₹13,000 cr peak exposure",
+    "actualDisplay": "₹3,300 cr loss to the bank",
+    "targetLabel": "Exposure",
+    "actualLabel": "Loss",
+    "note": "This gap reflects the bank's own disclosed figures for exposure and loss; it is not a claim about how much, if any, was personally diverted to individuals, which remains a matter for the ongoing trial."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2017-03-31",
+      "label": "Exposure at ₹6,000 crore",
+      "detail": "Yes Bank's exposure to Reliance ADA Group companies stands at this level.",
+      "type": "status"
+    },
+    {
+      "date": "2018-03-31",
+      "label": "Exposure doubles to ₹13,000 crore",
+      "detail": "The bank's exposure to the group roughly doubles within a year.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-01",
+      "label": "CBI registers FIRs",
+      "detail": "The agency opens cases based on Yes Bank management's complaint alleging quid pro quo dealings.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-28",
+      "label": "CBI finds shell-company fund diversion",
+      "detail": "Investigators report evidence connecting Yes Bank funds to Reliance Group dealings through intermediary shell firms.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-19",
+      "label": "Anil Ambani chargesheeted",
+      "detail": "The CBI names Anil Ambani in the loan-fraud chargesheet; his son Jai Anmol Ambani remains under investigation.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Anil Ambani has been chargesheeted; his son remains under investigation as of the most recent reporting reviewed. No trial verdict has been reached.",
+    "keyIndividuals": [
+      {
+        "name": "Anil Ambani",
+        "role": "Chairman, Reliance ADA Group",
+        "outcome": "Chargesheeted by the CBI, reported December 2025. No trial verdict. Presumed innocent pending trial."
+      },
+      {
+        "name": "Rana Kapoor",
+        "role": "Co-founder & former CEO, Yes Bank",
+        "outcome": "Named in the CBI's 2022 FIR alongside the Reliance-linked allegations; his separate DHFL-linked case is covered elsewhere on this site. No trial verdict in this specific matter."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the exposure and the bank's own resulting loss are documented in its financial disclosures. The CBI's central allegation — that this was quid pro quo rather than an ordinary bad loan — is now the subject of a chargesheet but has not been tested at trial.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases, and the core quid pro quo allegation remains unproven in court."
+  },
+  "incomplete": [
+    "This is a stub entry. The specific shell-company mechanism the CBI describes has not been detailed in full here.",
+    "The current status of the investigation into Jai Anmol Ambani has not been confirmed.",
+    "This investigation has not fully distinguished this case from the separate Yes Bank–Rana Kapoor–DHFL case covered elsewhere on this site."
+  ],
+  "sources": [
+    {
+      "id": "src-yesbank-adag-exposure",
+      "label": "After ED action, CBI books Anil Ambani in SBI loan fraud case, raids premises linked to him",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2025-01-01",
+      "url": "https://theprint.in/india/after-ed-action-cbi-books-anil-ambani-in-sbi-loan-fraud-case-raids-premises-linked-to-him/2727445/"
+    },
+    {
+      "id": "src-yesbank-adag-shell",
+      "label": "CBI finds fund diversion via shell firms in Yes Bank-Anil Ambani Group case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-10-28",
+      "url": "https://www.business-standard.com/finance/news/cbi-finds-shell-firms-in-yes-bank-anil-ambani-reliance-group-dealings-125102800424_1.html"
+    },
+    {
+      "id": "src-yesbank-adag-chargesheet",
+      "label": "CBI Chargesheets Anil Ambani in Yes Bank Loan Fraud; Son Jai Anmol Under Investigation",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2025-12-19",
+      "url": "https://the420.in/cbi-chargesheet-anil-ambani-yes-bank-loan-fraud-investigation/"
+    }
+  ]
+}

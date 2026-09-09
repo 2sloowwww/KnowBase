@@ -1,0 +1,123 @@
+{
+  "id": "KB-2307",
+  "slug": "adani-coal-over-invoicing-dri-case",
+  "title": "The Adani Coal Over-Invoicing Investigation",
+  "dek": "India's customs intelligence agency has spent a decade alleging Adani group firms routed Indonesian coal imports through shell entities to inflate prices and drain funds abroad. Courts have repeatedly quashed the agency's own investigative steps — and the fight over whether it can even continue is still before the Supreme Court.",
+  "category": "Natural Resources",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 168,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2014-01-01",
+  "heroStat": {
+    "value": "₹30,000 cr",
+    "label": "value the Directorate of Revenue Intelligence estimated (in 2016) was extracted through alleged over-invoicing of imported coal — a figure Adani group firms have contested and that courts have not upheld"
+  },
+  "promise": {
+    "quote": "Import invoices for coal shipments must reflect the genuine transaction value, without artificial inflation through intermediary trading entities, as required under India's customs valuation law.",
+    "madeBy": "Adani Power Maharashtra Ltd and Adani Power Rajasthan Ltd, importers of coal for power generation",
+    "role": "Power generation subsidiaries of the Adani group importing coal from Indonesia",
+    "date": "2014-01-01",
+    "context": "This reflects the standard customs valuation obligation on any importer under Indian law, rather than a specific company representation this entry has reviewed directly.",
+    "sourceIds": [
+      "src-adani-coal-newsclick"
+    ]
+  },
+  "target": {
+    "description": "Coal import invoices reflecting genuine transaction value, without routing through intermediary entities in low-tax jurisdictions to artificially inflate the declared price and extract the difference.",
+    "standard": "Customs Act, 1962 valuation rules and related Indian foreign exchange and tax law.",
+    "referenceDate": "2014-01-01"
+  },
+  "reality": {
+    "description": "The Directorate of Revenue Intelligence (DRI) began investigating Adani Power Maharashtra Ltd and Adani Power Rajasthan Ltd in 2014, issuing show-cause notices alleging that invoices for imported Indonesian coal were routed through intermediaries in Singapore, Hong Kong, Dubai and the British Virgin Islands to inflate the declared price; by 2016, the DRI estimated the value extracted through this alleged over-invoicing at around ₹30,000 crore (roughly $5 billion at the time). The case has since moved through years of contested litigation: between July and August 2023, the Mumbai bench of the Customs, Excise and Service Tax Appellate Tribunal (CESTAT) granted relief to Adani subsidiaries and criticised the DRI's investigation for not probing the Hong Kong intermediaries or the coal-testing agencies involved. In October 2024, the Bombay High Court ruled in Adani Enterprises' favour, quashing Letters Rogatory the DRI had sent abroad, effectively halting an investigation that had been running since 2016. The DRI has appealed to the Supreme Court, which issued notice on the matter; separately, a Delhi High Court direction from December 2023 for the CBI and DRI to examine over-invoicing allegations was kept in abeyance pending the Supreme Court's ruling. As of the most recent reporting reviewed, the investigation's future — and any conclusive finding on the underlying allegations — remains unresolved.",
+    "asOfDate": "2024-10-01",
+    "sourceIds": [
+      "src-adani-coal-newsclick",
+      "src-adani-coal-hc-abeyance"
+    ]
+  },
+  "gap": {
+    "metricLabel": "DRI's 2016 estimate of value allegedly extracted vs. amount established by any court or tribunal finding",
+    "unit": "INR crore",
+    "targetValue": 30000,
+    "actualValue": 0,
+    "targetDisplay": "₹30,000 cr alleged (DRI estimate, 2016)",
+    "actualDisplay": "No amount established by any tribunal or court finding",
+    "targetLabel": "DRI's alleged extraction estimate",
+    "actualLabel": "Amount judicially established",
+    "note": "This case is included specifically because, unlike site entries with a strong official finding, the allegations here have been repeatedly rejected or stalled by CESTAT and the Bombay High Court, and no court or tribunal has upheld the DRI's ₹30,000 crore estimate. Severity here is set to moderate, reflecting a serious but judicially unproven and contested allegation rather than an established finding of that scale."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2014-01-01",
+      "label": "DRI issues show-cause notices",
+      "detail": "The agency alleges overvaluation of imported Indonesian coal by Adani Power Maharashtra and Adani Power Rajasthan.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-01-01",
+      "label": "DRI estimates ₹30,000 crore extracted",
+      "detail": "The agency's investigation suggests coal over-invoicing extracted value worth roughly $5 billion.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-08-01",
+      "label": "CESTAT grants relief to Adani subsidiaries",
+      "detail": "The tribunal criticises the DRI's investigation for gaps, including not probing Hong Kong intermediaries or coal-testing agencies.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-12-19",
+      "label": "Delhi High Court directs fresh CBI/DRI inquiry",
+      "detail": "The court orders the agencies to examine over-invoicing allegations, a direction later kept in abeyance.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-09",
+      "label": "Delhi High Court keeps its own direction in abeyance",
+      "detail": "The inquiry direction is paused pending the outcome of a related Supreme Court matter.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-10-01",
+      "label": "Bombay High Court quashes DRI's Letters Rogatory",
+      "detail": "The ruling halts DRI's overseas investigative process, which had been running since 2016; the DRI appeals to the Supreme Court.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This matter is unresolved and disputed. No court or tribunal has upheld the DRI's over-invoicing allegations or its ₹30,000 crore estimate; CESTAT and the Bombay High Court have each ruled against aspects of the DRI's investigation, and the matter is pending before the Supreme Court on the DRI's appeal.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a real, long-running customs investigation, not a fabricated allegation — but it is also a case where the investigating agency's own conduct has repeatedly failed judicial scrutiny. The DRI's claims about the scale of alleged over-invoicing remain unproven in any court, and this site presents the ₹30,000 crore figure as the agency's own estimate rather than an established fact.",
+    "confidence": "medium",
+    "reasoning": "The existence and history of the DRI investigation, the CESTAT ruling, and the Bombay High Court's 2024 decision are corroborated across independent reporting including specialist outlets covering the litigation; this entry has not directly reviewed the CESTAT or High Court orders, or the Supreme Court's pending proceedings."
+  },
+  "incomplete": [
+    "The current status of the DRI's Supreme Court appeal against the Bombay High Court's 2024 ruling has not been confirmed beyond the notice being issued.",
+    "This entry has not independently reviewed the CESTAT's 2023 order or the Bombay High Court's 2024 judgment.",
+    "Adani group's own detailed rebuttal of the over-invoicing allegations has not been separately sourced and summarised in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-adani-coal-newsclick",
+      "label": "Imported Coal 'Overvaluation' by Adani Firms Pits DRI Against CESTAT",
+      "type": "independent",
+      "publisher": "NewsClick",
+      "date": "2023-09-01",
+      "url": "https://www.newsclick.in/imported-coal-overvaluation-adani-firms-pits-dri-against-cestat"
+    },
+    {
+      "id": "src-adani-coal-hc-abeyance",
+      "label": "HC keeps abeyance in CBI, DRI inquiry of over-invoicing by Adani group",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-01-09",
+      "url": "https://www.business-standard.com/companies/news/hc-keeps-abeyance-in-cbi-dri-inquiry-of-over-invoicing-by-adani-group-124010900670_1.html"
+    }
+  ]
+}

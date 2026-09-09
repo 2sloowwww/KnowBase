@@ -1,0 +1,146 @@
+{
+  "id": "KB-2300",
+  "slug": "nsel-ark-imports-default",
+  "title": "NSEL's Second-Biggest Defaulter: The Ark Imports Case",
+  "dek": "When the National Spot Exchange collapsed in 2013, a Ludhiana-based trading firm owed more on paper than almost anyone else in the ₹5,600 crore default — a debt still tied up in criminal proceedings and a company-wide settlement more than a decade later.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 166,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2013-08-26",
+  "heroStat": {
+    "value": "₹719.37 cr",
+    "label": "outstanding obligation of Ark Imports Pvt Ltd, the second-largest defaulter in the NSEL payment crisis"
+  },
+  "promise": {
+    "quote": "Contracts traded on the National Spot Exchange will be backed by genuine, collateralised commodity stock, with paired forward contracts settled as scheduled by exchange members.",
+    "madeBy": "Ark Imports Pvt Ltd, a Ludhiana-based trading firm and NSEL member",
+    "role": "Borrower/trading member on NSEL's paired forward-contract structure",
+    "date": "2013-07-31",
+    "context": "Ark Imports was one of several NSEL members whose paired long-short contracts are alleged to have functioned as unsecured borrowing rather than trades backed by real commodity stock, mirroring the broader pattern regulators found across NSEL's defaulting members.",
+    "sourceIds": [
+      "src-ark-wikipedia"
+    ]
+  },
+  "target": {
+    "description": "Full and timely settlement of paired forward-contract obligations on maturity, backed by verified, collateralised commodity inventory as NSEL's exchange structure required.",
+    "standard": "NSEL's own contract and settlement rules, and Forward Contracts (Regulation) Act norms applicable to the exchange.",
+    "referenceDate": "2013-07-31"
+  },
+  "reality": {
+    "description": "NSEL suspended trading on 31 July 2013 after failing to meet payment obligations to traders; on 26 August 2013, NSEL filed a criminal complaint naming five of its largest defaulting members, including Ark Imports, alongside NK Proteins, Lotus Refineries, Vimladevi Agrotech, and Yathuri Associates. Ark Imports' promoter, Kailash Baburam Agarwal, owed ₹719.37 crore — the second-largest individual exposure in the NSEL default after NK Proteins. Mumbai's Economic Offences Wing arrested Agarwal on 11 August 2014; he was released around a month later. The Enforcement Directorate separately arrested him again in September 2016 under money-laundering law, and a special PMLA court rejected his bail plea in October 2016, with the ED also freezing 23 bank accounts linked to him and his family. Separately, in a development affecting recovery across the whole NSEL default, 63 Moons Technologies (formerly Financial Technologies, NSEL's parent) reached a ₹1,950 crore one-time settlement with claimants in March 2025, which the Mumbai bench of the NCLT approved in November 2025 — though this settlement is distinct from, and does not resolve, the criminal cases against individual defaulters like Ark Imports.",
+    "asOfDate": "2025-11-28",
+    "sourceIds": [
+      "src-ark-defaulter-profile",
+      "src-ark-ed-bail",
+      "src-nsel-settlement"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Ark Imports' outstanding NSEL obligation vs. amount confirmed recovered from Ark Imports specifically",
+    "unit": "INR crore",
+    "targetValue": 719,
+    "actualValue": 0,
+    "targetDisplay": "₹719.37 cr owed",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Owed",
+    "actualLabel": "Recovered from Ark Imports",
+    "note": "This entry could not locate a reliable, itemised figure for how much of Ark Imports' specific obligation has been recovered, separate from the broader 63 Moons settlement covering the NSEL default as a whole."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-07-31",
+      "label": "NSEL suspends trading",
+      "detail": "The exchange halts trading after failing to meet payment obligations to traders across its defaulting members.",
+      "type": "status"
+    },
+    {
+      "date": "2013-08-26",
+      "label": "NSEL names five largest defaulters",
+      "detail": "A criminal complaint names Ark Imports alongside NK Proteins, Lotus Refineries, Vimladevi Agrotech, and Yathuri Associates.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-08-11",
+      "label": "Kailash Agarwal arrested",
+      "detail": "Mumbai's Economic Offences Wing arrests Ark Imports' promoter; he is released roughly a month later.",
+      "type": "status"
+    },
+    {
+      "date": "2016-09-23",
+      "label": "ED arrests Agarwal again",
+      "detail": "The Enforcement Directorate arrests him under money-laundering law in connection with the NSEL case.",
+      "type": "status"
+    },
+    {
+      "date": "2016-10-21",
+      "label": "Bail rejected",
+      "detail": "A special PMLA court rejects Agarwal's bail plea; the ED had earlier frozen 23 bank accounts linked to him and his family.",
+      "type": "status"
+    },
+    {
+      "date": "2025-11-28",
+      "label": "NCLT approves ₹1,950 crore NSEL-wide settlement",
+      "detail": "63 Moons Technologies' one-time settlement with NSEL claimants is approved, though this is separate from the criminal case against Ark Imports specifically.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Criminal proceedings against Ark Imports' promoter under both the Economic Offences Wing's case and the Enforcement Directorate's money-laundering case have continued for over a decade; this investigation has not established a final trial verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Kailash Baburam Agarwal",
+        "role": "Promoter, Ark Imports Pvt Ltd",
+        "outcome": "Arrested by Mumbai EOW in August 2014 (released about a month later) and again by the ED in September 2016; a special PMLA court denied him bail in October 2016. This investigation has not confirmed a final trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: Ark Imports' ₹719.37 crore exposure, its promoter's two arrests, and the broader 2025 NSEL-wide settlement are documented. This investigation has not established the current status of Agarwal's trial or how much, if anything, has been recovered specifically from Ark Imports.",
+    "confidence": "low",
+    "reasoning": "This entry draws on NSEL-defaulter profile pages and contemporaneous reporting on the arrests and bail rejection; it has not independently reviewed court filings or the EOW/ED chargesheets, and could not confirm the case's most recent procedural status beyond the 2025 NSEL-wide settlement."
+  },
+  "incomplete": [
+    "This is a stub entry. The current status of Kailash Agarwal's trial, over a decade after his first arrest, has not been researched in detail.",
+    "It is not established how much, if any, of Ark Imports' ₹719.37 crore obligation has been recovered specifically, as distinct from the 2025 NSEL-wide settlement.",
+    "The relationship between the 63 Moons/NSEL settlement and any ongoing criminal case against Agarwal has not been clarified."
+  ],
+  "sources": [
+    {
+      "id": "src-ark-wikipedia",
+      "label": "NSEL case",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/NSEL_case"
+    },
+    {
+      "id": "src-ark-defaulter-profile",
+      "label": "Know the Defaulters: Ark Imports Pvt. Ltd.",
+      "type": "independent",
+      "publisher": "NSEL Recovery Group",
+      "date": "2014-01-01",
+      "url": "http://www.nselrecoverygroup.net/defaulters/ark_imports_pvt_ltd.htm"
+    },
+    {
+      "id": "src-ark-ed-bail",
+      "label": "NSEL case: ED rejects bail of Kailash Agarwal",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2016-10-21",
+      "url": "https://www.business-standard.com/article/current-affairs/nsel-case-ed-rejects-bail-of-kailash-agarwal-116102100595_1.html"
+    },
+    {
+      "id": "src-nsel-settlement",
+      "label": "63 Moons Technologies NSEL settlement approved by NCLT",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-11-28",
+      "note": "Cited via search-result summary of contemporaneous reporting; this investigation has not directly reviewed the NCLT order."
+    }
+  ]
+}

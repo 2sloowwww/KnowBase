@@ -1,0 +1,155 @@
+{
+  "id": "KB-3030",
+  "slug": "new-india-cooperative-bank-fraud",
+  "title": "The New India Cooperative Bank Fraud",
+  "dek": "A Mumbai cooperative bank founded decades ago by a former union minister told depositors their money was safe. A routine RBI inspection instead found ₹122 crore missing from the vault, frozen every depositor's withdrawals overnight.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 201,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2025-02-13",
+  "heroStat": {
+    "value": "₹122 cr",
+    "label": "found missing from bank vaults during an RBI inspection"
+  },
+  "promise": {
+    "quote": "Depositors' funds held at New India Co-operative Bank would be safeguarded under RBI-supervised banking norms, with internal controls preventing unauthorised withdrawal or diversion of the bank's cash reserves.",
+    "madeBy": "New India Co-operative Bank Ltd., a Mumbai-based multi-state scheduled cooperative bank",
+    "role": "RBI-regulated cooperative bank serving depositors mainly in Mumbai and Maharashtra",
+    "date": "2020-01-01",
+    "context": "The bank, founded decades earlier, operated under RBI's banking supervision framework for cooperative banks, which is meant to prevent exactly this kind of internal diversion of cash reserves.",
+    "sourceIds": [
+      "src-nicb-moneylife"
+    ]
+  },
+  "target": {
+    "description": "Depositor funds and cash reserves held by an RBI-regulated cooperative bank should be secure against internal diversion, with internal controls and periodic RBI inspections sufficient to detect and prevent large-scale embezzlement.",
+    "standard": "RBI Banking Regulation Act supervision of cooperative banks; internal control and audit norms.",
+    "referenceDate": "2020-01-01"
+  },
+  "reality": {
+    "description": "During an RBI inspection on 12 February 2025, ₹122 crore was found missing from New India Co-operative Bank's vaults. The bank's General Manager, Hitesh Mehta, who was responsible for the Dadar and Goregaon branches, is the prime accused, with the Mumbai Police Economic Offences Wing alleging he siphoned funds between 2020 and 2025 — with roughly ₹70 crore allegedly routed to a slum-rehabilitation project promoter, ₹40 crore to another individual, and further amounts to others. The RBI barred the bank from issuing new loans and suspended deposit withdrawals for six months from 13 February 2025, then superseded its board of directors for 12 months and appointed a former SBI chief general manager as administrator. By mid-2025, at least six people had been arrested, including the bank's former CEO, while the former chairman and vice-chairperson were named as wanted accused. No charges have yet resulted in a conviction.",
+    "asOfDate": "2025-03-17",
+    "sourceIds": [
+      "src-nicb-businessstandard",
+      "src-nicb-freepress"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Funds found missing vs. amount recovered or accounted for",
+    "unit": "₹ crore",
+    "targetValue": 122,
+    "actualValue": 0,
+    "targetDisplay": "₹122 cr missing",
+    "actualDisplay": "₹0 confirmed recovered as of the reporting reviewed",
+    "targetLabel": "Missing",
+    "actualLabel": "Recovered",
+    "note": "This investigation found no confirmed recovery figure at the time of the sources reviewed; depositors remained under RBI-imposed withdrawal restrictions."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 122,
+    "allocatedLabel": "Funds found missing during RBI inspection",
+    "released": null,
+    "releasedLabel": "Amount recovered for depositors",
+    "spent": null,
+    "spentLabel": "Amount confirmed traced to specific recipients",
+    "unit": "crore",
+    "notes": "Reports allege roughly ₹70 crore went to one SRA project promoter and ₹40 crore to another individual, but no fully reconciled accounting of the ₹122 crore was available in sources reviewed.",
+    "sourceIds": [
+      "src-nicb-moneylife"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-01-01",
+      "label": "Alleged diversion begins",
+      "detail": "Investigators allege Hitesh Mehta began diverting bank funds from around this period while managing the Dadar and Goregaon branches.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-02-12",
+      "label": "RBI inspection finds ₹122 crore missing",
+      "detail": "A routine RBI inspection discovered the shortfall in the bank's vault holdings.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-13",
+      "label": "RBI freezes withdrawals and new lending",
+      "detail": "The RBI barred New India Co-operative Bank from issuing new loans and suspended deposit withdrawals for six months.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-14",
+      "label": "RBI supersedes the bank's board",
+      "detail": "The RBI superseded the board of directors for 12 months and appointed a former SBI chief general manager as administrator.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-16",
+      "label": "Hitesh Mehta and others arrested",
+      "detail": "The Mumbai Police Economic Offences Wing arrested the prime accused and other suspects; further arrests followed in the following weeks.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-17",
+      "label": "Sixth arrest made",
+      "detail": "The EOW made its sixth arrest in the case, while the former chairman and vice-chairperson remained wanted.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Multiple accused, including the bank's former General Manager and CEO, have been arrested and are facing prosecution. No trial verdict had been reported at the time of the sources reviewed; the former chairman and vice-chairperson remained wanted.",
+    "keyIndividuals": [
+      {
+        "name": "Hitesh Mehta",
+        "role": "Former General Manager, New India Co-operative Bank",
+        "outcome": "Arrested as the prime accused in February 2025; under trial, no verdict reported."
+      },
+      {
+        "name": "Abhimanyu Bhoan",
+        "role": "Former CEO, New India Co-operative Bank",
+        "outcome": "Arrested in connection with the case; under trial, no verdict reported."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That ₹122 crore went missing from a depositor-funded cooperative bank under RBI's own supervisory watch is not disputed — the RBI's own inspection found it, and the regulator responded by freezing withdrawals and taking over the bank's board. What remains unresolved, more than a year on from the arrests, is any confirmed recovery of the money or a completed trial establishing individual criminal responsibility.",
+    "confidence": "medium",
+    "reasoning": "The discovery of the shortfall, RBI's regulatory response, and the arrests are corroborated by multiple independent reports. The ultimate destination of all the missing funds and the case's trial outcome remain open questions not yet settled by any court."
+  },
+  "incomplete": [
+    "No confirmed figure exists for how much, if any, of the ₹122 crore has been recovered.",
+    "The former chairman and vice-chairperson were reported as wanted/absconding as of the sources reviewed; their subsequent arrest status was not confirmed.",
+    "No trial verdict has been reported; this entry will need updating once the case concludes."
+  ],
+  "sources": [
+    {
+      "id": "src-nicb-moneylife",
+      "label": "New India Cooperative Bank Scam: How Did a Rs122 Crore Fraud Escape RBI Scrutiny?",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2025-02-17",
+      "url": "https://www.moneylife.in/article/new-india-cooperative-bank-scam-how-did-a-rs122-crore-fraud-escape-rbi-scrutiny/76420.html"
+    },
+    {
+      "id": "src-nicb-businessstandard",
+      "label": "New India Cooperative Bank's GM held in Rs 122 cr fraud: How it happened",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-02-17",
+      "url": "https://www.business-standard.com/india-news/new-india-cooperative-bank-fraud-hitesh-mehta-rs122cr-missing-rbi-action-125021700289_1.html"
+    },
+    {
+      "id": "src-nicb-freepress",
+      "label": "New India Cooperative Bank Scam: EOW Plans Lie Detector Test On Prime Accused Hitesh Mehta",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2025-03-01",
+      "url": "https://www.freepressjournal.in/mumbai/new-india-cooperative-bank-scam-eow-plans-lie-detector-test-on-prime-accused-hitesh-mehta"
+    }
+  ]
+}

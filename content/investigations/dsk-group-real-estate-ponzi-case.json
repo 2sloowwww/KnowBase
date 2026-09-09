@@ -1,0 +1,166 @@
+{
+  "id": "KB-155",
+  "slug": "dsk-group-real-estate-ponzi-case",
+  "title": "The DSK Group Real Estate Fraud, Pune",
+  "dek": "Pune-based builder D.S. Kulkarni's DSK Group collected deposits from roughly 33,000 investors and fixed-deposit holders promising good returns, then defaulted in 2016. Police allege a Rs 2,043 crore fraud across nine group companies, with a 37,000-page chargesheet and the arrest of serving and former Bank of Maharashtra chiefs for allegedly enabling loans to the group.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 73,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2016-10-01",
+  "heroStat": {
+    "value": "₹2,043 cr",
+    "label": "alleged fraud across nine DSK Group companies, per Pune Police's Economic Offences Wing chargesheet, affecting roughly 33,000 investors and depositors"
+  },
+  "promise": {
+    "quote": "DSK Group's various companies solicited fixed deposits and investments from the public, including retail depositors, promising attractive fixed returns to be repaid on maturity alongside completion of the group's real estate projects.",
+    "madeBy": "D.S. Kulkarni (Deepak Sakharam Kulkarni), Chairman and Managing Director, DSK Group, and his wife Hemanti Kulkarni",
+    "role": "Founder and chief of DSK Group, a diversified Pune-based conglomerate with real estate, automobile, and other businesses",
+    "date": "2010-01-01",
+    "context": "This reflects the general fixed-deposit solicitation model reported across multiple DSK Group companies over several years, rather than a verified quotation from a specific deposit scheme's own paperwork, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-dsk-wiki"
+    ]
+  },
+  "target": {
+    "description": "That depositors and investors who placed fixed deposits or investments with DSK Group companies would be repaid the promised principal and returns on maturity, as required of any regulated deposit-taking scheme.",
+    "standard": "The Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act, 1999 (MPID Act), and ordinary IPC provisions on cheating (Section 420) and criminal breach of trust (Section 406).",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "DSK Group defaulted on repayments to fixed-deposit holders starting around October 2016, triggering complaints from thousands of depositors. Pune Police's Economic Offences Wing (EOW) subsequently arrested D.S. Kulkarni and his wife Hemanti from Delhi on 17 February 2018 and booked them under the MPID Act along with IPC sections for cheating and criminal breach of trust. In May 2018, the EOW filed an extensive chargesheet (reported at roughly 37,000 pages) alleging a Rs 2,043.18 crore fraud spread across nine DSK Group firms and about 33,000 investors/depositors, broken down as roughly Rs 1,083.7 crore in deposit/loan fraud, Rs 711.36 crore in fraud linked to banks and non-banking financial institutions, Rs 111.35 crore in debenture-related fraud, and Rs 136.77 crore tied to a Phursungi land purchase. In June 2018, the EOW separately arrested Bank of Maharashtra's then-CMD Ravindra Marathe, former CMD Sushil Muhnot, an executive director, and a zonal manager, alleging they had sanctioned loans to DSK Group in violation of banking norms. This entry's research, limited by an exhausted web-search budget during preparation, could not confirm the case's most current (2023-2026) trial status, any conviction, or final asset-recovery figures for depositors.",
+    "asOfDate": "2018-06-21",
+    "sourceIds": [
+      "src-dsk-chargesheet",
+      "src-dsk-bom-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Investors/depositors promised repayment vs. scale of alleged fraud confirmed by police chargesheet",
+    "unit": "INR crore",
+    "targetValue": 2043,
+    "actualValue": 0,
+    "targetDisplay": "₹2,043.18 cr allegedly owed/defrauded across 33,000 depositors",
+    "actualDisplay": "No confirmed reconciled repayment/recovery figure found",
+    "targetLabel": "Alleged fraud scale (2018 chargesheet)",
+    "actualLabel": "Confirmed depositor recovery",
+    "note": "This entry could not confirm what portion, if any, of the alleged Rs 2,043 crore has been recovered and returned to depositors since the 2018 chargesheet; the actualValue of 0 reflects the absence of a confirmed recovery figure in available sources, not a claim that literally nothing was ever recovered."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 2043.18,
+    "allocatedLabel": "Total alleged fraud across nine DSK Group companies, per EOW chargesheet",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The EOW's chargesheet broke the alleged fraud down into roughly Rs 1,083.7 crore (deposit/loan fraud), Rs 711.36 crore (bank/NBFI-related fraud), Rs 111.35 crore (debenture fraud), and Rs 136.77 crore (Phursungi land purchase fraud). No confirmed recovery or restitution figures for depositors were found in this entry's research.",
+    "sourceIds": [
+      "src-dsk-chargesheet"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "label": "DSK Group expands fixed-deposit solicitation",
+      "detail": "Multiple DSK Group companies solicit fixed deposits and investments from the public across Maharashtra.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-10-01",
+      "label": "DSK Group defaults on fixed deposits",
+      "detail": "The group stops honoring repayments to fixed-deposit holders, triggering public complaints.",
+      "type": "delay"
+    },
+    {
+      "date": "2018-02-08",
+      "label": "DSK Group seeks crowdfunding help",
+      "detail": "The embattled group publicly seeks crowdfunding assistance amid mounting depositor complaints, shortly before the founders' arrest.",
+      "type": "status"
+    },
+    {
+      "date": "2018-02-17",
+      "label": "D.S. Kulkarni and wife arrested",
+      "detail": "Pune Police EOW arrests D.S. Kulkarni and Hemanti Kulkarni from Delhi under the MPID Act and IPC cheating/breach-of-trust provisions.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-05-17",
+      "label": "37,000-page chargesheet filed",
+      "detail": "EOW files an extensive chargesheet alleging Rs 2,043.18 crore fraud across nine DSK Group companies and ~33,000 investors/depositors.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-06-21",
+      "label": "Bank of Maharashtra CMD and others arrested",
+      "detail": "EOW arrests serving CMD Ravindra Marathe, former CMD Sushil Muhnot, and other bank officials over loans allegedly sanctioned to DSK Group in violation of norms.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "D.S. Kulkarni and his wife were charged under the Maharashtra Protection of Interest of Depositors Act and IPC provisions for cheating and criminal breach of trust, based on a 2018 chargesheet alleging a Rs 2,043 crore fraud. Bank of Maharashtra's then-serving and a former CMD were separately arrested and charged over loans to the group. This entry's research could not confirm the case's current trial status, any verdict, or conviction as of 2023-2026, due to an exhausted web-search budget during preparation; this should be treated as an open question requiring further verification.",
+    "keyIndividuals": [
+      {
+        "name": "D.S. Kulkarni (Deepak Sakharam Kulkarni)",
+        "role": "Chairman and Managing Director, DSK Group",
+        "outcome": "Arrested 17 February 2018; charged under MPID Act and IPC. Current trial status not confirmed by this entry's research."
+      },
+      {
+        "name": "Hemanti Kulkarni",
+        "role": "Director, DSK Group",
+        "outcome": "Arrested alongside her husband on 17 February 2018. Current trial status not confirmed by this entry's research."
+      },
+      {
+        "name": "Ravindra Marathe",
+        "role": "Then-CMD, Bank of Maharashtra",
+        "outcome": "Arrested 21 June 2018 over alleged irregular loan sanctions to DSK Group. Current case status not confirmed by this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated, chargesheeted case of large-scale deposit fraud: Pune Police's EOW has formally alleged, via a detailed 37,000-page chargesheet, that DSK Group and its promoters defrauded roughly 33,000 depositors of over Rs 2,000 crore, and separately arrested senior bank officials over related loan sanctions. Because this entry's research was cut short by an exhausted search budget, it cannot confirm whether these charges have since resulted in conviction, acquittal, or continued trial — that remains an open, unverified question.",
+    "confidence": "low",
+    "reasoning": "The 2016-2018 events (default, arrests, chargesheet, bank-official arrests) are corroborated by multiple contemporaneous Business Standard and other reports. However, this entry could not update the case's status beyond mid-2018 due to search-tool limits encountered during research, which is a significant gap given the case is now several years old."
+  },
+  "incomplete": [
+    "This entry's research was cut short by an exhausted web-search budget before the current (2023-2026) trial status, any verdict, or depositor recovery figures could be confirmed. This is a stub entry pending that follow-up research.",
+    "The exact first date depositors' complaints or an FIR were formally lodged (as opposed to the general October 2016 default) has not been confirmed.",
+    "Whether Bank of Maharashtra officials' case reached any conclusion (charges dropped, trial, or conviction) has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-dsk-wiki",
+      "label": "DSK Group",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/DSK_Group"
+    },
+    {
+      "id": "src-dsk-chargesheet",
+      "label": "EOW files 37,000-page chargesheet against Pune builder DSK and wife",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2018-05-17",
+      "url": "https://www.business-standard.com/article/pti-stories/eow-files-37-000-page-chargesheet-against-pune-builder-dsk-and-118051701482_1.html"
+    },
+    {
+      "id": "src-dsk-bom-arrest",
+      "label": "DSK group scam: Bank of Maharashtra CMD arrested in Rs 2043 cr fraud case",
+      "type": "independent",
+      "publisher": "The Week",
+      "date": "2018-06-21",
+      "url": "https://www.theweek.in/news/biz-tech/2018/06/21/DSK-group-scam-Bank-of-Maharashtra-CMD-arrested-in-Rs-2043-cr-fraud.html"
+    },
+    {
+      "id": "src-dsk-crowdfund",
+      "label": "Embattled DSK Group seeks help through crowdfunding",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2018-02-08",
+      "url": "https://www.business-standard.com/article/pti-stories/embattled-dsk-group-seeks-help-through-crowdfunding-118020801787_1.html"
+    }
+  ]
+}

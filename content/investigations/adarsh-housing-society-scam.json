@@ -1,0 +1,125 @@
+{
+  "id": "KB-027",
+  "slug": "adarsh-housing-society-scam",
+  "title": "The Adarsh Housing Society Scam",
+  "dek": "A 31-storey building on defence land in Mumbai was meant to house Kargil war widows and veterans. Almost none of its flats went to them — most went to bureaucrats, politicians, and their relatives.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 211,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2010-11-01",
+  "heroStat": {
+    "value": "31",
+    "label": "storeys built on land originally meant for war widows and veterans"
+  },
+  "promise": {
+    "quote": "The Adarsh Co-operative Housing Society will provide housing for widows and veterans of the 1999 Kargil war, on land allotted for that purpose.",
+    "madeBy": "Adarsh Co-operative Housing Society, with approvals from Maharashtra state government officials",
+    "role": "A housing society formed with state government cooperation, built on land with defence-adjacent status in Colaba, Mumbai",
+    "date": "2002-01-01",
+    "context": "The society was originally conceived to house Kargil war widows and army personnel, but its membership rules were repeatedly amended over the following years to admit bureaucrats, politicians, and their relatives with no connection to the military.",
+    "sourceIds": [
+      "src-adarsh-overview"
+    ]
+  },
+  "target": {
+    "description": "Flats allotted to the war widows and veterans the society was originally intended for, with construction complying with environmental and coastal-zone clearance requirements.",
+    "standard": "The society's own founding charter and standard environmental clearance norms for coastal construction in Mumbai.",
+    "referenceDate": "2002-01-01"
+  },
+  "reality": {
+    "description": "Investigations found the society's membership had shifted almost entirely to civil servants, politicians, and their relatives, with very few Kargil-linked beneficiaries. The Bombay High Court ordered the building demolished in 2014, finding the construction illegal and its environmental clearance improperly obtained; the Supreme Court stayed that demolition in 2017 pending a CBI investigation and trial. Then-Maharashtra Chief Minister Ashok Chavan resigned over the scam in 2010.",
+    "asOfDate": "2017-01-01",
+    "sourceIds": [
+      "src-adarsh-demolition",
+      "src-adarsh-status"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Storeys ordered demolished by the Bombay High Court vs. storeys actually demolished",
+    "unit": "storeys",
+    "targetValue": 31,
+    "actualValue": 0,
+    "targetDisplay": "31 storeys ordered demolished (2014)",
+    "actualDisplay": "0 demolished — stayed by the Supreme Court (2017)",
+    "targetLabel": "Ordered",
+    "actualLabel": "Demolished",
+    "note": "The demolition order was not primarily about money but about illegal construction and fraudulent environmental clearance; this gap captures that no part of the ordered demolition has actually taken place."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2002-01-01",
+      "label": "Society formed",
+      "detail": "Adarsh Co-operative Housing Society is established, ostensibly for Kargil war widows and veterans.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-11-01",
+      "label": "Scam becomes public",
+      "detail": "Reporting on the society's actual membership triggers a political crisis.",
+      "type": "status"
+    },
+    {
+      "date": "2010-11-09",
+      "label": "Chief Minister resigns",
+      "detail": "Ashok Chavan resigns as Maharashtra's Chief Minister over the scandal.",
+      "type": "status"
+    },
+    {
+      "date": "2014-04-29",
+      "label": "Bombay High Court orders demolition",
+      "detail": "The Court finds the construction illegal and the environmental clearance fraudulently obtained.",
+      "type": "status"
+    },
+    {
+      "date": "2017-07-01",
+      "label": "Supreme Court stays demolition",
+      "detail": "The Court directs the CBI investigation and criminal trial to proceed instead.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The trial has been reported as ongoing for a prolonged period, with some sources describing a mix of convictions and acquittals among various accused; this investigation has not yet verified those specific outcomes.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the shift of the society's beneficiaries away from its stated purpose, and the Bombay High Court's finding of illegal construction, are well documented. This investigation has not yet verified the specific individual outcomes of the ongoing criminal trial.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. Reports describing a mix of convictions and acquittals among various accused could not be independently verified in the time available for this entry and are not repeated as confirmed fact."
+  },
+  "incomplete": [
+    "This is a stub entry. Named individuals and their specific, verified trial outcomes have not yet been added.",
+    "The current status of the building — whether it remains occupied, and by whom — as of publication has not been confirmed.",
+    "The relationship between the CBI's criminal case and any separate disciplinary action against implicated officials has not been detailed here."
+  ],
+  "sources": [
+    {
+      "id": "src-adarsh-overview",
+      "label": "What is Adarsh Scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-01-01",
+      "url": "https://www.business-standard.com/about/what-is-adarsh-scam"
+    },
+    {
+      "id": "src-adarsh-demolition",
+      "label": "Adarsh Housing Society scam: Bombay High Court orders demolition of 31-storey building",
+      "type": "independent",
+      "publisher": "India.com",
+      "date": "2014-04-29",
+      "url": "https://www.india.com/news/india/adarsh-housing-society-scam-bombay-high-court-orders-demolition-of-31-storey-building-1146841/"
+    },
+    {
+      "id": "src-adarsh-status",
+      "label": "Demolition, regularisation pleas pending — Chavan moves on, but Mumbai's Adarsh society languishes",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2025-01-01",
+      "url": "https://theprint.in/india/demolition-regularisation-pleas-pending-chavan-moves-on-but-mumbais-adarsh-society-languishes/2048404/"
+    }
+  ]
+}

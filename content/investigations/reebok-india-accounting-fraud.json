@@ -1,0 +1,146 @@
+{
+  "id": "KB-907",
+  "slug": "reebok-india-accounting-fraud",
+  "title": "The Reebok India Accounting Fraud",
+  "dek": "Reebok's own parent company accused its India managing director and chief operating officer of a roughly ₹870 crore fraud involving undisclosed warehouses and fictitious sales to ghost distributors. Five executives were arrested in 2012; two years later, two of the most senior accused were let off by an Indian court for lack of sufficient evidence, while regulatory proceedings continued separately.",
+  "category": "Banking & Finance",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 229,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-03-01",
+  "heroStat": {
+    "value": "₹870 cr",
+    "label": "fraud alleged by Reebok India against its own former Managing Director and Chief Operating Officer"
+  },
+  "promise": {
+    "quote": "Reebok India's sales, inventory and distribution operations would be run honestly and reported accurately to its German parent, Adidas Group, which had acquired Reebok globally in 2006.",
+    "madeBy": "Reebok India management",
+    "role": "Managing Director and Chief Operating Officer, Reebok India",
+    "date": "2006-01-01",
+    "context": "Reebok India operated as a subsidiary under the Adidas Group (which acquired Reebok globally in 2006), competing in India's sportswear retail market through a network of distributors and franchise stores.",
+    "sourceIds": [
+      "src-reebok-slideshare"
+    ]
+  },
+  "target": {
+    "description": "That Reebok India's stated sales, warehouse operations and distributor relationships reflected real, arms-length transactions rather than fictitious sales or unauthorised diversion of goods.",
+    "standard": "Standard corporate governance and financial reporting obligations for a subsidiary of a listed multinational group, and Indian company law/criminal provisions against cheating and criminal breach of trust.",
+    "referenceDate": "2011-06-01"
+  },
+  "reality": {
+    "description": "An internal probe, reportedly triggered by suspicions from Reebok India's financial director Shahim Padath, led to a secret KPMG investigation codenamed 'Project Diamond' that scanned tens of thousands of internal emails and found that then-Managing Director Subhinder Singh Prem's personal expenses exceeded his declared income; KPMG submitted its report around June 2011. The company alleged that Prem and then-Chief Operating Officer Vishnu Bhagat had rented four warehouses without informing senior management, using them to store goods that were falsely recorded as supplied to genuine dealers, and had allegedly diverted goods to ghost companies and distributors nationwide, in some cases misrepresenting them as defective stock — cumulatively alleged by the company at around ₹870 crore. Reebok India dismissed Singh, who had recently also been made Managing Director of Adidas India as part of a brand integration, when the matter became public in March 2012. A formal complaint was lodged with Gurgaon police on 21 May 2012, and five Reebok India officials, including Singh and Bhagat, were arrested and remanded to police custody. The Ministry of Corporate Affairs separately ordered a Serious Fraud Investigation Office (SFIO) probe in May 2012; the SFIO filed its own chargesheet roughly two years later naming Singh, Bhagat, and — controversially — KPMG-affiliate auditor BSR & Co. In March 2014, an Indian court let off two of the most senior accused executives (reported as Singh and Bhagat) for insufficient evidence in the criminal case brought via the police complaint, a development distinct from the SFIO's separate chargesheet. This entry has not confirmed the final outcome of the SFIO's proceedings or of the case against BSR & Co., nor any subsequent appeal of the 2014 order.",
+    "asOfDate": "2014-03-04",
+    "sourceIds": [
+      "src-reebok-deccanherald",
+      "src-reebok-slideshare"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Fraud alleged vs. criminal accountability secured",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "₹870 cr fraud alleged, 5 arrested (2012)",
+    "actualDisplay": "Senior accused let off for insufficient evidence (2014)",
+    "targetLabel": "Company's allegation and arrests",
+    "actualLabel": "Criminal case outcome",
+    "note": "The 2014 order letting off two senior executives concerned the criminal case stemming from the police complaint; it is reported here precisely, without assuming it resolves the separate SFIO chargesheet or any civil/regulatory proceedings, whose outcomes this entry has not confirmed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 870,
+    "spentLabel": "fraud amount alleged by Reebok India against Singh and Bhagat",
+    "unit": "crore",
+    "notes": "The ₹870 crore figure is the company's own alleged loss figure as reported in its criminal complaint and contemporaneous media coverage; it has not been confirmed as a court-established finding, and the accused have disputed the allegations.",
+    "sourceIds": [
+      "src-reebok-deccanherald"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2011-06-01",
+      "label": "KPMG's 'Project Diamond' probe report submitted",
+      "detail": "An internal investigation into Reebok India's finances, prompted by suspicions raised by financial director Shahim Padath, finds Subhinder Singh Prem's personal expenses exceeded his income.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-03-01",
+      "label": "Alleged ₹870 crore fraud becomes public; Singh dismissed",
+      "detail": "Reebok India dismisses Subhinder Singh Prem, alleging he and COO Vishnu Bhagat diverted goods via undisclosed warehouses and fictitious sales.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-05-21",
+      "label": "Formal criminal complaint filed with Gurgaon police",
+      "detail": "Reebok India's financial director lodges a complaint against Singh and Bhagat; five company officials are subsequently arrested and remanded.",
+      "type": "status"
+    },
+    {
+      "date": "2012-05-01",
+      "label": "Ministry of Corporate Affairs orders SFIO probe",
+      "detail": "The Serious Fraud Investigation Office is directed to separately investigate Reebok India's finances.",
+      "type": "status"
+    },
+    {
+      "date": "2014-01-01",
+      "label": "SFIO files chargesheet",
+      "detail": "The SFIO's chargesheet names Singh, Bhagat, and auditor BSR & Co (a KPMG network affiliate) roughly two years after the probe was ordered.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-03-04",
+      "label": "Court lets off two senior executives in criminal case",
+      "detail": "A court lets off two top accused executives, reported as Singh and Bhagat, in the criminal case arising from the police complaint, citing insufficient evidence.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Two strands of proceedings emerged from the allegations: a criminal case via the Gurgaon police complaint, in which two senior accused executives were let off in March 2014 for insufficient evidence, and a separate SFIO chargesheet (filed around 2014) naming Singh, Bhagat and auditor BSR & Co, whose outcome this entry has not confirmed. No conviction has been confirmed in either strand as of the sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Subhinder Singh Prem",
+        "role": "Former Managing Director, Reebok India (also briefly Managing Director, Adidas India)",
+        "outcome": "Dismissed by the company in March 2012; arrested; named in the SFIO chargesheet; reported let off in the police-complaint criminal case in March 2014 for insufficient evidence. Final SFIO case outcome not confirmed."
+      },
+      {
+        "name": "Vishnu Bhagat",
+        "role": "Former Chief Operating Officer, Reebok India",
+        "outcome": "Dismissed and arrested alongside Singh; named in the SFIO chargesheet; reported let off in the police-complaint criminal case in March 2014 for insufficient evidence. Final SFIO case outcome not confirmed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a case where the company itself made serious, specific fraud allegations against its own top India executives, backed by an internal KPMG probe, leading to real arrests — but the criminal case brought via the police complaint against the two most senior accused ended in 2014 with a court letting them off for insufficient evidence. A separate SFIO chargesheet, which also named the companies' auditor, appears to have followed a different and independent track whose final outcome this entry could not confirm. This site treats neither the original ₹870 crore allegation nor the 2014 order letting the executives off as the final word, given the unresolved parallel SFIO proceeding.",
+    "confidence": "low",
+    "reasoning": "The initial allegations, KPMG investigation, arrests, and 2014 order letting off two executives are corroborated across Business Standard, Deccan Herald and contemporaneous coverage. Confidence is capped at low because this entry could not access the full 2014 Business Standard article (paywalled/blocked) and could not confirm the SFIO chargesheet's final disposition, any appeal of the 2014 order, or the case's current 2026 status."
+  },
+  "incomplete": [
+    "This entry could not fully verify the March 2014 order (source article was inaccessible) beyond its headline finding that two executives were 'let off'; the exact legal reasoning and which specific charges were dropped have not been confirmed.",
+    "The final outcome of the SFIO's chargesheet against Singh, Bhagat and auditor BSR & Co has not been confirmed — this entry does not know whether that case proceeded to trial, was closed, or resulted in any finding.",
+    "Whether Reebok India or Adidas Group pursued or recovered any of the alleged ₹870 crore through civil proceedings has not been confirmed.",
+    "The current (2026) status of any surviving proceedings from this case has not been independently verified; no recent reporting was found."
+  ],
+  "sources": [
+    {
+      "id": "src-reebok-deccanherald",
+      "label": "Reebok fraud case: five officials sent to custody",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2012-05-01",
+      "url": "https://www.deccanherald.com/business/reebok-fraud-case-five-officials-2361345"
+    },
+    {
+      "id": "src-reebok-slideshare",
+      "label": "Reebok scam 2012 fraud — case summary",
+      "type": "independent",
+      "publisher": "SlideShare (aggregated case-study summary)",
+      "date": "2014-01-01",
+      "url": "https://www.slideshare.net/slideshow/reebok-scam-2012-fraud/42665147"
+    }
+  ]
+}

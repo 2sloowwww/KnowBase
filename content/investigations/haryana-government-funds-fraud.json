@@ -1,0 +1,113 @@
+{
+  "id": "KB-035",
+  "slug": "haryana-government-funds-fraud",
+  "title": "The Haryana Government Funds Fraud",
+  "dek": "Bank accounts opened for a state housing scheme were allegedly used to divert hundreds of crores, with six IAS officers among those chargesheeted this year in a case still being built chargesheet by chargesheet.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 94,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2026-01-01",
+  "heroStat": {
+    "value": "₹504–950 cr",
+    "label": "reported scale across related fraud allegations (figures vary by filing)"
+  },
+  "promise": {
+    "quote": "Bank accounts and funds associated with the Mukhya Mantri Grameen Awas Yojna 2.0 and other Haryana government schemes will be used only for their disclosed public purpose.",
+    "madeBy": "Government of Haryana, in accounts held at IDFC First Bank, AU Small Finance Bank, and Kotak Mahindra Bank",
+    "role": "State government scheme administration and its banking partners",
+    "date": "2025-01-01",
+    "context": "Investigators allege large-scale irregularities in bank accounts linked to the Mukhya Mantri Grameen Awas Yojna 2.0 rural housing scheme and other Haryana government departmental accounts.",
+    "sourceIds": [
+      "src-haryana-overview"
+    ]
+  },
+  "target": {
+    "description": "Government scheme funds held and disbursed only for their intended public purpose, with bank accounts operated under proper departmental authorisation and oversight.",
+    "standard": "Standard state treasury controls and banking-sector KYC and account-authorisation norms.",
+    "referenceDate": "2025-01-01"
+  },
+  "reality": {
+    "description": "A major financial fraud was uncovered at Chandigarh branches of IDFC First Bank, AU Small Finance Bank, and Kotak Mahindra Bank in February 2026, reported at approximately ₹950 crore. The CBI's parallel, more specifically quantified case around IDFC First Bank and AU Small Finance Bank put the loss at ₹504 crore. By its third chargesheet, the CBI had named 19 accused, including six IAS officers of the Haryana cadre, bank officials, and state government department employees, after searches at 54 locations that recovered gold valued at roughly ₹20 crore.",
+    "asOfDate": "2026-09-01",
+    "sourceIds": [
+      "src-haryana-chargesheet",
+      "src-haryana-950cr"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Broader reported fraud figure vs. the CBI's more specifically quantified case amount",
+    "unit": "₹ crore",
+    "targetValue": 950,
+    "actualValue": 504,
+    "targetDisplay": "₹950 cr (broader initial figure)",
+    "actualDisplay": "₹504 cr (CBI's IDFC/AU Bank case)",
+    "targetLabel": "Broader figure",
+    "actualLabel": "CBI case",
+    "note": "This investigation could not fully reconcile whether the ₹504 crore CBI case is a subset of the broader ₹950 crore figure or a separately calculated amount, and reports both rather than treating one as more authoritative."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2026-01-01",
+      "label": "Fraud uncovered",
+      "detail": "Irregularities are discovered in scheme-linked bank accounts at three private banks' Chandigarh branches.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-01",
+      "label": "CBI searches 54 locations",
+      "detail": "The agency recovers gold valued at roughly ₹20 crore during searches connected to the case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Third chargesheet filed",
+      "detail": "The CBI names 19 accused in total, including six Haryana-cadre IAS officers.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Multiple chargesheets have been filed naming 19 accused including senior civil servants; this investigation has not yet traced the case to a trial verdict for any individual.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the fraud and the involvement of senior IAS officers are documented across three CBI chargesheets. This investigation has not yet reconciled the differing scale figures reported, nor established the trial's progress.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn from ongoing 2026 reporting. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. Named individuals beyond the general reference to 'six IAS officers' have not yet been detailed here.",
+    "The relationship between the ₹950 crore and ₹504 crore figures has not been reconciled.",
+    "The scheme-level impact — whether intended housing beneficiaries were denied funds as a result — has not been assessed in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-haryana-overview",
+      "label": "Haryana Government accounts fraud",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2026-02-01",
+      "url": "https://en.wikipedia.org/wiki/Haryana_Government_accounts_fraud"
+    },
+    {
+      "id": "src-haryana-chargesheet",
+      "label": "CBI files third chargesheet in ₹504 crore Haryana funds fraud case",
+      "type": "independent",
+      "publisher": "The News Mill",
+      "date": "2026-09-01",
+      "url": "https://thenewsmill.com/2026/09/cbi-files-third-chargesheet-in-%E2%82%B9504-crore-haryana-funds-fraud-case/"
+    },
+    {
+      "id": "src-haryana-950cr",
+      "label": "CBI files 3rd Chargesheet In IDFC Fraud Case: How Bank-Bureaucrat Nexus Emptied The Shelves Of Haryana Government?",
+      "type": "independent",
+      "publisher": "Inventiva",
+      "date": "2026-09-01",
+      "url": "https://www.inventiva.co.in/trends/cbi-files-3rd-chargesheet-in-idfc-haryana-fraud-case/"
+    }
+  ]
+}

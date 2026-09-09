@@ -1,0 +1,195 @@
+{
+  "id": "KB-901",
+  "slug": "tatra-truck-scam",
+  "title": "The Tatra Truck Scam",
+  "dek": "For nearly three decades, the Army bought high-mobility Tatra trucks through a middleman layer that a CAG-flagged pricing chain allegedly inflated far above cost. A 2012 bribery claim by the then Army Chief blew the lid off it — but 13 years on, only one man has ever faced framed charges, and no verdict has been delivered.",
+  "category": "Defence & Security",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 138,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-03-27",
+  "heroStat": {
+    "value": "₹14 cr",
+    "label": "bribe former Army Chief Gen V.K. Singh says he was offered in September 2010 to clear a pending Tatra truck procurement file"
+  },
+  "promise": {
+    "quote": "Tatra all-terrain trucks would be procured for the Army at fair, arms-length prices through Bharat Earth Movers Ltd (BEML), a public-sector defence undertaking, as part of routine high-mobility vehicle procurement.",
+    "madeBy": "Ministry of Defence / Bharat Earth Movers Ltd (BEML)",
+    "role": "Defence public-sector undertaking and procurement authority for Army high-mobility vehicles",
+    "date": "1986-01-01",
+    "context": "BEML began importing and licence-assembling Czech-origin Tatra 6x6/8x8 trucks for the Army from the mid-1980s, but routed the deal through an intermediary, Tatra Sipox (UK) Ltd — later Vectra Group, controlled by British national Ravi Rishi — which was neither the original manufacturer nor its subsidiary.",
+    "sourceIds": [
+      "src-tatra-wiki",
+      "src-tatra-indianmirror"
+    ]
+  },
+  "target": {
+    "description": "That defence procurement of Tatra vehicles would go through transparent costing without an unnecessary and self-dealing middleman layer inflating prices paid by the Army.",
+    "standard": "Defence Procurement Manual/Procedure norms requiring arms-length, audited pricing from original equipment manufacturers or authorised representatives.",
+    "referenceDate": "1986-01-01"
+  },
+  "reality": {
+    "description": "Successive CAG and internal reviews found BEML paid Tatra Sipox (UK)/Vectra a mark-up that critics estimated inflated final Army prices by 100-300% over the underlying manufacturing cost, cumulatively estimated by some reports at around ₹750 crore over the life of the contract. The scandal became a national story in March 2012 when outgoing Army Chief Gen V.K. Singh disclosed that Lt Gen Tejinder Singh had offered him a ₹14 crore bribe on 22 September 2010 to clear a file for 1,676 high-mobility vehicles including Tatra trucks. The CBI registered a case in March 2012 against Ravi Rishi and unnamed Defence Ministry, Army and BEML officials, and a separate case over the bribery allegation against Tejinder Singh in October 2012. A court framed corruption charges against Tejinder Singh in 2019; the Delhi High Court dismissed his challenge to that framing in June 2022. In September 2022, former Defence Minister A.K. Antony testified as a prosecution witness and was cross-examined, stating Gen V.K. Singh had told him about the alleged offer but had no written or audio evidence and did not want to formally pursue it at the time. Separately, in August 2020 the Ministry of Defence suspended business dealings with Vectra Advanced Engineering (the renamed Vectra Group entity) for one year over the case. Ravi Rishi has since died. As of the most recent reporting reviewed, the CBI/MoD's broader procurement-pricing case has seen the trial court repeatedly push back on attempts to close or dilute the probe, while the bribery-allegation case against Tejinder Singh remains at the trial stage with no verdict.",
+    "asOfDate": "2022-09-29",
+    "sourceIds": [
+      "src-tatra-tribune-antony",
+      "src-tatra-opindia-mod",
+      "src-tatra-pgurus"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the bribery allegation became public vs. convictions secured",
+    "unit": "years",
+    "targetValue": 13,
+    "actualValue": 0,
+    "targetDisplay": "13+ years since 2012 disclosure",
+    "actualDisplay": "0 convictions",
+    "targetLabel": "Time elapsed",
+    "actualLabel": "Convictions",
+    "note": "One individual (Lt Gen Tejinder Singh, retd) faces framed corruption charges over the alleged bribe offer; the broader procurement-pricing case against BEML/Defence Ministry officials has not produced any chargesheet outcome or conviction as of the sources reviewed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 750,
+    "spentLabel": "estimated cumulative overpayment alleged by critics/media over the life of the BEML-Tatra Sipox procurement chain",
+    "unit": "crore",
+    "notes": "No official, court-validated figure for total overpayment has been established; the ₹750 crore figure is a media/CBI-investigation-era estimate, not a proven or audited loss figure.",
+    "sourceIds": [
+      "src-tatra-indianmirror"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1986-01-01",
+      "label": "BEML begins Tatra truck procurement via UK intermediary",
+      "detail": "BEML starts importing/licence-building Tatra 6x6 and 8x8 trucks for the Army, routed through Tatra Sipox (UK) Ltd rather than directly from the Czech manufacturer.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-09-22",
+      "label": "Alleged bribe offer to Army Chief",
+      "detail": "Gen V.K. Singh later states that Lt Gen Tejinder Singh offered him ₹14 crore in his office to clear a pending file for 1,676 high-mobility vehicles including Tatra trucks.",
+      "type": "status"
+    },
+    {
+      "date": "2012-03-27",
+      "label": "Gen V.K. Singh's bribery claim becomes public",
+      "detail": "The outgoing Army Chief's disclosure, made in a television interview, turns the long-running pricing controversy into a national bribery scandal.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-03-30",
+      "label": "CBI registers case against Ravi Rishi and officials",
+      "detail": "CBI books Ravi Rishi (Tatra Sipox/Vectra) and unnamed Defence Ministry, Army and BEML officials for alleged criminal conspiracy, cheating and Prevention of Corruption Act offences over procurement pricing.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-10-01",
+      "label": "CBI books Tejinder Singh over bribery allegation",
+      "detail": "A separate FIR is lodged against Lt Gen Tejinder Singh (retd) under the Prevention of Corruption Act over the alleged ₹14 crore offer to Gen V.K. Singh.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Charges framed against Tejinder Singh",
+      "detail": "A trial court frames corruption charges against Tejinder Singh in the bribery-allegation case.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-08-01",
+      "label": "MoD suspends dealings with Vectra Advanced Engineering",
+      "detail": "The Defence Ministry bars business dealings with the Vectra Group company for one year in connection with the Tatra case.",
+      "type": "status"
+    },
+    {
+      "date": "2022-06-01",
+      "label": "Delhi High Court dismisses Tejinder Singh's plea",
+      "detail": "The High Court rejects his challenge to the framing of charges, allowing the trial to proceed.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-28",
+      "label": "A.K. Antony cross-examined as prosecution witness",
+      "detail": "The former Defence Minister testifies that Gen V.K. Singh told him about the alleged bribe offer but did not pursue it formally and provided no written or recorded evidence.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The bribery-allegation case against retired Lt Gen Tejinder Singh remains under trial, with charges framed since 2019 and prosecution evidence, including A.K. Antony's testimony, recorded through 2022. The broader CBI case over alleged procurement overpricing involving Ravi Rishi (now deceased) and unnamed BEML/Defence Ministry officials has not, per sources reviewed, produced a chargesheet outcome, conviction, or formal closure — with reports of the trial court criticising the CBI and Ministry for withholding documents rather than progressing the case. No convictions have been secured in either strand as of the most recent reporting reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Lt Gen Tejinder Singh (retd)",
+        "role": "Alleged to have offered a ₹14 crore bribe to the then Army Chief",
+        "outcome": "Charged in 2019; Delhi HC dismissed his challenge to the charges in 2022; trial ongoing, no verdict as of sources reviewed."
+      },
+      {
+        "name": "Ravi Rishi",
+        "role": "British national; controlled Tatra Sipox (UK) Ltd / Vectra Group, the intermediary in the BEML-Tatra supply chain",
+        "outcome": "Named in the 2012 CBI case over procurement pricing; has since died, before any trial verdict."
+      },
+      {
+        "name": "Gen V.K. Singh (retd)",
+        "role": "Former Indian Army Chief; complainant in the bribery allegation",
+        "outcome": "Not accused; his 2012 public disclosure triggered the CBI case. Denies allegations that he delayed making the complaint for improper reasons."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a documented, decades-long procurement-pricing controversy with a specific, publicly made bribery allegation by a former Army Chief — but it has not produced a single conviction in over 13 years. One retired officer faces an ongoing trial over the bribery claim; the wider overpricing case against BEML and Defence Ministry officials appears to have stalled, per court criticism of the investigating agencies reported in 2022. This entry treats the ₹750 crore overpayment figure as a media/investigative estimate, not an established fact.",
+    "confidence": "medium",
+    "reasoning": "Core facts (V.K. Singh's disclosure, the CBI cases, the 2019 charge-framing, the 2022 High Court dismissal, and Antony's cross-examination) are corroborated across Tribune, Deccan Herald, and Wikipedia reporting. Confidence is capped at medium because this entry has not reviewed the CBI chargesheet, the framed charges, or court orders directly, and the current status of the broader BEML-pricing case beyond 2022 has not been independently confirmed."
+  },
+  "incomplete": [
+    "This entry has not confirmed the trial's status or any verdict beyond the September 2022 Antony cross-examination; more recent developments (2023-2026) were not found in the sources reviewed and should be checked.",
+    "The ₹750 crore cumulative-overpayment figure is a media estimate from investigation-era reporting, not a court-established or CAG-audited figure, and is flagged as such.",
+    "This entry has not reviewed the CBI's original FIRs, any chargesheet, or the 2019 charge-framing order directly.",
+    "The outcome of the broader BEML/Defence Ministry procurement-pricing investigation (as distinct from the Tejinder Singh bribery case) is unclear from the sources reviewed; reports suggest the trial court was pushing back on attempts to close it as of 2020-era coverage but no resolution was found."
+  ],
+  "sources": [
+    {
+      "id": "src-tatra-wiki",
+      "label": "Tatra Truck scam",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Tatra_Truck_scam"
+    },
+    {
+      "id": "src-tatra-indianmirror",
+      "label": "Tatra Truck Scam",
+      "type": "independent",
+      "publisher": "Indian Mirror",
+      "date": "2012-01-01",
+      "url": "https://www.indianmirror.com/indian-industries/indian-scams/tatratruk.html"
+    },
+    {
+      "id": "src-tatra-tribune-antony",
+      "label": "Former defence minister A.K. Antony cross-examined in Tatra truck corruption case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2022-09-29",
+      "url": "https://www.tribuneindia.com/news/nation/former-defence-minister-a-k-antony-cross-examined-in-tatra-truck-corruption-case-436267"
+    },
+    {
+      "id": "src-tatra-opindia-mod",
+      "label": "Tatra Truck scandal: Defence Ministry suspends business dealings with Vectra Advanced Engineering Private Limited over bribery case",
+      "type": "independent",
+      "publisher": "OpIndia",
+      "date": "2020-08-01",
+      "url": "https://www.opindia.com/2020/08/tatra-truck-scandal-defence-ministry-suspends-all-business-dealings-with-vectra-advanced-engineering-private-limited-for-one-year/"
+    },
+    {
+      "id": "src-tatra-pgurus",
+      "label": "Court slaps CBI and Defence Ministry for trying to close Tatra Trucks purchase scandal involving Ravi Rishi and Sanjay Bhandari",
+      "type": "independent",
+      "publisher": "PGurus",
+      "date": "2020-01-01",
+      "url": "https://www.pgurus.com/court-slaps-cbi-and-defence-ministry-for-trying-to-close-tatra-trucks-purchase-scandal-involving-ravi-rishi-and-sanjay-bhandari/"
+    }
+  ]
+}

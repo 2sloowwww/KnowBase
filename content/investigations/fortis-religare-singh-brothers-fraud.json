@@ -1,0 +1,136 @@
+{
+  "id": "KB-026",
+  "slug": "fortis-religare-singh-brothers-fraud",
+  "title": "The Fortis–Religare Singh Brothers Fraud",
+  "dek": "Two brothers sold their pharmaceutical company for billions, then allegedly siphoned crores out of the financial and healthcare companies they controlled next — while separately owing a Japanese drugmaker a multi-billion-dollar arbitration award from the original sale.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 206,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-01-29",
+  "heroStat": {
+    "value": "₹2,397 cr",
+    "label": "alleged loss to Religare Finvest, per Delhi Police's Economic Offences Wing"
+  },
+  "promise": {
+    "quote": "Funds of Religare Finvest Ltd. will be used and lent in accordance with the company's disclosed lending practices, not diverted to entities controlled by its own promoters.",
+    "madeBy": "Malvinder Mohan Singh and Shivinder Mohan Singh, promoters of Religare Enterprises and Fortis Healthcare",
+    "role": "Former promoters of Ranbaxy Laboratories, later of Religare and Fortis Healthcare",
+    "date": "2019-03-01",
+    "context": "After selling their stake in Ranbaxy Laboratories to Daiichi Sankyo for roughly $4.6 billion in 2008, the Singh brothers built a financial services and healthcare group; they were later accused of siphoning funds from Religare Finvest, a Religare subsidiary.",
+    "sourceIds": [
+      "src-fortis-overview"
+    ]
+  },
+  "target": {
+    "description": "Company funds lent and used strictly in accordance with disclosed lending policy, with no diversion to promoter-controlled entities.",
+    "standard": "RBI norms on related-party lending for non-bank financial companies, and standard corporate fiduciary duty.",
+    "referenceDate": "2019-03-01"
+  },
+  "reality": {
+    "description": "Delhi Police's Economic Offences Wing arrested both brothers, alleging they had caused a loss of ₹2,397 crore to Religare Finvest. Separately, and on an unrelated legal track, the Supreme Court held both brothers guilty of contempt of court in 2019 for violating its order not to divest their shares in Fortis Healthcare, in connection with their inability to pay a roughly $550 million (about ₹3,500 crore, per the Singapore-seated tribunal's award) arbitration award won by Daiichi Sankyo over the original Ranbaxy sale. As of the most recent reporting reviewed, Shivinder Singh had filed for personal insolvency.",
+    "asOfDate": "2025-04-21",
+    "sourceIds": [
+      "src-fortis-contempt",
+      "src-fortis-insolvency"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged loss to Religare Finvest vs. the separate Daiichi Sankyo arbitration award against the brothers",
+    "unit": "₹ crore",
+    "targetValue": 2397,
+    "actualValue": 3500,
+    "targetDisplay": "₹2,397 cr alleged Religare Finvest loss",
+    "actualDisplay": "₹3,500 cr Daiichi Sankyo arbitration award (separate matter)",
+    "targetLabel": "Alleged fraud",
+    "actualLabel": "Arbitration award",
+    "note": "These are two distinct legal matters involving the same two individuals — a criminal fraud allegation and a civil arbitration award from an unrelated transaction — presented together here only because both measure the brothers' financial exposure, not because they are the same claim."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "label": "Ranbaxy sold to Daiichi Sankyo",
+      "detail": "The brothers sell their controlling stake for roughly $4.6 billion.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-01-29",
+      "label": "Siphoning allegations surface",
+      "detail": "A New York-based investor accuses the brothers of siphoning money from Religare.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Contempt of court finding",
+      "detail": "The Supreme Court holds the brothers guilty of contempt for violating an order on Fortis shares.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "EOW arrests both brothers",
+      "detail": "Delhi Police's Economic Offences Wing arrests them over the alleged ₹2,397 crore Religare Finvest fraud.",
+      "type": "status"
+    },
+    {
+      "date": "2025-04-21",
+      "label": "Shivinder Singh files for personal insolvency",
+      "detail": "He seeks protection at the National Company Law Tribunal.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The brothers have been held guilty of contempt of court in the separate Fortis-shares matter — a finding this investigation has verified — but this entry has not yet confirmed a verdict in the core Religare Finvest fraud case.",
+    "keyIndividuals": [
+      {
+        "name": "Malvinder Mohan Singh",
+        "role": "Former Chairman, Religare Enterprises & Fortis Healthcare",
+        "outcome": "Held guilty of contempt of court by the Supreme Court, 2019, in a matter separate from the core fraud allegations. Arrested by Delhi Police's EOW over the alleged ₹2,397 crore Religare Finvest fraud; this investigation has not confirmed a verdict in that case."
+      },
+      {
+        "name": "Shivinder Mohan Singh",
+        "role": "Former Vice Chairman, Religare Enterprises & Fortis Healthcare",
+        "outcome": "Held guilty of contempt of court alongside his brother, 2019. Later filed for personal insolvency, April 2025. This investigation has not confirmed a verdict in the core fraud case."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the contempt-of-court finding against both brothers is confirmed and final. The core criminal fraud allegation regarding Religare Finvest is documented by the arrest and EOW case, but this investigation has not yet established whether it has reached a trial verdict.",
+    "confidence": "low",
+    "reasoning": "This entry deliberately separates two distinct legal tracks — the confirmed contempt finding and the unresolved fraud case — to avoid conflating them, since only one has actually concluded."
+  },
+  "incomplete": [
+    "This is a stub entry. The current status and any verdict in the core Religare Finvest fraud case has not been confirmed.",
+    "The relationship between this case and separate SEBI or other regulatory proceedings against the brothers has not been detailed here.",
+    "The outcome of Shivinder Singh's personal insolvency filing had not been resolved as of the most recent reporting reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-fortis-overview",
+      "label": "Cases that took Malvinder, Shivinder Singh from Forbes billionaires' list to police custody",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2019-01-01",
+      "url": "https://theprint.in/india/cases-malvinder-shivinder-singh-forbes-billionaires-police-custody/305824/"
+    },
+    {
+      "id": "src-fortis-contempt",
+      "label": "SC holds former Ranbaxy promoters Malvinder, Shivinder Singh guilty of contempt of court",
+      "type": "independent",
+      "publisher": "National Herald",
+      "date": "2019-01-01",
+      "url": "https://www.nationalheraldindia.com/national/sc-holds-former-ranbaxy-promoters-malvinder-shivinder-singh-guilty-of-contempt-of-court"
+    },
+    {
+      "id": "src-fortis-insolvency",
+      "label": "Former Fortis promoter Shivinder Singh files personal insolvency at NCLT",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-04-21",
+      "url": "https://www.business-standard.com/india-news/former-fortis-promoter-shivinder-singh-files-personal-insolvency-at-nclt-125042100904_1.html"
+    }
+  ]
+}

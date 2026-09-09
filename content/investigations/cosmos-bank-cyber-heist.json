@@ -1,0 +1,136 @@
+{
+  "id": "KB-2403",
+  "slug": "cosmos-bank-cyber-heist",
+  "title": "The Cosmos Bank ₹94 Crore Cyber Heist",
+  "dek": "Hackers built a parallel payment switch mimicking the national card network, approved thousands of fake ATM withdrawals across 28 countries, then routed more funds abroad through the bank's SWIFT system — draining ₹94 crore from a Pune cooperative bank in two days.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 169,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2018-08-14",
+  "heroStat": {
+    "value": "₹94 cr",
+    "label": "stolen from Cosmos Cooperative Bank, Pune, in a two-day malware and payment-switch attack in August 2018"
+  },
+  "promise": {
+    "quote": "Customer transactions processed through the bank's card and payment systems are protected by bank-grade security controls consistent with RBI's cybersecurity framework for banks.",
+    "madeBy": "Cosmos Co-operative Bank Ltd, Pune",
+    "role": "Urban cooperative bank regulated by the Reserve Bank of India",
+    "date": "2016-01-01",
+    "context": "This reflects the general regulatory expectation under RBI's 2016 Cyber Security Framework for banks, applicable to cooperative banks like Cosmos, rather than a specific quoted commitment from the bank itself, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-cosmos-tribune"
+    ]
+  },
+  "target": {
+    "description": "That Cosmos Bank's core banking, ATM switch, and SWIFT messaging systems would be secured against unauthorised access and fraudulent transaction approval, consistent with RBI's cybersecurity framework requirements for regulated banks.",
+    "standard": "Reserve Bank of India's Cyber Security Framework for Banks (2016), which mandates baseline cybersecurity controls, incident reporting, and board-level oversight of cyber risk for all RBI-regulated banks including urban cooperative banks.",
+    "referenceDate": "2016-06-02"
+  },
+  "reality": {
+    "description": "On 11 and 13 August 2018, attackers who had compromised Cosmos Bank's systems with malware built a proxy payment-switch system that mimicked the National Payment Corporation of India's (NPCI) card-approval infrastructure. This let them approve roughly 14,000 fraudulent transactions on about 450 cloned Cosmos debit/RuPay cards, withdrawing an estimated ₹78–80.5 crore through ATMs across 28 countries within a few hours, plus about ₹2.5 crore domestically. On 13 August, attackers separately used a proxy SWIFT server to fraudulently transfer ₹13.92 crore to a Hong Kong-based account, of which police later recovered roughly ₹5.72 crore. The Maharashtra government formed a Special Investigation Team, and Pune Police and the CBI pursued the case across multiple states. In April 2023, a Pune court convicted 11 people involved in withdrawing and laundering the stolen funds through the ATM leg of the fraud.",
+    "asOfDate": "2023-04-23",
+    "sourceIds": [
+      "src-cosmos-bs",
+      "src-cosmos-tribune",
+      "src-cosmos-dh"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total amount stolen vs. amount recovered as of the 2023 conviction",
+    "unit": "INR crore",
+    "targetValue": 94,
+    "actualValue": 6,
+    "targetDisplay": "₹94 cr stolen",
+    "actualDisplay": "~₹5.72 cr recovered (SWIFT leg only)",
+    "targetLabel": "Total stolen",
+    "actualLabel": "Recovered",
+    "note": "Recovery figures found in available reporting cover only the Hong Kong SWIFT transfer leg (~₹5.72 cr of ₹13.92 cr); this entry has not found a reported recovery figure for the larger ~₹80 crore ATM-withdrawal leg, so the true total recovered may differ from this estimate."
+  },
+  "money": {
+    "currency": "INR",
+    "spent": 94,
+    "spentLabel": "₹94 crore total funds stolen across the ATM and SWIFT legs of the attack",
+    "unit": "crore",
+    "notes": "Breakdown per available reporting: ~₹78–80.5 crore via cloned-card ATM withdrawals internationally, ~₹2.5 crore domestically, and ₹13.92 crore via a fraudulent SWIFT transfer to Hong Kong.",
+    "sourceIds": [
+      "src-cosmos-tribune",
+      "src-cosmos-dh"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-08-11",
+      "label": "Attackers begin cloned-card ATM withdrawal spree",
+      "detail": "A proxy switch approves roughly 14,000 fraudulent transactions on ~450 cloned cards, draining funds via ATMs in 28 countries.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-08-13",
+      "label": "Fraudulent SWIFT transfer to Hong Kong",
+      "detail": "Attackers use a proxy SWIFT server to transfer ₹13.92 crore to a Hong Kong bank account.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-08-15",
+      "label": "Bank discloses the breach; NPCI disputes liability",
+      "detail": "Cosmos Bank goes public with the attack; NPCI states its own systems were not compromised and points to the bank's own switch.",
+      "type": "status"
+    },
+    {
+      "date": "2018-08-17",
+      "label": "Maharashtra forms Special Investigation Team",
+      "detail": "State SIT and CBI begin pursuing suspects and money-mule networks across multiple states.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-04-23",
+      "label": "Pune court convicts 11 accused",
+      "detail": "Court convicts 11 people involved in withdrawing and laundering funds from the ATM-withdrawal leg of the fraud.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Eleven individuals were convicted in April 2023 by a Pune court for their role in the cash-withdrawal and money-laundering leg of the fraud. This entry has not confirmed whether the original attackers who breached the bank's systems and built the proxy switch/SWIFT infrastructure — as opposed to the mules who withdrew and moved the cash domestically — have been separately identified, charged, or convicted.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a real, well-documented cyberattack on a regulated Indian cooperative bank that exploited weaknesses in its card-switch and SWIFT infrastructure to steal ₹94 crore in two days — one of the largest bank cyber heists reported in India. Convictions were obtained for the domestic money-laundering leg of the operation in 2023, but recovery of the stolen funds appears partial, and this entry has not established the fate of the international attackers believed to have orchestrated the technical intrusion.",
+    "confidence": "high",
+    "reasoning": "The attack mechanics, financial figures, and 2023 conviction are corroborated across multiple independent news outlets (Business Standard, The Tribune, Deccan Herald) reporting on court and police statements, though this entry has not reviewed the court judgment or RBI's own post-incident findings directly."
+  },
+  "incomplete": [
+    "This entry has not reviewed the Pune court's 2023 judgment directly, nor any RBI supervisory or penalty action against Cosmos Bank specifically for this incident.",
+    "Recovery status for the larger ~₹80 crore ATM-withdrawal leg of the theft (as opposed to the ₹13.92 crore SWIFT leg) has not been confirmed in available reporting.",
+    "The identity, nationality, and legal status of the individuals believed to have carried out the core technical intrusion (malware deployment and proxy-switch construction), as distinct from the domestic mules convicted in 2023, is not established here."
+  ],
+  "sources": [
+    {
+      "id": "src-cosmos-bs",
+      "label": "Pune court convicts 11 accused in Cosmos Bank's Rs 94 cr cyber fraud case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-04-23",
+      "url": "https://www.business-standard.com/india-news/pune-court-convicts-11-accused-in-cosmos-bank-s-rs-94-cr-cyber-fraud-case-123042300456_1.html"
+    },
+    {
+      "id": "src-cosmos-tribune",
+      "label": "Hackers siphon off Rs 94 crore from Pune bank via ATMs in 21 countries",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2018-08-15",
+      "url": "https://www.tribuneindia.com/news/archive/nation/hackers-siphon-off-rs-94-crore-from-pune-bank-via-atms-in-21-countries-637300"
+    },
+    {
+      "id": "src-cosmos-dh",
+      "label": "NPCI blames Cosmos Bank",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2018-08-16",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fnpci-blames-cosmos-bank-687706"
+    }
+  ]
+}

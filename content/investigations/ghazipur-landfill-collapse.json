@@ -1,0 +1,125 @@
+{
+  "id": "KB-3016",
+  "slug": "ghazipur-landfill-collapse",
+  "title": "The Ghazipur Landfill Collapse",
+  "dek": "Delhi's civic authorities let a garbage mountain that should have been shut 15 years earlier keep growing to more than double its permitted height. When part of it gave way in the rain, it swept people into a canal and killed two. The site kept receiving waste for years afterward.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 256,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2017-09-01",
+  "heroStat": {
+    "value": "2 dead",
+    "label": "killed on 1 September 2017 when part of the Ghazipur landfill in east Delhi collapsed and swept vehicles into a canal"
+  },
+  "promise": {
+    "quote": "The Ghazipur landfill site would be closed once it reached saturation and its permitted height, in line with municipal solid waste management rules.",
+    "madeBy": "East Delhi Municipal Corporation (EDMC), the civic body responsible for operating the Ghazipur landfill",
+    "role": "Municipal authority responsible for solid waste collection, dumping and landfill management in east Delhi",
+    "date": "2002-01-01",
+    "context": "The Ghazipur landfill, one of Delhi's three main dump sites, was reported saturated as far back as 2002, with dumping permitted only up to a height of about 20 metres under municipal solid waste rules, yet the East Delhi Municipal Corporation continued accepting roughly 2,500-3,000 metric tonnes of garbage daily at the site for another 15 years.",
+    "sourceIds": [
+      "src-ghazipur-hindustan"
+    ]
+  },
+  "target": {
+    "description": "A landfill closed and dumping halted once it reaches saturation and its permitted maximum height, under India's Municipal Solid Waste (Management and Handling) Rules, with waste diverted to properly engineered processing or alternative sites.",
+    "standard": "Municipal Solid Waste (Management and Handling) Rules and subsequent Solid Waste Management Rules, 2016.",
+    "referenceDate": "2002-01-01"
+  },
+  "reality": {
+    "description": "By 2017 the Ghazipur landfill had grown to roughly 50 metres in height — more than double its permitted limit and taller than the Qutub Minar's approach in some comparisons — because EDMC continued dumping at the site for 15 years after it was deemed saturated. On 1 September 2017, following heavy rain, a portion of the landfill collapsed, pushing a car and several two-wheelers into an adjoining canal and killing two people, Raj Kumari (32) and Abhishek (22). The National Green Tribunal strongly criticised the Delhi government and EDMC, directed them to explain why criminal proceedings should not be initiated against responsible officials, and ordered dumping to stop immediately with the site cleared within two years. Delhi's then Lieutenant Governor ordered a halt to fresh dumping at the site the day after the collapse. Despite this, subsequent reporting indicates the site continued to receive at least some waste in the years that followed as the city struggled to find alternative disposal capacity, and the landfill was not fully cleared within the NGT's ordered timeframe.",
+    "asOfDate": "2019-01-01",
+    "sourceIds": [
+      "src-ghazipur-bs",
+      "src-ghazipur-gulf"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Permitted landfill height vs. actual height at time of collapse",
+    "unit": "metres",
+    "targetValue": 20,
+    "actualValue": 50,
+    "targetDisplay": "20 metres (permitted maximum under municipal solid waste rules)",
+    "actualDisplay": "50 metres (height reached at the time of the September 2017 collapse)",
+    "targetLabel": "Permitted",
+    "actualLabel": "Actual",
+    "note": "Height figures are as reported contemporaneously by multiple Indian outlets covering the collapse and NGT proceedings; some sources give slightly different figures for the exact final height."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2002-01-01",
+      "label": "Landfill reported saturated",
+      "detail": "The Ghazipur site was already considered saturated and, per municipal rules, should have been closed to further dumping.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-09-01",
+      "label": "Landfill collapses",
+      "detail": "Following heavy rain, part of the roughly 50-metre garbage mountain collapsed, sweeping vehicles into a canal and killing two people.",
+      "type": "status"
+    },
+    {
+      "date": "2017-09-02",
+      "label": "Lieutenant Governor orders dumping halt",
+      "detail": "Delhi's Lieutenant Governor Anil Baijal banned further dumping of solid waste at the Ghazipur site.",
+      "type": "status"
+    },
+    {
+      "date": "2017-09-04",
+      "label": "NGT rebukes Delhi government and EDMC",
+      "detail": "The National Green Tribunal directed the Delhi government and East Delhi Municipal Corporation to show cause on potential criminal proceedings against officials and ordered the site cleared within two years.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The National Green Tribunal directed the Delhi government and EDMC to explain why criminal proceedings should not be initiated against responsible officials over the collapse, but this investigation found no confirmed record of any individual official being criminally convicted over the incident.",
+    "keyIndividuals": [
+      {
+        "name": "East Delhi Municipal Corporation (institutional respondent)",
+        "role": "Civic body responsible for operating the Ghazipur landfill",
+        "outcome": "Rebuked by the National Green Tribunal; no confirmed individual criminal conviction of EDMC officials found in sources reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That the landfill was operated for 15 years beyond its permitted saturation point and height, and that this contributed to a collapse that killed two people, is confirmed by the National Green Tribunal's own findings and contemporaneous reporting. What remains unresolved is individual accountability: no official is confirmed to have faced criminal conviction, and the site was not fully cleared within the NGT's two-year deadline.",
+    "confidence": "medium",
+    "reasoning": "The core facts of the collapse, deaths, permitted-versus-actual height, and NGT rebuke are well documented across independent contemporaneous sources. Confidence is not 'high' because this investigation could not confirm from later sources whether any official was ultimately held criminally accountable, or the landfill's exact current status."
+  },
+  "incomplete": [
+    "This investigation could not confirm whether any EDMC or Delhi government official was ultimately criminally charged or convicted following the NGT's show-cause direction.",
+    "The landfill's status well beyond the NGT's original two-year clearance deadline was not independently verified with recent sources; various reports over subsequent years indicate the site was not fully cleared on schedule.",
+    "Compensation, if any, paid to the families of the two people killed was not confirmed in sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-ghazipur-hindustan",
+      "label": "The Dump Killed My Son: Mountains of Garbage Engulf India's Capital",
+      "type": "independent",
+      "publisher": "WRAL / Associated Press",
+      "date": "2017-09-04",
+      "url": "https://www.wral.com/story/-the-dump-killed-my-son-mountains-of-garbage-engulf-india-s-capital/17618071/"
+    },
+    {
+      "id": "src-ghazipur-bs",
+      "label": "Ghazipur landfill collapse: NGT raps Delhi govt, EDMC for deaths",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-09-04",
+      "url": "https://www.business-standard.com/article/current-affairs/ghazipur-landfill-collapse-ngt-raps-delhi-govt-edmc-for-deaths-117090400657_1.html"
+    },
+    {
+      "id": "src-ghazipur-gulf",
+      "label": "Two killed in Delhi's Ghazipur landfill collapse",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2017-09-01",
+      "url": "https://gulfnews.com/world/asia/india/two-killed-in-delhis-ghazipur-landfill-collapse-1.2083634"
+    }
+  ]
+}

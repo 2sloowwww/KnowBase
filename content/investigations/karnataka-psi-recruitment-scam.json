@@ -1,0 +1,186 @@
+{
+  "id": "KB-741",
+  "slug": "karnataka-psi-recruitment-scam",
+  "title": "The Karnataka PSI Recruitment Scam",
+  "dek": "A 2021 exam for 545 Police Sub-Inspector posts was annulled after OMR sheets were found doctored inside the police department's own recruitment wing — implicating a serving Additional Director General of Police, whose criminal trial and departmental inquiry are both still pending five years on.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 140,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-04-09",
+  "heroStat": {
+    "value": "1,406",
+    "label": "pages in the CID's chargesheet against ADGP Amrit Paul, filed in September 2022 — with a criminal trial and a departmental inquiry both still pending four years later"
+  },
+  "promise": {
+    "quote": "Recruitment of Police Sub-Inspectors by the Karnataka State Police, through the Karnataka Examinations Authority, will be conducted with tamper-proof OMR evaluation and secure custody of answer sheets, so that every one of the 545 posts is filled strictly on merit.",
+    "madeBy": "Karnataka State Police / Karnataka Examinations Authority",
+    "role": "State authorities responsible for conducting the 2021 Police Sub-Inspector recruitment examination",
+    "date": "2021-10-01",
+    "context": "This reflects the department's basic mandate for the October 2021 PSI recruitment exam rather than a verified quotation from a specific official statement, which this entry has not located.",
+    "sourceIds": [
+      "src-psi-quint"
+    ]
+  },
+  "target": {
+    "description": "A Police Sub-Inspector recruitment process in which OMR answer sheets are scanned and evaluated without alteration after being collected from candidates, so that the 545 selected candidates reflect actual exam performance.",
+    "standard": "The Karnataka Examinations Authority's own protocols for secure OMR-based recruitment examinations.",
+    "referenceDate": "2021-10-01"
+  },
+  "reality": {
+    "description": "In October 2021, roughly 54,000 candidates sat a Police Sub-Inspector recruitment exam for 545 posts across 93 centres in Karnataka. Results were announced in January 2022, but candidates soon raised objections in the state legislature about scoring irregularities. Investigators later established a pattern: candidates who scored poorly on the descriptive Paper-1 had their OMR sheets for the 150-mark objective Paper-2 altered inside the police department's own recruitment division to inflate their scores, in exchange for money. The scandal broke into the open after the OMR sheet of one candidate, Veeresh, was leaked, showing he had attempted only 21 of 130 questions yet ranked seventh; he was arrested on 9 April 2022 and the first FIR was registered at Kalaburagi's Chowk police station on 9 April 2022, with the case then transferred to the state CID. Over the following months the CID arrested more than 30 people across roughly 30 registered cases, including candidates, a Bluetooth-cheating coordinator, police officers and, in July 2022, Additional Director General of Police Amrit Paul, who headed the police recruitment wing during the exam and was alleged to have taken roughly ₹5 crore to get about 25 candidates selected. The government annulled the entire 545-post selection and ordered a fresh exam, which was held on 23 January 2023 (after being postponed from 23 December 2022) for roughly 35,800 candidates. The CID filed a 1,406-page chargesheet naming Paul as the 35th accused in September 2022; he was granted bail by the Karnataka High Court in September 2023 after roughly a year in judicial custody. The Enforcement Directorate has separately pursued a money-laundering angle and attached assets connected to the case. As of July 2026, the state's Department of Personnel and Administrative Reforms had only just begun a separate departmental inquiry against the suspended Paul — four years after the criminal chargesheet — while his criminal trial's status has not been confirmed by this entry as concluded.",
+    "asOfDate": "2026-07-09",
+    "sourceIds": [
+      "src-psi-quint",
+      "src-psi-federal",
+      "src-psi-chargesheet",
+      "src-psi-bail",
+      "src-psi-dpar"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Candidates whose selection was entirely annulled vs. individuals formally chargesheeted in the scam",
+    "unit": "people",
+    "targetValue": 545,
+    "actualValue": 35,
+    "targetDisplay": "545 selections annulled",
+    "actualDisplay": "35th accused named in the 2022 chargesheet (ADGP Amrit Paul)",
+    "targetLabel": "Selections voided",
+    "actualLabel": "Accused named (as of Sept. 2022)",
+    "note": "The full 545-post result was scrapped for every candidate, but the number formally accused in the CID's chargesheet was far smaller; this entry has not confirmed whether the total accused count grew in any supplementary chargesheet filed after September 2022."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 5,
+    "spentLabel": "Amount ADGP Amrit Paul allegedly received to get ~25 candidates selected, per the CID chargesheet",
+    "unit": "crore",
+    "notes": "This was a bribery-for-selection scam rather than a government-funds diversion. Individual candidates were separately reported (including by opposition politicians) to have paid anywhere from ₹5 lakh to ₹70-80 lakh each for exam-centre access or answer-sheet manipulation; these figures vary across press reports and have not been established in any final court finding.",
+    "sourceIds": [
+      "src-psi-quint"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-10-01",
+      "label": "PSI exam held",
+      "detail": "Roughly 54,000 candidates sit the exam for 545 Police Sub-Inspector posts across 93 centres in Karnataka.",
+      "type": "status"
+    },
+    {
+      "date": "2022-01-01",
+      "label": "Results announced; objections raised",
+      "detail": "Results are declared; candidates raise scoring-irregularity objections that reach the state legislature.",
+      "type": "status"
+    },
+    {
+      "date": "2022-04-09",
+      "label": "First FIR registered; Veeresh arrested",
+      "detail": "A leaked OMR sheet shows candidate Veeresh answered only 21 of 130 questions yet ranked 7th. He is arrested and the first FIR is registered at Kalaburagi's Chowk police station; the case moves to the CID.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-07-01",
+      "label": "ADGP Amrit Paul arrested",
+      "detail": "The CID arrests Additional Director General of Police Amrit Paul, who headed the recruitment wing, over his alleged role and alleged receipt of bribes.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-09-29",
+      "label": "1,406-page chargesheet filed",
+      "detail": "The CID names Paul as the 35th accused in a chargesheet submitted to the First ACMM court, Bengaluru.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-01-23",
+      "label": "Fresh PSI exam held",
+      "detail": "After the entire 545-post result is annulled, a re-examination is held for roughly 35,800 candidates at 117 centres, having been postponed once from 23 December 2022.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-09-01",
+      "label": "Amrit Paul granted bail",
+      "detail": "The Karnataka High Court grants bail to Paul, directing him not to leave the country or tamper with witnesses.",
+      "type": "status"
+    },
+    {
+      "date": "2026-07-09",
+      "label": "Departmental inquiry finally begins",
+      "detail": "Karnataka's Department of Personnel and Administrative Reforms formally issues a departmental chargesheet against the suspended Paul, four years after his criminal chargesheet.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A criminal chargesheet naming Amrit Paul and others has been pending since September 2022; Paul is out on bail. A separate departmental (administrative) inquiry against him began only in July 2026. This entry has not confirmed whether the criminal trial has concluded, and all accused are presumed innocent unless and until convicted.",
+    "keyIndividuals": [
+      {
+        "name": "Amrit Paul",
+        "role": "Then-Additional Director General of Police (Recruitment), Karnataka",
+        "outcome": "Arrested July 2022, named 35th accused in the September 2022 CID chargesheet, granted bail September 2023; suspended from service; departmental inquiry begun July 2026. No criminal conviction reported."
+      },
+      {
+        "name": "Veeresh",
+        "role": "PSI exam candidate",
+        "outcome": "Arrested April 2022 after his leaked OMR sheet exposed the scam; outcome of his case not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a confirmed, large-scale recruitment fraud — the government itself annulled all 545 selections and a senior IPS officer was arrested and chargesheeted — but formal accountability has moved slowly: the chargesheet took nearly a year, bail came roughly a year after arrest, and a parallel departmental inquiry against the accused officer began only in mid-2026, four years after the criminal case. This entry has not confirmed a trial outcome.",
+    "confidence": "medium",
+    "reasoning": "The exam annulment, arrests, and 1,406-page chargesheet against Amrit Paul are corroborated across multiple independent Indian outlets (The Quint, The Federal, Business Standard, Deccan Herald, LiveLaw, The Hans India). This entry has not reviewed the chargesheet or any court order directly and has not confirmed the current stage or outcome of the criminal trial as of September 2026."
+  },
+  "incomplete": [
+    "The current status of Amrit Paul's criminal trial (framing of charges, trial stage, or any verdict) as of September 2026 has not been confirmed by this entry.",
+    "Whether any supplementary CID chargesheet added accused beyond the original 35 named in September 2022 has not been confirmed.",
+    "The precise, reconciled total of candidates arrested, debarred, or convicted (reports cite varying figures such as '52 debarred' and 'over 30 arrested') has not been independently verified here.",
+    "Individual bribe-amount figures (₹5-10 lakh vs. ₹70-80 lakh per candidate) come from press and political statements and have not been confirmed against a court record.",
+    "The outcome of the Enforcement Directorate's money-laundering investigation and any final asset confiscation has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-psi-quint",
+      "label": "Explained: All You Need to Know About Karnataka's PSI Recruitment Scam",
+      "type": "independent",
+      "publisher": "The Quint",
+      "date": "2022-05-01",
+      "url": "https://www.thequint.com/news/politics/explained-all-you-need-to-know-about-psi-scam-for-the-recruitment-of-police-sub-inspectors-in-karnataka"
+    },
+    {
+      "id": "src-psi-federal",
+      "label": "Karnataka PSI recruitment: The 4-step scam, and how it was detected",
+      "type": "independent",
+      "publisher": "The Federal",
+      "date": "2022-05-01",
+      "url": "https://thefederal.com/states/south/karnataka/karnataka-psi-recruitment-the-4-step-scam-and-how-it-was-detected"
+    },
+    {
+      "id": "src-psi-chargesheet",
+      "label": "Karnataka PSI scam: CID submits 1,406-page chargesheet against ADGP Paul",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-09-29",
+      "url": "https://www.business-standard.com/article/current-affairs/karnataka-psi-scam-cid-submits-1-406-page-chargesheet-against-adgp-paul-122092900256_1.html"
+    },
+    {
+      "id": "src-psi-bail",
+      "label": "Can't Say He Was Involved Merely Because He Was ADGP: Karnataka High Court Grants Bail To IPS Officer In Police Recruitment Scam Case",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2023-09-01",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-grants-bail-ips-officer-amirt-paul-in-police-sub-inspector-recruitment-scam-case-238867"
+    },
+    {
+      "id": "src-psi-dpar",
+      "label": "Four Years After Chargesheet, DPAR Begins Departmental Inquiry Against Suspended ADGP Amrit Paul in PSI Scam",
+      "type": "independent",
+      "publisher": "The Hans India",
+      "date": "2026-07-09",
+      "url": "https://www.thehansindia.com/karnataka/four-years-after-chargesheet-dpar-begins-departmental-inquiry-against-suspended-adgp-amrit-paul-in-psi-scam-1096353"
+    }
+  ]
+}

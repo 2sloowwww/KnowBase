@@ -1,0 +1,135 @@
+{
+  "id": "KB-2602",
+  "slug": "delhi-red-fort-blast-case",
+  "title": "The Delhi Red Fort Car Blast Case",
+  "dek": "A car exploded near Delhi's Red Fort in November 2025, killing at least 11 people in what authorities called a terror attack tied to a Kashmir-based module. Chargesheets naming ten accused followed within months, but the trial itself has barely begun.",
+  "category": "Defence & Security",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 43,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-11-10",
+  "heroStat": {
+    "value": "11",
+    "label": "people killed when a car exploded near the Red Fort on November 10, 2025"
+  },
+  "promise": {
+    "quote": "This is a terrorist act, and those responsible, and everyone linked to the conspiracy, will be identified and brought to justice.",
+    "madeBy": "Government of India / Ministry of Home Affairs",
+    "role": "Union government, on designating the blast a terror incident",
+    "date": "2025-11-12",
+    "context": "Made two days after a car exploded in slow-moving traffic near the Red Fort in Old Delhi, after which the National Investigation Agency (NIA) took over the probe under the Unlawful Activities (Prevention) Act.",
+    "sourceIds": [
+      "src-redfort-cnn-arrest"
+    ]
+  },
+  "target": {
+    "description": "A swift, thorough NIA investigation identifying the full conspiracy and network behind the attack, leading to a credible prosecution.",
+    "standard": "Government's own designation of the case as a terror investigation under UAPA, which carries an expectation of a time-bound chargesheet process.",
+    "referenceDate": "2025-11-12"
+  },
+  "reality": {
+    "description": "The NIA identified the driver, Dr Umar Un Nabi, who died in the blast, as linked to Ansar Ghazwat-ul-Hind, an affiliate of Al-Qaida in the Indian Subcontinent, and to a wider module of doctors and associates allegedly running a 'white-collar terror' cell across Jammu & Kashmir, Haryana, and Uttar Pradesh. Arrests reached eleven people by February 2026. NIA filed a 7,500-page chargesheet against ten accused on May 14, 2026, followed by a supplementary chargesheet on June 27, 2026 naming further accused, citing over 580 witnesses. As of August 2026, the trial court was still deciding whether to take cognisance of the chargesheet — the case had not yet moved to trial proper, roughly nine months after the blast.",
+    "asOfDate": "2026-08-27",
+    "sourceIds": [
+      "src-redfort-chargesheet",
+      "src-redfort-cognisance"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Days from blast to court taking cognisance of the chargesheet",
+    "unit": "days",
+    "targetValue": 90,
+    "actualValue": 290,
+    "targetDisplay": "~90 days (typical UAPA chargesheet-to-cognisance expectation for a high-profile case)",
+    "actualDisplay": "~290 days (blast Nov 10, 2025 to cognisance hearing Aug 27, 2026), and cognisance itself still pending",
+    "note": "There is no single statutory deadline for a court to take cognisance; the 90-day figure is this entry's estimate of a reasonably swift benchmark for a high-priority terror case, not a legal requirement, and is flagged as such."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-11-10",
+      "label": "Car explodes near Red Fort",
+      "detail": "A car explodes in traffic near Delhi's Red Fort, killing at least 11 people and injuring more than 20; officials suspect ammonium nitrate-based explosives.",
+      "type": "status"
+    },
+    {
+      "date": "2025-11-12",
+      "label": "Case declared a terror attack",
+      "detail": "The Indian government designates the blast a terrorist act; the NIA takes over the investigation under UAPA.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-11-16",
+      "label": "First arrest",
+      "detail": "NIA arrests a Kashmir resident, Amir Rashid Ali, alleged to have conspired with the driver.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-26",
+      "label": "Arrests reach eleven",
+      "detail": "NIA arrests two more individuals linked to the alleged conspiracy, taking the total number of arrests to eleven.",
+      "type": "status"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "First chargesheet filed",
+      "detail": "NIA files a 7,500-page chargesheet against ten accused, citing more than 580 witnesses.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-06-27",
+      "label": "Supplementary chargesheet",
+      "detail": "NIA files a supplementary chargesheet naming further accused, including an absconding paediatrician, taking the total accused to 13.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-08-27",
+      "label": "Cognisance hearing",
+      "detail": "The trial court is scheduled to decide whether to take cognisance of the chargesheet, roughly nine-and-a-half months after the blast.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Ten accused were chargesheeted in May 2026 with a supplementary chargesheet in June 2026 naming further individuals; as of publication the case had not yet moved past the cognisance stage to trial, and presumption of innocence applies to all named individuals.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the investigation into the blast moved relatively fast by Indian standards — arrests within days, chargesheets within roughly six months — but the case had not reached trial as of nine months after the attack, and this entry has not yet tracked whether that pace continues once trial begins.",
+    "confidence": "low",
+    "reasoning": "This entry was added to place a significant 2025-26 domestic security incident in the site's timeline, drawn from NIA statements and contemporaneous reporting. It has not yet been updated with any trial-stage developments beyond the cognisance hearing."
+  },
+  "incomplete": [
+    "This entry has not tracked the case beyond the August 2026 cognisance hearing; whether and when a trial formally began is not yet reflected here.",
+    "The full list of accused and their specific alleged roles, beyond the driver and a handful of named individuals, has not been detailed here.",
+    "Any question of whether wider institutional failures (e.g. in vetting or surveillance) contributed to the plot going undetected has not been assessed in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-redfort-cnn-arrest",
+      "label": "India arrests Kashmir resident in connection with deadly Red Fort bomb attack",
+      "type": "independent",
+      "publisher": "CNN",
+      "date": "2025-11-16",
+      "url": "https://www.cnn.com/2025/11/16/india/india-arrest-delhi-bomb-kashmir-latam-intl"
+    },
+    {
+      "id": "src-redfort-chargesheet",
+      "label": "NIA Files 7,500-page Chargesheet Against 10 Accused in Red Fort Area Car Bomb Explosion Case",
+      "type": "primary",
+      "publisher": "National Investigation Agency",
+      "date": "2026-05-14",
+      "url": "https://nia.gov.in/nia-files-7500-page-chargesheet-against-10-accused-red-fort-area-car-bomb-explosion-case"
+    },
+    {
+      "id": "src-redfort-cognisance",
+      "label": "Red Fort Blast Case: NIA Chargesheet Cites 580 Witnesses, Court to Decide Cognisance On August 27",
+      "type": "independent",
+      "publisher": "Republic World",
+      "date": "2026-08-12",
+      "url": "https://www.republicworld.com/india/red-fort-blast-case-nia-chargesheet-cites-580-witnesses-court-to-decide-cognisance-2026-08-12-134588"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "KB-600",
+  "slug": "haryana-jbt-teacher-recruitment-scam",
+  "title": "The Haryana JBT Teacher Recruitment Scam",
+  "dek": "A sitting chief minister ordered a second, fabricated merit list to hand-pick 3,206 junior basic teacher posts. It took the CBI a decade to convict him, and his son and 53 others — and both men served their full ten years.",
+  "category": "Employment & Welfare",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 119,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2003-11-25",
+  "heroStat": {
+    "value": "3,206",
+    "label": "Junior Basic Trained (JBT) teacher posts in Haryana allegedly filled off a fabricated, out-of-merit-order interview list in 1999–2000"
+  },
+  "promise": {
+    "quote": "The Supreme Court directed the CBI to investigate the appointment of JBT teachers in Haryana following a complaint by IAS officer Sanjiv Kumar that the selection list had been tampered with to favour non-meritorious candidates.",
+    "madeBy": "Supreme Court of India",
+    "role": "Apex court, acting on a writ petition by IAS officer Sanjiv Kumar",
+    "date": "2003-11-25",
+    "context": "Sanjiv Kumar, an IAS officer who had been part of the recruitment process, alleged that Chief Minister Om Prakash Chautala's government had prepared a second, fraudulent merit list to override the genuine one and appoint favoured candidates as Junior Basic Trained (JBT) teachers.",
+    "sourceIds": [
+      "src-jbt-wiki",
+      "src-jbt-moneylife"
+    ]
+  },
+  "target": {
+    "description": "That 3,206 JBT teacher posts advertised by the Haryana government in 1999–2000 would be filled strictly in order of merit from the genuine, board-approved selection list, without political interference in individual appointments.",
+    "standard": "Constitutional guarantees of equality in public employment (Article 16) and the recruitment rules governing Haryana's Junior Basic Trained teacher cadre.",
+    "referenceDate": "1999-01-01"
+  },
+  "reality": {
+    "description": "The CBI's investigation and subsequent trial found that, at the behest of then Chief Minister Om Prakash Chautala and his son Ajay Singh Chautala, a second, fabricated interview list was substituted for the genuine merit list, allowing out-of-turn and undeserving candidates to be appointed as JBT teachers. On 16 January 2013, a special CBI court in Delhi convicted Chautala, Ajay Chautala, and 53 other officials and co-accused, sentencing Chautala and his son to ten years' rigorous imprisonment each under the Indian Penal Code and the Prevention of Corruption Act. The Delhi High Court upheld the conviction, and the Supreme Court dismissed their final appeals in August 2015. Both father and son served out their full ten-year terms: Ajay Chautala was released from Tihar Jail in February 2022 and Om Prakash Chautala, whose sentence had already been completed, was released on 2 July 2021. Om Prakash Chautala died of cardiac arrest at Medanta Hospital, Gurugram, on 20 December 2024, at the age of 89; his last rites were performed with full state honours.",
+    "asOfDate": "2024-12-20",
+    "sourceIds": [
+      "src-jbt-moneylife",
+      "src-jbt-wiki",
+      "src-jbt-release-tribune",
+      "src-jbt-death-pib"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Teacher posts advertised on merit vs. posts the CBI found filled off a fabricated list",
+    "unit": "posts",
+    "targetValue": 3206,
+    "actualValue": 3206,
+    "targetDisplay": "3,206 posts, to be filled by merit",
+    "actualDisplay": "3,206 posts, court found filled via a substituted list",
+    "targetLabel": "Advertised merit-based posts",
+    "actualLabel": "Posts covered by the fraudulent list, per the CBI court's finding",
+    "note": "This is not a shortfall-style gap: the entire advertised cohort of posts is what the trial court found to have been filled through the fabricated selection process, rather than a partial subset being corrupted."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1999-01-01",
+      "label": "JBT recruitment drive begins",
+      "detail": "Haryana government under Chief Minister Om Prakash Chautala advertises and begins the process of appointing Junior Basic Trained (JBT) teachers.",
+      "type": "announcement"
+    },
+    {
+      "date": "2000-01-01",
+      "label": "3,206 candidates appointed",
+      "detail": "Appointments made covering 3,206 JBT posts; IAS officer Sanjiv Kumar, involved in the process, alleges the genuine merit list was replaced with a fabricated one.",
+      "type": "status"
+    },
+    {
+      "date": "2003-11-25",
+      "label": "Supreme Court orders CBI probe",
+      "detail": "Acting on Sanjiv Kumar's petition, the Supreme Court directs the CBI to investigate the recruitment.",
+      "type": "milestone"
+    },
+    {
+      "date": "2008-06-01",
+      "label": "CBI charges Chautala and 54 others",
+      "detail": "CBI formally charges Om Prakash Chautala, Ajay Chautala, and 53 other officials and associates in connection with the appointments.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-01-16",
+      "label": "Special CBI court convicts 55 accused",
+      "detail": "Om Prakash Chautala, Ajay Chautala, and 53 others convicted; Chautala and his son sentenced to 10 years' rigorous imprisonment each.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-08-01",
+      "label": "Supreme Court dismisses final appeal",
+      "detail": "After the Delhi High Court upheld the conviction, the Supreme Court dismisses Chautala's and Ajay Chautala's appeals, finalising the conviction and sentence.",
+      "type": "status"
+    },
+    {
+      "date": "2021-07-02",
+      "label": "Om Prakash Chautala released",
+      "detail": "Released after completing his ten-year sentence.",
+      "type": "status"
+    },
+    {
+      "date": "2022-02-11",
+      "label": "Ajay Chautala released",
+      "detail": "Released from Tihar Jail on completion of his ten-year sentence.",
+      "type": "status"
+    },
+    {
+      "date": "2024-12-20",
+      "label": "Om Prakash Chautala dies",
+      "detail": "Dies of cardiac arrest at Medanta Hospital, Gurugram, at age 89; last rites performed with full state honours in Sirsa.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Fully and finally adjudicated. Om Prakash Chautala, his son Ajay Singh Chautala, and 53 other officials and associates were convicted by a special CBI court on 16 January 2013; the conviction was upheld by the Delhi High Court and the Supreme Court dismissed the final appeals in August 2015. Both Chautalas served their complete ten-year sentences. Om Prakash Chautala died in December 2024 after his release; there is no unresolved appeal or pending proceeding in this matter as reported.",
+    "keyIndividuals": [
+      {
+        "name": "Om Prakash Chautala",
+        "role": "Chief Minister of Haryana at the time of the recruitment (1999–2000); later convicted",
+        "outcome": "Convicted 16 January 2013, sentenced to 10 years' rigorous imprisonment; conviction upheld by Delhi High Court and Supreme Court (appeal dismissed August 2015); released 2 July 2021 after completing sentence; died 20 December 2024."
+      },
+      {
+        "name": "Ajay Singh Chautala",
+        "role": "Son of Om Prakash Chautala; MLA and later Jannayak Janata Party leader",
+        "outcome": "Convicted 16 January 2013, sentenced to 10 years' rigorous imprisonment; conviction upheld through appeal; released from Tihar Jail on completion of sentence in February 2022."
+      },
+      {
+        "name": "Sanjiv Kumar",
+        "role": "IAS officer who first alleged the fabricated merit list and petitioned the Supreme Court",
+        "outcome": "Not an accused; his complaint triggered the CBI investigation. This entry has not independently verified his subsequent career or any related proceedings."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, fully proven case of a sitting chief minister subverting a public recruitment process for political patronage — one of the rare Indian corruption cases to run all the way from FIR to Supreme Court-confirmed conviction to both principal convicts actually serving their full ten-year sentences. Om Prakash Chautala died in December 2024, more than three years after his release, of causes unrelated to the case.",
+    "confidence": "high",
+    "reasoning": "The Supreme Court-ordered CBI investigation, the January 2013 special-court conviction of 55 persons, the appellate confirmation, both convicts' release dates, and Om Prakash Chautala's December 2024 death are each independently and consistently reported across multiple contemporaneous news sources and are treated as settled fact rather than allegation."
+  },
+  "incomplete": [
+    "The precise date the Delhi High Court upheld the conviction has not been confirmed from a primary source and is therefore omitted from the timeline (only the year of the subsequent Supreme Court dismissal, 2015, is included).",
+    "This entry has not reviewed the CBI chargesheet, the January 2013 trial court judgment, or the appellate judgments directly; it relies on contemporaneous news reporting summarising them.",
+    "Sentences and outcomes for the 53 other co-accused have not been individually verified beyond the reported group conviction; some received different (shorter) sentences than the two Chautalas, per general reporting, but this entry has not confirmed the specific breakdown."
+  ],
+  "sources": [
+    {
+      "id": "src-jbt-wiki",
+      "label": "JBT scam",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/JBT_scam",
+      "note": "Tertiary summary used to cross-check dates against contemporaneous news reporting; not relied on as a sole source for any contested fact."
+    },
+    {
+      "id": "src-jbt-moneylife",
+      "label": "JBT scam: Chautala, son and 53 others convicted by CBI Court",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2013-01-16",
+      "url": "https://www.moneylife.in/article/jbt-scam-chautala-son-and-53-others-convicted-by-cbi-court/30791.html"
+    },
+    {
+      "id": "src-jbt-release-tribune",
+      "label": "Term over, Ajay Chautala released from Tihar Jail",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2022-02-11",
+      "url": "https://www.tribuneindia.com/news/haryana/term-over-ajay-chautala-released-from-tihar-jail-368817/"
+    },
+    {
+      "id": "src-jbt-death-pib",
+      "label": "Former Haryana CM Om Prakash Chautala's last rites performed with full state honours",
+      "type": "independent",
+      "publisher": "News on Air (Prasar Bharati)",
+      "date": "2024-12-21",
+      "url": "https://www.newsonair.gov.in/former-haryana-cm-om-prakash-chautalas-last-rites-performed-with-full-state-honours/"
+    }
+  ]
+}

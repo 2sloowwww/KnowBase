@@ -1,0 +1,192 @@
+{
+  "id": "KB-848",
+  "slug": "chhattisgarh-liquor-scam",
+  "title": "The Chhattisgarh Liquor (Excise Policy) Scam",
+  "dek": "The Enforcement Directorate alleges that a syndicate of bureaucrats, politicians and private liquor operators ran a parallel, off-the-books excise system in Chhattisgarh between 2019 and 2022, extorting illegal commissions on nearly every bottle sold and laundering proceeds it now estimates at around Rs 2,883 crore. Dozens have been arrested and 81 people named as accused across ED chargesheets and a 2024 state ACB/EOW FIR, but as of the ED's final prosecution complaint in December 2025, the case remained at the trial stage with no convictions yet secured.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 75,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-11-01",
+  "heroStat": {
+    "value": "₹2,883 cr",
+    "label": "in proceeds of crime the Enforcement Directorate alleges were generated through the Chhattisgarh liquor syndicate between 2019 and 2023"
+  },
+  "promise": {
+    "quote": "Chhattisgarh's state excise policy and liquor distribution system, run through official channels including the state's excise department and Chhattisgarh State Marketing Corporation Limited (CSMCL), was to operate as a transparent, regulated system for manufacturing, distributing and taxing liquor sales for public revenue.",
+    "madeBy": "Chhattisgarh Excise Department and Chhattisgarh State Marketing Corporation Limited",
+    "role": "State bodies responsible for regulating and administering liquor excise policy and distribution",
+    "date": "2019-01-01",
+    "context": "This reflects the general statutory purpose of the state excise administration rather than a verified quotation from a specific Chhattisgarh excise policy document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-cgliquor-moneylife"
+    ]
+  },
+  "target": {
+    "description": "That Chhattisgarh's liquor manufacturing, distribution and retail system would operate through official, transparent channels with excise duty properly collected and remitted to the state exchequer, free of unofficial commissions or parallel off-the-books sales.",
+    "standard": "The Chhattisgarh Excise Act and rules, the Prevention of Corruption Act, 1988, and the Prevention of Money Laundering Act, 2002 (PMLA).",
+    "referenceDate": "2019-01-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate's investigation traces its origins to a 2022 Income Tax Department chargesheet filed against Chhattisgarh IAS officer Anil Tuteja and others; the ED registered its own money-laundering case around November 2022 and, through 2023, conducted raids at some 35 locations across Chhattisgarh, West Bengal and Delhi, including the Raipur residence of businessman Anwar Dhebar. The ED alleged that Dhebar and associates built a wide network of officials, politicians and private liquor operators who ran a parallel, unofficial liquor distribution and pricing system alongside the official one, collecting illicit commissions on liquor sales and diverting the proceeds -- which the ED's evolving estimates put at roughly Rs 2,000-2,883 crore accumulated between 2019 and 2022/2023 -- through a network of shell transactions. Numerous arrests followed under PMLA, including Anwar Dhebar, former excise commissioner Niranjan Das, retired IAS officer Anil Tuteja, ITS officer and CSMCL MD Arun Pati Tripathi, former deputy secretary in the chief minister's office Saumya Chaurasia, former excise minister Kawasi Lakhma, and Chaitanya Baghel, son of former chief minister Bhupesh Baghel. Chhattisgarh's own Anti-Corruption Bureau and Economic Offences Wing (ACB/EOW) registered a separate FIR in January 2024, based on a complaint from the ED, naming around 70 individuals including Congress leaders and companies, and later chargesheeted 22 excise officials, who were suspended by the state government. Through 2024 and 2025 the ED provisionally attached assets under PMLA -- including roughly Rs 205 crore in May 2024, later expanding to over Rs 382 crore across more than a thousand properties, plus a further roughly Rs 38 crore tied to excise officials -- and, on 26 December 2025, filed a final/supplementary prosecution complaint before the special PMLA court naming a total of 81 accused (59 newly added), including Chaitanya Baghel and Kawasi Lakhma, and running to roughly 29,800 pages of evidence, with the total scam estimated at up to Rs 3,000 crore in some reports. As of that filing, this entry found no confirmed conviction in the case; all named individuals are presumed innocent pending trial.",
+    "asOfDate": "2025-12-26",
+    "sourceIds": [
+      "src-cgliquor-moneylife",
+      "src-cgliquor-the420"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged proceeds of crime vs. proceeds judicially confirmed / recovered to the state",
+    "unit": "INR crore",
+    "targetValue": 2883,
+    "actualValue": 420,
+    "targetDisplay": "₹2,883 cr alleged proceeds of crime (ED estimate)",
+    "actualDisplay": "~₹420 cr in assets provisionally attached under PMLA (₹382 cr + ₹38 cr, as of the ED's reported attachment actions)",
+    "targetLabel": "Alleged proceeds of crime",
+    "actualLabel": "Assets provisionally attached (pre-trial)",
+    "note": "Provisional attachment under PMLA is a pre-trial enforcement step, not a final confiscation or judicially confirmed recovery; the actual court-confirmed proceeds of crime and any final recovery to the state exchequer remain to be determined at trial."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 2883,
+    "allocatedLabel": "ED's alleged total proceeds of crime generated by the syndicate, 2019-2023",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ED's public estimates of the scam's scale evolved over the investigation, from around Rs 2,000-2,161 crore in earlier statements to Rs 2,883 crore in its December 2025 supplementary prosecution complaint, with some reports citing an overall figure of up to Rs 3,000-3,200 crore including related tender manipulation. Provisional PMLA attachments to date total roughly Rs 420 crore across excise officials' and other accused's properties; these are pre-trial and do not represent a final recovery figure.",
+    "sourceIds": [
+      "src-cgliquor-moneylife",
+      "src-cgliquor-dh-attach"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-11-01",
+      "label": "ED opens money-laundering probe",
+      "detail": "The Enforcement Directorate registers a money-laundering case linked to a 2022 Income Tax Department chargesheet against IAS officer Anil Tuteja, marking the start of the ED's Chhattisgarh liquor investigation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2023-03-01",
+      "label": "ED conducts multi-city raids",
+      "detail": "ED searches around 35 locations across Chhattisgarh, West Bengal and Delhi, including businessman Anwar Dhebar's Raipur residence, collecting what it describes as evidence of large-scale corruption.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Chhattisgarh ACB/EOW registers FIR",
+      "detail": "State Anti-Corruption Bureau and Economic Offences Wing register an FIR based on an ED complaint, naming around 70 individuals including Congress leaders and companies.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-05-06",
+      "label": "ED attaches assets worth Rs 205 crore",
+      "detail": "ED provisionally attaches assets valued at over Rs 205 crore in connection with the ongoing investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-19",
+      "label": "Retired IAS officer arrested",
+      "detail": "A retired IAS officer is arrested in connection with the case, as ED continues to build out its prosecution.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-12-26",
+      "label": "ED files final/supplementary prosecution complaint",
+      "detail": "ED files a supplementary PMLA prosecution complaint naming 81 total accused (59 newly named), including Chaitanya Baghel and Kawasi Lakhma, running to roughly 29,800 pages, alleging Rs 2,883 crore in proceeds of crime.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case proceeds on two tracks: the Enforcement Directorate's PMLA money-laundering prosecution, culminating in a supplementary prosecution complaint naming 81 accused filed 26 December 2025, and Chhattisgarh ACB/EOW's separate corruption FIR and chargesheet (including against 22 suspended excise officials) registered from January 2024. Multiple individuals, including Anwar Dhebar, Anil Tuteja, Niranjan Das, Arun Pati Tripathi, Saumya Chaurasia, Kawasi Lakhma and Chaitanya Baghel, have been arrested under PMLA at various points. As of this entry's research, no trial verdict or conviction had been confirmed; all named individuals are presumed innocent and entitled to defend the allegations at trial.",
+    "keyIndividuals": [
+      {
+        "name": "Anwar Dhebar",
+        "role": "Businessman; alleged syndicate operator",
+        "outcome": "Arrested under PMLA; described by ED as central to the alleged network. Trial ongoing; presumption of innocence applies."
+      },
+      {
+        "name": "Anil Tuteja",
+        "role": "Retired IAS officer, joint secretary",
+        "outcome": "Arrested under PMLA; named in both ED and ACB/EOW proceedings. Trial ongoing; presumption of innocence applies."
+      },
+      {
+        "name": "Niranjan Das",
+        "role": "Former Excise Commissioner, Chhattisgarh",
+        "outcome": "Arrested under PMLA. Trial ongoing; presumption of innocence applies."
+      },
+      {
+        "name": "Kawasi Lakhma",
+        "role": "Former Excise Minister, Chhattisgarh",
+        "outcome": "Named as accused in ED's supplementary prosecution complaint (December 2025). Trial ongoing; presumption of innocence applies."
+      },
+      {
+        "name": "Chaitanya Baghel",
+        "role": "Son of former Chhattisgarh CM Bhupesh Baghel",
+        "outcome": "Arrested and named as accused in ED's supplementary prosecution complaint (December 2025). Trial ongoing; presumption of innocence applies."
+      },
+      {
+        "name": "Saumya Chaurasia",
+        "role": "Former Deputy Secretary, Chief Minister's Office",
+        "outcome": "Arrested under PMLA. Trial ongoing; presumption of innocence applies."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated, actively prosecuted case: the ED's own supplementary prosecution complaint, filed December 2025 with 81 named accused and extensive documentary evidence, along with a parallel state ACB/EOW FIR and chargesheet, together indicate a large-scale, multi-agency corruption investigation into Chhattisgarh's excise administration. It has not yet resulted in any conviction, and the allegations -- however extensively documented in chargesheets -- remain legally unproven pending trial before the special PMLA court.",
+    "confidence": "medium",
+    "reasoning": "The investigation's scale, key arrests, and the December 2025 supplementary prosecution complaint are corroborated by Moneylife, Deccan Herald, and The420.in reporting, which draw on ED's own statements. However, this entry could not independently verify the underlying ED chargesheet or ACB/EOW FIR documents, could not confirm the trial's current procedural stage beyond the December 2025 filing, and could not reconcile the varying proceeds-of-crime estimates (from roughly Rs 2,000 crore to Rs 3,200 crore) across different reports and dates."
+  },
+  "incomplete": [
+    "The exact date the ED's Chhattisgarh liquor investigation formally began (as opposed to the approximate November 2022 date used here) has not been precisely confirmed.",
+    "The current stage of the PMLA special court trial following the December 2025 supplementary prosecution complaint, including any framing of charges, has not been confirmed.",
+    "The final, reconciled proceeds-of-crime figure is unclear, with credible reports citing figures from roughly Rs 2,000 crore to Rs 3,200 crore at different points in the investigation.",
+    "The outcome of the separate Chhattisgarh ACB/EOW chargesheet against the 22 suspended excise officials, and any distinction between that case and the ED's PMLA proceedings, was not fully reconciled in this entry.",
+    "This is explicitly distinct from the separate 'Chhattisgarh coal levy scam,' which involves different allegations regarding coal transportation levies and is covered elsewhere; readers should not conflate the two cases."
+  ],
+  "sources": [
+    {
+      "id": "src-cgliquor-moneylife",
+      "label": "₹2,883 Crore Chhattisgarh Liquor Scam: ED Names 81 Accused, Exposes Parallel Excise System Run by Bureaucrats, Politicians",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2025-12-27",
+      "url": "https://moneylife.in/article/2883-crore-chhattisgarh-liquor-scam-ed-names-81-accused-exposes-parallel-excise-system-run-by-bureaucrats-politicians/79256.html"
+    },
+    {
+      "id": "src-cgliquor-the420",
+      "label": "ED Files Final ₹3,000-Crore Chargesheet in Chhattisgarh Liquor Scam -- 81 Accused, 29,800 Pages of Evidence",
+      "type": "independent",
+      "publisher": "The420.in",
+      "date": "2025-12-27",
+      "url": "https://the420.in/chhattisgarh-liquor-scam-ed-final-chargesheet-3000-crore/"
+    },
+    {
+      "id": "src-cgliquor-dh-attach",
+      "label": "Chhattisgarh liquor 'scam': ED attaches assets worth over Rs 1,000 crore, names four more accused",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-01-01",
+      "url": "https://www.deccanherald.com/amp/story/india/chhattisgarh/chhattisgarh-liquor-scam-ed-attaches-assets-worth-over-rs-1000-crore-names-four-more-accused-4023773"
+    },
+    {
+      "id": "src-cgliquor-bs-205cr",
+      "label": "ED attaches assets worth Rs 205 cr: What is the Chhattisgarh liquor scam?",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-05-06",
+      "url": "https://www.business-standard.com/finance/personal-finance/ed-attaches-assets-worth-rs-205-cr-what-is-the-chhattisgarh-liquor-scam-124050600152_1.html"
+    },
+    {
+      "id": "src-cgliquor-dh-suspend",
+      "label": "Chhattisgarh liquor scam: 22 excise officials named in EOW chargesheet, suspended by Sai govt",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2024-01-01",
+      "url": "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-liquor-scam-22-excise-officials-named-in-eow-chargesheet-suspended-by-sai-govt-3624857"
+    }
+  ]
+}

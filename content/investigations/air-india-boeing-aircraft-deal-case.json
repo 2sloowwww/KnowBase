@@ -1,0 +1,161 @@
+{
+  "id": "KB-2907",
+  "slug": "air-india-boeing-aircraft-deal-case",
+  "title": "Air India's $8 Billion Aircraft Order and the Fleet That Sat Idle",
+  "dek": "In 2005-06, the merged Air India ordered 111 new Boeing and Airbus aircraft worth roughly $8 billion, sold as the fleet modernisation the loss-making national carrier needed to compete globally. Instead, the order was inflated well beyond the airline's own original request, financed through debt that helped cripple Air India's balance sheet for over a decade, and left aircraft idle for lack of infrastructure and routes -- eventually drawing a CBI probe that was quietly closed without charges more than a decade later.",
+  "category": "Public Spending",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 64,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2006-02-21",
+  "heroStat": {
+    "value": "111",
+    "label": "aircraft Air India and Indian Airlines ordered from Boeing and Airbus in 2005-06, more than double the airline's own original 28-aircraft proposal"
+  },
+  "promise": {
+    "quote": "the introduction of these aircraft will allow Air-India to expand and modernize its fleet.",
+    "madeBy": "V. Thulasidas",
+    "role": "Chairman and Managing Director, Air India",
+    "date": "2006-01-11",
+    "context": "Statement issued alongside Boeing's announcement of the order agreement for 68 jets -- then described as the largest commercial aircraft order in India's civil aviation history -- under the aviation ministry led by Praful Patel, an order later expanded further and combined with Indian Airlines' separate purchase.",
+    "sourceIds": [
+      "src-aiboeing-boeing2006"
+    ]
+  },
+  "target": {
+    "description": "A fleet expansion carefully sized to Air India's actual route and infrastructure capacity, procured through a competitive, transparent process, and deployed promptly on revenue-generating routes to strengthen -- not weaken -- the airline's finances.",
+    "standard": "The airline's own original board-level proposal for a more modest fleet addition, and standard public-sector procurement norms requiring due diligence and value-for-money justification for a purchase of this scale.",
+    "referenceDate": "2005-01-01"
+  },
+  "reality": {
+    "description": "In August 2004, then Civil Aviation Minister Praful Patel chaired a meeting that raised Air India's aircraft purchase plan from an original board proposal of 28 aircraft to 68, and combined with a separate Indian Airlines order, the two carriers together committed to 111 aircraft from Boeing and Airbus at a cost later estimated at roughly Rs 50,000 crore (about $8 billion at contemporary exchange rates), financed heavily through debt raised from Indian and American banks. Critics, including subsequent CBI examinations, alleged the expanded order lacked adequate route and capacity planning: Air India leased Boeing 777s in 2006 ahead of its own new deliveries starting mid-2007, leaving multiple wide-body aircraft sitting idle at points, without an early-termination clause in the lease that would have let the airline cut its losses. The accumulated debt from aircraft financing became one of the largest contributors to Air India's ballooning losses over the following decade, a period during which the airline required repeated government bailouts before its eventual privatisation and sale back to the Tata Group in 2022. In May 2017, the CBI registered cases examining alleged abuse of official position in Ministry of Civil Aviation decisions of this period, and the Central Vigilance Commission was separately asked by the Supreme Court to respond on the matter; the CBI ultimately filed a closure report in the case against Praful Patel, which was accepted, with no criminal charges framed.",
+    "asOfDate": "2018-01-01",
+    "sourceIds": [
+      "src-aiboeing-tribune2006",
+      "src-aiboeing-theprint",
+      "src-aiboeing-businesstoday"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Aircraft in Air India's original 2004 board proposal vs. aircraft actually ordered by 2006",
+    "unit": "aircraft",
+    "targetValue": 28,
+    "actualValue": 68,
+    "targetDisplay": "28 aircraft (Air India's own original proposal)",
+    "actualDisplay": "68 aircraft for Air India alone (111 combined with Indian Airlines' separate order)",
+    "targetLabel": "Originally proposed",
+    "actualLabel": "Actually ordered",
+    "note": "Figures for the combined 111-aircraft order and its ~$8 billion cost are widely reported estimates; this entry has not independently verified the exact final contracted numbers against original signed purchase agreements."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 8000000000,
+    "allocatedLabel": "~$8 billion (approx. Rs 50,000 crore) committed for the combined Boeing/Airbus order",
+    "unit": "absolute",
+    "notes": "Figures are drawn from press reporting on the deal's contemporaneous valuation; this entry has not verified exact figures against the original purchase agreements, which were not independently reviewed.",
+    "sourceIds": [
+      "src-aiboeing-theprint"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2004-08-01",
+      "label": "Aircraft order expanded well beyond original proposal",
+      "detail": "Civil Aviation Minister Praful Patel chairs a meeting raising Air India's planned aircraft purchase from 28 to 68, ahead of a much larger combined order with Indian Airlines.",
+      "type": "revision"
+    },
+    {
+      "date": "2006-02-21",
+      "label": "Government approves 111-aircraft combined order",
+      "detail": "The Ministry of Civil Aviation confirms the expanded Boeing and Airbus order across Air India and Indian Airlines, valued at roughly $8 billion.",
+      "type": "milestone"
+    },
+    {
+      "date": "2006-06-01",
+      "label": "Leased aircraft sit idle ahead of deliveries",
+      "detail": "Air India leases Boeing 777s in 2006 despite its own ordered aircraft not due for delivery until mid-2007, reportedly leaving wide-body jets underused and adding cost without an early-exit lease clause.",
+      "type": "status"
+    },
+    {
+      "date": "2007-08-01",
+      "label": "Air India-Indian Airlines merger",
+      "detail": "The two carriers merge into the National Aviation Company of India Limited (NACIL), inheriting the debt burden of the expanded aircraft order.",
+      "type": "status"
+    },
+    {
+      "date": "2017-05-30",
+      "label": "CBI registers cases on aviation ministry decisions",
+      "detail": "The CBI files cases examining alleged abuse of power in Ministry of Civil Aviation decisions under Praful Patel, including the aircraft purchase, and the Supreme Court seeks a CVC response.",
+      "type": "status"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "CBI closes case against Praful Patel",
+      "detail": "The CBI files a closure report in the corruption case examined against Praful Patel over Air India-era decisions; no criminal charges are framed.",
+      "type": "status"
+    },
+    {
+      "date": "2022-01-27",
+      "label": "Air India privatised, returns to Tata Group",
+      "detail": "After years of mounting losses partly attributed to aircraft-financing debt from this period, the government completes Air India's sale back to the Tata Group.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CBI examined and ultimately closed its inquiry into alleged irregularities in Ministry of Civil Aviation decisions of this period, including the aircraft purchase, without filing criminal charges against Praful Patel or other officials, based on the sources reviewed for this entry.",
+    "keyIndividuals": [
+      {
+        "name": "Praful Patel",
+        "role": "Union Minister of Civil Aviation, 2004-2011",
+        "outcome": "CBI examined and later closed a corruption case relating to aviation ministry decisions of this period without filing charges"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The promise that a large, modernised fleet would transform Air India into a globally competitive carrier was not kept in the way officials described -- the order was expanded well beyond the airline's own plans, financed through debt that became a major driver of Air India's subsequent losses, and accompanied by reported operational mismanagement (idle leased aircraft, unfavourable lease terms). No criminal culpability was ultimately established after a CBI inquiry, which closed without charges.",
+    "confidence": "medium",
+    "reasoning": "The scale of the order, its expansion beyond the original proposal, and Air India's subsequent debt and loss trajectory are corroborated by multiple independent business-press sources. Confidence is capped at medium because this entry has not reviewed the original 2005-06 purchase agreements or CBI case files directly, relying instead on press summaries of both the deal and the eventual closure report."
+  },
+  "incomplete": [
+    "This entry has not independently reviewed the original Air India/Indian Airlines board proposals or the final signed purchase agreements with Boeing and Airbus; figures are drawn from press reporting.",
+    "The precise reasoning behind the CBI's 2017-18 decision to close its case against Praful Patel without charges is not detailed in the sources reviewed here.",
+    "This entry does not attempt to apportion how much of Air India's subsequent decade of losses is attributable specifically to this aircraft order versus other factors (fuel costs, competition from low-cost carriers, general aviation-sector economics)."
+  ],
+  "sources": [
+    {
+      "id": "src-aiboeing-tribune2006",
+      "label": "Special Coverage: Air India aircraft purchase deal (2006 archive)",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2006-02-21",
+      "url": "https://www.tribuneindia.com/2006/20060221/biz.htm"
+    },
+    {
+      "id": "src-aiboeing-boeing2006",
+      "label": "Boeing, Air India Celebrate Order Agreement for 68 Jets; Largest Commercial Airplane Order in India's Civil Aviation History",
+      "type": "primary",
+      "publisher": "Boeing (company press release)",
+      "date": "2006-01-11",
+      "url": "https://boeing.mediaroom.com/2006-01-11-Boeing-Air-India-Celebrate-Order-Agreement-for-68-Jets-Largest-Commercial-Airplane-Order-in-Indias-Civil-Aviation-History"
+    },
+    {
+      "id": "src-aiboeing-theprint",
+      "label": "CBI closes Air India corruption case against Praful Patel, Ajit Pawar-led NCP MP",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2018-01-01",
+      "url": "https://theprint.in/india/cbi-closes-air-india-corruption-case-against-praful-patel-ajit-pawar-led-ncp-mp/2018968/"
+    },
+    {
+      "id": "src-aiboeing-businesstoday",
+      "label": "Ex-minister Praful Patel forced Air India to buy excess aircraft",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2011-05-09",
+      "url": "https://www.businesstoday.in/industry/aviation/story/praful-patel-forced-air-india-to-buy-excess-aircraft-23879-2011-05-09"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "KB-1001",
+  "slug": "iifl-finance-gold-loan-ban",
+  "title": "RBI's Gold-Loan Ban on IIFL Finance",
+  "dek": "India's central bank found IIFL Finance faking gold purity checks, breaching loan-to-value limits, and handling cash far beyond legal limits in its gold-loan business — and shut the business down for six months. The NBFC's gold-loan book nearly halved before the ban was lifted.",
+  "category": "Banking & Finance",
+  "status": "acquitted-or-closed",
+  "severity": "major",
+  "severityRank": 130,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2024-03-04",
+  "heroStat": {
+    "value": "₹13,919 cr",
+    "label": "decline in IIFL Finance's gold-loan book (from ₹26,081 crore to ₹12,162 crore) during the roughly six-month period the Reserve Bank of India barred it from sanctioning or disbursing new gold loans"
+  },
+  "promise": {
+    "quote": "As an RBI-registered NBFC, IIFL Finance's gold-loan business is required to operate in accordance with the Reserve Bank's Master Directions for NBFCs, including accurate assaying and certification of pledged gold's purity, adherence to prescribed loan-to-value ratios, transparent auction processes for defaulted loans, and cash-transaction limits under law.",
+    "madeBy": "IIFL Finance Limited",
+    "role": "RBI-registered non-banking financial company (NBFC) operating a large gold-loan lending business",
+    "date": "2023-01-01",
+    "context": "This reflects the general regulatory obligation of an RBI-registered NBFC gold-loan lender rather than a specific public quotation from IIFL Finance, which this entry has not directly sourced.",
+    "sourceIds": [
+      "src-iifl-ban-order"
+    ]
+  },
+  "target": {
+    "description": "That IIFL Finance would accurately assay and certify the purity and net weight of pledged gold both at loan sanction and at auction upon default, maintain loan-to-value ratios within RBI limits, keep cash disbursals and collections within statutory limits, and follow a transparent, standard auction process for defaulted gold loans.",
+    "standard": "RBI Master Directions on Non-Banking Financial Company – Non-Systemically Important Non-Deposit taking Company norms, RBI's Fair Practices Code, and cash-transaction limits under the Income-tax Act.",
+    "referenceDate": "2024-03-04"
+  },
+  "reality": {
+    "description": "On 4 March 2024, the RBI barred IIFL Finance with immediate effect from sanctioning, disbursing, assigning, securitising or selling any gold loans, citing 'material supervisory concerns' including serious deviations in assaying and certifying the purity and net weight of gold at sanction and at auction, breaches of loan-to-value norms, gold-loan cash disbursals and collections far in excess of the statutory limit, non-adherence to the standard auction process upon default, and a lack of transparency in customer charges. IIFL Finance was permitted to continue servicing its existing gold-loan portfolio through normal collection and recovery. Two days later, Fairfax India (a major shareholder) offered up to $200 million in liquidity support. On 23 April 2024, an independent professional agency began an RBI-mandated special audit of IIFL Finance's gold-loan business, which concluded by early June 2024; IIFL Finance said it had set up a team to implement corrective actions and revise its policies and procedures. During the roughly six-month restriction, IIFL Finance's gold-loan assets under management fell from ₹26,081 crore to ₹12,162 crore. On 19 September 2024, the RBI lifted the restrictions, allowing IIFL Finance to resume sanctioning, disbursing, assigning, securitising and selling gold loans, subject to compliance with all applicable laws and regulations; the company's shares jumped as much as 13% on the news. Separately, in May 2026 the RBI imposed a further monetary penalty of ₹3.10 lakh on IIFL Finance for failing to pay borrowers the surplus realised from auctioning pledged gold over and above the loan outstanding — a smaller, distinct compliance lapse from the 2024 episode.",
+    "asOfDate": "2026-05-15",
+    "sourceIds": [
+      "src-iifl-ban-order",
+      "src-iifl-audit",
+      "src-iifl-lifted",
+      "src-iifl-penalty-2026"
+    ]
+  },
+  "gap": {
+    "metricLabel": "IIFL Finance's gold-loan AUM before the ban vs. its low point during the six-month RBI restriction",
+    "unit": "INR crore",
+    "targetValue": 26081,
+    "actualValue": 12162,
+    "targetDisplay": "₹26,081 cr (pre-restriction gold-loan book)",
+    "actualDisplay": "₹12,162 cr (during the RBI restriction)",
+    "targetLabel": "Gold-loan AUM before RBI action",
+    "actualLabel": "Gold-loan AUM during the ban",
+    "note": "This reflects the immediate business impact of the RBI restriction rather than a fine; no monetary penalty was announced alongside the March 2024 order itself."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2024-03-04",
+      "label": "RBI bars new gold loans",
+      "detail": "The RBI orders IIFL Finance to cease sanctioning, disbursing, assigning, securitising or selling gold loans with immediate effect, citing serious deviations in gold purity/weight certification, LTV breaches, excess cash dealing, and auction-process lapses.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-03-06",
+      "label": "Fairfax India offers liquidity support",
+      "detail": "Major shareholder Fairfax India Holdings agrees to provide IIFL Finance up to $200 million in liquidity support following the RBI restriction.",
+      "type": "status"
+    },
+    {
+      "date": "2024-04-23",
+      "label": "Special audit begins",
+      "detail": "An independent professional agency appointed at RBI's direction commences a special audit of IIFL Finance's gold-loan business.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-06",
+      "label": "Special audit concludes",
+      "detail": "The RBI-mandated special audit is completed; IIFL Finance says it has formed a team to implement corrective actions and revise policies and procedures.",
+      "type": "status"
+    },
+    {
+      "date": "2024-09-19",
+      "label": "RBI lifts the restrictions",
+      "detail": "The RBI removes the curbs, allowing IIFL Finance to resume sanctioning, disbursing, assigning, securitising and selling gold loans; the stock jumps as much as 13% on the news.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-05-15",
+      "label": "Separate ₹3.10 lakh penalty",
+      "detail": "RBI imposes a further, much smaller monetary penalty on IIFL Finance for not paying borrowers the surplus from gold-auction proceeds above the loan outstanding — a distinct compliance lapse.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was a supervisory/regulatory action by the RBI under its powers over NBFCs, not a criminal prosecution — no FIR, chargesheet, or court case is part of the public record reviewed for this entry. The restriction was lifted after IIFL Finance underwent a special audit and implemented corrective measures to RBI's satisfaction.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The RBI made real, serious findings — including fabricated gold-purity certification and cash-limit breaches — and enforced them by shutting down a major NBFC's gold-loan business for over six months, a significant and unusual regulatory action. IIFL Finance was not fined for the core violations themselves at the time; the business was restored once RBI was satisfied with corrective steps, and a much smaller separate penalty followed in 2026 for an unrelated lapse.",
+    "confidence": "medium",
+    "reasoning": "The RBI's original order and its September 2024 lifting are both well documented in contemporaneous business press citing IIFL Finance's own exchange filings, but this entry has not obtained or reviewed the full underlying RBI order text or the special audit report itself, which have not been made public in full."
+  },
+  "incomplete": [
+    "The full text of RBI's special audit findings (commenced April 2024, concluded June 2024) has not been made public; this entry relies on secondary reporting of its commencement and conclusion, not the report itself.",
+    "It is unclear from public reporting whether RBI imposed any monetary penalty under Section 47A of the RBI Act specifically tied to the March 2024 gold-loan violations, separate from the unrelated ₹3.10 lakh penalty imposed in May 2026.",
+    "This entry has not verified whether any individual IIFL Finance executives faced personal regulatory consequences (e.g., fit-and-proper findings) in connection with the gold-loan lapses."
+  ],
+  "sources": [
+    {
+      "id": "src-iifl-ban-order",
+      "label": "RBI bars IIFL Finance from disbursing gold loans; flags supervisory concerns",
+      "type": "independent",
+      "publisher": "The Week",
+      "date": "2024-03-04",
+      "url": "https://www.theweek.in/news/biz-tech/2024/03/04/rbi-bars-iifl-finance-from-disbursing-gold-loans-flags-supervisory-concerns.html"
+    },
+    {
+      "id": "src-iifl-audit",
+      "label": "RBI's special audit over, IIFL Finance appoints team to implement corrective actions",
+      "type": "independent",
+      "publisher": "ANI",
+      "date": "2024-06-16",
+      "url": "https://www.aninews.in/news/business/rbis-special-audit-over-iifl-finance-appoints-team-to-implement-corrective-actions20240616165734/"
+    },
+    {
+      "id": "src-iifl-lifted",
+      "label": "RBI lifts restrictions imposed on IIFL Finance's gold loan business",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-09-19",
+      "url": "https://www.business-standard.com/companies/news/rbi-lifts-restrictions-imposed-on-iifl-finance-s-gold-loan-business-124091901166_1.html"
+    },
+    {
+      "id": "src-iifl-penalty-2026",
+      "label": "Reserve Bank of India imposes Rs 3.10 lakh penalty on IIFL Finance Limited",
+      "type": "independent",
+      "publisher": "ANI",
+      "date": "2026-05-15",
+      "url": "https://www.aninews.in/news/business/reserve-bank-of-india-imposes-rs-310-lakh-penalty-on-iifl-finance-limited20260515184110/"
+    }
+  ]
+}

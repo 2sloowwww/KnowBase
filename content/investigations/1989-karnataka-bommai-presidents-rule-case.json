@@ -1,0 +1,117 @@
+{
+  "id": "KB-2705",
+  "slug": "1989-karnataka-bommai-presidents-rule-case",
+  "title": "The Centre Sacked an Elected Karnataka Government Without Letting It Prove Its Majority on the Floor. The Supreme Court Took Five Years to Say That Was Wrong",
+  "dek": "In April 1989, the Union government dismissed S.R. Bommai's Janata Dal ministry in Karnataka and imposed President's Rule, citing a loss of majority after defections -- without giving Bommai the chance to prove confidence on the assembly floor. Bommai challenged the dismissal in court. It took the Supreme Court until 1994 to rule, by which time the assembly itself had long been dissolved and fresh elections held, making the constitutional victory a landmark for the future rather than a remedy for what had already happened to his government.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 175,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1989-04-21",
+  "heroStat": {
+    "value": "9",
+    "label": "Number of Supreme Court judges on the bench that decided S.R. Bommai v. Union of India in March 1994, nearly five years after Bommai's government was dismissed"
+  },
+  "promise": {
+    "quote": "The Governor's report stated that the Bommai ministry had lost its majority following defections and recommended imposition of President's Rule under Article 356 of the Constitution, without the Governor first testing the ministry's majority on the floor of the Legislative Assembly.",
+    "madeBy": "Governor of Karnataka, P. Venkatasubbaiah, and the Union Council of Ministers under Article 356",
+    "role": "State Governor recommending, and Union government implementing, dismissal of an elected state government",
+    "date": "1989-04-19",
+    "context": "In September 1988, a Janata Dal legislator, K.R. Molakery, defected along with a group of other MLAs and claimed the Bommai government had lost its majority; rather than convening the assembly to test this claim by a floor vote, the Governor recommended President's Rule, which the Union Cabinet approved and which President R. Venkataraman proclaimed on 21 April 1989.",
+    "sourceIds": [
+      "src-bommai-drishti"
+    ]
+  },
+  "target": {
+    "description": "A determination of whether an elected state government retains the confidence of its legislative assembly made through an actual floor test in the assembly, rather than through a Governor's subjective assessment based on claims of defection.",
+    "standard": "The constitutional principle -- later explicitly affirmed by the Supreme Court in this very case -- that legislative majority is a matter to be tested on the floor of the House, not assessed by the Governor's subjective satisfaction",
+    "referenceDate": "1989-04-19"
+  },
+  "reality": {
+    "description": "Bommai's government was dismissed without any floor test, and he challenged the dismissal, first in the Karnataka High Court and then in the Supreme Court. The case was combined with several other challenges to Article 356 proclamations from other states and was decided by a nine-judge Constitution Bench of the Supreme Court on 11 March 1994 -- nearly five years after the actual dismissal. The Court held that the proclamation dismissing Bommai's government was unconstitutional because the Governor had not given the ministry an opportunity to prove its majority on the floor of the House, and more broadly ruled that a proclamation under Article 356 is subject to judicial review, that a state government's majority must be tested on the floor of the assembly and not assessed by the Governor's subjective opinion, and that the Lok Sabha's dissolution does not bar such review. By the time of the judgment, Karnataka's assembly had long since been dissolved and fresh elections held, so the ruling could not restore Bommai's government; its significance has instead been as the binding precedent that curbed subsequent misuse of Article 356 across India, an outcome credited with sharply reducing the frequency of politically motivated President's Rule impositions after 1994 compared with the decades before it.",
+    "asOfDate": "1994-03-11",
+    "sourceIds": [
+      "src-bommai-drishti",
+      "src-bommai-ipleaders"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time between Bommai's dismissal without a floor test and the Supreme Court ruling that such dismissals are unconstitutional",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 5,
+    "targetDisplay": "Immediate floor test to determine majority, as later held to be constitutionally required",
+    "actualDisplay": "~5 years until the Supreme Court's binding ruling, by which point the assembly had already been dissolved and re-elected",
+    "targetLabel": "Constitutional standard",
+    "actualLabel": "Time to judicial vindication",
+    "note": "This reflects the gap between the constitutional standard the Supreme Court eventually articulated and the time it took for that standard to be judicially established, not a claim that Bommai's government would necessarily have survived a contemporaneous floor test."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1988-09-01",
+      "label": "Defections claimed within Bommai's Janata Dal",
+      "detail": "A group of legislators, led by K.R. Molakery, claim to withdraw support from the Bommai ministry, disputing its majority.",
+      "type": "status"
+    },
+    {
+      "date": "1989-04-19",
+      "label": "Governor recommends President's Rule",
+      "detail": "The Governor of Karnataka recommends dismissal of the Bommai government based on the defection claims, without convening a floor test.",
+      "type": "status"
+    },
+    {
+      "date": "1989-04-21",
+      "label": "President's Rule imposed",
+      "detail": "President R. Venkataraman proclaims President's Rule in Karnataka under Article 356, dismissing the Bommai ministry.",
+      "type": "announcement"
+    },
+    {
+      "date": "1994-03-11",
+      "label": "Supreme Court rules the dismissal unconstitutional",
+      "detail": "A nine-judge Constitution Bench holds that the 1989 proclamation was unconstitutional, that Article 356 proclamations are subject to judicial review, and that majority must be tested on the assembly floor.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "S.R. Bommai v. Union of India (1994) 3 SCC 1 is a decided constitutional case. The Supreme Court found the 1989 proclamation dismissing the Bommai government unconstitutional, though by the time of the ruling no direct restorative remedy to Bommai's original ministry was possible given the intervening dissolution and re-election of the Karnataka assembly.",
+    "keyIndividuals": [
+      {
+        "name": "S.R. Bommai",
+        "role": "Chief Minister of Karnataka, 1988-1989",
+        "outcome": "Government dismissed in 1989; won a landmark but largely symbolic Supreme Court victory in 1994 establishing constitutional limits on Article 356."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Union government dismissed an elected Karnataka government based on disputed defection claims without ever testing its majority on the assembly floor -- a practice the Supreme Court later ruled unconstitutional in a landmark judgment that reshaped how Article 356 can be used nationwide. The ruling came nearly five years after the fact, too late to restore Bommai's own government, illustrating both the judiciary's eventual check on executive overreach and the practical limits of that check when relief arrives years after the event.",
+    "confidence": "high",
+    "reasoning": "The facts of the dismissal, the litigation history, and the Supreme Court's holding are extensively documented in the reported judgment and in consistent legal-education and news sources. This is a well-settled matter of constitutional law with little factual dispute."
+  },
+  "incomplete": [
+    "This entry does not cover the other state President's Rule cases (Meghalaya, Nagaland, Madhya Pradesh, Rajasthan, Himachal Pradesh) that were heard together with Bommai's petition, each with distinct facts.",
+    "This entry does not independently verify whether the Bommai ministry would in fact have survived a floor test in 1989 had one been held; the constitutional violation found by the Court concerned the failure to hold a floor test, not a finding about the actual state of the ministry's support.",
+    "The broader historical pattern of Article 356 use before and after 1994, cited here as reduced post-Bommai, has not been independently tabulated in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-bommai-drishti",
+      "label": "S. R. Bommai v. Union of India Case 1994",
+      "type": "independent",
+      "publisher": "Drishti IAS",
+      "date": "2023-01-01",
+      "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/s-r-bommai-v-union-of-india-case-1994"
+    },
+    {
+      "id": "src-bommai-ipleaders",
+      "label": "S.R. Bommai v. Union of India: case analysis",
+      "type": "independent",
+      "publisher": "iPleaders",
+      "date": "2021-01-01",
+      "url": "https://blog.ipleaders.in/s-r-bommai-v-union-of-india-power-of-presidents-rule-curtailed/"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "KB-153",
+  "slug": "speak-asia-online-ponzi-scheme",
+  "title": "The Speak Asia Online Ponzi Scheme",
+  "dek": "Speak Asia Online promised Indians thousands of rupees a month for filling out online surveys, after an upfront 'panellist' subscription fee. Investigators say it was a Ponzi-cum-pyramid scheme that collected an estimated Rs 2,200-2,276 crore from roughly 2.4 million people before collapsing in 2011.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 19,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2011-06-01",
+  "heroStat": {
+    "value": "₹2,200-2,276 cr",
+    "label": "estimated amount collected from roughly 2.4 million Indian 'panellists' before Speak Asia Online collapsed in mid-2011"
+  },
+  "promise": {
+    "quote": "Panellists were promised earnings, commonly advertised in the range of roughly Rs 4,000-8,000 per month, for completing online consumer surveys after paying an annual subscription fee typically between Rs 5,000 and Rs 11,000, plus additional commissions for recruiting new members.",
+    "madeBy": "Speak Asia Online Pte Ltd (Singapore-registered) and its India-facing promoters, including individuals identified in press reports as Ram Niwas Pal, his associates, and Manoj Kumar Sharma",
+    "role": "Singapore-incorporated online survey company marketing paid 'panellist' membership across India",
+    "date": "2010-06-01",
+    "context": "This reflects the general commission/earnings structure described in contemporaneous reporting on the scheme, rather than a verified quotation from the company's own promotional material, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-speakasia-wiki"
+    ]
+  },
+  "target": {
+    "description": "That panellists who paid the subscription fee would receive the advertised monthly survey-completion earnings and be able to withdraw those earnings on demand, consistent with a genuine survey/market-research business rather than a scheme paying old members from new members' money.",
+    "standard": "Ordinary consumer-protection and financial-fraud standards under the Indian Penal Code (cheating, criminal breach of trust, criminal conspiracy), and the regulatory requirement that any collective-investment or deposit-taking scheme operating in India be registered with and approved by SEBI/RBI as applicable.",
+    "referenceDate": "2010-06-01"
+  },
+  "reality": {
+    "description": "Beginning around mid-2011, panellists reported delayed payments, difficulty withdrawing funds, and doubts about whether real survey work underpinned the payouts. The Mumbai and Delhi Police Economic Offences Wings (EOW) opened investigations and registered FIRs, and investigators alleged the operation was a Ponzi-cum-pyramid scheme in which early payouts were funded by new subscribers' fees rather than genuine survey revenue, with a substantial share of collected funds allegedly moved to Singapore. Key figures named in the case, including Ram Niwas Pal and associates, were arrested; Mumbai EOW filed an extensive chargesheet (reported at over 5,000 pages) around 2013-2014, and the Enforcement Directorate froze bank accounts and attached assets. Based on the sources reviewed for this entry, the criminal case has proceeded slowly through Mumbai's magistrate courts over the following decade, with no widely reported final verdict; comprehensive, up-to-date (2023-2025) court status was not found in this entry's research.",
+    "asOfDate": "2014-04-17",
+    "sourceIds": [
+      "src-speakasia-behindmlm-chargesheet",
+      "src-speakasia-wiki"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Panellists promised recurring survey income vs. panellists who could actually withdraw funds after the scheme collapsed",
+    "unit": "people (approx., millions)",
+    "targetValue": 2.4,
+    "actualValue": 0,
+    "targetDisplay": "~2.4 million panellists enrolled",
+    "actualDisplay": "Widespread reports of blocked withdrawals from mid-2011 onward",
+    "targetLabel": "Panellists enrolled",
+    "actualLabel": "Panellists able to withdraw promised earnings after collapse",
+    "note": "No official, reconciled figure for the number of panellists who successfully recovered money exists in the sources reviewed; the '0' actual value reflects the widely reported pattern of blocked or stalled withdrawals following the scheme's mid-2011 collapse, not a verified precise count."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Press reports place total collections at roughly Rs 2,200-2,276 crore (about US$230-240 million) from an estimated 2.4 million panellists, with investigators alleging nearly half of the money was transferred out of India to Singapore. These figures come from investigative journalism rather than a single official reconciled audit, and are presented here as reported rather than independently verified.",
+    "sourceIds": [
+      "src-speakasia-wiki",
+      "src-speakasia-hdfc"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-06-01",
+      "label": "Speak Asia Online begins operating in India",
+      "detail": "The Singapore-registered company begins signing up 'panellists' across India for paid online survey participation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2011-06-01",
+      "label": "Complaints and investigations surface",
+      "detail": "Panellists report delayed and blocked payments; Mumbai and Delhi Police Economic Offences Wings begin investigating and register FIRs. Exact FIR date not confirmed by this entry.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-08-01",
+      "label": "Scheme collapses in India",
+      "detail": "Speak Asia effectively winds up its India operations after being unable to sustain payouts.",
+      "type": "status"
+    },
+    {
+      "date": "2011-09-01",
+      "label": "Key accused arrested",
+      "detail": "Figures including Ram Niwas Pal are arrested in connection with the scam; the Enforcement Directorate freezes bank accounts and attaches assets.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-04-17",
+      "label": "Mumbai EOW chargesheet listed for hearing",
+      "detail": "A chargesheet reported at over 5,000 pages, filed by Mumbai EOW, is listed for hearing before the 47th Additional Chief Metropolitan Magistrate's Court, Esplanade, Mumbai.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Multiple FIRs and a substantial chargesheet were filed by the Mumbai and Delhi Police Economic Offences Wings, with the Enforcement Directorate separately freezing assets. Based on the sources available to this entry, no widely reported final criminal verdict has been reached; the case's status in the years since roughly 2014 was not confirmed through this entry's research and should be treated as unresolved pending further verification.",
+    "keyIndividuals": [
+      {
+        "name": "Ram Niwas Pal",
+        "role": "Alleged key promoter/mastermind of Speak Asia's India operations",
+        "outcome": "Arrested in connection with the case; final case outcome not confirmed by this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is documented as a large-scale alleged Ponzi-cum-pyramid scheme by law-enforcement investigation (FIRs, arrests, an extensive chargesheet, and ED asset freezes), affecting an estimated 2.4 million people and roughly Rs 2,200-2,276 crore. However, this entry could not confirm a final court verdict, and the current (2023-2026) status of the criminal proceedings remains unclear from available sources.",
+    "confidence": "low",
+    "reasoning": "The scheme's operation, collapse, and initial law-enforcement response (FIRs, arrests, 2013-2014 chargesheet) are corroborated across multiple contemporaneous reports. However, this entry found no reliable, dated source confirming the case's current status or any final verdict, which significantly limits confidence in the complete picture."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on the case's current (2023-2026) legal status, any trial developments, or verdicts since the mid-2010s chargesheet is pending.",
+    "The exact date of the first FIR in June 2011 has not been confirmed and is approximated in this entry.",
+    "The total money collection figure (Rs 2,200-2,276 crore) and the 2.4 million panellist estimate come from journalistic reporting rather than an official reconciled audit and have not been independently verified by this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-speakasia-wiki",
+      "label": "Speak Asia scam",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Speak_Asia_scam"
+    },
+    {
+      "id": "src-speakasia-behindmlm-chargesheet",
+      "label": "5000+ page long Speak Asia chargesheet filed",
+      "type": "independent",
+      "publisher": "BehindMLM",
+      "date": "2014-04-01",
+      "url": "https://behindmlm.com/companies/speak-asia-online/5000-page-long-speak-asia-chargesheet-filed/"
+    },
+    {
+      "id": "src-speakasia-hdfc",
+      "label": "Speak Asia Scam: How the MLM Scheme Wiped Out Investor Savings",
+      "type": "independent",
+      "publisher": "HDFC SKY",
+      "date": "2024-01-01",
+      "url": "https://hdfcsky.com/sky-learn/fraud-files-by-sky/speak-asia-scam-mlm-ponzi-scheme"
+    },
+    {
+      "id": "src-speakasia-moneylife",
+      "label": "Speak Asia, where is the money?",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2011-08-01",
+      "url": "https://www.moneylife.in/article/speak-asia-where-is-the-money/20601.html"
+    }
+  ]
+}

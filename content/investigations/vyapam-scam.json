@@ -1,0 +1,105 @@
+{
+  "id": "KB-015",
+  "slug": "vyapam-scam",
+  "title": "The Vyapam Scam",
+  "dek": "A state examination board meant to fairly select students and recruits for medical colleges and government jobs was allegedly turned into a paid admission racket — and dozens of people connected to the case died before it was fully investigated.",
+  "category": "Employment & Welfare",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 105,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-07-01",
+  "heroStat": {
+    "value": "~2,000",
+    "label": "people arrested in connection with the exam-fraud network"
+  },
+  "promise": {
+    "quote": "Entrance examinations and recruitment tests conducted by the Madhya Pradesh Professional Examination Board (Vyapam) will be fair, merit-based, and free of manipulation.",
+    "madeBy": "Madhya Pradesh Professional Examination Board (Vyapam), a state government body",
+    "role": "State body responsible for conducting entrance and recruitment examinations in Madhya Pradesh",
+    "date": "2013-07-01",
+    "context": "Vyapam conducted entrance exams for medical colleges and recruitment tests for state government jobs; the scale of the alleged fraud became a national story in 2013 as mass arrests began.",
+    "sourceIds": [
+      "src-vyapam-overview"
+    ]
+  },
+  "target": {
+    "description": "Examinations conducted with secure question papers, verified candidate identities, and no manipulation of results in exchange for payment.",
+    "standard": "Standard examination-security and anti-impersonation norms expected of a state public examination board.",
+    "referenceDate": "2013-07-01"
+  },
+  "reality": {
+    "description": "Investigators alleged a large-scale network involving impersonation of candidates, manipulated seating arrangements, and bribery, estimated to have involved over ₹2,000 crore in payments. Roughly 2,000 people were arrested, with chargesheets naming hundreds of candidates, guardians, invigilators, and middlemen. A special CBI court sentenced 11 people to seven years' imprisonment in one set of convictions; other individual cases have also resulted in convictions. The Supreme Court transferred the investigation to the CBI in 2015 after a series of deaths among accused and witnesses drew national attention, though the exact number and causes of those deaths remain disputed, with estimates for deaths connected to the case ranging from around 25 to over 40.",
+    "asOfDate": "2015-07-01",
+    "sourceIds": [
+      "src-vyapam-overview",
+      "src-vyapam-deaths"
+    ]
+  },
+  "gap": {
+    "metricLabel": "People implicated (arrested) vs. people convicted in reported sentencing so far",
+    "unit": "people",
+    "targetValue": 2000,
+    "actualValue": 11,
+    "targetDisplay": "~2,000 arrested",
+    "actualDisplay": "11 sentenced in one reported case (others convicted separately)",
+    "targetLabel": "Arrested",
+    "actualLabel": "Sentenced (one case)",
+    "note": "This compares the scale of arrests to one specific, reported batch of convictions; it is not a claim that only 11 people have ever been convicted across the entire multi-year case, which has produced other, separately reported convictions and sentences this investigation has not yet fully catalogued."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-07-01",
+      "label": "Mass arrests begin",
+      "detail": "State investigators begin large-scale arrests as the scale of the alleged fraud becomes public.",
+      "type": "status"
+    },
+    {
+      "date": "2015-05-09",
+      "label": "Supreme Court transfers probe to CBI",
+      "detail": "The Court orders the investigation moved from the state task force to the CBI, citing the number of deaths connected to the case.",
+      "type": "status"
+    },
+    {
+      "date": "2017-01-01",
+      "label": "First reported sentencing batch",
+      "detail": "A special CBI court sentences 11 people to seven years' imprisonment.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Multiple convictions have been reported across different sub-cases within the broader Vyapam matter, but this investigation has not yet compiled a complete, reconciled account of all outcomes.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of arrests and at least some convictions are well documented, as is the unusual and still-disputed number of deaths connected to the case. This investigation has not yet compiled a full account of convictions across the many separate sub-cases, or resolved the range of reported death-toll estimates.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. The death-toll figures in particular vary significantly across sources reviewed and have not been independently verified here; this investigation reports the range rather than a single number."
+  },
+  "incomplete": [
+    "This is a stub entry. A full, reconciled list of convictions, acquittals, and pending sub-cases has not yet been compiled.",
+    "Death-toll estimates connected to the case vary widely across sources (from roughly 25 to over 40) and have not been independently verified by this investigation.",
+    "The ₹2,000 crore bribery estimate's methodology and source have not been independently traced to a primary document."
+  ],
+  "sources": [
+    {
+      "id": "src-vyapam-overview",
+      "label": "All you need to know about the Vyapam scam that is killing people",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2015-07-06",
+      "url": "https://www.business-standard.com/article/politics/all-you-need-to-know-about-the-vyapam-scam-that-is-killing-people-115070600446_1.html"
+    },
+    {
+      "id": "src-vyapam-deaths",
+      "label": "Another accused in Vyapam scam dies, number up to 24",
+      "type": "independent",
+      "publisher": "Hindustan Times (via PressReader)",
+      "date": "2015-06-29",
+      "url": "https://www.pressreader.com/india/hindustan-times-amritsar/20150629/282157879900960"
+    }
+  ]
+}

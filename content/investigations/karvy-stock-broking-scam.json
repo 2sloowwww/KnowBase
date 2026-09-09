@@ -1,0 +1,105 @@
+{
+  "id": "KB-016",
+  "slug": "karvy-stock-broking-scam",
+  "title": "The Karvy Stock Broking Scam",
+  "dek": "A major brokerage allegedly pledged clients' own shares as collateral for its own loans, without their knowledge, affecting tens of thousands of investors before regulators stepped in.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 204,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-11-22",
+  "heroStat": {
+    "value": "~95,000",
+    "label": "client accounts reportedly affected"
+  },
+  "promise": {
+    "quote": "Client securities held by Karvy Stock Broking will be used only as authorised by each client, not pledged for the firm's own borrowing.",
+    "madeBy": "Karvy Stock Broking Ltd.",
+    "role": "SEBI-registered stockbroker",
+    "date": "2019-11-22",
+    "context": "Karvy is alleged to have transferred client securities to its own demat account and pledged them to raise loans for its real estate arm, without client authorisation.",
+    "sourceIds": [
+      "src-karvy-sebi-ban"
+    ]
+  },
+  "target": {
+    "description": "Client securities held strictly in clients' own accounts, used only for that client's own transactions, consistent with SEBI custody and margin-pledging rules.",
+    "standard": "SEBI regulations on broker custody of client securities and prohibitions on commingling client and proprietary assets.",
+    "referenceDate": "2019-11-22"
+  },
+  "reality": {
+    "description": "SEBI barred Karvy Stock Broking from taking on new clients in the securities market in November 2019, citing unauthorised transfer and pledging of client securities affecting roughly 95,000 client accounts and reportedly worth ₹2,300–2,700 crore depending on the source. SEBI later imposed penalties on the firm and its chief executive, and the Enforcement Directorate separately attached assets worth roughly ₹1,984 crore in a related money-laundering probe.",
+    "asOfDate": "2022-03-09",
+    "sourceIds": [
+      "src-karvy-sebi-ban",
+      "src-karvy-ed"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Value of client securities allegedly misused vs. assets attached by the ED",
+    "unit": "₹ crore",
+    "targetValue": 2700,
+    "actualValue": 1984,
+    "targetDisplay": "up to ₹2,700 cr in client securities allegedly misused",
+    "actualDisplay": "₹1,984 cr in assets attached (ED)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Attached",
+    "note": "Reported figures for the value of misused securities vary between roughly ₹2,300 crore and ₹2,700 crore across sources; this investigation has not reconciled the two."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2019-11-22",
+      "label": "SEBI bars new clients",
+      "detail": "SEBI restricts Karvy from taking on new broking clients, citing the securities misuse.",
+      "type": "status"
+    },
+    {
+      "date": "2022-03-09",
+      "label": "ED attaches assets",
+      "detail": "The Enforcement Directorate attaches roughly ₹1,984 crore in assets in its money-laundering probe.",
+      "type": "status"
+    },
+    {
+      "date": "2023-04-28",
+      "label": "SEBI penalties imposed",
+      "detail": "SEBI fines Karvy and its chief executive; further penalties follow after non-payment.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Regulatory penalties and an ED money-laundering attachment have been reported; this investigation has not yet examined whether any individual has faced criminal conviction.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: SEBI's finding of unauthorised use of client securities, and the resulting regulatory penalties and asset attachment, are documented. This investigation has not yet established whether any individual has been criminally convicted, or how much affected clients have been made whole.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. Individual criminal proceedings, if any, have not yet been researched.",
+    "It is not established how much of the affected client securities have since been restored, following a 2023 tribunal order directing compensation.",
+    "The discrepancy between the ₹2,300 crore and ₹2,700 crore figures cited in different reports has not been reconciled."
+  ],
+  "sources": [
+    {
+      "id": "src-karvy-sebi-ban",
+      "label": "Sebi bans Karvy Stock Broking for Rs 2,000 crore client defaults",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2019-11-23",
+      "url": "https://www.business-standard.com/amp/article/markets/sebi-bans-karvy-stock-broking-for-rs-2-000-crore-client-defaults-119112300172_1.html"
+    },
+    {
+      "id": "src-karvy-ed",
+      "label": "ED attaches assets worth Rs 1,984 cr in probe against Karvy Stock Broking",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-03-09",
+      "url": "https://www.business-standard.com/article/current-affairs/ed-attaches-assets-worth-rs-1-984-cr-in-probe-against-karvy-stock-broking-122030901300_1.html"
+    }
+  ]
+}

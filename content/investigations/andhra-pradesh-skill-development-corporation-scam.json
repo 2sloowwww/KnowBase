@@ -1,0 +1,287 @@
+{
+  "id": "KB-1100",
+  "slug": "andhra-pradesh-skill-development-corporation-scam",
+  "title": "The Rs 371-Crore Andhra Pradesh Skill Development Corporation Scam",
+  "dek": "A public-private skill-training project structured so the state paid only 10 percent of a projected Rs 3,300-crore cost was allegedly used to route Rs 371 crore of public money to shell companies without a tender — a case that saw former (and now current) Chief Minister N. Chandrababu Naidu jailed for over 50 days, chargesheeted, and then cleared by the very state investigators who arrested him after his party returned to power.",
+  "category": "Employment & Welfare",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 145,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-12-01",
+  "heroStat": {
+    "value": "Rs 371 crore",
+    "label": "paid upfront by the Andhra Pradesh government as its stated 10% share of a projected Rs 3,300-crore skill-training project — alleged by CID's chargesheet to have been substantially diverted through shell companies using fake invoices"
+  },
+  "promise": {
+    "quote": "The Centres of Excellence built under the Andhra Pradesh State Skill Development Corporation would be delivered as a public-private partnership in which technology partners Siemens Industrial Software and Design Tech contributed roughly 90 percent of the project's value as a grant-in-kind, with the state government funding only the residual 10 percent — equipping unemployed youth with industry skills without a disproportionate burden on the public exchequer.",
+    "madeBy": "Government of Andhra Pradesh (N. Chandrababu Naidu-led TDP administration) and the Andhra Pradesh State Skill Development Corporation (APSSDC)",
+    "role": "State government and its skill-development implementing agency",
+    "date": "2015-01-01",
+    "context": "This reflects the cost-sharing structure of the 2014-15 project MoU as described in subsequent CID and press accounts, rather than a verified quotation from a specific government statement on this date, which this entry has not located.",
+    "sourceIds": [
+      "src-ap-outlook",
+      "src-ap-amikus"
+    ]
+  },
+  "target": {
+    "description": "A skill-training infrastructure project in which the state's cash outlay was limited to roughly 10 percent of total project cost, with partners Siemens Industrial Software and Design Tech supplying the remainder as software, equipment and training in kind, verified through competitive tendering and government due diligence before any public money was released.",
+    "standard": "The project's own stated cost-sharing structure and Andhra Pradesh's public procurement (competitive tendering) norms.",
+    "referenceDate": "2015-01-01"
+  },
+  "reality": {
+    "description": "According to accounts of the CID investigation and chargesheet, the Siemens software actually supplied was invoiced at only around Rs 58 crore, far below the Rs 3,300 crore the project's cost was projected at; on that inflated projection, the state government's ostensible 10% share worked out to about Rs 371 crore, which the government paid out without inviting competitive tenders and before its partners had made a matching investment. Investigators allege the money was routed through shell companies -- including Allied Computers, Skillers India Pvt Ltd, Knowledge Podium, Cadence Partners and ETA Greens -- using fake invoices for goods and services never actually delivered. AP CID registered an FIR in December 2021, after the TDP lost power to the YSRCP in 2019, and in March 2023 arrested former Siemens employee G.V.S. Bhaskar, alleged to have colluded with then-APSSDC MD & CEO Ghanta Subba Rao. On 9 September 2023, CID arrested N. Chandrababu Naidu, who spent more than 50 days in Rajamahendravaram Central Prison before the Andhra Pradesh High Court granted him interim bail on medical grounds (cataract surgery) on 31 October 2023; that bail was made regular on 20 November 2023. CID filed a chargesheet against Naidu and others on 4 April 2024 at the ACB Special Court in Vijayawada, alleging roughly Rs 176.27 crore misappropriated via fake invoices, plus excess billing of about Rs 27 crore across Centres of Excellence and about Rs 23.8 crore across 34 Technical Skill Development Institutes. Naidu's TDP returned to power in the June 2024 state election, and he became Chief Minister again. The Supreme Court dismissed the previous YSRCP government's petition seeking cancellation of Naidu's bail on 15 January 2025. On 19 December 2025, AP CID -- now operating under Naidu's own government -- issued a closure notice stating the case against Naidu was a \"mistake of fact\" with no charges to be pressed; the ACB Special Court accepted this closure report around 13 January 2026, closing the case against Naidu and 36 co-accused. Separately, the Enforcement Directorate's parallel money-laundering probe filed a supplementary chargesheet before a Visakhapatnam court around early February 2026 stating it found no evidence implicating Naidu, while continuing to pursue Design Tech- and Siemens-linked individuals it says diverted government funds and evaded taxes through shell companies. The YSRCP has publicly accused the Naidu government of using state investigative machinery to close a case against its own chief minister, calling the closure a dangerous precedent and a misuse of power.",
+    "asOfDate": "2026-02-02",
+    "sourceIds": [
+      "src-ap-outlook",
+      "src-ap-gvsbhaskar",
+      "src-ap-naidu-arrest",
+      "src-ap-bail-interim",
+      "src-ap-bail-regular",
+      "src-ap-chargesheet",
+      "src-ap-sc-bail",
+      "src-ap-closure-notice",
+      "src-ap-court-accepts",
+      "src-ap-ed-chargesheet",
+      "src-ap-ysrcp-reaction"
+    ]
+  },
+  "gap": {
+    "metricLabel": "State funds paid out as its 'project share' vs. amount CID's chargesheet alleged was diverted through fake invoices",
+    "unit": "INR crore",
+    "targetValue": 371,
+    "actualValue": 176.27,
+    "targetDisplay": "Rs 371 crore paid by the state as its stated project share",
+    "actualDisplay": "Rs 176.27 crore alleged diverted via fake invoices (CID chargesheet)",
+    "targetLabel": "Total government outlay",
+    "actualLabel": "Alleged fake-invoice diversion",
+    "note": "CID's April 2024 chargesheet also alleged roughly Rs 50.8 crore in inflated per-unit billing across project centres, on top of the Rs 176.27 crore fake-invoice figure. These are allegations from a chargesheet whose case against Naidu and 36 co-accused was itself later closed by the same investigating agency in January 2026 without a trial on the merits, so none of these figures have been judicially tested or upheld."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 371,
+    "allocatedLabel": "State government's alleged full outlay as its stated 10% project share, paid without competitive tender",
+    "released": 371,
+    "spent": 176.27,
+    "spentLabel": "Amount CID's April 2024 chargesheet alleged was misappropriated via fake invoices",
+    "unit": "crore",
+    "notes": "The projected total project value was Rs 3,300 crore, of which the state's share was pegged at 10%; the actual Siemens software component was invoiced at only about Rs 58 crore, per press accounts of the chargesheet. No independent CAG audit specific to APSSDC's Centres of Excellence project has been located by this entry.",
+    "sourceIds": [
+      "src-ap-outlook",
+      "src-ap-chargesheet"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015-01-01",
+      "label": "Centres of Excellence MoU structured",
+      "detail": "The AP government, under Chandrababu Naidu, signs an arrangement with Siemens Industrial Software and Design Tech to build skill-training Centres of Excellence, projected at a total cost of about Rs 3,300 crore with partners contributing roughly 90% in kind.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-12-01",
+      "label": "AP CID registers FIR",
+      "detail": "After the TDP loses power to the YSRCP in 2019, AP CID registers a first information report alleging that the state's Rs 371-crore payment under the project was diverted through shell companies using fake invoices.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-03-01",
+      "label": "Ex-Siemens employee arrested",
+      "detail": "CID arrests former Siemens Industrial Software employee G.V.S. Bhaskar from Noida, alleging he colluded with then-APSSDC MD & CEO Ghanta Subba Rao.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-09-09",
+      "label": "Naidu arrested",
+      "detail": "AP CID arrests former Chief Minister N. Chandrababu Naidu over alleged embezzlement in the skill development project; he is remanded to judicial custody the next day.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-09-22",
+      "label": "High Court declines to quash FIR",
+      "detail": "The Andhra Pradesh High Court dismisses Naidu's petition to quash the FIR and set aside his remand, saying the CID investigation is still ongoing.",
+      "type": "status"
+    },
+    {
+      "date": "2023-10-31",
+      "label": "Interim bail on medical grounds",
+      "detail": "The High Court grants Naidu four weeks of interim bail to undergo cataract surgery, after he had spent over 50 days in Rajamahendravaram Central Prison.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-11-20",
+      "label": "Interim bail made regular",
+      "detail": "Naidu's interim bail is converted into regular bail by the Andhra Pradesh High Court.",
+      "type": "status"
+    },
+    {
+      "date": "2024-04-04",
+      "label": "CID files chargesheet",
+      "detail": "CID files a chargesheet against Naidu and others at the ACB Special Court, Vijayawada, alleging about Rs 176.27 crore misappropriated via fake invoices plus roughly Rs 50.8 crore in inflated billing.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-06-01",
+      "label": "TDP returns to power",
+      "detail": "Naidu's TDP wins the Andhra Pradesh state election and he is sworn in as Chief Minister again.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-15",
+      "label": "Supreme Court dismisses bail-cancellation plea",
+      "detail": "The Supreme Court dismisses the previous YSRCP government's petition seeking cancellation of Naidu's bail in the case.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-19",
+      "label": "CID seeks closure of case against Naidu",
+      "detail": "AP CID's Economic Offences Wing issues a notice stating that registering the case against Naidu was a 'mistake of fact' and that no charges will be pressed against him.",
+      "type": "revision"
+    },
+    {
+      "date": "2026-01-13",
+      "label": "ACB court accepts closure report",
+      "detail": "The ACB Special Court accepts CID's closure report, closing the case against Naidu and 36 co-accused; the YSRCP opposition calls the move a politically engineered whitewash.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-02",
+      "label": "ED chargesheet clears Naidu",
+      "detail": "The Enforcement Directorate's supplementary chargesheet before a Visakhapatnam court states it found no role for Naidu, while continuing to pursue Design Tech- and Siemens-linked individuals over alleged fund diversion and tax evasion.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No court has convicted anyone in this case on the merits. The CID's own criminal case against N. Chandrababu Naidu and 36 co-accused was closed by the ACB Special Court in January 2026 after the investigating agency itself sought closure, and the Enforcement Directorate's parallel money-laundering chargesheet likewise found no role for Naidu. The ED's prosecution of Design Tech- and Siemens-linked individuals, including G.V.S. Bhaskar, over alleged fund diversion is reported to be continuing. All named individuals are presumed innocent unless and until convicted.",
+    "keyIndividuals": [
+      {
+        "name": "N. Chandrababu Naidu",
+        "role": "Former (2014-2019) and current (since 2024) Chief Minister of Andhra Pradesh; TDP national president",
+        "outcome": "Arrested 9 September 2023, jailed over 50 days, released on bail by end November 2023; chargesheeted by CID in April 2024. After his party returned to power, CID sought closure of the case against him citing 'mistake of fact,' accepted by the ACB court in January 2026; the ED's February 2026 chargesheet also found no evidence against him. No conviction. Critics dispute the independence of the closure, given it was sought by CID under his own government."
+      },
+      {
+        "name": "G.V.S. Bhaskar",
+        "role": "Former employee, Siemens Industrial Software Pvt Ltd",
+        "outcome": "Arrested by CID in March 2023; alleged to have manipulated project valuations and a technical evaluation report. This entry has not confirmed the current status of proceedings against him following the January 2026 case closure involving Naidu and 36 others."
+      },
+      {
+        "name": "Ghanta Subba Rao",
+        "role": "Former Managing Director & CEO, Andhra Pradesh State Skill Development Corporation",
+        "outcome": "Named as a co-accused alleged to have colluded with Bhaskar; this entry has not confirmed his current legal status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The underlying allegation -- that a public-private skill-training project's cost was inflated so the state could be made to pay Rs 371 crore that was then diverted through shell companies -- is corroborated by CID's own FIR and chargesheet. But nobody has been convicted, and the case against the most prominent accused, Naidu, was closed by the very state agency that arrested him after his party returned to power, a closure the opposition YSRCP calls a politically engineered whitewash. This entry treats the case as genuinely disputed: a real, chargesheeted diversion of public funds on one hand, and an unresolved question of whether the case against its highest-profile accused was closed on the merits or through political influence on the other.",
+    "confidence": "medium",
+    "reasoning": "The project structure, the FIR, the 2023 arrests, the April 2024 chargesheet, and the January 2026 closure are corroborated across multiple independent outlets (Outlook India, NewsMeter, The South First, India TV, The Print, Deccan Herald). This entry has not read the CID FIR, the chargesheet, the closure report, or the ED's chargesheet directly, and has not independently verified the shell-company fund trail or confirmed the current status of proceedings against non-Naidu accused."
+  },
+  "incomplete": [
+    "This entry has not read the CID FIR, the April 2024 chargesheet, the December 2025 closure notice, or the ED's supplementary chargesheet directly; it relies on press summaries of each.",
+    "The current legal status of G.V.S. Bhaskar, Ghanta Subba Rao, and other non-Naidu accused following the January 2026 case closure has not been confirmed -- press accounts differ on whether '36 co-accused' whose case was closed includes these individuals or refers only to other officials/politicians.",
+    "Whether any Design Tech or Siemens-linked individual has since been convicted, and the current status of the ED's separate money-laundering prosecution as of September 2026, has not been confirmed.",
+    "Some press reports describe the alleged scam's value as 'Rs 550 crore' rather than Rs 371 crore; this entry uses the Rs 371-crore figure from the CID chargesheet as reported by Outlook India, but the discrepancy has not been independently reconciled.",
+    "No independent CAG or other third-party audit of the APSSDC Centres of Excellence project specifically has been located by this entry; the financial figures here come solely from investigative-agency chargesheets as reported by the press.",
+    "Whether the January 2026 closure order has been or can be challenged by a private complainant or the YSRCP through a protest petition or revision has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-ap-outlook",
+      "label": "What Is The Rs 371 Crore AP Skill Development Scam In Which Chandrababu Naidu Has Been Arrested?",
+      "type": "independent",
+      "publisher": "Outlook India",
+      "date": "2023-09-10",
+      "url": "https://www.outlookindia.com/national/what-is-the-rs-371-crore-ap-skill-development-scam-in-which-chandrababu-naidu-has-been-arrested--news-316929"
+    },
+    {
+      "id": "src-ap-amikus",
+      "label": "The Multi-Crore Skill Development Scam of Andhra Pradesh",
+      "type": "independent",
+      "publisher": "The Amikus Qriae",
+      "date": "2023-10-01",
+      "url": "https://theamikusqriae.com/the-multi-crore-skill-development-scam-of-andhra-pradesh/"
+    },
+    {
+      "id": "src-ap-gvsbhaskar",
+      "label": "AP skill development scam: CID arrests former Siemens employee GVS Bhaskar from UP",
+      "type": "independent",
+      "publisher": "NewsMeter",
+      "date": "2023-03-01",
+      "url": "https://newsmeter.in/regional/andhra-pradesh/ap-skill-development-scam-cid-arrests-siemens-employee-gvs-bhaskar-up-709168"
+    },
+    {
+      "id": "src-ap-naidu-arrest",
+      "label": "Andhra ex-CM Naidu arrested in Rs 550-cr skill development fraud case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2023-09-09",
+      "url": "https://www.tribuneindia.com/news/india/andhra-ex-cm-naidu-arrested-in-rs-550-cr-skill-development-fraud-case-542946"
+    },
+    {
+      "id": "src-ap-bail-interim",
+      "label": "Chandrababu Naidu, TDP chief and former Andhra CM, gets interim bail in skill development case",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2023-10-31",
+      "url": "https://www.indiatvnews.com/news/india/chandrababu-naidu-gets-interim-bail-in-skill-development-scam-case-latest-update-tdp-chief-former-andhra-pradesh-cm-2023-10-31-900515"
+    },
+    {
+      "id": "src-ap-bail-regular",
+      "label": "Chandrababu Naidu granted regular bail by Andhra Pradesh HC in skill development case",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2023-11-20",
+      "url": "https://www.indiatvnews.com/news/india/chandrababu-naidu-granted-regular-bail-andhra-pradesh-high-court-skill-development-case-latest-updates-2023-11-20-903576"
+    },
+    {
+      "id": "src-ap-chargesheet",
+      "label": "A.P. CID files chargesheet against Chandrababu Naidu in alleged skill development scam case",
+      "type": "independent",
+      "publisher": "The Hindu (via Inkl)",
+      "date": "2024-04-04",
+      "url": "https://www.inkl.com/news/a-p-cid-files-chargesheet-against-chandrababu-naidu-in-alleged-skill-development-scam-case"
+    },
+    {
+      "id": "src-ap-sc-bail",
+      "label": "SC dismisses plea challenging Chandrababu Naidu's bail in skill development scam",
+      "type": "independent",
+      "publisher": "The South First",
+      "date": "2025-01-15",
+      "url": "https://thesouthfirst.com/andhrapradesh/sc-dismisses-plea-challenging-chandrababu-naidus-bail-in-skill-development-scam/"
+    },
+    {
+      "id": "src-ap-closure-notice",
+      "label": "CID will close case that sent Naidu to jail",
+      "type": "independent",
+      "publisher": "Sunday Guardian Live",
+      "date": "2025-12-20",
+      "url": "https://sundayguardianlive.com/news/cid-will-close-case-that-sent-naidu-to-jail-163298/"
+    },
+    {
+      "id": "src-ap-court-accepts",
+      "label": "ACB court approves closure of skill development scam case against Andhra CM Chandrababu Naidu",
+      "type": "independent",
+      "publisher": "The South First",
+      "date": "2026-01-13",
+      "url": "https://thesouthfirst.com/andhrapradesh/acb-court-approves-closure-of-skill-development-scam-case-against-andhra-cm-chandrababu-naidu/"
+    },
+    {
+      "id": "src-ap-ed-chargesheet",
+      "label": "ED files fresh chargesheet in Andhra Pradesh skills development case; finds no role of CM Naidu",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2026-02-01",
+      "url": "https://www.deccanherald.com/india/andhra-pradesh/ed-files-fresh-chargesheet-in-andhra-pradesh-skills-development-case-finds-no-role-of-cm-naidu-3882135"
+    },
+    {
+      "id": "src-ap-ysrcp-reaction",
+      "label": "CM Naidu misusing institutions to withdraw cases against himself: YSRCP",
+      "type": "independent",
+      "publisher": "The News Minute",
+      "date": "2026-01-14",
+      "url": "https://www.thenewsminute.com/andhra-pradesh/cm-naidu-misusing-institutions-to-withdraw-cases-against-himself-ysrcp"
+    }
+  ]
+}

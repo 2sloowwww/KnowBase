@@ -1,0 +1,143 @@
+{
+  "id": "KB-039",
+  "slug": "karti-chidambaram-inx-media-case",
+  "title": "The INX Media Case",
+  "dek": "A media company was cleared to receive far more foreign investment than it had applied for. Investigators say the extra approval came with a price — paid, they allege, to the finance minister's son.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 209,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-05-15",
+  "heroStat": {
+    "value": "₹305 cr",
+    "label": "in foreign investment INX Media received, against ₹4.62 cr it had sought approval for"
+  },
+  "promise": {
+    "quote": "Foreign Investment Promotion Board approvals will be granted strictly within the terms sought and approved, without personal financial benefit to the minister or his family.",
+    "madeBy": "Ministry of Finance, under then-Finance Minister P. Chidambaram",
+    "role": "Union ministry responsible for FIPB approvals",
+    "date": "2007-01-01",
+    "context": "INX Media Pvt Ltd sought FIPB approval for foreign direct investment of ₹4.62 crore in 2007; the CBI and ED allege that in exchange for illegal gratification the company was instead allowed to receive ₹305 crore, at a premium of ₹800 per share, in violation of the approved terms.",
+    "sourceIds": [
+      "src-inx-overview"
+    ]
+  },
+  "target": {
+    "description": "FIPB approval granted and enforced strictly within its terms, with any violation of approved investment limits acted upon rather than allowed to stand.",
+    "standard": "FIPB approval conditions and FDI regulations in force in 2007.",
+    "referenceDate": "2007-01-01"
+  },
+  "reality": {
+    "description": "The CBI and ED allege that Karti Chidambaram, son of then-Finance Minister P. Chidambaram, received illegal gratification — routed through entities he owned or controlled — in exchange for the FIPB violation being allowed to stand. The ED has quantified the total proceeds of crime at approximately ₹65.88 crore and has attached assets of roughly ₹53.93 crore and ₹11.04 crore under the Prevention of Money Laundering Act. In February 2026, the ED placed its prosecution sanction order against P. Chidambaram before the special PMLA court to move the trial forward.",
+    "asOfDate": "2026-02-26",
+    "sourceIds": [
+      "src-inx-proceeds",
+      "src-inx-sanction"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Investment approved vs. investment actually received",
+    "unit": "₹ crore",
+    "targetValue": 4.62,
+    "actualValue": 305,
+    "targetDisplay": "₹4.62 cr sought and approved",
+    "actualDisplay": "₹305 cr actually received",
+    "targetLabel": "Approved",
+    "actualLabel": "Received",
+    "note": "This gap describes the scale of the regulatory violation itself — a roughly 66-fold overshoot of the approved investment limit — not the alleged bribe amount, which the ED separately quantifies at about ₹65.88 crore."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 65.88,
+    "allocatedLabel": "Alleged proceeds of crime (ED estimate)",
+    "released": 64.97,
+    "releasedLabel": "Assets attached under PMLA (combined orders)",
+    "spent": null,
+    "spentLabel": "Amount confiscated after trial",
+    "unit": "crore",
+    "notes": "No trial verdict has been reached; asset attachment under PMLA is a provisional, pre-trial measure and does not itself establish guilt.",
+    "sourceIds": [
+      "src-inx-proceeds"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2007-01-01",
+      "label": "FIPB approval and violation",
+      "detail": "INX Media receives FIPB clearance for ₹4.62 crore but goes on to receive ₹305 crore.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-05-15",
+      "label": "CBI registers case",
+      "detail": "The agency opens a criminal investigation into the FIPB approval.",
+      "type": "status"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "ED opens money-laundering case",
+      "detail": "The agency quantifies alleged proceeds of crime and begins asset attachment.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-26",
+      "label": "Prosecution sanction filed",
+      "detail": "The ED places its prosecution sanction order against P. Chidambaram before the special PMLA court to expedite trial.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No trial verdict has been reached. Both P. Chidambaram and Karti Chidambaram have previously been granted bail in this matter, and the case is moving toward trial following the 2026 prosecution sanction filing.",
+    "keyIndividuals": [
+      {
+        "name": "P. Chidambaram",
+        "role": "Former Union Finance Minister",
+        "outcome": "Named in the CBI and ED cases; the ED filed its prosecution sanction order against him in February 2026 to advance the trial. No verdict; presumed innocent pending trial."
+      },
+      {
+        "name": "Karti Chidambaram",
+        "role": "Businessman; son of P. Chidambaram",
+        "outcome": "Alleged by the ED to have received proceeds of crime via entities he controlled. No verdict; presumed innocent pending trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the FIPB violation itself is a documented regulatory fact. The allegation that it was procured through kickbacks to the minister's son is the subject of an active prosecution that, after nearly a decade, has not yet reached trial verdict.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases, and the core bribery allegation remains unproven at trial."
+  },
+  "incomplete": [
+    "This is a stub entry. The case's full chargesheet allegations and the current trial timetable have not been detailed here.",
+    "This investigation has not confirmed whether the ₹64.97 crore in attached assets overlaps with or is distinct from earlier attachment orders in the case.",
+    "The relationship between this case and the related Aircel-Maxis case, also covered on this site, has not been fully mapped."
+  ],
+  "sources": [
+    {
+      "id": "src-inx-overview",
+      "label": "INX Media: The Case That Led To Chidambaram's Downfall",
+      "type": "independent",
+      "publisher": "Outlook India",
+      "date": "2019-01-01",
+      "url": "https://www.outlookindia.com/national/india-news-inx-media-the-case-that-led-to-chidambarams-downfall-news-336896"
+    },
+    {
+      "id": "src-inx-proceeds",
+      "label": "ED makes next move in INX Media case, gets prosecution sanction against ex-Union minister Chidambaram",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2026-02-26",
+      "url": "https://theprint.in/india/chidambaram-son-karti-got-rs-3cr-from-inx-invested-it-in-vasan-healthcare-ed-chargesheet/434546/"
+    },
+    {
+      "id": "src-inx-sanction",
+      "label": "INX Media case: ED places prosecution nod against P Chidambaram in court",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2026-02-26",
+      "url": "https://www.businesstoday.in/india/story/inx-media-case-ed-places-prosecution-nod-against-p-chidambaram-in-court-518235-2026-02-26"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "KB-053",
+  "slug": "ethanol-tender-bid-rigging-case",
+  "title": "The Ethanol Tender Bid-Rigging Case — and Its Reversal",
+  "dek": "India's competition watchdog fined 18 sugar mills ₹38 crore for rigging a government ethanol tender. An appeal found the watchdog's own order procedurally broken — and when it reheard the case, the watchdog itself dismissed every allegation.",
+  "category": "Natural Resources",
+  "status": "acquitted-or-closed",
+  "severity": "minor",
+  "severityRank": 263,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-09-18",
+  "heroStat": {
+    "value": "₹38 cr → ₹0",
+    "label": "penalty the Competition Commission first imposed on 18 sugar mills for ethanol bid-rigging in 2018, before the watchdog itself dismissed every allegation in 2024"
+  },
+  "promise": {
+    "quote": "Bids submitted in response to a public tender must be prepared independently, without any understanding, agreement, or arrangement with any competitor regarding prices, terms, or conditions.",
+    "madeBy": "Indian Oil Corporation, Hindustan Petroleum Corporation Limited, and Bharat Petroleum Corporation Limited",
+    "role": "State-owned oil marketing companies conducting a joint public procurement tender for ethanol, for blending with petrol",
+    "date": "2013-01-02",
+    "context": "This reflects the standard anti-collusion bidding certification typical of Indian government procurement tenders, rather than a verified quotation from this specific tender's own paperwork, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-ethanol-pib"
+    ]
+  },
+  "target": {
+    "description": "That ethanol suppliers competing for the oil marketing companies' joint procurement tender would bid independently and competitively, without price coordination among competitors, as required for public-sector procurement under Indian competition law.",
+    "standard": "Section 3 of the Competition Act, 2002, which prohibits anti-competitive agreements including bid-rigging and cartelisation among competitors in a tender.",
+    "referenceDate": "2013-01-02"
+  },
+  "reality": {
+    "description": "In September 2018, the Competition Commission of India found that 18 sugar mills and two trade associations — the Indian Sugar Mills Association and the Ethanol Manufacturers Association of India — had colluded in bidding for the oil marketing companies' 2013 joint ethanol tender, and imposed a combined penalty of roughly ₹38 crore. The sugar mills appealed, arguing the CCI's own procedural handling was flawed: the case had been heard by six commission members over multiple sittings, but the final order was signed and pronounced by only three. On 10 October 2023, the National Company Law Appellate Tribunal set aside the CCI's 2018 order on those procedural grounds and remanded the matter for a fresh hearing. On reconsideration, the CCI reversed course: on 22 July 2024, it dismissed the cartel allegations entirely, holding that similar bid pricing among the mills ('price parallelism') was not, on its own, sufficient evidence of collusion, and that the additional 'plus factors' it had earlier relied on — meetings and phone calls between mill representatives and industry associations — could be explained as routine discussion of policy changes and tender terms rather than coordination.",
+    "asOfDate": "2024-07-22",
+    "sourceIds": [
+      "src-ethanol-nclat",
+      "src-ethanol-cci-dismissal"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Penalty the CCI originally imposed vs. penalty upheld after appeal and reconsideration",
+    "unit": "INR crore",
+    "targetValue": 38,
+    "actualValue": 0,
+    "targetDisplay": "₹38 cr imposed, 2018",
+    "actualDisplay": "₹0 upheld, 2024",
+    "targetLabel": "Original penalty",
+    "actualLabel": "Final outcome",
+    "note": "The CCI's own final position, after an appellate remand, was that the original bid-rigging finding could not be sustained on the evidence. This case is included specifically because its own regulator reversed itself on review — an outcome easy to miss if only the original, more dramatic 2018 penalty is remembered."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-01-02",
+      "label": "Joint ethanol tender floated",
+      "detail": "IOC, HPCL, and BPCL invite bids for ethanol procurement for blending with petrol.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-09-18",
+      "label": "CCI imposes ₹38 crore penalty",
+      "detail": "Finds 18 sugar mills and two associations guilty of bid-rigging in the 2013 tender.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-10-10",
+      "label": "NCLAT sets aside the CCI's 2018 order",
+      "detail": "Cites a procedural defect — the order was signed by only three of the six members who heard the case — and remands the matter for a fresh hearing.",
+      "type": "delay"
+    },
+    {
+      "date": "2024-07-22",
+      "label": "CCI dismisses all cartel allegations",
+      "detail": "On reconsideration, finds price similarity alone insufficient to prove collusion.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This matter is fully closed. After an appellate tribunal voided the CCI's original 2018 penalty on procedural grounds, the CCI itself reconsidered the case on the merits and dismissed the bid-rigging allegations against all 18 sugar mills and both trade associations in July 2024. No penalty stands, and no appeal against the 2024 dismissal has been reported."
+  },
+  "verdict": {
+    "summary": "This is one of the few cases on this site whose own regulator reversed itself: a real ₹38 crore penalty for ethanol bid-rigging, imposed in 2018 with findings of collusion, was voided on procedural grounds on appeal and then dismissed on the merits by the same competition regulator in 2024. It is included here specifically as an example of a real allegation that did not hold up on review — this site reports that outcome rather than only the more dramatic original penalty.",
+    "confidence": "high",
+    "reasoning": "The CCI's original order, the NCLAT's 2023 remand and its stated procedural reasoning, and the CCI's 2024 dismissal are each independently documented in contemporaneous legal-industry reporting citing the underlying orders."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CCI's original 2018 order, the NCLAT's 2023 ruling, or the CCI's 2024 dismissal order directly — it relies on legal-industry reporting summarising each.",
+    "The exact date the sugar mills filed their appeal with the NCLAT has not been confirmed and is omitted from the timeline above."
+  ],
+  "sources": [
+    {
+      "id": "src-ethanol-pib",
+      "label": "CCI imposes penalties upon Sugar Mills and their Associations for rigging the bids in respect of Joint Tender floated by Oil Marketing Companies for procurement of Ethanol for blending with Petrol",
+      "type": "primary",
+      "publisher": "Press Information Bureau, Government of India",
+      "date": "2018-09-19",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1546553&reg=48&lang=2"
+    },
+    {
+      "id": "src-ethanol-nclat",
+      "label": "NCLAT Sets Aside CCI Order Imposing a Penalty of INR 38.05 Crore (Approx. US$ 4.6 Million) on 18 Sugar Mills and Two Trade Associations",
+      "type": "independent",
+      "publisher": "AZB & Partners",
+      "date": "2023-10-10",
+      "url": "https://www.azbpartners.com/bank/nclat-sets-aside-cci-order-imposing-a-penalty-of-inr-38-05-crore-approx-us-4-6-million-on-18-sugar-mills-and-two-trade-associations/"
+    },
+    {
+      "id": "src-ethanol-cci-dismissal",
+      "label": "From Guilt to Exoneration: The CCI's Controversial U-Turn in The Sugar Cartelisation Case",
+      "type": "independent",
+      "publisher": "Centre for Competition Law, National Law University Odisha",
+      "date": "2024-08-01",
+      "url": "https://ccl.nluo.ac.in/post/from-guilt-to-exoneration-the-cci-s-controversial-u-turn-in-the-sugar-cartelisation-case"
+    }
+  ]
+}

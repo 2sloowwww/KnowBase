@@ -1,0 +1,128 @@
+{
+  "id": "KB-2600",
+  "slug": "pahalgam-attack-operation-sindoor",
+  "title": "The Pahalgam Attack and Operation Sindoor",
+  "dek": "After 26 civilians were killed in an April 2025 terror attack in Kashmir, India launched cross-border strikes and fought a four-day military exchange with Pakistan — ending in a ceasefire whose durability, and whose precise military outcome, remain disputed.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 41,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-04-22",
+  "heroStat": {
+    "value": "26",
+    "label": "civilians killed by Lashkar-e-Taiba-linked gunmen at Pahalgam, the deadliest attack on tourists in Kashmir in decades"
+  },
+  "promise": {
+    "quote": "India will identify, track and punish every terrorist and their backers... we will pursue them to the ends of the earth.",
+    "madeBy": "Narendra Modi",
+    "role": "Prime Minister of India",
+    "date": "2025-04-24",
+    "context": "Statement made days after the April 22, 2025 attack at Baisaran meadow near Pahalgam, in which gunmen killed 26 civilians, mostly tourists, after reportedly separating victims by religion.",
+    "sourceIds": [
+      "src-sindoor-mea",
+      "src-sindoor-aljazeera"
+    ]
+  },
+  "target": {
+    "description": "A decisive, proportionate response that would dismantle cross-border terror infrastructure without escalating into a sustained India-Pakistan war, followed by a durable reduction in terrorism emanating from Pakistani soil.",
+    "standard": "Government's own stated objective of 'precise, measured and non-escalatory' strikes on terror infrastructure, per the Foreign Secretary's May 7, 2025 statement on Operation Sindoor.",
+    "referenceDate": "2025-05-07"
+  },
+  "reality": {
+    "description": "On May 7, 2025, India launched Operation Sindoor, striking what it described as nine terror camps in Pakistan and Pakistan-administered Kashmir, including sites at Bahawalpur and Muridke. Pakistan disputed the extent of damage and retaliated with drone and artillery strikes; the two air forces engaged in what analysts called one of the largest aerial engagements between modern air forces in decades. Fighting continued for four days along the border and in the air before a ceasefire was announced on May 10, 2025, reportedly brokered with US involvement — a claim India has downplayed. Independent verification of the number of camps destroyed and militants killed remains limited, with only a handful of strike sites corroborated by satellite imagery or third-party analysis.",
+    "asOfDate": "2026-09-01",
+    "sourceIds": [
+      "src-sindoor-aljazeera-strikes",
+      "src-sindoor-carnegie"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Terror camps India said were struck vs. sites independently corroborated",
+    "unit": "camps",
+    "targetValue": 9,
+    "actualValue": 2,
+    "targetDisplay": "9 camps (Indian government's claim)",
+    "actualDisplay": "~2 sites (Bahawalpur, Muridke) with independently corroborated strike evidence",
+    "targetLabel": "Claimed",
+    "actualLabel": "Independently corroborated",
+    "note": "This is an approximate figure. Independent military analysts have been able to corroborate strikes at only a subset of the claimed sites using open-source and satellite evidence; the rest remain officially claimed but not independently verified either way."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-04-22",
+      "label": "Pahalgam attack",
+      "detail": "Gunmen kill 26 civilians, mostly tourists, at Baisaran meadow near Pahalgam in Jammu & Kashmir; India blames Pakistan-based Lashkar-e-Taiba.",
+      "type": "status"
+    },
+    {
+      "date": "2025-05-07",
+      "label": "Operation Sindoor launched",
+      "detail": "India strikes what it says are nine terror camps in Pakistan and Pakistan-administered Kashmir.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-05-10",
+      "label": "Ceasefire announced",
+      "detail": "After four days of cross-border strikes, drone exchanges and the largest aerial engagement between the two air forces in years, a ceasefire is announced; the two governments gave differing accounts of how it came about.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-01",
+      "label": "Military lessons assessments published",
+      "detail": "Think tanks including the Carnegie Endowment publish assessments of the conflict's military lessons, noting gaps between official claims and independently verifiable outcomes on both sides.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry covering a military and diplomatic episode rather than a prosecutable case. No individual perpetrators of the Pahalgam attack have been publicly identified as captured or convicted as of this entry's publication.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: India carried out a real, significant military response to a real, deadly terror attack, and a ceasefire has held since May 2025. But the precise military outcome, the brokering of the ceasefire, and the durability of any reduction in cross-border terrorism remain contested and not independently settled.",
+    "confidence": "low",
+    "reasoning": "This entry was added to place a major 2025 national-security event in the site's timeline. Claims from both governments about strike damage and the ceasefire's origin diverge sharply and have not been independently reconciled here."
+  },
+  "incomplete": [
+    "The precise extent of damage to Pakistani terror infrastructure has not been independently verified beyond a handful of sites.",
+    "India and the US have given conflicting accounts of whether US pressure brokered the May 10 ceasefire; Pakistan's account also differs. This entry does not adjudicate between them.",
+    "Whether the operation produced a durable reduction in cross-border terrorism, as opposed to a pause, has not been assessed here given the short time elapsed."
+  ],
+  "sources": [
+    {
+      "id": "src-sindoor-mea",
+      "label": "Statement by Foreign Secretary: Operation Sindoor",
+      "type": "primary",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "date": "2025-05-07",
+      "url": "https://www.mea.gov.in/Speeches-Statements.htm?dtl%2F39473%2FStatement_by_Foreign_Secretary_OPERATION_SINDOOR="
+    },
+    {
+      "id": "src-sindoor-aljazeera",
+      "label": "Operation Sindoor: What's the significance of India's Pakistan targets?",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2025-05-07",
+      "url": "https://www.aljazeera.com/news/2025/5/7/operation-sindoor-whats-the-significance-of-indias-pakistan-targets"
+    },
+    {
+      "id": "src-sindoor-aljazeera-strikes",
+      "label": "Pahalgam attack anniversary: how India's anti-terrorism strategy changed",
+      "type": "independent",
+      "publisher": "India.com, citing wire reporting",
+      "date": "2026-04-22",
+      "url": "https://www.india.com/news/india/pahalgam-attack-anniversary-operation-sindoor-india-anti-terrorism-strategy-pakistan-terrorists-massacred-25-tourists-pm-modi-government-updates-8389299/"
+    },
+    {
+      "id": "src-sindoor-carnegie",
+      "label": "Military Lessons from Operation Sindoor",
+      "type": "independent",
+      "publisher": "Carnegie Endowment for International Peace",
+      "date": "2025-10-01",
+      "url": "https://carnegieendowment.org/research/2025/10/military-lessons-from-operation-sindoor?lang=en"
+    }
+  ]
+}

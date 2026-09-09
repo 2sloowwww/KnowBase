@@ -1,0 +1,179 @@
+{
+  "id": "KB-1301",
+  "slug": "snc-lavalin-kerala-hydroelectric-case",
+  "title": "The SNC-Lavalin Kerala Hydroelectric Case",
+  "dek": "A 1996 renovation contract for three ageing Idukki hydroelectric stations, awarded to Canadian firm SNC-Lavalin, was later alleged to have cost the state exchequer ₹374.5 crore through irregular procurement and a linked donation to a cancer hospital. Three decades on, the courts have twice cleared the official at the centre of the case — a discharge the CBI is still, on paper, contesting.",
+  "category": "Public Spending",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 234,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2005-07-01",
+  "heroStat": {
+    "value": "₹374.5 cr",
+    "label": "alleged loss to the exchequer from the 1996-98 KSEB-SNC-Lavalin renovation contract"
+  },
+  "promise": {
+    "quote": "The renovation and modernisation of the Pallivasal, Sengulam and Panniar hydroelectric stations will be carried out transparently and in the state's financial interest, with no favour shown to the foreign contractor.",
+    "madeBy": "Kerala State Electricity Board, under Power Minister Pinarayi Vijayan",
+    "role": "State power minister overseeing the Kerala State Electricity Board (KSEB) during the contract's negotiation and award",
+    "date": "1996-02-24",
+    "context": "This reflects the baseline expectation of an arms-length, financially sound public contract, against which the case's allegations are measured; it is not a literal quoted pledge. The KSEB board finalised a consultancy deal with SNC-Lavalin on this date, following an August 1995 memorandum of understanding, for the renovation of three hydroelectric stations in Idukki district originally built between 1940 and 1964.",
+    "sourceIds": [
+      "src-lavalin-manorama-chronology"
+    ]
+  },
+  "target": {
+    "description": "A hydroelectric renovation contract awarded and executed through standard public-procurement processes, with machinery and consultancy costs reflecting genuine value and no undue benefit to the contractor or improper inducements to officials.",
+    "standard": "Kerala State Electricity Board procurement norms and standard public contracting law.",
+    "referenceDate": "1996-02-24"
+  },
+  "reality": {
+    "description": "KSEB sanctioned a final contract worth ₹374.50 crore with SNC-Lavalin in January 1998, after a process that a July 2005 CAG report found involved substantial financial losses and procedural deviations, including reducing competitive scrutiny of machinery costs and a subsidiary's proposal, during the minister's Canada visit, to fund Kerala's Malabar Cancer Centre as an apparent precondition of the deal. A state vigilance inquiry recommended prosecuting nine people, including then-Power Minister Pinarayi Vijayan, and the case was transferred to the CBI in March 2006. The CBI's special court in Thiruvananthapuram discharged Vijayan and six others on 5 November 2013, finding the agency had failed to prove any of its charges or establish dishonest intent or undue pecuniary advantage. The Kerala High Court upheld that discharge for Vijayan and two former KSEB officials on 23 August 2017, while directing three other accused to stand trial. The CBI's appeal against Vijayan's discharge has remained pending before the Supreme Court for years, adjourned dozens of times, with a hearing dated for final arguments on 1 May 2024 not producing a reported final verdict as of this entry's research. Vijayan went on to serve two terms as Kerala's Chief Minister before his Left Democratic Front lost the 2026 Kerala assembly election and he resigned in May 2026.",
+    "asOfDate": "2026-05-01",
+    "sourceIds": [
+      "src-lavalin-wiki",
+      "src-lavalin-manorama-chronology",
+      "src-lavalin-sc-adjourn"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the CBI special court's discharge vs. Supreme Court final ruling on the CBI's appeal",
+    "unit": "years",
+    "targetValue": 13,
+    "actualValue": 0,
+    "targetDisplay": "13 years since discharge",
+    "actualDisplay": "0 final Supreme Court ruling",
+    "targetLabel": "Years since 2013 discharge",
+    "actualLabel": "Final Supreme Court ruling on CBI's appeal",
+    "note": "The CBI special court discharged the lead accused in November 2013 and the Kerala High Court upheld that discharge in August 2017; the CBI's further appeal has been before the Supreme Court for years with no final ruling reported as of publication, despite dozens of adjournments."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 374.5,
+    "allocatedLabel": "Value of the KSEB-SNC-Lavalin contract sanctioned in January 1998",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The ₹374.5 crore figure is the contract value the 2005 CAG report and subsequent vigilance inquiry treated as the basis for the alleged loss to the exchequer; it is not a separately verified 'loss' figure distinct from the contract's cost.",
+    "sourceIds": [
+      "src-lavalin-manorama-chronology"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1995-08-10",
+      "label": "KSEB signs MoU with SNC-Lavalin",
+      "detail": "The Kerala State Electricity Board signs a memorandum of understanding with the Canadian firm for renovation of three ageing hydroelectric stations in Idukki district.",
+      "type": "announcement"
+    },
+    {
+      "date": "1996-02-24",
+      "label": "Consultancy deal finalised",
+      "detail": "The KSEB board finalises the consultancy agreement, worth roughly ₹24.31 crore, with SNC-Lavalin.",
+      "type": "milestone"
+    },
+    {
+      "date": "1998-01-25",
+      "label": "Final ₹374.5 crore contract sanctioned",
+      "detail": "KSEB sanctions the final renovation and machinery-supply contract with SNC-Lavalin.",
+      "type": "milestone"
+    },
+    {
+      "date": "2005-07-01",
+      "label": "CAG flags losses and procedural deviations",
+      "detail": "A Comptroller and Auditor General report identifies substantial financial losses and procedural irregularities in the deal, first bringing the matter into public scrutiny.",
+      "type": "status"
+    },
+    {
+      "date": "2006-02-01",
+      "label": "Vigilance names Pinarayi Vijayan among accused",
+      "detail": "A state vigilance preliminary report names eight people, including then-Power Minister Pinarayi Vijayan, for prosecution.",
+      "type": "status"
+    },
+    {
+      "date": "2006-03-01",
+      "label": "Case transferred to CBI",
+      "detail": "The state government under Chief Minister Oommen Chandy transfers the investigation to the Central Bureau of Investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2009-06-11",
+      "label": "CBI files chargesheet",
+      "detail": "The CBI files a chargesheet naming nine accused in connection with the 1995-98 contract.",
+      "type": "status"
+    },
+    {
+      "date": "2013-11-05",
+      "label": "Special court discharges Vijayan and six others",
+      "detail": "The CBI special court in Thiruvananthapuram discharges Pinarayi Vijayan and six co-accused, finding the CBI could not prove its charges.",
+      "type": "status"
+    },
+    {
+      "date": "2017-08-23",
+      "label": "Kerala High Court upholds discharge",
+      "detail": "The High Court rejects the CBI's petition and upholds the discharge of Vijayan and two former KSEB officials, while directing three other accused to stand trial.",
+      "type": "status"
+    },
+    {
+      "date": "2024-05-01",
+      "label": "Supreme Court sets 'final hearing' date",
+      "detail": "The Supreme Court schedules what is described as a final hearing on the CBI's long-pending appeal against Vijayan's discharge; no final ruling from this or subsequent hearings was located as of this entry's research.",
+      "type": "delay"
+    },
+    {
+      "date": "2026-05-05",
+      "label": "Vijayan resigns as Kerala Chief Minister",
+      "detail": "Following the Left Democratic Front's defeat in the 2026 Kerala assembly election, Pinarayi Vijayan resigns as Chief Minister; the case against him proceeds independently of his political office.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Pinarayi Vijayan has been discharged of the core allegations by both the CBI's special court (2013) and the Kerala High Court (2017); the CBI's appeal to the Supreme Court against that discharge has been pending and repeatedly adjourned for years, with no final ruling reported as of publication. Three other accused were directed by the High Court to stand trial in 2017; this entry has not confirmed the outcome of their proceedings.",
+    "keyIndividuals": [
+      {
+        "name": "Pinarayi Vijayan",
+        "role": "Kerala Power Minister at the time of the contract (1996-98); later Chief Minister of Kerala (2016-2026)",
+        "outcome": "Discharged by the CBI special court in 2013 and by the Kerala High Court in 2017; the CBI's Supreme Court appeal against the discharge remains pending, without a final ruling reported as of publication. Presumed to have committed no offence unless and until the Supreme Court holds otherwise."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Two courts have independently found that the CBI's evidence did not support prosecuting Pinarayi Vijayan over the SNC-Lavalin contract, and the case has already outlived his decade-long tenure as Chief Minister without the Supreme Court delivering a final verdict on the CBI's appeal. This site records the case as effectively closed at the trial and appellate level, with only a long-pending, repeatedly adjourned Supreme Court appeal keeping it formally open.",
+    "confidence": "medium",
+    "reasoning": "The contract's history, the 2005 CAG findings, and the 2013 and 2017 court discharges are corroborated across multiple independent sources including a detailed contemporaneous chronology. Confidence is not higher because this entry has not reviewed the CBI chargesheet, the discharge orders, or the Supreme Court's docket directly, and could not confirm whether the Supreme Court has ruled on the CBI's appeal since the reported 2024 hearing date, nor the final outcome for the three accused directed to stand trial."
+  },
+  "incomplete": [
+    "This entry could not confirm the outcome of the Supreme Court's 'final hearing,' scheduled for 1 May 2024, on the CBI's appeal against Vijayan's discharge, nor whether the appeal remains pending as of September 2026.",
+    "The outcome of the trial for the three accused (identified in some reporting as M. Kasthuriranga Iyer, G. Rajasekharan Nair and R. Sivadasan) whom the Kerala High Court directed to stand trial in 2017 has not been verified.",
+    "This entry has not reviewed the CBI chargesheet, the 2013 discharge order, or the 2017 High Court judgment directly, relying on secondary reporting and a detailed news chronology throughout."
+  ],
+  "sources": [
+    {
+      "id": "src-lavalin-wiki",
+      "label": "SNC-Lavalin Kerala hydroelectric scandal",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2025-06-01",
+      "url": "https://en.wikipedia.org/wiki/SNC-Lavalin_Kerala_hydroelectric_scandal"
+    },
+    {
+      "id": "src-lavalin-manorama-chronology",
+      "label": "What is Pinarayi's connection to infamous SNC-Lavalin case: chronology of events",
+      "type": "independent",
+      "publisher": "Onmanorama",
+      "date": "2017-08-23",
+      "url": "https://www.onmanorama.com/news/kerala/2017/08/23/snc-lavalin-case-chronology-of-events.html"
+    },
+    {
+      "id": "src-lavalin-sc-adjourn",
+      "label": "Supreme Court Posts SNC Lavalin Case For Final Hearing On May 1, 2024",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2024-02-01",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-snc-lavalin-case-hearing-adjourned-to-may-248644"
+    }
+  ]
+}

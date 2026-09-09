@@ -1,0 +1,119 @@
+{
+  "id": "KB-033",
+  "slug": "neet-ug-2026-controversy",
+  "title": "The 2026 NEET-UG Controversy",
+  "dek": "Two years after the 2024 leak forced a national reckoning, India's medical entrance exam was compromised again — this time by a pre-circulated guess paper that turned out to overlap with the real one.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 109,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2026-05-12",
+  "heroStat": {
+    "value": "2.27M",
+    "label": "aspirants whose exam was cancelled and had to be re-scheduled"
+  },
+  "promise": {
+    "quote": "The National Eligibility cum Entrance Test will be conducted securely and fairly for every one of the millions of students competing for medical and dental college seats.",
+    "madeBy": "National Testing Agency (NTA), Government of India",
+    "role": "Central testing body responsible for conducting NEET-UG",
+    "date": "2026-05-03",
+    "context": "NEET-UG 2026 was held on 3 May 2026 for over 2.27 million aspirants, less than two years after a 2024 paper leak had already forced a national reckoning over the exam's security.",
+    "sourceIds": [
+      "src-neet2026-overview"
+    ]
+  },
+  "target": {
+    "description": "An exam conducted with a secure, uncirculated question paper, assessed strictly on merit with no advance access for any candidate.",
+    "standard": "NTA's own examination-security protocols, reinforced after the 2024 leak.",
+    "referenceDate": "2026-05-03"
+  },
+  "reality": {
+    "description": "Investigators found significant overlap between a guess paper that had circulated before the exam and the actual question paper used, leading to the exam's cancellation on 12 May 2026 and arrests including NTA insiders. Manisha Sanjay Havaldar, a Pune schoolteacher who had been appointed an NTA subject expert, was arrested by the CBI on 22 May 2026 after confessing she had recalled physics questions from her expert-review role and shared them with a student.",
+    "asOfDate": "2026-05-22",
+    "sourceIds": [
+      "src-neet2026-cancel",
+      "src-neet2026-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the 2024 leak forced reform promises vs. years until a comparable breach recurred",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 2,
+    "targetDisplay": "0 — reforms promised to prevent recurrence",
+    "actualDisplay": "2 years until a comparable breach",
+    "targetLabel": "Promised",
+    "actualLabel": "Actual gap",
+    "note": "This metric captures the recurrence itself, not a financial loss: the exam's integrity was compromised again within two exam cycles of the 2024 scandal that this site also covers separately."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2026-05-03",
+      "label": "Exam conducted",
+      "detail": "NEET-UG 2026 is held nationwide for over 2.27 million candidates.",
+      "type": "announcement"
+    },
+    {
+      "date": "2026-05-12",
+      "label": "Exam cancelled",
+      "detail": "The NTA cancels the exam after finding a pre-circulated guess paper overlapped substantially with the actual questions.",
+      "type": "status"
+    },
+    {
+      "date": "2026-05-22",
+      "label": "NTA insider arrested",
+      "detail": "The CBI arrests Manisha Sanjay Havaldar, an NTA-appointed subject expert, who confesses to sharing recalled physics questions.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. At least one NTA-linked individual has confessed and been arrested; this investigation has not yet traced the full scope of arrests or any trial outcome.",
+    "keyIndividuals": [
+      {
+        "name": "Manisha Sanjay Havaldar",
+        "role": "Schoolteacher; NTA-appointed subject expert for NEET-UG",
+        "outcome": "Arrested by the CBI, 22 May 2026, after confessing to sharing recalled exam questions with a student. This investigation has not confirmed a trial outcome."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the exam's cancellation and at least one confessed breach by an NTA-appointed insider are documented. This investigation has not yet established the full scope of the breach, how many candidates were affected beyond the cancellation itself, or whether the exam-security reforms promised after the 2024 leak (covered separately on this site) were actually implemented before this recurrence.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn from reporting on very recent events. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. The full scope of arrests and the eventual rescheduled exam's outcome have not yet been documented here.",
+    "Whether the specific reforms promised after the 2024 NEET-UG leak were implemented before this 2026 recurrence has not been independently assessed.",
+    "It is not established whether the guess-paper overlap affected the exam nationally or was limited to specific centres."
+  ],
+  "sources": [
+    {
+      "id": "src-neet2026-overview",
+      "label": "2026 NEET controversy",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2026-05-01",
+      "url": "https://en.wikipedia.org/wiki/2026_NEET_controversy"
+    },
+    {
+      "id": "src-neet2026-cancel",
+      "label": "From NEET to Vyapam: India's Biggest Exam Leak Scandals",
+      "type": "independent",
+      "publisher": "Forbes India",
+      "date": "2026-05-01",
+      "url": "https://www.forbesindia.com/article/news/from-vyapam-to-neet-indias-exam-leak-crises/2993894/1"
+    },
+    {
+      "id": "src-neet2026-arrest",
+      "label": "List of paper leaks in India",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2026-05-22",
+      "url": "https://en.wikipedia.org/wiki/List_of_paper_leaks_in_India"
+    }
+  ]
+}

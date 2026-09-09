@@ -1,0 +1,111 @@
+{
+  "id": "KB-3034",
+  "slug": "scorpene-submarine-data-leak",
+  "title": "The Scorpene Data Leak: 22,400 Pages on India's Newest Submarines Surfaced Outside the Programme",
+  "dek": "Classified specifications for six French-designed Scorpene submarines being built for the Indian Navy leaked and reached an Australian newspaper. India and the manufacturer both said the leak did not originate in India and posed no critical risk -- an assessment that was never independently verified by a public inquiry.",
+  "category": "Defence & Security",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 903,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2016-08-23",
+  "heroStat": {
+    "value": "22,400 pages",
+    "label": "of leaked technical data on the combat capabilities of six Scorpene-class submarines being built for the Indian Navy"
+  },
+  "promise": {
+    "quote": "Design and combat-capability data for the Scorpene-class submarines being built in India under a technology-transfer arrangement with French manufacturer DCNS (now Naval Group) would be handled under strict confidentiality and security protocols throughout the programme.",
+    "madeBy": "DCNS (the French state-linked submarine manufacturer) and the Indian Navy/Ministry of Defence, as parties to the Scorpene submarine construction programme",
+    "role": "Manufacturer and end-user of the Scorpene submarine programme under a government-to-government defence contract",
+    "date": "2011-01-01",
+    "context": "India contracted with French manufacturer DCNS in the 2000s to build six Scorpene-class diesel-electric submarines domestically at Mazagon Dock Limited under a technology-transfer arrangement, with the first data reportedly compiled by DCNS for India in 2011.",
+    "sourceIds": [
+      "src-scorpene-diplomat"
+    ]
+  },
+  "target": {
+    "description": "Submarine design, sensor, weapons and stealth-capability data kept confidential between the manufacturer and the Indian Navy, with no leakage to third parties.",
+    "standard": "Contractual confidentiality obligations under the Scorpene construction agreement and India's Official Secrets Act",
+    "referenceDate": "2011-01-01"
+  },
+  "reality": {
+    "description": "In August 2016, The Australian newspaper reported it had reviewed roughly 22,400 pages of leaked technical documents detailing the combat capabilities, weapons systems, sensors and stealth characteristics of the six Scorpene-class submarines being built for India. The documents were reported to have originated with DCNS in France in 2011 and were suspected to have been removed by a former French Navy officer working as a DCNS subcontractor before reaching a company in Southeast Asia. DCNS launched its own inquiry, and Indian Navy officials said the source of the leak appeared to be overseas, not within India. India and France set up a joint committee to assess whether any submarine configurations needed to change as a result. Then-Navy Chief Admiral Sunil Lanba stated the leaked data predated 2010, did not include armament details, and did not constitute a critical leak. No public report of an independent Indian inquiry's findings, nor confirmation of who leaked the documents or was held accountable, was located.",
+    "asOfDate": "2016-12-02",
+    "sourceIds": [
+      "src-scorpene-diplomat",
+      "src-scorpene-ibtimes"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Scale of the leaked technical data versus public accountability for how it happened",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Full leak accounted for, source identified and consequences disclosed",
+    "actualDisplay": "22,400 pages leaked; Navy called it 'no critical leak' but no public findings on who was responsible or full accountability were released",
+    "targetLabel": "Expected accountability",
+    "actualLabel": "Actual disclosed outcome",
+    "note": "Official statements from the Indian Navy downplayed the leak's severity, but this entry could not verify that a full public inquiry report, naming those responsible, was ever released in India or France."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2011-01-01",
+      "label": "Leaked data reportedly compiled",
+      "detail": "The technical documents later leaked were reportedly compiled by DCNS in France for the Indian Scorpene programme around this time.",
+      "type": "status"
+    },
+    {
+      "date": "2016-08-23",
+      "label": "The Australian reports the leak",
+      "detail": "The Australian newspaper reveals it has reviewed about 22,400 pages of leaked Scorpene submarine data covering combat capabilities, sensors and stealth characteristics.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-08-24",
+      "label": "India and DCNS launch inquiries",
+      "detail": "The Indian Navy and French manufacturer DCNS each announce investigations into the source and scope of the leak.",
+      "type": "status"
+    },
+    {
+      "date": "2016-12-02",
+      "label": "India-France joint committee formed",
+      "detail": "Following months of assessment, India and France set up a joint committee to consider whether submarine configurations needed changes because of the leak.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal prosecution, court case, or named individual accused of the leak has been publicly confirmed in India in connection with this incident. The Indian Navy and DCNS both characterised the leak as originating overseas and downplayed its severity, but no comprehensive public inquiry report identifying the responsible party has been located.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "That a very large volume of sensitive submarine data leaked is not disputed -- it was independently reviewed and reported by a foreign newspaper. What remains unresolved is full public accountability: neither the Indian Navy's assurance that the leak was 'not critical' nor the joint India-France committee's conclusions have been matched by a published inquiry naming who was responsible or what remedial steps, if any, were taken.",
+    "confidence": "medium",
+    "reasoning": "The leak's occurrence and scale are well corroborated by multiple independent contemporaneous reports. Confidence is not 'high' because the Indian Navy's own risk assessment was never independently verified through a published inquiry, and this entry could not confirm whether any individual was ever identified or held accountable."
+  },
+  "incomplete": [
+    "No public report has been located confirming who specifically was responsible for removing the data from DCNS or how it reached Southeast Asia.",
+    "The full findings of the India-France joint committee formed in December 2016 were not made public in sources reviewed for this entry.",
+    "It is not independently verified whether the Indian Navy's assessment that the leak was 'not critical' was itself validated by any outside technical review."
+  ],
+  "sources": [
+    {
+      "id": "src-scorpene-diplomat",
+      "label": "Top Secret Data on India's New Stealth Attack Submarine Leaked",
+      "type": "independent",
+      "publisher": "The Diplomat",
+      "date": "2016-08-24",
+      "url": "https://thediplomat.com/2016/08/top-secret-data-on-indias-new-stealth-attack-submarine-leaked/"
+    },
+    {
+      "id": "src-scorpene-ibtimes",
+      "label": "Scorpene Submarines Data Leak: French Submarine Maker DCNS Hit By Massive Breach, India Launches Probe",
+      "type": "independent",
+      "publisher": "International Business Times",
+      "date": "2016-08-24",
+      "url": "https://www.ibtimes.com/scorpene-submarines-data-leak-french-submarine-maker-dcns-hit-massive-breach-india-2406403"
+    }
+  ]
+}

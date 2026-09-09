@@ -1,0 +1,121 @@
+{
+  "id": "KB-1507",
+  "slug": "sebi-hanif-shekh-pump-and-dump-scam",
+  "title": "The Hanif Shekh Stock Pump-and-Dump Scheme",
+  "dek": "SEBI says one man ran an 'industrial scale' scheme using 226 entities to pump and dump five listed stocks between 2017 and 2020 — netting ₹143.79 crore in illegal gains before regulators caught up, years later.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 239,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2026-06-01",
+  "heroStat": {
+    "value": "₹143.79 cr",
+    "label": "in illegal gains SEBI attributes to the scheme, against a ₹10 cr penalty on its alleged mastermind"
+  },
+  "promise": {
+    "quote": "Trading in Indian-listed securities will reflect genuine market forces, free of coordinated pump-and-dump schemes designed to manipulate share prices for a small group's benefit.",
+    "madeBy": "Securities and Exchange Board of India, as market regulator",
+    "role": "Regulator responsible for market integrity and investor protection",
+    "date": "2017-01-01",
+    "context": "SEBI's investigation found a scheme operating between 2017 and 2020 that manipulated the shares of five listed companies: Mauria Udyog, 7NR Retail, Darjeeling Ropeway Company, GBL Industries, and Vishal Fabrics.",
+    "sourceIds": [
+      "src-sebi-moneylife"
+    ]
+  },
+  "target": {
+    "description": "Share price movements driven by genuine investor demand and disclosed company fundamentals, not by a coordinated network of entities executing artificial trades to inflate prices before selling into the rise.",
+    "standard": "SEBI (Prohibition of Fraudulent and Unfair Trade Practices) Regulations.",
+    "referenceDate": "2017-01-01"
+  },
+  "reality": {
+    "description": "In a June 2026 order, SEBI found that Hanif Shekh orchestrated a pump-and-dump scheme across five listed stocks using SMS tips, artificial trades, and layered money trails, involving 226 entities playing designated roles. SEBI imposed a ₹10 crore penalty on Shekh and barred him from the securities market for seven years, while penalising 225 other individuals and entities with fines ranging from ₹5 lakh to ₹2 crore and market-access restrictions of up to six years. Four other named individuals — Navneet Kumar Sureka, Deepa Sureka, Malay Bhow, and Himanshu Shah — were fined ₹1 crore each with five-year bans. SEBI said the scheme, though not new in concept, was executed 'meticulously and on an almost industrial scale.'",
+    "asOfDate": "2026-06-01",
+    "sourceIds": [
+      "src-sebi-moneylife",
+      "src-sebi-vibes"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Illegal gains SEBI attributes to the scheme vs. the penalty imposed on its named mastermind",
+    "unit": "₹ crore",
+    "targetValue": 143.79,
+    "actualValue": 10,
+    "targetDisplay": "₹143.79 cr in illegal gains",
+    "actualDisplay": "₹10 cr penalty on Hanif Shekh",
+    "targetLabel": "Illegal gains",
+    "actualLabel": "Penalty on mastermind",
+    "note": "Total penalties across all 226 entities were not fully aggregated in the sources reviewed, so this gap compares the scheme's total illegal gains to only the mastermind's individual penalty, not the combined regulatory sanction."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "₹143.79 crore in alleged illegal gains across the scheme; individual penalties ranged from ₹5 lakh to ₹10 crore across 226 entities.",
+    "sourceIds": [
+      "src-sebi-moneylife"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017-01-01",
+      "label": "Scheme begins",
+      "detail": "The alleged pump-and-dump operation begins across five listed stocks.",
+      "type": "status"
+    },
+    {
+      "date": "2020-01-01",
+      "label": "Scheme period ends",
+      "detail": "SEBI's investigation covers manipulation activity through 2020.",
+      "type": "status"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "SEBI issues final order",
+      "detail": "SEBI penalises Hanif Shekh and 225 other entities, imposing a combined set of fines and multi-year market bans.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry describing a SEBI regulatory (administrative) order, not a criminal prosecution. Whether any of the penalised individuals have appealed to the Securities Appellate Tribunal has not been confirmed.",
+    "keyIndividuals": [
+      {
+        "name": "Hanif Shekh",
+        "role": "Alleged mastermind of the scheme",
+        "outcome": "Penalised ₹10 crore and barred from the securities market for seven years by SEBI's June 2026 order."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: SEBI's own order documents a large, coordinated manipulation scheme and imposes substantial penalties, though the regulatory action came years after the alleged manipulation occurred (2017-2020 vs. a 2026 order).",
+    "confidence": "medium",
+    "reasoning": "This entry is based on SEBI's own final order as reported by independent financial press, which is a reasonably authoritative source, though this investigation has not reviewed SEBI's full order text directly nor confirmed whether any appeal is pending."
+  },
+  "incomplete": [
+    "This is a stub entry; SEBI's full order document has not been directly reviewed, only press summaries of it.",
+    "Whether any penalised party has appealed to the Securities Appellate Tribunal has not been confirmed.",
+    "The combined total of all 226 entities' penalties has not been calculated here."
+  ],
+  "sources": [
+    {
+      "id": "src-sebi-moneylife",
+      "label": "226 Entities, ₹143.79 Crore Illegal Gains: How SEBI Exposed Stock Scam Built on SMS Tips, Artificial Trades and Layered Money Trails",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2026-06-01",
+      "url": "https://moneylife.in/article/226-entities-14379-crore-illegal-gains-how-sebi-exposed-stock-scam-built-on-sms-tips-artificial-trades-and-layered-money-trails/80928.html"
+    },
+    {
+      "id": "src-sebi-vibes",
+      "label": "Food Orders, WhatsApp & Fund Trails: How SEBI Cracked A Rs 143.79-Crore Stock Scam",
+      "type": "independent",
+      "publisher": "Vibes Of India",
+      "date": "2026-06-01",
+      "url": "https://www.vibesofindia.com/sebi-digital-trail-rs-143-79-crore-stock-manipulation-scam/"
+    }
+  ]
+}

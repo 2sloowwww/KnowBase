@@ -1,0 +1,144 @@
+{
+  "id": "KB-3029",
+  "slug": "colonel-vikas-pandey-army-fund-fraud",
+  "title": "The Colonel Vikas Pandey Regimental Fund Fraud",
+  "dek": "An Army battalion commander in Ladakh was trusted with a regimental welfare fund. A court martial found he quietly diverted lakhs of rupees from it into a bank account and used the proceeds to buy a flat in his wife's name.",
+  "category": "Defence & Security",
+  "status": "convicted",
+  "severity": "moderate",
+  "severityRank": 260,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2021-09-20",
+  "heroStat": {
+    "value": "₹63.66 lakh",
+    "label": "diverted from a regimental fund; officer sentenced to 6 years and cashiered"
+  },
+  "promise": {
+    "quote": "Regimental welfare funds, and the officers entrusted to administer them, would be used solely for the welfare of troops under the battalion's command, not for personal enrichment.",
+    "madeBy": "Colonel Vikas Pandey, Commanding Officer, 503 Army Service Corps Battalion",
+    "role": "Commanding officer of an Army Service Corps battalion under 3 Infantry Division, Ladakh",
+    "date": "2020-08-10",
+    "context": "As commanding officer, Pandey opened, operated and closed a 'Regimental Fund Account' at a bank in Leh using his official appointment and battalion stamp, a position of trust over funds meant for troop welfare.",
+    "sourceIds": [
+      "src-pandey-ssbcrack"
+    ]
+  },
+  "target": {
+    "description": "Regimental and welfare funds administered by a commanding officer should be used strictly for authorised battalion purposes, with no personal enrichment, as required under the Army Act and the Prevention of Corruption Act.",
+    "standard": "Army Act, 1950 (Section 52); Prevention of Corruption Act, 1988.",
+    "referenceDate": "2020-08-10"
+  },
+  "reality": {
+    "description": "A Summary General Court Martial in Chandigarh, presided over by a Brigadier with three Colonels as members, tried Colonel Vikas Pandey on one charge under Section 52(f) of the Army Act (intent to defraud) and six charges under the Prevention of Corruption Act, 1988. The trial, which began on 16 February 2025, concluded on the night of 16 August 2025 with a guilty verdict on all seven charges. The court found that between 10 August 2020 and 20 September 2021, Pandey illicitly received ₹63,66,096 into a Regimental Fund Account he had opened at a YES Bank branch in Leh using his official position, along with a further ₹4 lakh, and used part of the proceeds to buy a flat in Jaipur worth ₹32,60,000 registered in his wife's name — assets the court found disproportionate to his known income. He was sentenced to six years' rigorous imprisonment and cashiered (dismissed) from service.",
+    "asOfDate": "2025-08-16",
+    "sourceIds": [
+      "src-pandey-odishabytes",
+      "src-pandey-ssbcrack"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Funds diverted vs. funds shown to have been used for battalion welfare",
+    "unit": "₹ lakh",
+    "targetValue": 67.66,
+    "actualValue": 0,
+    "targetDisplay": "₹67.66 lakh total diverted (₹63.66 lakh + ₹4 lakh)",
+    "actualDisplay": "₹0 confirmed spent on troop welfare purposes",
+    "targetLabel": "Diverted",
+    "actualLabel": "Used for stated purpose",
+    "note": "Figure reflects the court's finding that the funds were personally appropriated rather than used for the battalion welfare purposes the account was meant to serve."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 0.6766,
+    "allocatedLabel": "Total funds diverted (₹63.66 lakh + ₹4 lakh)",
+    "released": null,
+    "releasedLabel": "Amount recovered by the Army",
+    "spent": 0.326,
+    "spentLabel": "Value of Jaipur flat bought with diverted funds",
+    "unit": "crore",
+    "notes": "Figures converted to crore for consistency; the core amounts are ₹63.66 lakh (regimental fund account), ₹4 lakh (separate receipt), and a ₹32.6 lakh flat purchase.",
+    "sourceIds": [
+      "src-pandey-ssbcrack"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-08-10",
+      "label": "Regimental Fund Account opened",
+      "detail": "Colonel Pandey opened a bank account at YES Bank, Leh, using his official appointment and battalion stamps.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-09-20",
+      "label": "Alleged diversion period ends",
+      "detail": "By this date, the court found Pandey had received ₹63,66,096 into the account and a further ₹4 lakh separately, disproportionate to his known income.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-16",
+      "label": "Court martial trial begins",
+      "detail": "A Summary General Court Martial began proceedings in Chandigarh under a Brigadier and three Colonels.",
+      "type": "status"
+    },
+    {
+      "date": "2025-08-16",
+      "label": "Guilty verdict on all seven charges",
+      "detail": "The court martial found Pandey guilty of intent to defraud under the Army Act and six counts under the Prevention of Corruption Act.",
+      "type": "status"
+    },
+    {
+      "date": "2025-08-16",
+      "label": "Sentenced and cashiered",
+      "detail": "Pandey was sentenced to six years' rigorous imprisonment and dismissed from service.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Colonel Vikas Pandey was convicted by a Summary General Court Martial on all seven charges and sentenced to six years' rigorous imprisonment plus dismissal from service. Any further appeal within military appellate channels was not confirmed.",
+    "keyIndividuals": [
+      {
+        "name": "Colonel Vikas Pandey",
+        "role": "Commanding Officer, 503 Army Service Corps Battalion, 3 Infantry Division, Ladakh",
+        "outcome": "Convicted on all seven charges by court martial on 16 August 2025; sentenced to 6 years' rigorous imprisonment and cashiered from service."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Army's own court martial process worked as designed here: a commanding officer's misuse of a welfare fund was investigated, tried and punished with a lengthy sentence and dismissal. The case nonetheless illustrates a recurring pattern flagged in broader reporting on defence-sector corruption — officers in trusted financial roles diverting funds meant for troop welfare or procurement for personal gain.",
+    "confidence": "high",
+    "reasoning": "The charges, trial dates, verdict and sentence are corroborated by multiple independent reports citing the court martial proceedings directly."
+  },
+  "incomplete": [
+    "Whether Pandey has filed or intends to file an appeal within the military justice system was not confirmed.",
+    "Whether any of the diverted funds have been recovered by the Army was not confirmed.",
+    "The precise nature of the ₹4 lakh received separately from the main ₹63.66 lakh amount was not fully detailed in sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-pandey-odishabytes",
+      "label": "Former CO Of ASC Battalion In Leh Sentenced, Cashiered For Corruption After Court Martial Proceedings",
+      "type": "independent",
+      "publisher": "OdishaBytes",
+      "date": "2025-08-19",
+      "url": "https://odishabytes.com/former-co-of-asc-battalion-in-leh-sentenced-cashiered-for-corruption-after-court-martial-proceedings/"
+    },
+    {
+      "id": "src-pandey-ssbcrack",
+      "label": "Army Colonel Sentenced to Six Years RI, Cashiered for Corruption in Ladakh Posting",
+      "type": "independent",
+      "publisher": "SSBCrack",
+      "date": "2025-08-19",
+      "url": "https://www.ssbcrack.com/2025/08/army-colonel-sentenced-to-six-years-ri-cashiered-for-corruption-in-ladakh-posting.html"
+    },
+    {
+      "id": "src-pandey-tatva",
+      "label": "Army Colonel shamefully removed from service, jailed six years",
+      "type": "independent",
+      "publisher": "The Tatva",
+      "date": "2025-08-19",
+      "url": "https://archive.thetatva.in/crime/army-colonel-shamefully-removed-from-service-jailed-six-years-9765626"
+    }
+  ]
+}

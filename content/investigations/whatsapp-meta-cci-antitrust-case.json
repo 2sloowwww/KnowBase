@@ -1,0 +1,137 @@
+{
+  "id": "KB-1404",
+  "slug": "whatsapp-meta-cci-antitrust-case",
+  "title": "WhatsApp, Meta, and the CCI's Data-Sharing Order",
+  "dek": "WhatsApp's 2021 privacy policy told Indian users to accept expanded data sharing with Meta's other businesses or lose the app. India's competition regulator called it coercive and fined Meta ₹213 crore — a penalty upheld on appeal, even as the tribunal struck down the part of the order that would have stopped the data sharing itself.",
+  "category": "Telecom & Digital",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 238,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-01-04",
+  "heroStat": {
+    "value": "₹213.14 cr",
+    "label": "penalty the Competition Commission of India imposed on Meta over WhatsApp's 2021 privacy policy, upheld on appeal by the NCLAT in November 2025"
+  },
+  "promise": {
+    "quote": "WhatsApp's 2021 privacy policy update expanded user data collection and use, including data sharing with other Meta companies for purposes such as advertising, without offering users an opt-out — while WhatsApp's own public position was that the update did not affect the privacy of personal messages.",
+    "madeBy": "WhatsApp Inc. / Meta Platforms",
+    "role": "Messaging platform and its parent company",
+    "date": "2021-01-04",
+    "context": "WhatsApp announced updated terms of service and privacy policy in January 2021, requiring users to accept the new terms — including broader data sharing with Meta group companies — by a deadline or lose access to the app, which the CCI later found to be a 'take-it-or-leave-it' condition.",
+    "sourceIds": [
+      "src-cci-order-nov2024"
+    ]
+  },
+  "target": {
+    "description": "That a dominant messaging platform's terms-of-service changes do not impose unfair or discriminatory conditions on users, and that any expansion of data sharing between group companies is transparent, not coercive, and consistent with the Competition Act's prohibition on abuse of dominance.",
+    "standard": "Competition Act, 2002, Section 4 (abuse of dominant position); principles of informed user consent.",
+    "referenceDate": "2021-01-04"
+  },
+  "reality": {
+    "description": "Following user backlash and a surge of complaints, the CCI opened a suo motu investigation into WhatsApp's 2021 privacy policy update. In November 2024, the CCI issued its final order, imposing a ₹213.14 crore penalty on Meta and finding that WhatsApp's 2021 privacy policy imposed coercive 'take-it-or-leave-it' terms on users, used vague and unclear language about the scope of data collection, and expanded data collection beyond what was reasonably necessary to provide the messaging service — amounting to an abuse of WhatsApp's dominant position in India's messaging market. The CCI's order also barred WhatsApp from sharing user data collected on its platform with other Meta companies for advertising purposes, for a period of five years. Meta and WhatsApp appealed to the National Company Law Appellate Tribunal (NCLAT), which reserved judgment and, in a ruling on 4 November 2025, delivered a mixed outcome: it upheld the ₹213.14 crore monetary penalty and the CCI's underlying finding that the 2021 policy involved unfair, coercive conditions, but it set aside the part of the order banning data sharing with other Meta companies for advertising for five years, allowing that data sharing to continue subject to other applicable law. The NCLAT's ruling affirmed that competition law and data-protection concerns can be analysed together, but narrowed the practical remedy available to the CCI. The CCI subsequently sought clarity from the NCLAT on aspects of the data-sharing ruling.",
+    "asOfDate": "2025-11-18",
+    "sourceIds": [
+      "src-nclat-nov2025",
+      "src-cci-nclat-clarity"
+    ]
+  },
+  "gap": {
+    "metricLabel": "CCI's originally ordered data-sharing ban vs. what NCLAT's 2025 ruling actually left in force",
+    "unit": "years",
+    "targetValue": 5,
+    "actualValue": 0,
+    "targetDisplay": "5-year ban on Meta advertising data-sharing (CCI's 2024 order)",
+    "actualDisplay": "0 years — ban set aside by NCLAT in November 2025",
+    "targetLabel": "Data-sharing ban ordered",
+    "actualLabel": "Data-sharing ban in effect after appeal",
+    "note": "The monetary penalty of ₹213.14 crore was separately upheld in full by the NCLAT; only the data-sharing restriction was overturned. Further appeal to the Supreme Court by either party was possible as of this entry's sourcing but not confirmed to have been filed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 213.14,
+    "spentLabel": "Penalty imposed on Meta by the CCI, upheld by the NCLAT",
+    "unit": "INR crore",
+    "notes": "This is a regulatory penalty, not a figure representing consumer harm or damages; no compensation to affected users was ordered.",
+    "sourceIds": [
+      "src-cci-order-nov2024"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-01-04",
+      "label": "WhatsApp announces new privacy policy",
+      "detail": "WhatsApp requires users to accept updated terms expanding data sharing with other Meta companies, triggering public backlash and a wave of complaints to Indian authorities.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-01-24",
+      "label": "CCI opens suo motu investigation",
+      "detail": "The Competition Commission of India begins investigating WhatsApp's 2021 privacy policy update as a possible abuse of dominant position.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-11-18",
+      "label": "CCI issues final order and penalty",
+      "detail": "The CCI fines Meta ₹213.14 crore, finds the 2021 privacy policy coercive and an abuse of dominance, and bars WhatsApp from sharing user data with other Meta companies for advertising for five years.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-11-04",
+      "label": "NCLAT delivers mixed ruling on appeal",
+      "detail": "The NCLAT upholds the ₹213.14 crore penalty and the coercion finding, but sets aside the five-year ban on advertising-related data sharing between WhatsApp and other Meta companies.",
+      "type": "revision"
+    },
+    {
+      "date": "2025-11-18",
+      "label": "CCI seeks clarity from NCLAT",
+      "detail": "The CCI approaches the NCLAT seeking clarification on the scope of its ruling regarding WhatsApp-Meta data sharing.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The CCI's finding that Meta abused its dominant position through WhatsApp's 2021 privacy policy, and the ₹213.14 crore penalty, have been upheld through the NCLAT appellate stage. The data-sharing ban originally ordered by the CCI was overturned on appeal. Further appeal to the Supreme Court remained a live possibility as of this entry's sourcing but had not been confirmed as filed.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "This is a substantiated regulatory finding, not merely an allegation: India's competition regulator investigated, found WhatsApp's 2021 privacy policy coercive, and its core finding and penalty survived appellate review. However, the practical remedy — restricting Meta's cross-company data sharing — did not survive appeal, meaning the underlying practice the CCI most wanted to stop can continue, subject to India's separate data-protection law framework.",
+    "confidence": "medium",
+    "reasoning": "The CCI's November 2024 order and the NCLAT's November 2025 ruling are corroborated across multiple independent legal-analysis and news sources describing the same figures and outcome. Confidence is not higher because this entry has not directly reviewed the full text of either the CCI order or the NCLAT judgment, and the possibility of a further Supreme Court appeal has not been resolved."
+  },
+  "incomplete": [
+    "Whether Meta, WhatsApp, or the CCI has filed or intends to file a further appeal to the Supreme Court has not been confirmed as of this entry's sourcing.",
+    "The outcome of the CCI's request to the NCLAT for clarity on the data-sharing ruling (raised November 2025) is not yet known.",
+    "This entry has not directly reviewed the full text of the CCI's 2024 order or the NCLAT's 2025 judgment.",
+    "The relationship between this CCI competition-law finding and any separate proceedings under India's Digital Personal Data Protection Act framework has not been researched for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-cci-order-nov2024",
+      "label": "NCLAT Judgement On CCI's Meta Order",
+      "type": "independent",
+      "publisher": "MediaNama",
+      "date": "2025-11-05",
+      "url": "https://www.medianama.com/2025/11/223-explained-nclat-judgement-ccis-meta-order/"
+    },
+    {
+      "id": "src-nclat-nov2025",
+      "label": "NCLAT reserves verdict in Meta, WhatsApp challenge to ₹213 crore CCI penalty over 2021 privacy policy",
+      "type": "independent",
+      "publisher": "Bar and Bench",
+      "date": "2025-10-01",
+      "url": "https://www.barandbench.com/news/litigation/nclat-reserves-verdict-in-meta-whatsapp-challenge-to-213-crore-cci-penalty-over-2021-privacy-policy"
+    },
+    {
+      "id": "src-cci-nclat-clarity",
+      "label": "CCI moves NCLAT seeking clarity on WhatsApp, Meta data-sharing order",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-11-18",
+      "url": "https://www.business-standard.com/industry/news/cci-moves-nclat-seeking-clarity-on-whatsapp-meta-data-sharing-order-125111801070_1.html"
+    }
+  ]
+}

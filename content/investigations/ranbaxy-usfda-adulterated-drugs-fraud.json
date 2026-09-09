@@ -1,0 +1,148 @@
+{
+  "id": "KB-3013",
+  "slug": "ranbaxy-usfda-adulterated-drugs-fraud",
+  "title": "The Ranbaxy Adulterated Drugs and FDA Data Fraud Case",
+  "dek": "India's largest generic drugmaker told US regulators its medicines were made and tested to standard. Whistleblower evidence showed manufacturing data at two Indian plants was routinely fabricated. Ranbaxy pleaded guilty in US federal court — a rare case of an Indian pharma major actually convicted for the fraud.",
+  "category": "Employment & Welfare",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 189,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2008-02-01",
+  "heroStat": {
+    "value": "$500 million",
+    "label": "in fines and forfeitures Ranbaxy USA agreed to pay the US government on pleading guilty to drug-safety and false-statement felonies"
+  },
+  "promise": {
+    "quote": "Drugs manufactured at Ranbaxy's Paonta Sahib and Dewas facilities are made in compliance with current Good Manufacturing Practice standards and the data submitted to the US FDA in support of drug approvals is accurate.",
+    "madeBy": "Ranbaxy Laboratories Limited and its US subsidiary, Ranbaxy USA Inc.",
+    "role": "India's largest pharmaceutical company by revenue at the time, a major supplier of generic drugs to the US market",
+    "date": "2005-01-01",
+    "context": "Through the mid-to-late 2000s Ranbaxy submitted manufacturing and stability data to the US FDA in support of applications to sell generic drugs in the United States, drawing on production at its Paonta Sahib (Himachal Pradesh) and Dewas (Madhya Pradesh) plants.",
+    "sourceIds": [
+      "src-ranbaxy-doj"
+    ]
+  },
+  "target": {
+    "description": "Drug manufacturing data submitted to regulators for market approval must be accurate and the underlying drugs must meet current Good Manufacturing Practice standards, as required under the US Federal Food, Drug and Cosmetic Act.",
+    "standard": "US Federal Food, Drug and Cosmetic Act; India's own Drugs and Cosmetics Act manufacturing standards.",
+    "referenceDate": "2005-01-01"
+  },
+  "reality": {
+    "description": "A former Ranbaxy executive turned whistleblower alerted US authorities that the company had systematically fabricated and manipulated manufacturing and stability data across numerous drug applications, including for antibiotics and medicines used to treat severe acne, epilepsy and nerve pain, while selling drugs from facilities with quality lapses. On 13 May 2013, Ranbaxy USA Inc. pleaded guilty in US federal court to three felony counts under the Food, Drug and Cosmetic Act and four felony counts of making false statements to the FDA, agreeing to pay $150 million in criminal fines and forfeitures and an additional $350 million to settle civil False Claims Act allegations that it billed US government health programmes for adulterated drugs — a combined $500 million penalty, then the largest ever paid by a generic drugmaker in a US drug-safety case. No Indian criminal prosecution of Ranbaxy or its then-executives on equivalent charges is documented in the sources reviewed.",
+    "asOfDate": "2013-05-13",
+    "sourceIds": [
+      "src-ranbaxy-doj",
+      "src-ranbaxy-bt"
+    ]
+  },
+  "gap": {
+    "metricLabel": "US penalty and guilty plea vs. accountability in India",
+    "unit": "case",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Equivalent Indian criminal accountability for adulterated drugs sold under Indian regulatory oversight",
+    "actualDisplay": "No known equivalent Indian criminal conviction of Ranbaxy or its executives, despite the same manufacturing sites also supplying the Indian and other markets",
+    "targetLabel": "Expected",
+    "actualLabel": "Actual",
+    "note": "The $500 million penalty and guilty plea occurred entirely within the US legal system; this metric reflects the absence of a parallel Indian criminal accountability process found in sources reviewed, not a claim that no regulatory action occurred in India at all."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 500,
+    "allocatedLabel": "Total US penalty agreed (fines, forfeiture and civil settlement)",
+    "released": 150,
+    "releasedLabel": "Criminal fine and forfeiture component",
+    "spent": 350,
+    "spentLabel": "Civil False Claims Act settlement component",
+    "unit": "million",
+    "notes": "All figures are in US dollars and relate solely to the US Department of Justice settlement; they do not include any separate compensation paid to Indian consumers or the value of drugs recalled.",
+    "sourceIds": [
+      "src-ranbaxy-doj"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2005-01-01",
+      "label": "Whistleblower Dinesh Thakur raises concerns internally",
+      "detail": "A former Ranbaxy director of research information and portfolio management became aware of data fabrication practices and later became a whistleblower to US authorities.",
+      "type": "announcement"
+    },
+    {
+      "date": "2008-02-01",
+      "label": "FDA import bans on Ranbaxy plants",
+      "detail": "The US FDA banned imports of dozens of Ranbaxy generic drugs made at the Dewas and Paonta Sahib plants over manufacturing and data integrity concerns.",
+      "type": "status"
+    },
+    {
+      "date": "2013-05-13",
+      "label": "Ranbaxy USA pleads guilty, agrees to $500 million settlement",
+      "detail": "Ranbaxy USA Inc. pleaded guilty to felony drug-safety and false-statement charges and agreed to pay $500 million in fines, forfeiture and civil settlement to the US government.",
+      "type": "status"
+    },
+    {
+      "date": "2014-01-01",
+      "label": "FDA bans imports from a fourth Ranbaxy plant",
+      "detail": "The FDA extended its import alert to Ranbaxy's Toansa, Punjab facility over continuing manufacturing data integrity concerns.",
+      "type": "status"
+    },
+    {
+      "date": "2014-04-01",
+      "label": "Sun Pharma acquires Ranbaxy",
+      "detail": "Sun Pharmaceutical Industries completed an all-stock acquisition of Ranbaxy, absorbing the company and its US settlement obligations.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Ranbaxy USA Inc. pleaded guilty in US federal court in May 2013 to seven felony counts and paid a $500 million penalty. This is a corporate guilty plea and conviction under the US legal system; no individual Ranbaxy executive is documented in sources reviewed as having faced a criminal conviction in India or the US over the same conduct.",
+    "keyIndividuals": [
+      {
+        "name": "Ranbaxy USA Inc. (corporate defendant)",
+        "role": "US subsidiary of Ranbaxy Laboratories Limited",
+        "outcome": "Pleaded guilty on 13 May 2013 to three FDCA felony counts and four false-statement felony counts; paid $500 million in fines, forfeiture and civil settlement."
+      },
+      {
+        "name": "Dinesh Thakur",
+        "role": "Former Ranbaxy executive and whistleblower",
+        "outcome": "Not accused of wrongdoing; received a share of the US government's civil recovery under whistleblower (qui tam) provisions for exposing the fraud."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a confirmed, adjudicated corporate conviction: Ranbaxy USA pleaded guilty in US federal court and paid what was then the largest drug-safety penalty ever levied against a generic drugmaker. The unresolved question is accountability within India itself, where the same manufacturing conduct occurred and where no equivalent criminal case against the company or its individual executives is documented.",
+    "confidence": "high",
+    "reasoning": "The US Department of Justice's own press release, corroborated by extensive independent reporting, documents the guilty plea, the specific felony counts and the exact penalty figures without meaningful dispute."
+  },
+  "incomplete": [
+    "This investigation did not find evidence of an equivalent Indian criminal prosecution of Ranbaxy or its individual executives for the same conduct; the absence of such a case in sources reviewed is not conclusive proof that no Indian regulatory action of any kind occurred.",
+    "The extent of any harm to Indian patients specifically (as opposed to the US market, which was the subject of the guilty plea) was not independently quantified in sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-ranbaxy-doj",
+      "label": "Generic Drug Manufacturer Ranbaxy Pleads Guilty and Agrees to Pay $500 Million to Resolve False Claims Allegations, cGMP Violations and False Statements to the FDA",
+      "type": "primary",
+      "publisher": "US Department of Justice",
+      "date": "2013-05-13",
+      "url": "https://www.justice.gov/archives/opa/pr/generic-drug-manufacturer-ranbaxy-pleads-guilty-and-agrees-pay-500-million-resolve-false"
+    },
+    {
+      "id": "src-ranbaxy-bt",
+      "label": "Ranbaxy pleads guilty, to pay $500 mn in US settlement",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2013-05-13",
+      "url": "https://www.businesstoday.in/industry/pharma/story/ranbaxy-adulterated-drugs-us-settlement-40870-2013-05-13"
+    },
+    {
+      "id": "src-ranbaxy-oig",
+      "label": "Generic Drug Manufacturer Ranbaxy Pleads Guilty and Agrees to Pay $500 Million",
+      "type": "primary",
+      "publisher": "US Department of Health and Human Services, Office of Inspector General",
+      "date": "2013-05-13",
+      "url": "https://oig.hhs.gov/fraud/enforcement/generic-drug-manufacturer-ranbaxy-pleads-guilty-and-agrees-to-pay-500-million-to-resolve-false-claims-allegations-cgmp-violations-and-false-statements-to-the-fda"
+    }
+  ]
+}

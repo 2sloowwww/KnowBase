@@ -1,0 +1,138 @@
+{
+  "id": "KB-3001",
+  "slug": "sukh-ram-telecom-corruption-case",
+  "title": "The Sukh Ram Telecom Equipment Scam",
+  "dek": "India's Union Communications Minister awarded a telecom equipment contract to a favoured Hyderabad supplier at inflated rates for inferior gear. Investigators found over a crore of cash stuffed in his homes — and, six years after his death, the Supreme Court let his conviction stand.",
+  "category": "Telecom & Digital",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 182,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1996-08-08",
+  "heroStat": {
+    "value": "₹1.16 cr+",
+    "label": "cash the CBI recovered from Sukh Ram's residences during its 1996 raids, in a case that ended in his criminal conviction six years later"
+  },
+  "promise": {
+    "quote": "Bids for the supply of telecom equipment to the Department of Telecommunications must be awarded on merit, at fair and competitive rates, to serve the public exchequer.",
+    "madeBy": "Department of Telecommunications, Union Ministry of Communications",
+    "role": "Union government department responsible for expanding India's telephone network in the 1990s",
+    "date": "1993-01-01",
+    "context": "This reflects the standard procurement-integrity norm applicable to Indian government departmental purchases of the era, rather than a verified quotation from the specific 1993 DoT tender file, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-sukhram-theprint"
+    ]
+  },
+  "target": {
+    "description": "That the Department of Telecommunications, then headed by Union Communications Minister Sukh Ram, would procure telecom equipment through a fair tendering process at competitive market rates, without favouring any single supplier.",
+    "standard": "Prevention of Corruption Act, 1988, and general public procurement norms requiring competitive, arm's-length tendering by government departments.",
+    "referenceDate": "1993-01-01"
+  },
+  "reality": {
+    "description": "In August 1996, the CBI raided Sukh Ram's residences in Delhi and Himachal Pradesh and recovered more than ₹1.16 crore in cash, most of it in his bedroom, along with further large sums seized separately by the Income Tax Department. The CBI's investigation found that as Communications Minister, Sukh Ram had helped Hyderabad-based supplier Advanced Radio Masts (ARM) win a telecom equipment contract worth roughly ₹1.68 crore, paying above-market rates for equipment that was found to be substandard, allegedly in exchange for kickbacks. A special CBI court convicted Sukh Ram, along with former DoT Deputy Director-General Runu Ghosh and ARM's managing director P. Rama Rao, on 6 July 2002, sentencing Sukh Ram to three years' rigorous imprisonment and a ₹2 lakh fine. He remained on bail through years of appeals; the Delhi High Court and Supreme Court upheld aspects of the conviction over subsequent years, and Sukh Ram died in 2022 with the case's core finding of guilt intact.",
+    "asOfDate": "2011-11-19",
+    "sourceIds": [
+      "src-sukhram-tribune",
+      "src-sukhram-theprint"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Contract value vs. cash recovered from the minister's own residences",
+    "unit": "INR crore",
+    "targetValue": 1.68,
+    "actualValue": 1.16,
+    "targetDisplay": "₹1.68 cr equipment contract",
+    "actualDisplay": "₹1.16 cr+ cash recovered from his homes",
+    "targetLabel": "Contract awarded",
+    "actualLabel": "Cash recovered in raids",
+    "note": "The cash recovered from Sukh Ram's own bedroom was nearly as large as the entire contract under investigation — a detail investigators and courts treated as strong circumstantial evidence of kickbacks."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1993-01-01",
+      "label": "Telecom equipment contract awarded to ARM",
+      "detail": "Department of Telecommunications, under Minister Sukh Ram, awards a contract to Hyderabad-based Advanced Radio Masts.",
+      "type": "milestone"
+    },
+    {
+      "date": "1996-08-08",
+      "label": "CBI raids recover over ₹1.16 crore in cash",
+      "detail": "Searches at Sukh Ram's Delhi and Himachal Pradesh residences turn up cash hidden in his bedroom; further sums are separately seized by the Income Tax Department.",
+      "type": "milestone"
+    },
+    {
+      "date": "1996-08-08",
+      "label": "CBI files corruption case",
+      "detail": "Sukh Ram, Runu Ghosh and P. Rama Rao are named as accused in a criminal conspiracy and corruption case over the ARM contract.",
+      "type": "announcement"
+    },
+    {
+      "date": "2002-07-06",
+      "label": "Special court convicts Sukh Ram",
+      "detail": "Delhi special CBI court convicts Sukh Ram, sentencing him to three years' rigorous imprisonment and a ₹2 lakh fine; Ghosh and Rama Rao are also convicted.",
+      "type": "milestone"
+    },
+    {
+      "date": "2011-11-19",
+      "label": "Supreme Court extends interim bail amid appeals",
+      "detail": "Sukh Ram's conviction proceeds through years of appellate litigation while he remains free on bail.",
+      "type": "delay"
+    },
+    {
+      "date": "2022-05-07",
+      "label": "Sukh Ram dies",
+      "detail": "He dies at age 94 with his 2002 conviction in the telecom case never overturned.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Sukh Ram was convicted by a special CBI court in 2002 for corruption in the award of a Department of Telecommunications equipment contract. He pursued appeals and remained on bail for years afterward; his conviction was never overturned before his death in 2022.",
+    "keyIndividuals": [
+      {
+        "name": "Sukh Ram",
+        "role": "Union Minister for Communications",
+        "outcome": "Convicted in 2002 and sentenced to three years' rigorous imprisonment plus a ₹2 lakh fine; conviction stood, appeals pending, until his death in 2022."
+      },
+      {
+        "name": "Runu Ghosh",
+        "role": "Deputy Director-General, Department of Telecommunications",
+        "outcome": "Convicted in 2002 and sentenced to two years' imprisonment with a ₹50,000 fine."
+      },
+      {
+        "name": "P. Rama Rao",
+        "role": "Managing Director, Advanced Radio Masts",
+        "outcome": "Convicted in 2002 and sentenced to three years' rigorous imprisonment plus a ₹2 lakh fine."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a rare case on this site with an actual criminal conviction: a sitting Union Communications Minister was found guilty of steering a telecom equipment contract to a favoured supplier at inflated rates, with cash recovered from his own bedroom cited as key evidence. The conviction was handed down in 2002 and was never reversed.",
+    "confidence": "high",
+    "reasoning": "The CBI raid, the 2002 special court conviction and sentencing, and the subsequent appellate history are documented in contemporaneous and retrospective reporting from the Tribune, Deccan Herald, Zee News and ThePrint, citing the court's own findings."
+  },
+  "incomplete": [
+    "This entry has not reviewed the special court's judgment or the Delhi High Court/Supreme Court appellate orders directly — it relies on news reporting summarising them.",
+    "The final disposition of Sukh Ram's appeals at the time of his 2022 death (whether any appeal remained formally pending) is not fully confirmed and is described here in general terms."
+  ],
+  "sources": [
+    {
+      "id": "src-sukhram-tribune",
+      "label": "Sukh Ram convicted, gets 3-year jail term",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2002-07-06",
+      "url": "https://www.tribuneindia.com/2002/20020706/main1.htm"
+    },
+    {
+      "id": "src-sukhram-theprint",
+      "label": "Himachal 'king-maker', telecom trailblazer, corruption convict — Sukh Ram leaves complex legacy",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2022-05-08",
+      "url": "https://theprint.in/politics/himachal-king-maker-telecom-trailblazer-corruption-convict-sukh-ram-leaves-complex-legacy/953261/"
+    }
+  ]
+}

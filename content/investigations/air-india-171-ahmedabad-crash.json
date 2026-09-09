@@ -1,0 +1,126 @@
+{
+  "id": "KB-2601",
+  "slug": "air-india-171-ahmedabad-crash",
+  "title": "The Air India AI171 Crash Investigation",
+  "dek": "India's deadliest aviation disaster in decades killed 260 people in June 2025. A preliminary report pointed to both fuel-control switches moving to cutoff seconds after takeoff — a finding pilots' bodies have publicly disputed — and the promised final report has slipped well past the international norm for such investigations.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 37,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-06-12",
+  "heroStat": {
+    "value": "260",
+    "label": "people killed — 229 passengers, 12 crew, and 19 on the ground — in India's deadliest air crash in over two decades"
+  },
+  "promise": {
+    "quote": "We will investigate the Air India plane crash in Ahmedabad from all possible angles.",
+    "madeBy": "Murlidhar Mohol",
+    "role": "Union Minister of State for Civil Aviation",
+    "date": "2025-06-29",
+    "context": "Statement made two-and-a-half weeks after the crash, as the Aircraft Accident Investigation Bureau (AAIB) began its probe into the Boeing 787-8 crash.",
+    "sourceIds": [
+      "src-ai171-mohol"
+    ]
+  },
+  "target": {
+    "description": "A transparent, independently credible investigation completed within the roughly 12-month timeframe recommended for major accident investigations under ICAO Annex 13, with findings that withstand scrutiny from all interested parties, including pilots' representative bodies.",
+    "standard": "ICAO Annex 13 international norms for timely final accident reports.",
+    "referenceDate": "2025-06-12"
+  },
+  "reality": {
+    "description": "AAIB's preliminary report, released July 12, 2025, found that both engine fuel-control switches moved from 'run' to 'cutoff' within about one second of each other shortly after takeoff, causing dual engine thrust loss. It also noted a 2018 US FAA advisory about a potential fuel-switch locking-feature flaw on the same switch design, which Boeing/Air India had not treated as mandatory. The Federation of Indian Pilots has publicly pushed back on any pilot-error reading of that finding, seeking a personal hearing, simulator tests and access to technical inputs, saying pilots 'do not fly to kill people.' As of mid-2026, AAIB told the Supreme Court a draft final report was expected only in October 2026 — around 16 months after the crash, beyond the ICAO-normed year.",
+    "asOfDate": "2026-08-18",
+    "sourceIds": [
+      "src-ai171-prelim",
+      "src-ai171-fip",
+      "src-ai171-final-oct"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time to final accident report vs. ICAO's normed 12-month benchmark",
+    "unit": "days",
+    "targetValue": 365,
+    "actualValue": 480,
+    "targetDisplay": "~365 days (ICAO Annex 13 norm)",
+    "actualDisplay": "~480 days and counting (crash June 2025; draft final report not expected before October 2026)",
+    "note": "The 480-day actual figure is approximate, counted to the October 2026 draft-report date AAIB gave the Supreme Court; the true final report may land later still, and ICAO's 12-month figure is a widely cited norm rather than a strict legal deadline."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-06-12",
+      "label": "Crash at Ahmedabad",
+      "detail": "Air India Flight 171, a Boeing 787-8 bound for London Gatwick, crashes into a medical college hostel shortly after takeoff, killing 260 people.",
+      "type": "status"
+    },
+    {
+      "date": "2025-07-12",
+      "label": "Preliminary report released",
+      "detail": "AAIB's preliminary report finds both fuel-control switches moved to 'cutoff' within about one second, and flags a prior FAA advisory on the switch design.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Pilots' body disputes findings",
+      "detail": "The Federation of Indian Pilots publicly rejects any pilot-error framing and points to a possible 787 electrical anomaly, seeking further technical review.",
+      "type": "status"
+    },
+    {
+      "date": "2026-07-15",
+      "label": "AAIB tells Supreme Court report delayed",
+      "detail": "AAIB informs the Supreme Court the crash probe has entered its final phase, with a draft final report expected around October 2026.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. No criminal or regulatory liability has been formally assigned to Air India, Boeing, or any individual as of publication; the AAIB investigation, which is fact-finding rather than a liability determination, remains open.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the crash's immediate technical sequence (fuel-control switches moving to cutoff) is documented in AAIB's preliminary report, but the underlying cause — deliberate action, mechanical/electrical fault, or something else — remains formally undetermined, and the promised full investigation has run well past international norms for speed.",
+    "confidence": "low",
+    "reasoning": "This entry was added to place a major 2025-26 public-safety event in the site's timeline based on the AAIB preliminary report and subsequent reporting. It has not yet incorporated the AAIB final report, which was not public as of this entry's publication."
+  },
+  "incomplete": [
+    "The AAIB final report was not yet public as of September 2026; this entry cannot assess its conclusions or whether they resolve the pilot-error dispute.",
+    "Boeing's and Air India's formal responses to the Federation of Indian Pilots' technical objections have not been fully traced here.",
+    "Any regulatory or compensation consequences flowing from the eventual final report are not yet known and are not covered."
+  ],
+  "sources": [
+    {
+      "id": "src-ai171-mohol",
+      "label": "AAIB will investigate Air India plane crash in Ahmedabad from all possible angles: MoS for Civil Aviation Murlidhar Mohol",
+      "type": "primary",
+      "publisher": "News on Air (All India Radio)",
+      "date": "2025-06-29",
+      "url": "https://www.newsonair.gov.in/aaib-will-investigate-air-india-plane-crash-in-ahmedabad-from-all-possible-angles-mos-for-civil-aviation-murlidhar-mohol"
+    },
+    {
+      "id": "src-ai171-prelim",
+      "label": "How Air India flight 171 crashed and its fatal last moments",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2025-07-12",
+      "url": "https://www.aljazeera.com/news/2025/7/12/how-air-india-flight-171-crashed-and-its-fatal-last-moments"
+    },
+    {
+      "id": "src-ai171-fip",
+      "label": "Federation of Indian Pilots demands personal hearing in AI-171 Crash Probe",
+      "type": "independent",
+      "publisher": "ANI",
+      "date": "2026-08-18",
+      "url": "https://www.aninews.in/news/national/general-news/federation-of-indian-pilots-demands-personal-hearing-in-ai-171-crash-probe-to-honour-supreme-court-assurance20260818113327/"
+    },
+    {
+      "id": "src-ai171-final-oct",
+      "label": "Deadly Air India AI171 Crash Probe Enters Final Phase, Draft Report Due in October",
+      "type": "independent",
+      "publisher": "Aviation A2Z",
+      "date": "2026-07-29",
+      "url": "https://aviationa2z.com/index.php/2026/07/29/deadly-air-india-ai171-crash-probe-enters-final-phase-draft-report/"
+    }
+  ]
+}

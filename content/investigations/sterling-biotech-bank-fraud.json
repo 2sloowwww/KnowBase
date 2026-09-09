@@ -1,0 +1,115 @@
+{
+  "id": "KB-041",
+  "slug": "sterling-biotech-bank-fraud",
+  "title": "The Sterling Biotech Bank Fraud",
+  "dek": "A pharma group borrowed ₹8,100 crore, then its promoters fled to Nigeria on Albanian passports and incorporated over 100 shell entities worldwide to move the money — becoming, by the ED's own account, formally declared fugitives.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 13,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017-01-01",
+  "heroStat": {
+    "value": "₹8,100 cr",
+    "label": "bank fraud alleged; with interest, the ED put the figure above ₹16,000 cr"
+  },
+  "promise": {
+    "quote": "Loans extended to Sterling Biotech and related Sandesara Group companies will be used for their disclosed pharmaceutical business purpose and repaid according to sanctioned terms.",
+    "madeBy": "Sterling Biotech Ltd., under promoters Nitin and Chetan Sandesara",
+    "role": "Gujarat-based pharmaceutical company; borrower from a bank consortium",
+    "date": "2010-01-01",
+    "context": "The Sandesara brothers and associates allegedly laundered loan proceeds through more than 100 entities incorporated across the US, UAE, UK, British Virgin Islands, Mauritius, Barbados, and Nigeria.",
+    "sourceIds": [
+      "src-sterling-overview"
+    ]
+  },
+  "target": {
+    "description": "Loan funds used for their disclosed pharmaceutical-business purpose, with no layered international laundering of proceeds.",
+    "standard": "Standard bank lending covenants and India's Prevention of Money Laundering Act.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "The Sandesara brothers left India for Nigeria in 2017 using Albanian passports, evading arrest as the fraud was uncovered. A Delhi court declared Nitin Sandesara, Chetan Sandesara, Chetan's wife Dipti, and their brother-in-law Hiteshkumar Patel fugitive economic offenders. Interpol notices were issued, and Nitin Sandesara was briefly detained in Dubai in 2018 but has not been extradited to India.",
+    "asOfDate": "2019-01-01",
+    "sourceIds": [
+      "src-sterling-feo"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Original alleged fraud amount vs. the ED's later estimate including accrued interest",
+    "unit": "₹ crore",
+    "targetValue": 8100,
+    "actualValue": 16000,
+    "targetDisplay": "₹8,100 cr original fraud figure",
+    "actualDisplay": "over ₹16,000 cr with interest (ED estimate)",
+    "targetLabel": "Original",
+    "actualLabel": "With interest",
+    "note": "The near-doubling reflects years of accrued interest and penalties on the unpaid loans, not a revision of the underlying facts."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2017-01-01",
+      "label": "Sandesara brothers flee to Nigeria",
+      "detail": "The promoters leave India using Albanian passports as the fraud investigation intensifies.",
+      "type": "status"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "Nitin Sandesara briefly detained in Dubai",
+      "detail": "He is held temporarily but not extradited to India.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-01",
+      "label": "Declared fugitive economic offenders",
+      "detail": "A Delhi court declares four individuals connected to the case fugitives under the Fugitive Economic Offenders Act.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The principal accused remain fugitives abroad and have not faced trial in India. No conviction has been recorded.",
+    "keyIndividuals": [
+      {
+        "name": "Nitin Sandesara",
+        "role": "Promoter, Sterling Biotech / Sandesara Group",
+        "outcome": "Fled India, 2017; declared a fugitive economic offender, 2019; briefly detained in Dubai, 2018, but not extradited. No Indian trial verdict."
+      },
+      {
+        "name": "Chetan Sandesara",
+        "role": "Promoter, Sterling Biotech / Sandesara Group",
+        "outcome": "Fled India alongside his brother; declared a fugitive economic offender, 2019. No Indian trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of the alleged fraud and the promoters' fugitive status are well documented and formally adjudicated under the Fugitive Economic Offenders Act. What remains unresolved, years later, is any actual trial or conviction, since the principal accused have avoided Indian jurisdiction entirely.",
+    "confidence": "medium",
+    "reasoning": "The fugitive-economic-offender declarations are a matter of court record. Confidence is not higher because no criminal trial has tested the underlying fraud allegations, and this investigation has not confirmed the current status of extradition efforts."
+  },
+  "incomplete": [
+    "This is a stub entry. The current status of India's extradition efforts, including any 2025–2026 developments, has not been researched.",
+    "No confirmed asset-recovery figure was found in the sources reviewed.",
+    "The role of Ahmed Patel, who was separately questioned by the ED in a related matter per contemporaneous reporting, has not been clarified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-sterling-overview",
+      "label": "Sterling Biotech loan fraud",
+      "type": "independent",
+      "publisher": "Wikipedia, citing contemporaneous reporting",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Sterling_Biotech_loan_fraud"
+    },
+    {
+      "id": "src-sterling-feo",
+      "label": "Sterling Biotech fraud case: Sandesara brothers declared fugitive economic offenders by Delhi court",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2019-01-01",
+      "url": "https://scroll.in/latest/974350/sterling-biotech-fraud-case-sandesara-brothers-declared-fugitive-economic-offenders"
+    }
+  ]
+}

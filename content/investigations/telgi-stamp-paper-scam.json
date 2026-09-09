@@ -1,0 +1,136 @@
+{
+  "id": "KB-3006",
+  "slug": "telgi-stamp-paper-scam",
+  "title": "The Telgi Fake Stamp Paper Scam",
+  "dek": "A licensed stamp vendor built a nationwide counterfeiting syndicate that printed fake judicial and non-judicial stamp papers using government printing equipment, defrauding state treasuries of an estimated ₹20,000 crore. He was convicted and sentenced to 30 years.",
+  "category": "Public Spending",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 69,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2001-12-01",
+  "heroStat": {
+    "value": "₹200 cr fine, 30 yrs",
+    "label": "sentence and fine imposed on Abdul Karim Telgi after his conviction for running India's largest counterfeit stamp paper syndicate"
+  },
+  "promise": {
+    "quote": "Judicial and non-judicial stamp papers sold by licensed vendors are government-authenticated instruments, and revenue from their sale accrues to the state exchequer.",
+    "madeBy": "State treasury and stamp revenue departments",
+    "role": "Government authorities responsible for licensing stamp vendors and collecting stamp duty revenue",
+    "date": "1990-01-01",
+    "context": "This reflects the basic legal premise of India's stamp duty system rather than a verified quotation from any specific government document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-telgi-wikipedia"
+    ]
+  },
+  "target": {
+    "description": "That stamp papers used for property, legal and financial transactions across India would be genuine instruments printed and authenticated by the government, generating legitimate stamp duty revenue for state treasuries.",
+    "standard": "Indian Stamp Act, 1899, and state stamp duty laws, which criminalise the manufacture, sale or use of counterfeit stamp papers.",
+    "referenceDate": "1990-01-01"
+  },
+  "reality": {
+    "description": "Abdul Karim Telgi, a licensed stamp vendor, built a criminal syndicate that printed counterfeit judicial and non-judicial stamp papers, share transfer stamps and postal stamps using printing presses and paper he obtained by bribing officials at the Indian Security Press, Nashik, and other government facilities. The counterfeit papers were distributed and sold through a network spanning at least 12 Indian states, undercutting genuine stamp revenue. Investigators estimated the scam's scale at roughly ₹20,000-30,000 crore (varying by estimate) in lost stamp duty revenue over more than a decade. Telgi was arrested in 2001, and after protracted trials across multiple states, a special court convicted him in 2006-2007 on charges including forgery, criminal conspiracy and organised crime under the Maharashtra Control of Organised Crime Act; he was ultimately sentenced to a cumulative 30 years' imprisonment and fined roughly ₹202 crore. Telgi died in prison-related hospital custody in October 2017 while still serving his sentence, and dozens of police officers and government officials were also convicted or departmentally punished for facilitating the racket.",
+    "asOfDate": "2007-01-01",
+    "sourceIds": [
+      "src-telgi-wikipedia",
+      "src-telgi-deccanherald"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Estimated scale of the fake stamp paper racket vs. fine actually imposed on its principal",
+    "unit": "INR crore",
+    "targetValue": 20000,
+    "actualValue": 202,
+    "targetDisplay": "₹20,000 cr+ estimated scam scale",
+    "actualDisplay": "₹202 cr fine imposed on Telgi",
+    "targetLabel": "Estimated fraud scale",
+    "actualLabel": "Fine imposed at conviction",
+    "note": "Even though Telgi was convicted and given one of the longest sentences handed down in an Indian economic-offence case, the fine imposed represents only about 1% of the racket's estimated scale — most of the diverted stamp revenue was never recovered."
+  },
+  "money": {
+    "currency": "INR",
+    "notes": "Estimates of the total stamp duty revenue lost to the racket range from roughly ₹20,000 crore to ₹30,000 crore across different investigative and media accounts spanning more than a decade of the syndicate's operation; this entry has not independently verified a single authoritative figure and reports the range as reported.",
+    "unit": "INR crore",
+    "sourceIds": [
+      "src-telgi-wikipedia"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1990-01-01",
+      "label": "Telgi begins counterfeiting operations",
+      "detail": "Having previously worked as a stamp vendor, Telgi begins producing counterfeit stamp papers using bribed access to government printing facilities.",
+      "type": "milestone"
+    },
+    {
+      "date": "2001-12-01",
+      "label": "Telgi arrested",
+      "detail": "Police arrest Telgi as the scale of the counterfeit stamp paper network across multiple states comes to light.",
+      "type": "milestone"
+    },
+    {
+      "date": "2003-01-01",
+      "label": "Multi-state investigation and trials begin",
+      "detail": "Special Investigation Teams pursue cases against Telgi and associates in Maharashtra, Karnataka and other states; dozens of police and government officials are implicated.",
+      "type": "status"
+    },
+    {
+      "date": "2006-01-01",
+      "label": "Telgi pleads guilty in one case, sentenced to 13 years",
+      "detail": "In an early conviction, Telgi is sentenced to 13 years' imprisonment after pleading guilty in a Pune court case.",
+      "type": "milestone"
+    },
+    {
+      "date": "2007-01-01",
+      "label": "Telgi sentenced to a cumulative 30 years",
+      "detail": "Following further convictions, including under Maharashtra's organised crime law, Telgi's cumulative sentence reaches 30 years with a fine of roughly ₹202 crore.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-10-23",
+      "label": "Telgi dies in custody-linked hospital care",
+      "detail": "Telgi dies of multi-organ failure at a Bengaluru hospital while still serving his sentence.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Abdul Karim Telgi was convicted in multiple cases across several states and sentenced to a cumulative 30 years' imprisonment with fines totalling roughly ₹202 crore. He died in custody-related hospital care in 2017 while still serving his sentence. Numerous police officers and government officials were also convicted or departmentally punished for enabling the racket.",
+    "keyIndividuals": [
+      {
+        "name": "Abdul Karim Telgi",
+        "role": "Licensed stamp vendor and principal organiser of the counterfeit stamp paper syndicate",
+        "outcome": "Convicted in multiple cases; sentenced to a cumulative 30 years' imprisonment and fined approximately ₹202 crore. Died in 2017 while serving his sentence."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "One of the few cases on this site with both a real criminal conviction and one of the longest sentences ever handed down in an Indian economic-offence case — a genuine, well-documented instance of India's justice system reaching a conviction, even as most of the estimated ₹20,000 crore-plus in lost revenue was never recovered.",
+    "confidence": "high",
+    "reasoning": "Telgi's arrest, multi-state trials, convictions, sentencing and death in custody-related care are extensively documented across Wikipedia, Deccan Herald, Business Standard and other outlets citing court records and investigative reporting from the 2000s onward."
+  },
+  "incomplete": [
+    "This entry has not reviewed the court judgments directly and relies on secondary reporting, including retrospective accounts, to reconstruct the timeline and figures.",
+    "Estimates of the total scale of the racket vary significantly (₹20,000 crore to ₹30,000 crore) across sources, and this entry has not been able to confirm a single authoritative figure.",
+    "The outcomes of cases against individual police officers and officials implicated alongside Telgi are not detailed in this entry and may vary by state and case."
+  ],
+  "sources": [
+    {
+      "id": "src-telgi-wikipedia",
+      "label": "Abdul Karim Telgi",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Abdul_Karim_Telgi"
+    },
+    {
+      "id": "src-telgi-deccanherald",
+      "label": "Stamp paper kingpin Telgi dead",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2017-10-23",
+      "url": "https://www.deccanherald.com/india/karnataka/stamp-paper-kingpin-telgi-dead-2030642"
+    }
+  ]
+}

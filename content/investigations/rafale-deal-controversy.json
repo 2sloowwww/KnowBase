@@ -1,0 +1,158 @@
+{
+  "id": "KB-905",
+  "slug": "rafale-deal-controversy",
+  "title": "The Rafale Fighter Jet Deal Controversy",
+  "dek": "The government scrapped a 126-jet Air Force deal in favour of a smaller, costlier-per-unit 36-jet purchase, and dropped state-run HAL for a newly formed Anil Ambani firm as Dassault's offset partner. The Supreme Court examined the process twice and both times declined to order a court-monitored investigation — a specific, limited ruling this site reports precisely rather than as either a 'scam confirmed' or a 'total clean chit.'",
+  "category": "Defence & Security",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 135,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2015-04-10",
+  "heroStat": {
+    "value": "126 → 36",
+    "label": "aircraft: the number of Rafale jets India had originally sought to buy/build under the shelved MMRCA deal, versus the number actually contracted for in 2016"
+  },
+  "promise": {
+    "quote": "India would acquire 126 Medium Multi-Role Combat Aircraft under a deal in which 18 would arrive flyaway from Dassault and 108 would be licence-built in India by state-run Hindustan Aeronautics Limited (HAL), building indigenous capacity.",
+    "madeBy": "Ministry of Defence, Government of India (UPA-era Medium Multi-Role Combat Aircraft, or MMRCA, tender)",
+    "role": "Defence procurement authority for Indian Air Force fighter acquisition",
+    "date": "2012-01-31",
+    "context": "Dassault Aviation's Rafale was declared the lowest bidder in the MMRCA tender in January 2012, with negotiations over HAL's licence-production role continuing for the next three years without a signed contract.",
+    "sourceIds": [
+      "src-rafale-scobserver"
+    ]
+  },
+  "target": {
+    "description": "That any change to the original 126-aircraft MMRCA deal — including its cancellation, a new smaller purchase, pricing, or choice of Indian offset partner — would be made through a transparent, defensible process consistent with defence procurement procedure.",
+    "standard": "Defence Procurement Procedure norms governing pricing benchmarks, technical evaluation, and offset-partner selection.",
+    "referenceDate": "2015-04-10"
+  },
+  "reality": {
+    "description": "In April 2015, during a visit to France, Prime Minister Narendra Modi announced India would instead buy 36 Rafale jets in flyaway condition, citing critical operational necessity; the original 126-jet MMRCA process was subsequently scrapped. India and France signed the inter-governmental agreement for 36 aircraft in September 2016 at a reported cost of about €7.87 billion (roughly ₹58,000-59,000 crore). Congress and other critics alleged the per-aircraft cost had risen sharply compared to the earlier proposal and that Reliance Defence Limited, a newly formed company owned by Anil Ambani with no prior aviation manufacturing experience, was controversially chosen as Dassault's Indian offset partner in place of HAL — allegations the government and Dassault denied, saying Dassault selected its own partners. Multiple petitioners, including Congress leader (and later party president) Manohar Lal Sharma, filed public-interest litigation seeking a court-monitored probe into pricing, decision-making, and offset-partner selection. On 14 December 2018, the Supreme Court dismissed these petitions, holding it found no occasion to doubt the government's decision-making process and declining to order a court-monitored investigation, while also stating it was not in a position to compare detailed pricing given the sensitivity of the underlying data. Review petitions followed; on 14 November 2019, a bench led by then-Chief Justice Ranjan Gogoi dismissed the review petitions as well, again declining to direct any further probe, citing the limited scope of the Court's Article 32 review over defence contracting decisions. No court has ordered a fresh investigation, and no criminal charges have been filed against any individual over the deal as of the most recent reporting reviewed.",
+    "asOfDate": "2019-11-14",
+    "sourceIds": [
+      "src-rafale-sc-2018",
+      "src-rafale-sc-review-2019",
+      "src-rafale-federal"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Court-ordered investigation sought vs. granted",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Court-monitored probe sought by petitioners",
+    "actualDisplay": "Twice declined by the Supreme Court (2018, 2019)",
+    "targetLabel": "Petitioners' request",
+    "actualLabel": "Supreme Court's rulings",
+    "note": "The Supreme Court's actual holding, both in 2018 and on review in 2019, was that it found no basis to order a court-monitored investigation into the deal — a specific and limited finding on the petitions before it, not a comprehensive finding that every allegation about pricing or offset selection was false, nor a criminal-court verdict on any individual."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 58000,
+    "allocatedLabel": "approximate contracted value of the 36-aircraft deal signed in September 2016 (reported as ~€7.87 billion)",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The original 126-aircraft MMRCA proposal was estimated at roughly ₹53,350 crore at 2015 exchange rates for a much larger fleet with substantial licence-production in India; comparing the two figures directly is contested, since the deals differ in aircraft count, weapons/support packages, and India-specific customisation, a point the Supreme Court itself noted it could not adjudicate given classified pricing details.",
+    "sourceIds": [
+      "src-rafale-federal"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2012-01-31",
+      "label": "Dassault's Rafale declared lowest bidder for 126-jet MMRCA deal",
+      "detail": "The UPA government's MMRCA tender process selects Rafale, with 18 aircraft to be flyaway and 108 to be licence-built by HAL.",
+      "type": "announcement"
+    },
+    {
+      "date": "2015-04-10",
+      "label": "Modi announces 36-jet flyaway purchase",
+      "detail": "During a Paris visit, PM Modi announces India will instead buy 36 Rafale jets in flyaway condition, citing operational urgency; the 126-jet MMRCA process is effectively abandoned.",
+      "type": "revision"
+    },
+    {
+      "date": "2016-09-23",
+      "label": "India-France inter-governmental agreement signed",
+      "detail": "The two countries sign the agreement for 36 Rafale aircraft at a reported cost of roughly €7.87 billion; Reliance Defence Limited is named as Dassault's Indian offset partner instead of HAL.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-09-01",
+      "label": "Pricing and offset-partner allegations intensify",
+      "detail": "Opposition leaders, led by the Congress party, allege the per-aircraft price rose sharply and that Reliance Defence was favoured over HAL; the government and Dassault deny wrongdoing.",
+      "type": "status"
+    },
+    {
+      "date": "2018-12-14",
+      "label": "Supreme Court dismisses petitions seeking court-monitored probe",
+      "detail": "The Court finds no occasion to doubt the decision-making process and declines to order an investigation, while noting it cannot compare classified pricing details.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-02-21",
+      "label": "Supreme Court agrees to hear review petitions",
+      "detail": "Petitioners including Yashwant Sinha, Arun Shourie and Prashant Bhushan secure a hearing on review petitions against the 2018 judgment.",
+      "type": "status"
+    },
+    {
+      "date": "2019-11-14",
+      "label": "Supreme Court dismisses review petitions",
+      "detail": "A bench led by CJI Ranjan Gogoi dismisses the review petitions, again declining to order a court-monitored investigation and citing the limited scope of judicial review over defence contracting.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No criminal case, chargesheet, or conviction has resulted from the Rafale deal controversy as of the most recent reporting reviewed. The Supreme Court's only substantive rulings on the matter — in December 2018 and on review in November 2019 — declined to order a court-monitored investigation into the deal's pricing, process, or offset-partner selection. This is narrower than either a finding that no wrongdoing occurred or a finding that wrongdoing did occur; the Court explicitly limited itself to whether it should direct further investigation, and said it could not adjudicate detailed pricing given the classified nature of the data placed before it.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The Rafale deal controversy remains a genuinely disputed matter: real, substantial changes were made to the original procurement plan (fewer aircraft, a new and unproven Indian offset partner, and a renegotiated price), and serious allegations of favouritism and overpricing were raised by credible political and public figures — but two rounds of Supreme Court review declined to order any further investigation, and no court has found the allegations either proven or conclusively disproven on the merits. This site reports the Court's actual, narrow holding rather than characterising it as either a full vindication or a confirmed scam.",
+    "confidence": "medium",
+    "reasoning": "The core chronology — the MMRCA tender, the 2015 announcement, the 2016 agreement, and both 2018 and 2019 Supreme Court rulings — is corroborated by the Supreme Court Observer, SCC Online, LiveLaw-adjacent legal reporting, and multiple news outlets. Confidence is not higher because this entry has not reviewed the Supreme Court's full judgments or the classified pricing annexures directly, and the underlying factual disputes over pricing comparison and offset-partner selection remain contested and were not fully resolved by the Court's procedural rulings."
+  },
+  "incomplete": [
+    "This entry has not reviewed the Supreme Court's full December 2018 judgment or the November 2019 review judgment directly, relying on legal-affairs reporting (Supreme Court Observer, SCC Online) summarising them.",
+    "The claim that the per-aircraft price rose substantially compared to the 2012 MMRCA proposal is contested and depends on how the two very different deals (36 flyaway jets with support/weapons packages vs. 126 jets with extensive licence-production) are compared; this entry does not adjudicate which comparison is correct.",
+    "This entry has not confirmed whether any parliamentary committee (e.g., a Joint Parliamentary Committee, which the opposition sought but which was not constituted) or CAG review of the deal's pricing was ever completed and published in full; a CAG report was tabled in 2019 but this entry has not reviewed its contents directly.",
+    "No individual has been named as an accused in any criminal proceeding over this deal as of the sources reviewed; this entry does not treat unproven allegations against any named businessperson or official as established fact."
+  ],
+  "sources": [
+    {
+      "id": "src-rafale-scobserver",
+      "label": "Manohar Lal Sharma v. Narendra Damodardas Modi (Rafale Fighter Jet Deal) — Background",
+      "type": "independent",
+      "publisher": "Supreme Court Observer",
+      "date": "2019-01-01",
+      "url": "https://www.scobserver.in/cases/manohar-lal-sharma-v-narendra-damodardas-modi-rafale-fighter-jet-deal-background/"
+    },
+    {
+      "id": "src-rafale-sc-2018",
+      "label": "Rafale Deal Case Comment",
+      "type": "independent",
+      "publisher": "The Amikus Qriae",
+      "date": "2019-01-01",
+      "url": "https://theamikusqriae.com/case-comment-rafale-deal-case/"
+    },
+    {
+      "id": "src-rafale-sc-review-2019",
+      "label": "SC dismisses the petition seeking review of the Rafale Verdict",
+      "type": "independent",
+      "publisher": "SCC Online (SCC Times)",
+      "date": "2019-11-14",
+      "url": "https://www.scconline.com/blog/post/2019/11/14/breaking-sc-dismisses-the-petition-seeking-review-of-the-rafale-verdict/"
+    },
+    {
+      "id": "src-rafale-federal",
+      "label": "From 36 to 114, the Rafale U-Turn: Why India is paying more a decade later",
+      "type": "independent",
+      "publisher": "The Federal",
+      "date": "2024-01-01",
+      "url": "https://thefederal.com/category/opinion/rafale-deal-indias-defence-manufacturing-made-in-india-fighter-planes-231972"
+    }
+  ]
+}

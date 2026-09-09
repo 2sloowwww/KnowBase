@@ -1,0 +1,134 @@
+{
+  "id": "KB-3028",
+  "slug": "bombay-hc-pothole-liability-ruling",
+  "title": "The Bombay High Court's Pothole Death Liability Ruling",
+  "dek": "Civic bodies promised motorable roads for decades while thousands died falling into potholes and open manholes. It took a High Court order fixing personal liability on officials to even get a standard compensation figure on paper.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 200,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2023-01-01",
+  "heroStat": {
+    "value": "9,438 deaths",
+    "label": "reported pothole-related deaths across India, 2020–2024"
+  },
+  "promise": {
+    "quote": "Civic bodies and state road agencies are duty-bound to provide and maintain safe, motorable roads for citizens, repairing hazards like potholes and open manholes promptly.",
+    "madeBy": "Municipal corporations (including BMC), Maharashtra PWD and MSRDC",
+    "role": "State and municipal road-owning and maintenance authorities",
+    "date": "2023-01-01",
+    "context": "Despite years of civic complaints and litigation over pothole-related deaths and injuries across Maharashtra, no standard compensation framework or personal-accountability mechanism existed for civic negligence in road maintenance.",
+    "sourceIds": [
+      "src-pothole-scconline"
+    ]
+  },
+  "target": {
+    "description": "Roads maintained by municipal and state authorities should be free of hazards such as potholes and open manholes; where hazards are reported, they should be repaired within a reasonable, defined time, and victims of civic negligence should have a clear right to compensation.",
+    "standard": "Article 21 of the Constitution (right to life, as interpreted to include a right to safe roads); municipal road-maintenance obligations under state municipal corporation acts.",
+    "referenceDate": "2023-01-01"
+  },
+  "reality": {
+    "description": "On 13 October 2025, a Division Bench of the Bombay High Court (Justices Revati Mohite Dere and Sandesh D. Patil) ruled that the right to safe roads is a fundamental right under Article 21, and ordered the BMC, Maharashtra PWD and MSRDC to pay ₹6 lakh compensation to families of people who die from potholes or open manholes, and between ₹50,000 and ₹2.5 lakh for injuries, depending on severity. The court held that any pothole reported to an authority must be repaired within 48 hours, failing which it constitutes gross negligence warranting departmental action against the responsible officers and contractors, and fixed personal liability on officials for delayed compensation payouts. The ruling followed years of civic apathy despite pothole deaths rising sharply nationally — reported at 9,438 between 2020 and 2024, with Uttar Pradesh alone accounting for 5,127 of them. As of the ruling, implementation depends on new district compensation committees that were yet to be tested at scale.",
+    "asOfDate": "2025-10-15",
+    "sourceIds": [
+      "src-pothole-scconline",
+      "src-pothole-casemine"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Pothole-related deaths nationally vs. a functioning compensation/accountability framework",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 8,
+    "targetDisplay": "Right to safe roads (implicit since Article 21 jurisprudence began)",
+    "actualDisplay": "~8 years of rising pothole deaths before a compensation framework existed (2018 Uphaar-style strict liability precedent to 2025 ruling)",
+    "targetLabel": "Expected",
+    "actualLabel": "Delay",
+    "note": "The 'delay' figure is illustrative of the gap between courts recognising strict liability principles for civic hazards and an enforceable, standardised compensation mechanism actually being ordered; it is not a single official statistic."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "allocatedLabel": "Total compensation liability under the new framework (undetermined, case-by-case)",
+    "released": 0.06,
+    "releasedLabel": "Fixed compensation per pothole/manhole death ordered by the court",
+    "spent": null,
+    "spentLabel": "Total compensation actually paid out under the ruling to date",
+    "unit": "crore",
+    "notes": "The ₹6 lakh figure equals ₹0.06 crore per death; no aggregate total payout figure was available as the ruling was recent at the time of writing.",
+    "sourceIds": [
+      "src-pothole-businessstandard"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-01-01",
+      "label": "Rising pothole deaths draw judicial attention",
+      "detail": "Public interest litigation and news reporting increasingly highlighted deaths from potholes and open manholes across Maharashtra and other states.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-10-13",
+      "label": "Bombay High Court issues landmark ruling",
+      "detail": "The Court held safe roads to be a fundamental right under Article 21, ordered fixed compensation for pothole/manhole deaths and injuries, and fixed personal liability on negligent officials.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-14",
+      "label": "Compensation framework detailed",
+      "detail": "Reports detailed the ₹6 lakh death compensation and ₹50,000–₹2.5 lakh injury compensation, with district compensation committees to administer payouts within 6–8 weeks.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a High Court civil/public-law ruling establishing compensation and accountability obligations on civic and state road authorities; it is not a criminal prosecution, and no individual official has been reported convicted under it. Its practical enforcement was still unfolding as of the ruling date.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The scale of the problem — thousands of preventable deaths from unrepaired potholes and open manholes — is not disputed and is backed by the state's own road-safety data. What the Bombay High Court's October 2025 ruling confirms, more than resolves, is that no working accountability or compensation mechanism existed before it; whether the new district compensation committees and 48-hour repair mandate are actually enforced remains to be seen.",
+    "confidence": "medium",
+    "reasoning": "The ruling's content, date and reasoning are confirmed by multiple independent legal and news reports. Because the order was recent relative to this investigation, its real-world implementation and payout record could not yet be verified."
+  },
+  "incomplete": [
+    "No data was available at the time of writing on how many claims have actually been paid out under the new compensation framework.",
+    "Whether any official has faced 'personal liability' consequences under the ruling in practice could not be confirmed.",
+    "The national pothole-death figures (9,438 over 2020–2024) come from road-safety reporting rather than a single centralised government dataset cited directly by the court."
+  ],
+  "sources": [
+    {
+      "id": "src-pothole-scconline",
+      "label": "'Right to safe roads is a fundamental right under Art. 21': Bombay HC orders compensation for pothole deaths, imposing liability on erring officials and contractors",
+      "type": "independent",
+      "publisher": "SCC Online",
+      "date": "2025-10-15",
+      "url": "https://www.scconline.com/blog/post/2025/10/15/right-to-safe-roads-fundamental-right-bombay-hc-orders-compensation-pothole-deaths/"
+    },
+    {
+      "id": "src-pothole-businessstandard",
+      "label": "HC directs ₹6 lakh compensation for deaths due to potholes, unsafe roads",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-10-14",
+      "url": "https://www.business-standard.com/india-news/mumbai-high-court-potholes-deaths-compensation-unsafe-roads-maharashtra-125101400938_1.html"
+    },
+    {
+      "id": "src-pothole-casemine",
+      "label": "Right to Safe Roads under Article 21: Immediate Public-Law Compensation for Pothole and Open Manhole Victims",
+      "type": "independent",
+      "publisher": "CaseMine",
+      "date": "2025-10-13",
+      "url": "https://www.casemine.com/commentary/in/right-to-safe-roads-under-article-21:-immediate-public-law-compensation-for-pothole-and-open-manhole-victims-district-compensation-committees-and-personal-liability-of-officials-%E2%80%94-bombay-high-court-(13-october-2025)/view"
+    },
+    {
+      "id": "src-pothole-moneylife",
+      "label": "Rs6 Lakh Compensation for Pothole Deaths, Bombay HC Slams Civic Apathy by BMC, PWD, MSRDC",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2025-10-14",
+      "url": "https://www.moneylife.in/article/rs6-lakh-compensation-for-pothole-deaths-bombay-hc-slams-civic-apathy-by-bmc-pwd-msrdc/78577.html"
+    }
+  ]
+}

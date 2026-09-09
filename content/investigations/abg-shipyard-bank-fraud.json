@@ -1,0 +1,164 @@
+{
+  "id": "KB-004",
+  "slug": "abg-shipyard-bank-fraud",
+  "title": "The ABG Shipyard Bank Fraud",
+  "dek": "A 28-bank lending consortium alleges ₹22,842 crore was diverted through a shipbuilder's related entities. Three and a half years after the CBI's FIR, a court has only just taken cognisance of the chargesheet.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 11,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-08-25",
+  "heroStat": {
+    "value": "₹22,842 cr",
+    "label": "alleged loss to a consortium of 28 lenders"
+  },
+  "promise": {
+    "quote": "Credit facilities extended by the lending consortium would be used for shipbuilding operations as disclosed, not diverted to related entities.",
+    "madeBy": "ABG Shipyard Ltd., to a 28-lender consortium led by ICICI Bank with State Bank of India as the largest exposure",
+    "role": "Private shipbuilding company; regulated corporate borrower",
+    "date": "2012-01-01",
+    "context": "ABG Shipyard was one of India's largest private shipbuilders before its loan accounts were declared fraudulent by lenders.",
+    "sourceIds": [
+      "src-abg-cbi"
+    ]
+  },
+  "target": {
+    "description": "Credit facilities used for their disclosed shipbuilding purpose, with accurate financial reporting to the lending consortium, as required under standard consortium-lending covenants.",
+    "standard": "Standard multi-bank consortium lending covenants and RBI norms on fraud classification and end-use verification.",
+    "referenceDate": "2012-01-01"
+  },
+  "reality": {
+    "description": "An external audit commissioned by the lenders found that ABG Shipyard, in alleged criminal conspiracy with its promoters and directors, availed credit facilities fraudulently and diverted funds to group companies in India and abroad, dishonestly, between 2012 and 2017. The CBI registered a case in February 2022 against the company, former CMD Rishi Kamlesh Agarwal, and other executives and directors, alleging a loss of ₹22,842 crore. A special court took cognisance of the CBI's chargesheet in August 2025.",
+    "asOfDate": "2025-08-13",
+    "sourceIds": [
+      "src-abg-cbi",
+      "src-abg-cognisance"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged loss vs. assets attached by the Enforcement Directorate",
+    "unit": "₹ crore",
+    "targetValue": 22842,
+    "actualValue": 2748,
+    "targetDisplay": "₹22,842 cr alleged loss",
+    "actualDisplay": "₹2,747.69 cr assets attached (ED)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Attached",
+    "note": "The attached figure covers the shipyards at Surat and Dahej, land parcels, and other property identified in the ED's money-laundering probe as of its September 2022 attachment order. It is roughly 12% of the alleged loss and does not necessarily represent realisable value if liquidated."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 22842,
+    "allocatedLabel": "Alleged loss to lending consortium",
+    "released": 2748,
+    "releasedLabel": "Assets attached by ED (Sept 2022 order)",
+    "spent": null,
+    "spentLabel": "Amount returned to lenders",
+    "unit": "crore",
+    "notes": "This is the largest bank-fraud amount the CBI has registered in a single case. No source reviewed for this investigation states a final, realised recovery figure for the lending consortium.",
+    "sourceIds": [
+      "src-abg-ed"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2012-01-01",
+      "label": "Alleged diversion begins",
+      "detail": "The CBI's case covers alleged fraudulent conduct starting in this period.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-01-01",
+      "label": "Alleged diversion continues through this period",
+      "detail": "The lenders' forensic audit covers the window up to 2017, after which the account was later classified as fraud.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-08-25",
+      "label": "Lender consortium files CBI complaint",
+      "detail": "The consortium, led by ICICI Bank, formally complained to the CBI after an external forensic audit.",
+      "type": "status"
+    },
+    {
+      "date": "2022-02-07",
+      "label": "CBI registers FIR",
+      "detail": "The CBI booked ABG Shipyard and its executives for an alleged ₹22,842 crore fraud — its largest bank-fraud case by amount.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-22",
+      "label": "ED attaches ₹2,747.69 crore in assets",
+      "detail": "The Enforcement Directorate attached shipyards, land, and other property as part of its money-laundering investigation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-11-20",
+      "label": "CBI files chargesheet",
+      "detail": "A chargesheet was filed against the company and named individuals.",
+      "type": "status"
+    },
+    {
+      "date": "2025-08-13",
+      "label": "Court takes cognisance",
+      "detail": "A special court took cognisance of the CBI's chargesheet, formally opening the trial process.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A chargesheet has been filed and a court has taken cognisance of it, but the trial itself had not concluded as of the most recent reporting reviewed. No conviction has been recorded.",
+    "keyIndividuals": [
+      {
+        "name": "Rishi Kamlesh Agarwal",
+        "role": "Former Chairman & Managing Director, ABG Shipyard",
+        "outcome": "Named in the CBI FIR and chargesheet. Trial process ongoing; no verdict reached."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is the largest bank-fraud amount the CBI has ever registered in a single case, and the allegation is backed by an independent forensic audit commissioned by the lenders themselves, not just a bank complaint. But more than three years passed between the FIR and a court even taking cognisance of the chargesheet — which is itself a fact worth noting about how slowly large financial-fraud cases move through the system — and no verdict has been reached.",
+    "confidence": "medium",
+    "reasoning": "The scale of the alleged fraud and the existence of a formal chargesheet are well documented. Confidence is capped at medium because the matter remains untried, and this investigation could not find a single reconciled, up-to-date recovery figure."
+  },
+  "incomplete": [
+    "No trial verdict has been reached; the accused are presumed innocent under Indian law pending the outcome.",
+    "It is not established how much of the ₹2,747.69 crore in attached assets has actually been liquidated and returned to lenders, if any.",
+    "The roles and individual outcomes for other named executives and directors beyond the former CMD were not detailed in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-abg-cbi",
+      "label": "ABG Shipyard, its directors booked by CBI in Rs 22,842-cr bank fraud case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-02-12",
+      "url": "https://www.business-standard.com/article/companies/abg-shipyard-its-directors-booked-by-cbi-in-rs-22-842-cr-bank-fraud-case-122021200845_1.html"
+    },
+    {
+      "id": "src-abg-cognisance",
+      "label": "Court takes cognisance against ABG Shipyard in ₹22,000 cr bank fraud case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2025-08-13",
+      "url": "https://www.business-standard.com/india-news/court-takes-cognizance-against-abg-shipyard-in-22-000-cr-bank-fraud-case-125081300048_1.html"
+    },
+    {
+      "id": "src-abg-ed",
+      "label": "ABG Shipyard: ED attaches assets worth Rs 2,747 cr in money laundering case",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-09-22",
+      "url": "https://www.business-standard.com/article/companies/abg-shipyard-ed-attaches-assets-worth-rs-2-747-cr-in-money-laundering-case-122092200620_1.html"
+    },
+    {
+      "id": "src-abg-timeline",
+      "label": "The Rs 22,000-crore ABG Shipyard Case: A timeline of India's biggest bank fraud",
+      "type": "independent",
+      "publisher": "DailyO",
+      "date": "2022-02-01",
+      "url": "https://www.dailyo.in/wallet/the-rs-22000-crore-abg-shipyard-case-a-timeline-of-indias-biggest-bank-fraud-37416"
+    }
+  ]
+}

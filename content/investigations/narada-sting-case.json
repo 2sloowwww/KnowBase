@@ -1,0 +1,158 @@
+{
+  "id": "KB-202",
+  "slug": "narada-sting-case",
+  "title": "The Narada Sting Case",
+  "dek": "A 2014 hidden-camera sting appeared to show West Bengal politicians accepting cash from an undercover reporter posing as a businessman. A CBI case followed years later, sanctioned prosecutions and dramatic 2021 arrests — but a decade on, no trial has concluded, and the case has largely stalled at the pre-trial stage.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 219,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2016-03-14",
+  "heroStat": {
+    "value": "10 years",
+    "label": "since the sting footage was filmed (2014); no trial has yet concluded as of this entry's research"
+  },
+  "promise": {
+    "quote": "Public representatives must not accept illegal gratification in exchange for official favours.",
+    "madeBy": "Standard conduct expected of elected representatives and public officials under Indian anti-corruption law",
+    "role": "Ministers, MLAs, an MP, and a senior police officer of the West Bengal government and Trinamool Congress, as filmed in the sting",
+    "date": "2014-01-01",
+    "context": "Journalist Mathew Samuel, running the news portal Narada News, conducted a sting operation in 2014 in which an undercover reporter posing as a representative of a fictitious company offered money to Trinamool Congress leaders and a police officer in exchange for purported favours, recording the transactions on hidden camera.",
+    "sourceIds": [
+      "src-narada-background"
+    ]
+  },
+  "target": {
+    "description": "That public officials would not accept cash or other gratification in exchange for official favours, as required under the Prevention of Corruption Act.",
+    "standard": "Prevention of Corruption Act, 1988, and Indian Penal Code provisions on criminal conspiracy and cheating.",
+    "referenceDate": "2014-01-01"
+  },
+  "reality": {
+    "description": "The sting footage was made public on 14 March 2016, days before West Bengal's assembly election, showing TMC leaders including ministers and an MP purportedly accepting cash. The Calcutta High Court ordered a CBI probe in 2017; the Supreme Court upheld that order. The CBI registered a case and, after West Bengal's Governor sanctioned prosecution in May 2021, arrested four leaders — ministers Firhad Hakim and Subrata Mukherjee, MLA Madan Mitra, and former mayor Sovan Chatterjee — on 17 May 2021, along with IPS officer S.M.H. Mirza. Their arrest triggered large protests outside the CBI's Kolkata office, including Chief Minister Mamata Banerjee's own presence at a dharna there. All four were granted bail within days, first by the special CBI court and then, after prolonged wrangling over jurisdiction, confirmed by the Calcutta High Court. The CBI separately chargesheeted the accused. As of the most recent reporting reviewed, the case remains at the pre-trial stage in the special court, with the CBI's earlier bid to transfer proceedings out of the state having been rejected, and no trial verdict has been reported.",
+    "asOfDate": "2021-06-01",
+    "sourceIds": [
+      "src-narada-arrests",
+      "src-narada-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since the sting was filmed vs. years to any trial verdict",
+    "unit": "years",
+    "targetValue": 10,
+    "actualValue": 0,
+    "targetDisplay": "10 years since filming (2014-2026)",
+    "actualDisplay": "0 trial verdicts delivered",
+    "targetLabel": "Time elapsed",
+    "actualLabel": "Trials concluded",
+    "note": "This entry could not confirm any trial verdict, acquittal, or discharge order beyond the 2021 arrests, bail grants, and chargesheet — the case appears to remain pending at the pre-trial stage."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2014-01-01",
+      "label": "Sting operation filmed",
+      "detail": "Journalist Mathew Samuel films TMC leaders and a police officer purportedly accepting cash from an undercover reporter.",
+      "type": "status"
+    },
+    {
+      "date": "2016-03-14",
+      "label": "Sting footage made public",
+      "detail": "Narada News releases the footage days before West Bengal's assembly election, triggering a political storm.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-04-17",
+      "label": "Calcutta High Court orders CBI probe",
+      "detail": "The High Court directs a CBI investigation into the sting allegations.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-02-06",
+      "label": "Supreme Court affirms CBI probe",
+      "detail": "The Supreme Court declines to interfere with the CBI investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2021-05-07",
+      "label": "Governor sanctions prosecution",
+      "detail": "West Bengal Governor Jagdeep Dhankhar approves CBI's request to prosecute four TMC leaders.",
+      "type": "status"
+    },
+    {
+      "date": "2021-05-17",
+      "label": "CBI arrests four TMC leaders",
+      "detail": "Firhad Hakim, Subrata Mukherjee, Madan Mitra and Sovan Chatterjee are arrested; large protests follow outside CBI's Kolkata office.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-05-29",
+      "label": "Calcutta High Court confirms interim bail",
+      "detail": "After a stay-and-counter-stay dispute, the High Court grants interim bail to all four accused, with conditions including bail bonds of ₹2 lakh each.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case remains pending at the pre-trial stage in a special CBI court in Kolkata. All named accused are out on bail; the CBI has filed a chargesheet, but this entry found no confirmed report of the framing of charges, start of trial, or any verdict as of the most recent sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Firhad Hakim",
+        "role": "West Bengal minister and Kolkata mayor",
+        "outcome": "Arrested May 2021; granted bail within days; case pending."
+      },
+      {
+        "name": "Subrata Mukherjee",
+        "role": "West Bengal minister (deceased 2021)",
+        "outcome": "Arrested May 2021; granted bail; died in August 2021 before any trial verdict."
+      },
+      {
+        "name": "Madan Mitra",
+        "role": "TMC MLA",
+        "outcome": "Arrested May 2021; granted bail; case pending."
+      },
+      {
+        "name": "Sovan Chatterjee",
+        "role": "Former Kolkata mayor, later joined BJP then TMC",
+        "outcome": "Arrested May 2021; granted bail; case pending."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real sting operation, a real CBI investigation ordered by constitutional courts, and real arrests of sitting ministers took place — but this remains, a decade after the footage was filmed, an unresolved case with no trial verdict. This site reports the sting's allegations as allegations that survived judicial scrutiny to the point of a CBI chargesheet, not as proven facts; the accused have not been convicted of anything.",
+    "confidence": "medium",
+    "reasoning": "The High Court and Supreme Court orders directing a CBI probe, the 2021 arrests, and the bail grants are well documented in contemporaneous reporting. Confidence is not higher because this entry could not locate reporting on the case's status after mid-2021 beyond the arrest-and-bail sequence, meaning the current pre-trial status (as of 2026) is inferred from the absence of any reported trial or verdict rather than confirmed directly."
+  },
+  "incomplete": [
+    "This is a stub entry: the case's status between mid-2021 and 2026 — including whether charges have been formally framed, whether trial has begun, or whether the case has been quashed or stayed — has not been confirmed and needs updated research.",
+    "The authenticity and unedited status of the original sting footage was disputed by some accused; this entry does not adjudicate that dispute.",
+    "Subrata Mukherjee's death in August 2021 means the case against him has presumably abated, but this has not been separately confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-narada-background",
+      "label": "Narada Bribery Case | Narada Sting Operation — case explainer",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2021-05-17",
+      "url": "https://www.business-standard.com/about/what-is-narada-case"
+    },
+    {
+      "id": "src-narada-arrests",
+      "label": "CBI arrests four TMC leaders in Narada sting tapes case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2021-05-17",
+      "url": "https://www.deccanherald.com/india/sc-approves-cbi-probe-narada-1996109"
+    },
+    {
+      "id": "src-narada-bail",
+      "label": "Top TMC leaders held in Narada case granted interim bail",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2021-05-29",
+      "url": "https://www.deccanherald.com/amp/story/india%2Ftop-tmc-leaders-held-in-narada-case-granted-interim-bail-990994.html"
+    }
+  ]
+}

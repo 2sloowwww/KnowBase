@@ -1,0 +1,116 @@
+{
+  "id": "KB-603",
+  "slug": "assam-sarba-siksha-abhiyan-scam",
+  "title": "The Rs 200 Crore Question Over Assam's School Mission",
+  "dek": "A CAG-based PIL alleges Assam's Sarba Siksha Abhiyan misused roughly Rs 200 crore over five years — padded school-supply purchases and salaries paid to teachers who, the petition says, did not exist. The Gauhati High Court has sought answers; no probe finding has been made public.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 221,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-04-09",
+  "heroStat": {
+    "value": "₹200 cr",
+    "label": "alleged financial irregularity in Assam's Sarba Siksha Abhiyan (SSA) mission between 2011-12 and 2015-16, per a PIL based on a CAG report"
+  },
+  "promise": {
+    "quote": "The PIL was filed based on a report of the Comptroller and Auditor General (CAG) of India, alleging irregularity in the purchase of school materials and the misuse of crores of rupees paid as salary to fake teachers under the Sarba Siksha Abhiyan Mission.",
+    "madeBy": "Government of India and Government of Assam",
+    "role": "Central and state governments jointly implementing the Sarva Shiksha Abhiyan (Assam's Sarba Siksha Abhiyan) universal-elementary-education scheme",
+    "date": "2011-04-01",
+    "context": "Sarva Shiksha Abhiyan is a centrally sponsored scheme for universal elementary education; the promise reflected here is the basic assurance that funds released for teacher salaries and school materials in Assam would be spent on genuine teachers and actual purchases during the audited 2011-12 to 2015-16 period, rather than a single dated public statement.",
+    "sourceIds": [
+      "src-ssa-pratidin"
+    ]
+  },
+  "target": {
+    "description": "That Sarba Siksha Abhiyan funds released to Assam for 2011-12 through 2015-16 would be spent on genuine school-material purchases and salaries paid only to actually employed, genuine teachers, as intended under the centrally sponsored scheme's financial guidelines.",
+    "standard": "Sarva Shiksha Abhiyan financial management and procurement guidelines, and the CAG's statutory audit mandate over centrally sponsored scheme expenditure.",
+    "referenceDate": "2011-04-01"
+  },
+  "reality": {
+    "description": "In April 2021, the NGO Amguri Naba Nirman Samity filed a Public Interest Litigation (PIL No. 23/2021) in the Gauhati High Court alleging a roughly Rs 200 crore financial irregularity in Assam's Sarba Siksha Abhiyan mission for the 2011-12 to 2015-16 period, based on a CAG report. The petition alleged irregularities in the purchase of school materials and the payment of salaries to teachers it described as fake or non-existent. The High Court issued notices to the Union and Assam state governments, the SSA Mission Director for Assam, and the Sivasagar District Mission Coordinator, directing them to file affidavits in response. This entry has not found any published outcome of that court proceeding, any government-ordered investigation report, or confirmation of who — if anyone — was held responsible, and treats the underlying allegations as unresolved rather than established fact.",
+    "asOfDate": "2021-04-10",
+    "sourceIds": [
+      "src-ssa-sentinel",
+      "src-ssa-pratidin"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged financial irregularity flagged by the CAG-based PIL, by scheme year range",
+    "unit": "INR crore",
+    "targetValue": 0,
+    "actualValue": 200,
+    "targetDisplay": "₹0 expected irregularity",
+    "actualDisplay": "~₹200 cr alleged irregularity, 2011-12 to 2015-16",
+    "targetLabel": "Funds expected to be properly accounted for",
+    "actualLabel": "Amount the PIL alleges was misused",
+    "note": "This figure comes from the PIL's characterisation of a CAG report, not from this entry's direct review of that CAG report. The underlying CAG report itself has not been located or verified by this entry, and the Rs 200 crore figure should be treated as an allegation pending court and audit confirmation."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "No official, verified breakdown of allocated, released, or spent SSA funds for Assam in this period has been located by this entry. The only figure available is the PIL's claim of a roughly Rs 200 crore irregularity, sourced to a CAG report this entry has not independently reviewed.",
+    "sourceIds": [
+      "src-ssa-pratidin"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2011-04-01",
+      "label": "Audited period begins",
+      "detail": "Start of the 2011-12 to 2015-16 financial years covered by the CAG report underlying the later PIL.",
+      "type": "status"
+    },
+    {
+      "date": "2021-04-09",
+      "label": "PIL filed in Gauhati High Court",
+      "detail": "Amguri Naba Nirman Samity files PIL No. 23/2021 alleging a roughly Rs 200 crore irregularity in Assam's Sarba Siksha Abhiyan mission, citing a CAG report.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-04-10",
+      "label": "High Court issues notices",
+      "detail": "Gauhati High Court issues notices to the Union and Assam governments, the SSA Mission Director Assam, and the Sivasagar District Mission Coordinator, directing affidavits within three weeks.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A Public Interest Litigation (PIL No. 23/2021) alleging the irregularity remains, as far as this entry could determine, before the Gauhati High Court, with notices issued to the central and state governments and named SSA officials in April 2021. No verdict, investigation report, or finding of individual responsibility has been located.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "A real, court-filed allegation grounded in a CAG audit finding, not an established or adjudicated scam. The Gauhati High Court has sought responses from the Union government, the Assam government, and named SSA officials, but this entry found no public record of the case's outcome, any government probe report, or anyone being held accountable. This should be read as an open, unresolved allegation rather than a confirmed scam.",
+    "confidence": "low",
+    "reasoning": "Only two independent news reports of the April 2021 PIL filing and the High Court's notice were located; the underlying CAG report has not been reviewed directly, and no subsequent reporting on the case's progress or resolution was found despite searching."
+  },
+  "incomplete": [
+    "The underlying CAG report — its exact title, audit year, and specific findings — has not been located or reviewed directly; this entry relies entirely on the PIL's characterisation of it as reported in two news articles.",
+    "No outcome of the Gauhati High Court proceeding (PIL No. 23/2021) has been found; whether the case is still pending, was dismissed, or led to any further action is unknown.",
+    "No government-ordered inquiry report, CBI/vigilance investigation, or disciplinary action against any named official has been found in connection with this specific allegation.",
+    "It has not been possible to confirm whether the 'fake teachers' allegation refers to entirely fictitious personnel on payroll, or to some other form of misrepresentation (e.g., inflated headcounts, teachers paid despite vacant posts); this distinction matters for the severity of the underlying claim and is not resolved by the sources found."
+  ],
+  "sources": [
+    {
+      "id": "src-ssa-pratidin",
+      "label": "Assam: Massive Scam Reported in Sarba Siksha Mission",
+      "type": "independent",
+      "publisher": "Pratidin Time",
+      "date": "2021-04-09",
+      "url": "https://www.pratidintime.com/latest-assam-news-breaking-news-assam/assam-massive-scam-reported-in-sarba-siksha-mission"
+    },
+    {
+      "id": "src-ssa-sentinel",
+      "label": "Sarba Siksha Abhiyan: HC issues notices on multi-crore scam",
+      "type": "independent",
+      "publisher": "The Sentinel Assam",
+      "date": "2021-04-10",
+      "url": "https://www.sentinelassam.com/guwahati-city/sarba-siksha-abhiyan-hc-issues-notices-on-multi-crore-scam-533344"
+    }
+  ]
+}

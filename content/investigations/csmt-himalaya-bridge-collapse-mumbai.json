@@ -1,0 +1,136 @@
+{
+  "id": "KB-3023",
+  "slug": "csmt-himalaya-bridge-collapse-mumbai",
+  "title": "The CSMT Himalaya Bridge Collapse, Mumbai",
+  "dek": "A pedestrian bridge outside Mumbai's busiest railway terminus had passed a structural audit just six months earlier, rated fit with only minor repairs needed. It collapsed onto rush-hour commuters below, killing six people, including hospital staff walking to work.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 196,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2019-03-14",
+  "heroStat": {
+    "value": "6 dead",
+    "label": "killed when the Himalaya foot overbridge outside CSMT railway station in Mumbai collapsed on 14 March 2019"
+  },
+  "promise": {
+    "quote": "The bridge has been structurally audited and found fit for public use, requiring only minor repairs.",
+    "madeBy": "Brihanmumbai Municipal Corporation (BMC), via its appointed structural auditor",
+    "role": "Civic body responsible for maintaining Mumbai's pedestrian foot overbridges, and the private consultant it hired to audit them",
+    "date": "2018-08-01",
+    "context": "The BMC had appointed a private consultant to carry out structural audits of the city's foot overbridges following an earlier bridge collapse in the city; the Himalaya Bridge, connecting CSMT station to Badruddin Tayabji Marg, was rated in category C2B — needing only minor repairs — around six to eight months before it collapsed.",
+    "sourceIds": [
+      "src-csmt-wiki"
+    ]
+  },
+  "target": {
+    "description": "A pedestrian bridge rated safe by a structural audit remaining safe for public use for a reasonable period thereafter, with any repairs recommended by the audit actually carried out before the bridge is deemed cleared.",
+    "standard": "BMC's own structural-audit and bridge-safety protocol, introduced after a prior bridge safety scare in Mumbai.",
+    "referenceDate": "2018-08-01"
+  },
+  "reality": {
+    "description": "On the evening of 14 March 2019, a portion of the Himalaya foot overbridge outside CSMT station collapsed onto the road below during the evening rush, killing six people — including staff of the nearby Cama Hospital walking home from work — and injuring around 30 others. The bridge had been rated safe with only minor repairs needed in a structural audit roughly six to eight months earlier. Mumbai Police registered cases of culpable homicide not amounting to murder and other offences against the BMC and Central Railway officials, and arrested the structural auditor, Neeraj Desai, whose firm had certified the bridge. A roughly 700-page chargesheet was filed naming Desai and BMC officials; two BMC engineers who had supervised the audit and repairs were suspended. As of the most recent reporting reviewed, no trial verdict has been reported.",
+    "asOfDate": "2019-04-01",
+    "sourceIds": [
+      "src-csmt-wiki",
+      "src-csmt-bs"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Months between the structural audit clearing the bridge and its actual collapse",
+    "unit": "months",
+    "targetValue": 60,
+    "actualValue": 7,
+    "targetDisplay": "A safety-audit rating (minor repairs only) would typically be expected to hold for years",
+    "actualDisplay": "Bridge collapsed roughly 7-8 months after being rated safe",
+    "targetLabel": "Expected durability",
+    "actualLabel": "Actual",
+    "note": "There is no fixed official validity period stated for a C2B structural-audit rating; the comparison illustrates how quickly a bridge rated as needing only minor repairs failed catastrophically, a point raised by the accused auditor's own defence in court."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2018-08-01",
+      "label": "Structural audit clears the bridge",
+      "detail": "A BMC-appointed private auditor rated the Himalaya Bridge in category C2B, needing only minor repairs.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-03-14",
+      "label": "Bridge collapses during evening rush hour",
+      "detail": "A section of the bridge fell onto the road below, killing six people including hospital staff, and injuring about 30 others.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-15",
+      "label": "Cases registered, officials suspended",
+      "detail": "Mumbai Police booked BMC and railway officials for culpable homicide not amounting to murder; two BMC engineers were suspended.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-16",
+      "label": "Structural auditor arrested",
+      "detail": "Neeraj Desai, whose firm had certified the bridge as safe, was arrested and sent to police custody.",
+      "type": "status"
+    },
+    {
+      "date": "2019-04-09",
+      "label": "Chargesheet filed",
+      "detail": "Police filed a roughly 700-page chargesheet against the auditor and BMC officials.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Multiple BMC officials and the private structural auditor were chargesheeted for culpable homicide not amounting to murder and related offences. No trial verdict was found in sources reviewed as of the most recent reporting available; all accused remain presumed innocent pending trial.",
+    "keyIndividuals": [
+      {
+        "name": "Neeraj Desai",
+        "role": "Director, structural-audit firm that certified the bridge as safe",
+        "outcome": "Arrested and chargesheeted; bail plea rejected by a Mumbai court in 2019; no trial verdict found in sources reviewed."
+      },
+      {
+        "name": "A.R. Patil and S.F. Kakulte",
+        "role": "BMC executive engineer and assistant engineer supervising the bridge's audit and repairs",
+        "outcome": "Suspended pending departmental inquiry; chargesheeted alongside the auditor."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That a structural audit certified this bridge safe only months before it collapsed and killed six people is not disputed — it is the basis of the criminal case itself. What remains unresolved is judicial accountability: this investigation found no reported trial verdict for the auditor or the civic officials involved.",
+    "confidence": "medium",
+    "reasoning": "The collapse, casualty count, audit timeline and chargesheet are well documented by multiple independent Indian outlets from 2019. Confidence is not 'high' because this investigation could not confirm the case's current status beyond 2019-era reporting, and a trial outcome (if any) may exist that was not located."
+  },
+  "incomplete": [
+    "No confirmed trial verdict for Neeraj Desai or the chargesheeted BMC officials was located in sources reviewed; the case's current (2026) status is not established here.",
+    "This investigation did not verify what became of the wider third-party audit of Mumbai's other foot overbridges launched in response to this collapse.",
+    "Exact compensation amounts paid to victims' families were not independently reconciled here."
+  ],
+  "sources": [
+    {
+      "id": "src-csmt-wiki",
+      "label": "2019 Mumbai foot overbridge collapse",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2023-01-01",
+      "url": "https://en.wikipedia.org/wiki/2019_Mumbai_foot_overbridge_collapse"
+    },
+    {
+      "id": "src-csmt-bs",
+      "label": "CSMT bridge collapse: Auditor Neeraj Desai sent to police custody till March 25",
+      "type": "independent",
+      "publisher": "Business Standard (ANI)",
+      "date": "2019-03-19",
+      "url": "https://www.business-standard.com/article/news-ani/csmt-bridge-collapse-auditor-neeraj-desai-sent-to-police-custody-till-march-25-119031900897_1.html"
+    },
+    {
+      "id": "src-csmt-india",
+      "label": "Mumbai Bridge Collapse: Esplanade Court Rejects Structural Auditor Neeraj Desai's Bail Plea",
+      "type": "independent",
+      "publisher": "India.com",
+      "date": "2019-04-01",
+      "url": "https://www.india.com/news/india/mumbai-bridge-collaspse-esplanade-court-rejects-structural-auditor-neeraj-desais-bail-plea-3622185/"
+    }
+  ]
+}

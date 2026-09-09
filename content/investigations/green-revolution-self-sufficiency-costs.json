@@ -1,0 +1,112 @@
+{
+  "id": "KB-2506",
+  "slug": "green-revolution-self-sufficiency-costs",
+  "title": "The Green Revolution Made India Food Self-Sufficient. Six Decades On, Punjab's Water Table Is Paying the Bill",
+  "dek": "India's Green Revolution of the 1960s and 70s was framed as the answer to famine and food-grain dependence -- high-yield seeds, irrigation and fertiliser to make the country self-sufficient. It largely delivered that goal, transforming India into a major food producer and exporter. But the same package of practices, concentrated heavily in Punjab, Haryana and western Uttar Pradesh, has been linked by decades of subsequent research to severe groundwater depletion, soil degradation and regional inequality that policymakers are still grappling with.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 44,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "1970-01-01",
+  "heroStat": {
+    "value": "117 of 150",
+    "label": "Administrative sub-units (blocks) in Punjab where groundwater extraction exceeds recharge, per the Central Ground Water Board, in the state at the heart of the Green Revolution"
+  },
+  "promise": {
+    "quote": "The introduction of high-yielding seed varieties, expanded irrigation and chemical fertiliser use would make India self-sufficient in food grain production, ending its dependence on imports and the threat of famine.",
+    "madeBy": "Government of India, agricultural scientists including M.S. Swaminathan, and international agricultural research bodies",
+    "role": "Union and state agriculture policymakers and scientists who designed and promoted the Green Revolution package from the mid-1960s",
+    "date": "1966-01-01",
+    "context": "Following food shortages and reliance on imported grain (including under the US PL-480 programme) in the years after independence, India adopted high-yield variety seeds, expanded irrigation infrastructure and subsidised chemical fertiliser and pesticide use, concentrated initially in Punjab, Haryana and western Uttar Pradesh.",
+    "sourceIds": [
+      "src-green-downtoearth"
+    ]
+  },
+  "target": {
+    "description": "Sustained national food-grain self-sufficiency achieved without severely depleting the natural resource base (soil fertility, groundwater) or worsening regional inequality between areas that adopted the new agricultural package and those that did not.",
+    "standard": "The stated goals of Green Revolution agricultural policy as articulated by Indian and international agricultural planners from the mid-1960s",
+    "referenceDate": "1966-01-01"
+  },
+  "reality": {
+    "description": "India did achieve substantial and durable food-grain self-sufficiency, moving from a food-deficit nation reliant on imports to a major agricultural producer and, in later decades, exporter -- a widely credited achievement of the Green Revolution. However, independent research and government data compiled over subsequent decades has documented significant environmental and social costs concentrated in the states that most intensively adopted the Green Revolution package. The Central Ground Water Board has found water levels in Punjab dropping at an average of roughly 20 inches per year, with 117 of the state's 150 administrative blocks extracting groundwater faster than it is replenished, driven substantially by intensive irrigation for water-heavy rice and wheat monoculture. Research has also documented soil degradation, including declining organic carbon content and progressive salinisation from over-irrigation without adequate drainage, and groundwater contamination with pesticide residues and heavy metals in parts of Punjab linked in various studies to elevated rates of certain illnesses. The benefits of the Green Revolution were also unevenly distributed geographically, favouring irrigated regions of northwestern India while rain-fed regions of eastern and southern India lagged in adoption and productivity gains for decades, a regional gap that has only partly narrowed since.",
+    "asOfDate": "2024-01-01",
+    "sourceIds": [
+      "src-green-downtoearth",
+      "src-green-undark"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Punjab administrative blocks where groundwater extraction is sustainable versus blocks over-extracting",
+    "unit": "count of blocks",
+    "targetValue": 150,
+    "actualValue": 33,
+    "targetDisplay": "150 total administrative blocks in Punjab",
+    "actualDisplay": "Only about 33 blocks (150 minus 117) remain within sustainable groundwater extraction limits, per the Central Ground Water Board",
+    "targetLabel": "Total blocks",
+    "actualLabel": "Blocks within sustainable extraction limits",
+    "note": "Figures are as reported by the Central Ground Water Board via independent reporting; 117 of Punjab's 150 blocks are found to be over-extracting groundwater relative to recharge."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1966-01-01",
+      "label": "Green Revolution package adopted",
+      "detail": "India begins large-scale adoption of high-yield variety seeds, expanded irrigation and subsidised chemical fertiliser and pesticide use, concentrated in Punjab, Haryana and western Uttar Pradesh.",
+      "type": "announcement"
+    },
+    {
+      "date": "1970-01-01",
+      "label": "India approaches food-grain self-sufficiency",
+      "detail": "Food-grain production rises substantially through the early 1970s, reducing India's dependence on imported grain.",
+      "type": "milestone"
+    },
+    {
+      "date": "2000-01-01",
+      "label": "Groundwater decline documented in Punjab",
+      "detail": "Government and independent studies increasingly document accelerating groundwater depletion in Punjab linked to intensive irrigation for rice-wheat monoculture.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "Central Ground Water Board finds majority of Punjab blocks over-extracting",
+      "detail": "Reporting citing Central Ground Water Board data finds 117 of Punjab's 150 administrative blocks are extracting groundwater faster than it is being replenished.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is an agricultural and environmental policy matter, not a criminal or legal case. Various state and central government schemes (including crop diversification incentives and changes to minimum support price policy) have been proposed or attempted over the years to address groundwater depletion and monoculture dependence in Green Revolution states, with mixed and contested results.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The Green Revolution substantially achieved its central promise of national food-grain self-sufficiency, a genuine and durable accomplishment, but the intensive irrigation, fertiliser and monoculture practices at the core of that success have been linked by government data and independent research to severe and ongoing groundwater depletion and soil degradation in Punjab and neighbouring states, alongside a lasting regional gap in agricultural development that the original policy did not fully anticipate or address.",
+    "confidence": "high",
+    "reasoning": "Both the food self-sufficiency achievement and the groundwater depletion/soil degradation findings are corroborated across multiple independent sources including government data (Central Ground Water Board) as reported by independent outlets. Confidence is not higher because this entry synthesises secondary reporting on these datasets rather than directly analysing the underlying Central Ground Water Board records, and because attributing specific health outcomes to agricultural chemical exposure involves epidemiological uncertainty not fully resolved here."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed underlying Central Ground Water Board datasets, relying on independent reporting that cites them.",
+    "Claims linking pesticide and fertiliser residues in Punjab's groundwater to specific elevated disease rates involve epidemiological research that is not fully adjudicated in this entry; some such claims are contested.",
+    "More recent policy interventions (e.g. crop diversification schemes, direct seeding of rice) aimed at addressing these issues, and their effectiveness, are not comprehensively assessed here.",
+    "This entry deliberately frames the Green Revolution's outcome as mixed rather than as a 'failure,' consistent with the substantial and well-documented food security gains it also produced."
+  ],
+  "sources": [
+    {
+      "id": "src-green-downtoearth",
+      "label": "Reassessing the Green Revolution: India's Agricultural Transformation and Future Challenges",
+      "type": "independent",
+      "publisher": "Down To Earth",
+      "date": "2024-01-01",
+      "url": "https://www.downtoearth.org.in/agriculture/green-revolution-was-coined-57-years-ago-this-month-it-is-time-to-reassess-its-legacy"
+    },
+    {
+      "id": "src-green-undark",
+      "label": "The Downstream Effects of India's Green Revolution",
+      "type": "independent",
+      "publisher": "Undark",
+      "date": "2025-02-03",
+      "url": "https://undark.org/2025/02/03/downstream-india-green-revolution/"
+    }
+  ]
+}

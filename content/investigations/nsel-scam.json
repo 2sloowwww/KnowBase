@@ -1,0 +1,119 @@
+{
+  "id": "KB-022",
+  "slug": "nsel-scam",
+  "title": "The NSEL Scam",
+  "dek": "A commodity spot exchange ran what regulators later called an illegal, uncollateralised lending operation disguised as ordinary paired contracts — until it couldn't pay traders back.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 97,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-07-31",
+  "heroStat": {
+    "value": "₹5,574 cr",
+    "label": "alleged fraud at National Spot Exchange Ltd."
+  },
+  "promise": {
+    "quote": "Contracts traded on the National Spot Exchange will be backed by genuine, collateralised commodity stock, as required for a spot exchange.",
+    "madeBy": "National Spot Exchange Ltd. (NSEL), promoted by Financial Technologies (India) Ltd.",
+    "role": "Commodity spot exchange regulated as a forward-trading platform",
+    "date": "2013-07-31",
+    "context": "NSEL is alleged to have run paired long-short forward contracts that functioned as unsecured lending between traders, without the genuine underlying commodity stock the exchange model required.",
+    "sourceIds": [
+      "src-nsel-overview"
+    ]
+  },
+  "target": {
+    "description": "Contracts backed by verified, collateralised commodity inventory, with the exchange itself not functioning as an unregistered, unsecured lending platform.",
+    "standard": "Forward Contracts (Regulation) Act norms applicable to the exchange's trading structure.",
+    "referenceDate": "2013-07-31"
+  },
+  "reality": {
+    "description": "NSEL suspended trading on 31 July 2013 after it could not meet payment obligations, exposing a shortfall reported at ₹5,574.35 crore. Financial Technologies chairman Jignesh Shah was arrested in May 2014 by Mumbai's Economic Offences Wing on charges including criminal misappropriation, forgery, and criminal conspiracy; the Bombay High Court granted him bail after over 100 days in custody.",
+    "asOfDate": "2014-08-25",
+    "sourceIds": [
+      "src-nsel-arrest",
+      "src-nsel-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged shortfall vs. amount confirmed recovered for affected traders",
+    "unit": "₹ crore",
+    "targetValue": 5574,
+    "actualValue": 0,
+    "targetDisplay": "₹5,574.35 cr alleged shortfall",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged",
+    "actualLabel": "Confirmed recovered",
+    "note": "This investigation has not located a reliable, consolidated recovery figure and reports the recovered amount as unestablished rather than assuming it to be zero."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-07-31",
+      "label": "Trading suspended",
+      "detail": "NSEL halts trading after failing to meet payment obligations to traders.",
+      "type": "status"
+    },
+    {
+      "date": "2014-05-07",
+      "label": "Jignesh Shah arrested",
+      "detail": "Mumbai's Economic Offences Wing arrests the Financial Technologies chairman.",
+      "type": "status"
+    },
+    {
+      "date": "2014-08-25",
+      "label": "Bail granted",
+      "detail": "The Bombay High Court grants Shah bail after over 100 days in custody.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Jignesh Shah was arrested and later granted bail; this investigation has not yet researched the case's current trial status or verdict, if any.",
+    "keyIndividuals": [
+      {
+        "name": "Jignesh Shah",
+        "role": "Chairman, Financial Technologies (India) Ltd. (NSEL's promoter)",
+        "outcome": "Arrested May 2014; granted bail by the Bombay High Court, August 2014, after over 100 days in custody. This investigation has not confirmed a final trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the trading suspension, the scale of the shortfall, and Shah's arrest and bail are documented. This investigation has not established the case's current status or whether affected traders have recovered their money.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts, drawn largely from 2013–2014 reporting. It has not yet received the same depth of research as the site's fully developed cases, and this investigation could not confirm the case's more recent status."
+  },
+  "incomplete": [
+    "This is a stub entry. The case's current trial status, over a decade after the initial arrest, has not been researched.",
+    "It is not established how much, if any, of the ₹5,574 crore shortfall has been recovered for affected traders.",
+    "Other named accused beyond Jignesh Shah have not been identified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-nsel-overview",
+      "label": "An Anatomy of the NSEL Scam",
+      "type": "independent",
+      "publisher": "The Case Centre",
+      "date": "2015-01-01",
+      "url": "https://www.thecasecentre.org/products/view?id=125321"
+    },
+    {
+      "id": "src-nsel-arrest",
+      "label": "Jignesh Shah Arrested in NSEL Scam",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2014-05-08",
+      "url": "https://www.moneylife.in/article/jignesh-shah-arrested-in-nsel-scam/37350.html"
+    },
+    {
+      "id": "src-nsel-bail",
+      "label": "FTIL jumps as High Court grants bail to Jignesh Shah",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2014-08-25",
+      "url": "https://www.business-standard.com/article/news-cm/ftil-jumps-as-high-court-grants-bail-to-jignesh-shah-114082500432_1.html"
+    }
+  ]
+}

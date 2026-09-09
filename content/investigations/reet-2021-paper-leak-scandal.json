@@ -1,0 +1,136 @@
+{
+  "id": "KB-162",
+  "slug": "reet-2021-paper-leak-scandal",
+  "title": "The REET 2021 Paper Leak Scandal",
+  "dek": "Rajasthan's teacher-eligibility exam for roughly 16 lakh candidates was hit by a paper leak allegedly distributed for cash before the test even began, forcing a board chairman's dismissal, over 35 arrests, and a partial re-exam of the affected exam level.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 117,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-09-26",
+  "heroStat": {
+    "value": "62,000",
+    "label": "teaching posts for which Rajasthan had to reconduct the Level-2 REET exam, up from the original 32,000, after the 2021 paper leak"
+  },
+  "promise": {
+    "quote": "The Rajasthan Eligibility Examination for Teachers will be conducted securely and fairly for every candidate competing for a limited number of government teaching posts.",
+    "madeBy": "Board of Secondary Education, Rajasthan (BSER), Ajmer",
+    "role": "State board responsible for conducting REET, the eligibility exam for Rajasthan government teaching posts",
+    "date": "2021-09-26",
+    "context": "This reflects the Board's standard institutional mandate for the September 2021 REET exam, rather than a verified quotation from a specific BSER statement, which this entry has not located.",
+    "sourceIds": [
+      "src-reet-overview"
+    ]
+  },
+  "target": {
+    "description": "An exam conducted for roughly 16 lakh candidates competing for about 31,000 teaching posts, using a secure, uncirculated question paper.",
+    "standard": "BSER's own examination-security protocols for a state-level teacher-eligibility exam.",
+    "referenceDate": "2021-09-26"
+  },
+  "reality": {
+    "description": "REET 2021 was held on 26 September 2021. In Gangapur City, Sawai Madhopur district, the question paper was allegedly leaked around 8:30 am — roughly 90 minutes before the 10 am start — and found in the possession of a serving police constable, Devendra Singh, who allegedly distributed it to candidates for payment. The Rajasthan Police's Special Operations Group (SOG) investigated, arresting more than 35 people, including alleged mastermind Batti Lal Meena, who was arrested in Uttarakhand's Kedarnath. The state government dismissed BSER chairman D P Jaroli and suspended board secretary Arvind Kumar Sengwa over the leak. On 7 February 2022, then-Chief Minister Ashok Gehlot announced cancellation of the Level-2 REET exam and its reconduct for an expanded 62,000 posts (up from 32,000). Opposition BJP leaders demanded a CBI probe, which the state government did not hand over; the case remained with the SOG. This entry has not been able to confirm the current trial stage or any convictions arising from the SOG's 2021–22 arrests.",
+    "asOfDate": "2022-02-07",
+    "sourceIds": [
+      "src-reet-timeline",
+      "src-reet-sacked"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Original Level-2 teaching posts advertised vs. posts after the exam had to be reconducted following the leak",
+    "unit": "posts",
+    "targetValue": 32000,
+    "actualValue": 62000,
+    "targetDisplay": "32,000 posts originally advertised",
+    "actualDisplay": "62,000 posts in the reconducted exam",
+    "targetLabel": "Original posts",
+    "actualLabel": "Reconducted exam posts",
+    "note": "The government nearly doubled the number of posts in the reconducted Level-2 exam, reflecting both the scale of the disruption and an attempt to absorb the delay's political cost."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-09-26",
+      "label": "REET 2021 held; paper leaked in Sawai Madhopur",
+      "detail": "The exam is conducted for roughly 16 lakh candidates. In Gangapur City, the question paper is allegedly leaked about 90 minutes before the exam and found with a police constable.",
+      "type": "status"
+    },
+    {
+      "date": "2021-10-01",
+      "label": "SOG arrests begin",
+      "detail": "The Special Operations Group starts arresting suspects; more than 35 people are eventually held.",
+      "type": "milestone"
+    },
+    {
+      "date": "2021-10-15",
+      "label": "Board chairman sacked",
+      "detail": "The Gehlot government dismisses BSER chairman D P Jaroli and suspends board secretary Arvind Kumar Sengwa.",
+      "type": "status"
+    },
+    {
+      "date": "2022-02-07",
+      "label": "Level-2 exam cancelled and expanded",
+      "detail": "CM Ashok Gehlot announces cancellation of the Level-2 REET exam and its reconduct for 62,000 posts, up from 32,000.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Over 35 people, including the alleged mastermind Batti Lal Meena, were arrested by the Rajasthan Police SOG; the state government resisted opposition demands for a CBI probe. This investigation has not confirmed the trial's current stage or any convictions.",
+    "keyIndividuals": [
+      {
+        "name": "Batti Lal Meena",
+        "role": "Alleged mastermind of the REET 2021 paper leak",
+        "outcome": "Arrested by the SOG in Kedarnath, Uttarakhand. This investigation has not confirmed a trial outcome."
+      },
+      {
+        "name": "Devendra Singh",
+        "role": "Serving police constable, alleged to have possessed and distributed the leaked paper",
+        "outcome": "Named in connection with the leak in Gangapur City. This investigation has not confirmed a trial outcome."
+      },
+      {
+        "name": "D P Jaroli",
+        "role": "Then-Chairman, Board of Secondary Education, Rajasthan",
+        "outcome": "Dismissed by the state government in connection with the paper leak."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a stub entry, pending fuller research. The leak itself, the SOG's arrests, and the government's decision to sack the board chairman and reconduct the Level-2 exam for an expanded 62,000 posts are well documented. The trial's current status and any convictions have not yet been confirmed by this investigation.",
+    "confidence": "low",
+    "reasoning": "The exam date, leak location, arrests, and administrative actions are corroborated across multiple independent reports from 2021–22. However, this entry has not traced the case to any confirmed chargesheet, trial verdict, or sentencing, and relies on contemporaneous news coverage rather than court records."
+  },
+  "incomplete": [
+    "This is a stub entry; deeper research on the trial's current stage and any convictions is pending.",
+    "Whether a CBI probe was ever ordered, despite opposition demands, has not been confirmed beyond the 2021-era reports found.",
+    "The total number of people ultimately chargesheeted or convicted has not been confirmed.",
+    "This entry has not confirmed whether REET 2021 Level-1 (as opposed to Level-2) results were also affected or reconducted."
+  ],
+  "sources": [
+    {
+      "id": "src-reet-overview",
+      "label": "List of major paper leaks in India: All-Time Cases, Timeline & Government Action",
+      "type": "independent",
+      "publisher": "Excelebiz",
+      "date": "2025-01-01",
+      "url": "https://www.excelebiz.in/list-of-major-paper-leaks-in-india/"
+    },
+    {
+      "id": "src-reet-timeline",
+      "label": "REET 2021 paper leak: Key accused in REET paper leak case arrested, say Rajasthan Police",
+      "type": "independent",
+      "publisher": "Careers360",
+      "date": "2021-10-05",
+      "url": "https://news.careers360.com/reet-2021-paper-leak-key-accused-in-reet-paper-leak-case-arrested-cbi-rajasthan-police"
+    },
+    {
+      "id": "src-reet-sacked",
+      "label": "Rajasthan govt sacks state school board chairman in REET 2021 paper leak case",
+      "type": "independent",
+      "publisher": "Careers360",
+      "date": "2022-01-01",
+      "url": "https://news.careers360.com/rajasthan-govt-sacks-state-school-board-chairman-in-reet-2021-exam-paper-leak-case-result-2022/amp"
+    }
+  ]
+}

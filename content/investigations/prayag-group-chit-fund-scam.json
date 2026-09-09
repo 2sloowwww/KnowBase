@@ -1,0 +1,107 @@
+{
+  "id": "KB-036",
+  "slug": "prayag-group-chit-fund-scam",
+  "title": "The Prayag Group Chit Fund Scam",
+  "dek": "A Kolkata-based group allegedly collected ₹2,800 crore from depositors through monthly-income schemes and club memberships that turned out to be another Bengal chit fund in the Saradha mould.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 205,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "₹2,800 cr",
+    "label": "allegedly collected from depositors through the group's schemes"
+  },
+  "promise": {
+    "quote": "Deposits collected by Prayag Group through its monthly income schemes, redeemable preference shares, and club membership certificates will be invested and repaid as promised.",
+    "madeBy": "Prayag Group of companies, promoted by Basudeb Bagchi and his son Avik Bagchi",
+    "role": "Private group operating deposit-collection schemes in and around Kolkata",
+    "date": "2013-01-01",
+    "context": "Like Saradha and Rose Valley, Prayag Group ran deposit-collection schemes in West Bengal that regulators and investigators later characterised as unregistered, unsustainable collective investment schemes.",
+    "sourceIds": [
+      "src-prayag-arrest"
+    ]
+  },
+  "target": {
+    "description": "Deposits collected and managed as a properly registered scheme, with funds genuinely invested and returns paid as promised.",
+    "standard": "SEBI (Collective Investment Schemes) Regulations.",
+    "referenceDate": "2013-01-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate arrested Basudeb Bagchi and his son Avik Bagchi, promoters of Prayag Group, in November 2024, alleging the group had collected roughly ₹2,800 crore from the public through false high-return schemes. Premises in both Kolkata and Mumbai were raided as part of the money-laundering investigation.",
+    "asOfDate": "2024-11-29",
+    "sourceIds": [
+      "src-prayag-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount allegedly collected vs. amount confirmed recovered for depositors",
+    "unit": "₹ crore",
+    "targetValue": 2800,
+    "actualValue": 0,
+    "targetDisplay": "₹2,800 cr allegedly collected",
+    "actualDisplay": "Not established in sources reviewed",
+    "targetLabel": "Alleged",
+    "actualLabel": "Recovered",
+    "note": "This investigation did not find a confirmed asset-recovery or depositor-repayment figure and reports it as unestablished rather than assuming it to be zero."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-01-01",
+      "label": "Scheme collection begins drawing scrutiny",
+      "detail": "Around the same period as the Saradha and Rose Valley collapses, Prayag Group's schemes come under similar suspicion.",
+      "type": "status"
+    },
+    {
+      "date": "2024-11-26",
+      "label": "ED raids Kolkata and Mumbai",
+      "detail": "The agency searches premises linked to the Bagchis and associates.",
+      "type": "status"
+    },
+    {
+      "date": "2024-11-29",
+      "label": "Father and son arrested",
+      "detail": "The ED arrests Basudeb Bagchi and Avik Bagchi.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Both principal accused were arrested in November 2024; this investigation has not yet traced the case to a bail decision or trial verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Basudeb Bagchi",
+        "role": "Promoter, Prayag Group",
+        "outcome": "Arrested by the ED, November 2024. This investigation has not confirmed a subsequent bail decision or trial verdict."
+      },
+      {
+        "name": "Avik Bagchi",
+        "role": "Promoter, Prayag Group; son of Basudeb Bagchi",
+        "outcome": "Arrested by the ED, November 2024, alongside his father. No confirmed subsequent status."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the arrests and the alleged scale of the scheme are documented. This investigation has not yet established the case's current status or any recovery for depositors.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases."
+  },
+  "incomplete": [
+    "This is a stub entry. The current bail and trial status for both accused has not been confirmed.",
+    "No depositor-recovery figure was found in the sources reviewed.",
+    "This investigation has not distinguished this case's specific mechanics from the broadly similar Saradha and Rose Valley schemes covered elsewhere on this site."
+  ],
+  "sources": [
+    {
+      "id": "src-prayag-arrest",
+      "label": "Kolkata: ED arrests father-son in Rs 2,800 cr chit fund, laundering scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2024-11-29",
+      "url": "https://www.business-standard.com/india-news/kolkata-ed-arrests-father-son-in-rs-2-800-cr-chit-fund-laundering-scam-124112900535_1.html"
+    }
+  ]
+}

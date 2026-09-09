@@ -1,0 +1,133 @@
+{
+  "id": "KB-2800",
+  "slug": "cian-agro-industries-ethanol-stock-surge",
+  "title": "CIAN Agro Industries: The Ethanol Stock That Surged 1,900% on Unexplained Numbers",
+  "dek": "A micro-cap ethanol company controlled by the son of Union minister Nitin Gadkari saw its market value balloon from ₹100 crore to ₹2,000 crore in a year. BSE flagged the stock for surveillance; independent analysts flagged its cash-flow statements as inconsistent with its own balance sheet.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 178,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2025-08-28",
+  "heroStat": {
+    "value": "1,900%",
+    "label": "approximate 12-month share price rally reported by market commentators before BSE placed the stock under long-term surveillance"
+  },
+  "promise": {
+    "quote": "The company has made all necessary disclosures in compliance with SEBI regulations and the rise in the stock price is due to market conditions beyond the company's control.",
+    "madeBy": "CIAN Agro Industries & Infrastructure Ltd, in a clarification to BSE",
+    "role": "Listed company responding to an exchange query on abnormal price movement",
+    "date": "2025-09-11",
+    "context": "BSE asked CIAN Agro to explain a sharp, sustained rise in its share price after placing it under an Additional Surveillance Measure (ASM); the company's reply denied any undisclosed price-sensitive information.",
+    "sourceIds": [
+      "src-scanx"
+    ]
+  },
+  "target": {
+    "description": "Under SEBI's disclosure-based regulatory framework, a listed company's share price is expected to track disclosed, verifiable business fundamentals — revenue, profit, and cash generation reported through audited filings — rather than run far ahead of what those filings can support.",
+    "standard": "SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, and SEBI/exchange Graded Surveillance Measure (GSM) / Additional Surveillance Measure (ASM) framework.",
+    "referenceDate": "2024-08-01"
+  },
+  "reality": {
+    "description": "CIAN Agro's market capitalisation rose from roughly ₹100 crore to about ₹2,000 crore within a year, with the share price climbing from around ₹40 in August 2024 to roughly ₹800 by late August 2025 — a run independent financial newsletter The Morning Context and Finshots both examined in depth. The rally was driven by the company's pivot from agro-commodities to an ethanol story tied to the government's E20 (20% ethanol-blended petrol) push and a January 2024 announcement of a 'CO2-to-ethanol' partnership with the Ram Charan Group, which has not been shown in public filings to have started commercial production. Standalone revenue reportedly jumped from about ₹17 crore (Q1 FY24) to ₹511 crore (Q1 FY26), but Finshots' analysis found that a large share of reported profit in FY24 and FY25 came from 'other income' (asset revaluations and lease write-backs) rather than operations, and that the company's balance-sheet cash balances did not reconcile with negative operating cash flow reported in the same filings. Promoter shareholding held by Nikhil Gadkari — son of Union minister Nitin Gadkari — fell from about 72.6% to 67.6% between FY23 and the 2025 rally while the proportion of those shares pledged rose from about 41% to 44%. BSE placed the stock under long-term ASM surveillance; as of the sources reviewed, SEBI has not issued a public order or investigation finding against the company.",
+    "asOfDate": "2025-09-11",
+    "sourceIds": [
+      "src-morningcontext",
+      "src-finshots",
+      "src-scanx"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Reported 12-month market-value increase vs. reported operating (ex-other-income) profitability",
+    "unit": "qualitative",
+    "targetValue": 100,
+    "actualValue": 0,
+    "targetDisplay": "~₹2,000 cr peak market capitalisation (from ~₹100 cr a year earlier)",
+    "actualDisplay": "Operating loss when one-off 'other income' is excluded, per Finshots' analysis of FY24 filings",
+    "targetLabel": "Market value implied by the rally",
+    "actualLabel": "Underlying operating profitability",
+    "note": "No single official metric captures this gap; the figures are drawn from independent financial-journalism analysis of the company's own audited filings, not from a regulatory finding, since SEBI has not published an order on this company."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2023-04-01",
+      "label": "Government's E20 ethanol-blending push gathers pace",
+      "detail": "India's E20 (20% ethanol-blended petrol) rollout creates a policy tailwind that small ethanol-linked stocks, including CIAN Agro, begin citing in their narratives.",
+      "type": "status"
+    },
+    {
+      "date": "2024-01-01",
+      "label": "CO2-to-ethanol partnership announced",
+      "detail": "CIAN Agro announces a tie-up with the Ram Charan Group to produce ethanol from captured CO2, a technology not yet shown to be in commercial operation.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-08-01",
+      "label": "Share price near ₹40",
+      "detail": "Reported starting point of the 12-month rally examined by Finshots and The Morning Context.",
+      "type": "status"
+    },
+    {
+      "date": "2025-08-28",
+      "label": "The Morning Context investigation published",
+      "detail": "Independent outlet reports the company will not explain its sudden rise in income, expenses and profits absent fuller disclosure.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-11",
+      "label": "BSE places stock under ASM; company responds",
+      "detail": "CIAN Agro tells BSE it has made all necessary SEBI-compliant disclosures and attributes the price rise to market conditions.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No SEBI enforcement order, show-cause notice, or investigation finding against CIAN Agro Industries has been identified in the sources reviewed. The only confirmed regulatory action is BSE's placement of the stock under an Additional Surveillance Measure (ASM), a preventive, non-punitive monitoring tool applied to many stocks with sharp price moves, not a finding of wrongdoing.",
+    "keyIndividuals": [
+      {
+        "name": "Nikhil Gadkari",
+        "role": "Managing Director and promoter of CIAN Agro Industries & Infrastructure Ltd; son of Union Minister for Road Transport and Highways Nitin Gadkari",
+        "outcome": "No allegation of wrongdoing has been made against him by SEBI or any court; his promoter shareholding and pledge levels have been reported on by independent financial media as a governance red flag, not a proven violation."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A steep, largely retail-driven rally in a micro-cap stock, accompanied by real accounting red flags identified by independent analysts and a BSE surveillance flag — but, as of the most recent reporting reviewed, no SEBI finding of manipulation or fraud. The gap here is between the scale of the market re-rating and the thinness of the audited evidence supporting it, not a proven regulatory violation.",
+    "confidence": "medium",
+    "reasoning": "This entry draws on two independent, detailed financial-journalism investigations (The Morning Context, Finshots) that examined the company's own regulatory filings, plus a market-data report confirming BSE's surveillance action and the company's own clarification. No primary SEBI order exists yet to corroborate or refute these findings, so allegations of accounting irregularity are attributed to the analysts who made them, not treated as established fact."
+  },
+  "incomplete": [
+    "No SEBI order, investigation, or enforcement action against CIAN Agro has been identified; this entry reflects exchange-level surveillance (BSE ASM) and independent financial-journalism analysis, not a regulatory finding.",
+    "The company disputes any wrongdoing and maintains its disclosures are SEBI-compliant; this entry has not independently verified CIAN Agro's underlying financial statements beyond what the cited sources report.",
+    "Exact share price and market-cap figures vary slightly across sources (Finshots, The Morning Context, ScanX) depending on the date sampled; figures here are presented as approximate ranges reported by those sources.",
+    "Whether the CO2-to-ethanol technology has reached commercial production has not been independently confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-morningcontext",
+      "label": "The curious case of CIAN Agro's unprecedented stock surge",
+      "type": "independent",
+      "publisher": "The Morning Context",
+      "date": "2025-08-28",
+      "url": "https://themorningcontext.com/business/the-curious-case-of-cian-agros-unprecedented-stock-surge"
+    },
+    {
+      "id": "src-finshots",
+      "label": "What drives the sweet rally at CIAN Agro?",
+      "type": "independent",
+      "publisher": "Finshots",
+      "date": "2025-09-01",
+      "url": "https://finshots.in/markets/what-drives-the-sweet-rally-at-cian-agro/"
+    },
+    {
+      "id": "src-scanx",
+      "label": "CIAN Agro Industries Surges 790% in 12 Months, Placed Under BSE Surveillance",
+      "type": "independent",
+      "publisher": "ScanX (IIFL)",
+      "date": "2025-09-11",
+      "url": "https://scanx.trade/stock-market-news/stocks/cian-agro-industries-surges-790-in-12-months-placed-under-bse-surveillance/19132955"
+    }
+  ]
+}

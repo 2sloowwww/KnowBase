@@ -1,0 +1,167 @@
+{
+  "id": "KB-846",
+  "slug": "delhi-jal-board-tanker-scam",
+  "title": "The Delhi Jal Board Water Tanker Scam",
+  "dek": "Delhi Jal Board's hiring of stainless-steel water tankers between 2010 and 2013 -- where a low first bid was cancelled and replaced with four fresh tenders worth over Rs 637 crore awarded at higher rates -- became a political flashpoint after a 2015 fact-finding committee report implicated both the Sheila Dikshit and Arvind Kejriwal governments. An FIR was registered by Delhi's Anti-Corruption Branch in 2016, but this entry could not confirm any chargesheet, trial, or conviction in the years since.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 224,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2015-08-28",
+  "heroStat": {
+    "value": "₹400 cr",
+    "label": "estimated scale of alleged irregularities in Delhi Jal Board's water-tanker hiring contracts (2010-2013), per an internal fact-finding committee report"
+  },
+  "promise": {
+    "quote": "Delhi Jal Board's tanker-hiring tenders, intended to supply water by truck to areas of Delhi without piped network coverage, were to be awarded transparently to the lowest responsive bidder in accordance with government procurement rules.",
+    "madeBy": "Delhi Jal Board",
+    "role": "Statutory water-supply utility for the National Capital Territory of Delhi",
+    "date": "2010-01-01",
+    "context": "This reflects the standard public-procurement expectation for DJB's tanker-hiring tenders rather than a verified quotation from a specific tender document, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-djb-indiatv"
+    ]
+  },
+  "target": {
+    "description": "That DJB's water-tanker hiring contracts would be awarded competitively to the lowest qualified bidder, without cancelling favourable low bids and re-tendering at higher rates to benefit select contractors.",
+    "standard": "General Financial Rules and Delhi government procurement norms requiring competitive, transparent tendering and award to the lowest responsive bidder absent documented, valid grounds for rejection.",
+    "referenceDate": "2010-01-01"
+  },
+  "reality": {
+    "description": "DJB's first tanker tender, worth about Rs 50.98 crore for 450 tankers, drew only one bidder -- SPMC, which reportedly offered to supply water at roughly half the government's benchmark rate -- but the tender was cancelled rather than awarded. Within about 18 months, DJB issued four fresh tenders worth a combined Rs 637 crore, and SPMC was reportedly excluded from subsequent bidding rounds. The matter came to light when the AAP government, which took office under Arvind Kejriwal, constituted a fact-finding committee in mid-2015 to examine the tanker procurement; the committee's findings were sent by DJB chairman Kapil Mishra to Chief Minister Kejriwal around 28 August 2015, implicating irregularities during Sheila Dikshit's tenure as chief minister (2010-2013). Kejriwal was separately criticised for allegedly sitting on the report for roughly a year before it became public, with the matter raised in the Delhi Assembly around 13 June 2016 and referred by the Lieutenant Governor to the Anti-Corruption Branch (ACB) around 15 June 2016; the ACB registered a case in June 2016 covering both the original tendering irregularities and the delay in disclosure. This entry's research could not confirm that the ACB's investigation led to a chargesheet, trial, or any conviction in the years since 2016, nor could it confirm whether a separate CBI FIR, at various points reportedly sought by Kapil Mishra, was ever registered.",
+    "asOfDate": "2016-06-15",
+    "sourceIds": [
+      "src-djb-indiatv",
+      "src-djb-tribune-acb"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Lowest competitive bid vs. amount contracted for through re-tendered process",
+    "unit": "INR crore",
+    "targetValue": 51,
+    "actualValue": 637,
+    "targetDisplay": "₹50.98 cr (original lowest bid for 450 tankers)",
+    "actualDisplay": "₹637 cr contracted across four re-tenders after the low bid was cancelled",
+    "targetLabel": "Lowest competitive bid",
+    "actualLabel": "Amount contracted after re-tendering",
+    "note": "This gap reflects the core allegation in the tanker scam -- that a lower bid was cancelled and replaced with substantially costlier contracts -- as reported by fact-finding committee findings and subsequent media coverage; it is not a court-established damages figure."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 637,
+    "allocatedLabel": "Combined value of the four tanker-hiring tenders issued after the original low bid was cancelled",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The alleged overall scam value is commonly cited at around Rs 400 crore, representing the estimated excess cost to DJB versus the cancelled lower bid; a much larger figure of Rs 3,753 crore was separately alleged in 2023 political statements regarding broader financial irregularities at DJB unrelated to the specific tanker tenders, which this entry has not attempted to verify.",
+    "sourceIds": [
+      "src-djb-indiatv"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "label": "Original low tanker bid cancelled",
+      "detail": "DJB's Rs 50.98 crore tender for 450 tankers, which drew a below-benchmark bid from SPMC, is cancelled rather than awarded.",
+      "type": "delay"
+    },
+    {
+      "date": "2011-06-01",
+      "label": "Four fresh tenders issued at higher combined cost",
+      "detail": "Within about 18 months of the cancellation, DJB issues four new tanker-hiring tenders worth a combined Rs 637 crore.",
+      "type": "revision"
+    },
+    {
+      "date": "2015-06-01",
+      "label": "AAP government forms fact-finding committee",
+      "detail": "The Delhi government constitutes a committee to examine alleged irregularities in DJB's 2010-2013 tanker procurement.",
+      "type": "announcement"
+    },
+    {
+      "date": "2015-08-28",
+      "label": "Committee findings sent to Chief Minister Kejriwal",
+      "detail": "DJB chairman Kapil Mishra forwards the fact-finding committee's report, detailing alleged irregularities, to CM Arvind Kejriwal.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-06-13",
+      "label": "Matter raised in Delhi Assembly",
+      "detail": "The tanker scam allegations, including claims that the report was withheld for about a year, are raised in the Delhi Legislative Assembly.",
+      "type": "status"
+    },
+    {
+      "date": "2016-06-15",
+      "label": "ACB registers case; Lieutenant Governor refers complaint",
+      "detail": "Delhi's Lieutenant Governor forwards the matter to the Anti-Corruption Branch, which registers a case covering both the original tendering irregularities and the alleged delay in disclosing the report.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Delhi's Anti-Corruption Branch registered a case in June 2016 to probe both the original 2010-2013 tanker tendering irregularities under Sheila Dikshit's government and the alleged year-long delay by Arvind Kejriwal's government in acting on the fact-finding committee's report. This entry's research could not confirm any subsequent chargesheet, trial, or conviction arising from this case, nor whether a separately sought CBI FIR was ever registered; the matter appears to have remained a political controversy without a confirmed judicial resolution.",
+    "keyIndividuals": [
+      {
+        "name": "Sheila Dikshit",
+        "role": "Chief Minister of Delhi (during the original 2010-2013 tendering)",
+        "outcome": "Sent an ACB questionnaire regarding the tanker procurement; this entry could not confirm any chargesheet or conviction against her. She died in 2019, before any confirmed resolution."
+      },
+      {
+        "name": "Arvind Kejriwal",
+        "role": "Chief Minister of Delhi (at the time the report was allegedly withheld)",
+        "outcome": "Named in the ACB case over the alleged delay in disclosing the fact-finding committee's findings; this entry could not confirm any chargesheet or conviction against him."
+      },
+      {
+        "name": "Kapil Mishra",
+        "role": "DJB Chairman who surfaced the fact-finding committee report",
+        "outcome": "Publicised the allegations and sought CBI action; not accused of wrongdoing in the underlying tendering."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a substantiated case of a documented procurement irregularity -- a lower bid cancelled in favour of costlier re-tendered contracts -- that became a significant political controversy spanning two Delhi governments of different parties. It has not, on the basis of available sources, been resolved into a confirmed criminal conviction against any individual; this entry treats the underlying tendering irregularity as well-documented but the question of individual criminal culpability as unresolved.",
+    "confidence": "low",
+    "reasoning": "The tendering timeline and the 2015-2016 political and ACB developments are corroborated by India TV News, The Tribune, and other contemporaneous reports. However, this entry's research found no confirmation of any chargesheet, trial, or verdict since the 2016 ACB case was registered, and reporting largely stops around 2016-2017, leaving the case's ultimate legal resolution unconfirmed."
+  },
+  "incomplete": [
+    "Whether the ACB's 2016 case ever resulted in a chargesheet, and if so its outcome, has not been confirmed.",
+    "Whether a separate CBI FIR, reportedly sought by Kapil Mishra, was ever formally registered has not been confirmed.",
+    "The relationship between this specific tanker-tender scam and the much larger Rs 3,753 crore DJB 'scam' figure alleged by BJP leaders in 2023 has not been clarified; they may refer to different or overlapping allegations.",
+    "This entry's research could not access any post-2017 reporting on this specific case's status."
+  ],
+  "sources": [
+    {
+      "id": "src-djb-indiatv",
+      "label": "Explained in 10 points: Delhi Jal Board's Rs 400 cr tanker scam that will see two CMs being investigated",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2016-06-17",
+      "url": "https://www.indiatvnews.com/politics/national-know-delhi-jal-board-rs-400-cr-tanker-scam-that-will-see-two-cms-being-investigated-335054"
+    },
+    {
+      "id": "src-djb-tribune-acb",
+      "label": "Water tanker scam: ACB sends notice to Sheila Dikshit",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2016-01-01",
+      "url": "https://www.tribuneindia.com/news/archive/nation/water-tanker-scam-acb-sends-notice-to-sheila-dikshit-265864"
+    },
+    {
+      "id": "src-djb-bs-headache",
+      "label": "Kejriwal's other headache: The alleged Rs 400-cr water tanker scam",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-05-08",
+      "url": "https://www.business-standard.com/article/current-affairs/kejriwal-s-other-headache-the-alleged-rs-400-cr-water-tanker-scam-117050800135_1.html"
+    },
+    {
+      "id": "src-djb-deccan-3753",
+      "label": "Meenakshi Lekhi alleges scam of Rs 3,753 crore in Delhi Jal Board under AAP govt",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2023-11-18",
+      "url": "https://www.deccanherald.com/india/delhi/meenakshi-lekhi-alleges-scam-of-rs-3735-crore-in-delhi-jal-board-under-aap-govt-2776402"
+    }
+  ]
+}

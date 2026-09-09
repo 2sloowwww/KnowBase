@@ -1,0 +1,135 @@
+{
+  "id": "KB-2603",
+  "slug": "justice-yashwant-varma-cash-case",
+  "title": "The Justice Yashwant Varma Cash Discovery Case",
+  "dek": "Burnt bundles of cash were found at a sitting High Court judge's official residence in March 2025, triggering an in-house inquiry and impeachment proceedings. The judge resigned before Parliament could vote — a move that let him avoid a Supreme Court verdict but also exposed a gap in India's system for holding judges accountable.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 46,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-03-14",
+  "heroStat": {
+    "value": "~13 months",
+    "label": "from the cash discovery to the judge's resignation, with no formal verdict ever reached"
+  },
+  "promise": {
+    "quote": "The in-house inquiry will get to the bottom of this and no one, however senior, will be shielded.",
+    "madeBy": "Judiciary / Chief Justice of India's office",
+    "role": "Supreme Court in-house inquiry process, as conveyed through official statements after the cash discovery",
+    "date": "2025-03-22",
+    "context": "Statement of intent following the discovery of burnt currency at Justice Varma's official Delhi residence after a fire broke out there on the night of March 14-15, 2025, while he was serving as a Delhi High Court judge.",
+    "sourceIds": [
+      "src-varma-overview"
+    ]
+  },
+  "target": {
+    "description": "A transparent in-house inquiry followed, if warranted, by a formal, time-bound impeachment process under the Judges (Inquiry) Act, 1968, resulting in a definitive finding on the judge's conduct — either exoneration or removal.",
+    "standard": "The Judges (Inquiry) Act, 1968 and the Supreme Court's own in-house procedure for judicial accountability.",
+    "referenceDate": "2025-03-22"
+  },
+  "reality": {
+    "description": "Then-CJI Sanjiv Khanna ordered an in-house inquiry and transferred Justice Varma to the Allahabad High Court. A three-member panel found sufficient substance to recommend removal proceedings. Lok Sabha Speaker Om Birla constituted a statutory three-member inquiry committee in August 2025 under the Judges (Inquiry) Act; it was reconstituted in February 2026 after a member's retirement. Before that committee could complete its work and before Parliament could vote on impeachment, Justice Varma resigned on April 9, 2026, submitting his resignation directly to the President. His resignation abated the impeachment proceedings entirely, meaning no formal judicial or parliamentary finding was ever reached on the merits of the cash allegations.",
+    "asOfDate": "2026-04-10",
+    "sourceIds": [
+      "src-varma-resignation",
+      "src-varma-panel"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Path promised (formal removal finding) vs. path actually taken (resignation before any verdict)",
+    "unit": "outcome",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "1 (a completed impeachment process with a definitive finding)",
+    "actualDisplay": "0 (resignation abated the process; no finding was ever recorded)",
+    "note": "This metric is necessarily binary/qualitative rather than a precise count: the point is that the accountability mechanism invoked was never allowed to reach a conclusion."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-03-14",
+      "label": "Fire and cash discovery",
+      "detail": "A fire at Justice Varma's official Delhi residence leads firefighters to discover sacks of burnt currency, while the judge and his family say they were away and unaware of any cash.",
+      "type": "status"
+    },
+    {
+      "date": "2025-03-22",
+      "label": "In-house inquiry ordered",
+      "detail": "Then-CJI Sanjiv Khanna orders an in-house inquiry and transfers Justice Varma to the Allahabad High Court.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-06-19",
+      "label": "Panel finds grounds for removal",
+      "detail": "The in-house inquiry panel concludes there is enough evidence to initiate removal proceedings against Justice Varma.",
+      "type": "milestone"
+    },
+    {
+      "date": "2025-08-01",
+      "label": "Impeachment committee formed",
+      "detail": "Lok Sabha Speaker Om Birla constitutes a three-member statutory committee under the Judges (Inquiry) Act to examine the removal motion.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-02-25",
+      "label": "Committee reconstituted",
+      "detail": "The inquiry committee is reconstituted after a member's retirement, extending the timeline.",
+      "type": "delay"
+    },
+    {
+      "date": "2026-04-09",
+      "label": "Justice Varma resigns",
+      "detail": "Justice Varma submits his resignation to President Droupadi Murmu, which abates the pending impeachment proceedings before any finding is reached.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. Justice Varma has not been criminally convicted of anything; the in-house and parliamentary inquiries found grounds to proceed with removal but never reached a concluded verdict because he resigned first. He denies the cash found at his residence was his or that he had any knowledge of it.",
+    "keyIndividuals": [
+      {
+        "name": "Yashwant Varma",
+        "role": "Then-judge, Delhi High Court (later Allahabad High Court)",
+        "outcome": "Resigned April 9, 2026, before impeachment proceedings concluded; no formal finding was made"
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the process exposed a real gap in judicial accountability — a judge facing a serious, in-house-substantiated allegation was able to resign and exit the process before any binding determination, avoiding both formal removal and formal exoneration.",
+    "confidence": "medium",
+    "reasoning": "The sequence of events (discovery, in-house inquiry, committee formation and reconstitution, and resignation before a vote) is well documented across multiple independent outlets and official statements. What remains unresolved is a matter of public record — no verdict was ever rendered — rather than a gap in this entry's research."
+  },
+  "incomplete": [
+    "Whether any separate criminal investigation into the cash itself (its source, and possible financial-crime angles) is ongoing has not been established in this entry.",
+    "The broader institutional debate over whether India needs a faster or more independent judicial accountability mechanism, prompted by this case, is not covered here.",
+    "This entry has not verified Justice Varma's own explanation for the cash in detail beyond noting that he has denied wrongdoing."
+  ],
+  "sources": [
+    {
+      "id": "src-varma-overview",
+      "label": "Cash discovery row: Justice Varma indicted, could face impeachment",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-06-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fcash-discovery-row-justice-yashwant-varma-indicted-could-face-impeachment-3528494"
+    },
+    {
+      "id": "src-varma-resignation",
+      "label": "Allahabad High Court Justice Yashwant Varma resigns amid impeachment proceedings",
+      "type": "independent",
+      "publisher": "News on Air (All India Radio)",
+      "date": "2026-04-10",
+      "url": "https://www.newsonair.gov.in/allahabad-high-court-justice-yashwant-varma-resigns-amid-impeachment-proceedings"
+    },
+    {
+      "id": "src-varma-panel",
+      "label": "Lok Sabha Speaker Reconstitutes Panel Probing Justice Yashwant Varma Cash Row",
+      "type": "independent",
+      "publisher": "Court Kutchehry",
+      "date": "2026-02-25",
+      "url": "https://www.courtkutchehry.com/pages/blog/justice-yashwant-varma-cash-row-impeachment-panel-reconstituted-2026/"
+    }
+  ]
+}

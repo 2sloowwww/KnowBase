@@ -1,0 +1,115 @@
+{
+  "id": "KB-3005",
+  "slug": "jio-airtel-vodafone-interconnection-cartel-case",
+  "title": "The Interconnection Points Cartel Dispute",
+  "dek": "Reliance Jio told the competition watchdog that rival telecom incumbents were choking its calls by starving it of interconnection points. The Supreme Court agreed there might be a real problem — but ruled the antitrust regulator had to wait its turn behind the telecom regulator.",
+  "category": "Telecom & Digital",
+  "status": "disputed",
+  "severity": "moderate",
+  "severityRank": 254,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2016-11-01",
+  "heroStat": {
+    "value": "0",
+    "label": "CCI investigations actually opened into the alleged Airtel-Vodafone-Idea interconnection cartel, after the Supreme Court ruled TRAI had to resolve the technical issues first"
+  },
+  "promise": {
+    "quote": "Points of interconnection between two network operators must be provided on fair, reasonable and non-discriminatory terms so that calls between subscribers of different networks connect without failure.",
+    "madeBy": "Telecom Regulatory Authority of India",
+    "role": "Sector regulator setting interconnection obligations for all licensed telecom operators",
+    "date": "2016-09-01",
+    "context": "This reflects the general interconnection-obligation standard under India's telecom licensing and interconnection regulations, rather than a verified quotation from a specific TRAI order, which this entry has not reviewed directly.",
+    "sourceIds": [
+      "src-poi-lexology"
+    ]
+  },
+  "target": {
+    "description": "That incumbent telecom operators Bharti Airtel, Vodafone India and Idea Cellular would provide new entrant Reliance Jio with adequate points of interconnection so that calls between Jio subscribers and other networks would connect reliably, without anti-competitive coordination to deny access.",
+    "standard": "Competition Act, 2002 prohibition on anti-competitive agreements (Section 3) and abuse of dominance (Section 4), alongside TRAI's interconnection regulations under the Telecom Regulatory Authority of India Act, 1997.",
+    "referenceDate": "2016-09-01"
+  },
+  "reality": {
+    "description": "After its September 2016 launch, Reliance Jio complained to the Competition Commission of India that Bharti Airtel, Vodafone India and Idea Cellular — coordinating through industry body COAI — had cartelised to deny it adequate points of interconnection, causing widespread call failures between Jio and rival networks. The CCI initially ordered an investigation (a 'prima facie' order under Section 26(1) of the Competition Act) into the alleged cartel. Bharti Airtel challenged this in the Bombay High Court, which set aside the CCI's order, holding that the underlying technical dispute over interconnection points fell within TRAI's specialised jurisdiction and had to be resolved by the sector regulator first. Both the CCI and Reliance Jio appealed to the Supreme Court, which on 5 December 2018 dismissed their appeals, ruling that until TRAI (and the telecom appellate tribunal, TDSAT) determined the underlying technical questions about points of interconnection, the CCI could not proceed with any competition-law investigation into possible collusion among the incumbents. This effectively postponed — rather than closed — the antitrust probe, leaving the interconnection dispute to be resolved through telecom-sector regulatory channels instead.",
+    "asOfDate": "2018-12-05",
+    "sourceIds": [
+      "src-poi-azb",
+      "src-poi-lexology"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Years since Jio's original cartel complaint vs. CCI investigations actually completed",
+    "unit": "count",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "1 competition-law investigation sought",
+    "actualDisplay": "0 completed, after Supreme Court deferred to TRAI",
+    "targetLabel": "Investigation sought",
+    "actualLabel": "Investigation outcome",
+    "note": "The Supreme Court's ruling was a jurisdictional holding, not a finding on the merits — it neither cleared nor confirmed the alleged cartel, but required the technical interconnection dispute to run through TRAI and TDSAT before any competition-law question could even be examined."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2016-09-05",
+      "label": "Reliance Jio launches commercially",
+      "detail": "Jio's launch triggers a surge in call volumes to rival networks, exposing alleged points-of-interconnection shortfalls.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-11-01",
+      "label": "Jio complains to CCI of an interconnection cartel",
+      "detail": "Jio alleges Bharti Airtel, Vodafone India and Idea Cellular, coordinating via COAI, are denying it adequate points of interconnection.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-04-01",
+      "label": "CCI orders a prima facie investigation",
+      "detail": "The CCI directs its Director General to investigate possible cartelisation among the incumbent operators.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-09-29",
+      "label": "Bombay High Court sets aside the CCI's order",
+      "detail": "The High Court holds that TRAI, as the specialised sector regulator, must first resolve the underlying technical interconnection dispute.",
+      "type": "revision"
+    },
+    {
+      "date": "2018-12-05",
+      "label": "Supreme Court dismisses CCI and Jio's appeals",
+      "detail": "The Court rules the CCI cannot investigate the alleged cartel until TRAI and TDSAT determine the technical points-of-interconnection issues.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Supreme Court's 2018 ruling left the underlying interconnection dispute to be resolved through TRAI and TDSAT rather than the CCI. This entry has not identified a subsequent public report of TRAI or TDSAT issuing a final determination reviving the competition-law question, nor of the CCI investigation being formally reopened."
+  },
+  "verdict": {
+    "summary": "A real, real-money-affecting regulatory turf dispute rather than a resolved finding of wrongdoing: the Supreme Court's decision determined which regulator gets to examine the interconnection allegations first, without ruling on whether the incumbents actually cartelised. It is included here as a genuinely disputed, unresolved matter rather than a proven case of collusion.",
+    "confidence": "medium",
+    "reasoning": "The sequence of CCI, Bombay High Court and Supreme Court rulings is corroborated by multiple independent legal-industry sources (AZB & Partners, Khaitan & Co, Lexology, SCC Online) citing the courts' own orders, though this entry has not reviewed the judgments directly and has not confirmed the current status of any TRAI/TDSAT proceeding on the technical interconnection questions."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CCI's original order, the Bombay High Court judgment, or the Supreme Court's 2018 judgment directly — it relies on legal-industry reporting summarising them.",
+    "The current status of TRAI or TDSAT proceedings on the underlying technical interconnection dispute, and whether the CCI's antitrust investigation was ever revived, has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-poi-azb",
+      "label": "Supreme Court Rejects Appeal on Cartel Investigation against Airtel, Vodafone and Idea",
+      "type": "independent",
+      "publisher": "AZB & Partners",
+      "date": "2018-12-06",
+      "url": "https://www.azbpartners.com/bank/supreme-court-rejects-appeal-on-cartel-investigation-against-airtel-vodafone-and-idea/"
+    },
+    {
+      "id": "src-poi-lexology",
+      "label": "Supreme Court dismisses CCI & Reliance Jio's appeals — upholds TRAI's jurisdiction to decide upon technical issues with Bharti Airtel, Vodafone, Idea",
+      "type": "independent",
+      "publisher": "Lexology",
+      "date": "2018-12-10",
+      "url": "https://www.lexology.com/library/detail.aspx?g=8d3059f4-479a-4381-99a3-635138b8edb6"
+    }
+  ]
+}

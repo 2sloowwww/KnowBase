@@ -1,0 +1,104 @@
+{
+  "id": "KB-2006",
+  "slug": "neesa-technologies-ncd-fraud",
+  "title": "The Neesa Technologies NCD Fraud",
+  "dek": "A Gujarat hospitality-and-leisure group's technology arm raised money from the public through debentures without SEBI registration — a smaller, less-covered corner of India's long list of collective-investment-scheme violations.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "minor",
+  "severityRank": 266,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2015-06-03",
+  "heroStat": {
+    "value": "~5 years",
+    "label": "time between SEBI's June 2015 interim order against Neesa Technologies and its final order in the matter, in April 2020"
+  },
+  "promise": {
+    "quote": "Non-convertible debentures (NCDs) issued by Neesa Technologies Limited will be offered in compliance with the Companies Act and applicable securities regulations governing public fundraising.",
+    "madeBy": "Neesa Technologies Limited (NTL), part of the Neesa Group, an Ahmedabad-based hospitality, leisure, and agri-business conglomerate",
+    "role": "Group company raising funds from the public through debenture issuances",
+    "date": "2015-06-03",
+    "context": "SEBI's interim order found NTL had mobilised funds from the public through NCDs without complying with public-issue disclosure and registration norms, treating the fundraising as an unauthorised collective investment activity.",
+    "sourceIds": [
+      "src-neesa-sebi-order"
+    ]
+  },
+  "target": {
+    "description": "Public debt fundraising conducted through registered, disclosure-compliant instruments under the Companies Act and SEBI regulations, with investors able to verify the issuer's registration status before investing.",
+    "standard": "SEBI's regulations on public issuance of debentures and collective investment schemes; Companies Act, 1956 provisions on public deposits and debenture issuance.",
+    "referenceDate": "2015-06-03"
+  },
+  "reality": {
+    "description": "SEBI issued an ex-parte interim order on 3 June 2015 finding that Neesa Technologies Limited had engaged in unauthorised fund mobilisation from the public through NCDs, in violation of the Companies Act and SEBI regulations, and directed NTL and its directors to stop further fund mobilisation, refrain from accessing securities markets, and not dispose of assets without permission. NTL and its directors were called to show cause why further directions — including a refund of money collected, with interest — should not be issued; SEBI held personal hearings on the matter across multiple dates between November 2015 and May 2016. SEBI issued a further, final order in the matter in April 2020, roughly five years after the interim order, according to a subsequently archived copy of that order; this entry has not reviewed that final order's specific directions in detail.",
+    "asOfDate": "2020-04-07",
+    "sourceIds": [
+      "src-neesa-sebi-order",
+      "src-neesa-final-order"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time between SEBI's interim order and its final order in the matter",
+    "unit": "years",
+    "targetValue": 0,
+    "actualValue": 5,
+    "targetDisplay": "Prompt resolution expected",
+    "actualDisplay": "~5 years to final order",
+    "targetLabel": "Expected regulatory timeline",
+    "actualLabel": "Actual time to final SEBI order",
+    "note": "This gap reflects the years-long delay between SEBI's initial finding of unauthorised fund mobilisation (2015) and its final order in the matter (2020), typical of India's collective-investment-scheme enforcement backlog."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2015-06-03",
+      "label": "SEBI issues ex-parte interim order",
+      "detail": "SEBI finds Neesa Technologies Limited engaged in unauthorised public fund mobilisation through NCDs and bars further fundraising and market access.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-11-01",
+      "label": "Show-cause hearings begin",
+      "detail": "SEBI holds personal hearings for NTL and its directors on why further directions, including refunds with interest, should not be issued.",
+      "type": "status"
+    },
+    {
+      "date": "2020-04-07",
+      "label": "SEBI issues final order",
+      "detail": "SEBI issues its final order in the matter of the OCDs/NCDs issued by Neesa Technologies Limited, roughly five years after the interim order.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This entry has confirmed only the existence and dates of SEBI's 2015 interim order and its 2020 final order; it has not reviewed the final order's specific directions (such as any refund amount ordered) and could not confirm whether NTL or its directors pursued any appeal before the Securities Appellate Tribunal."
+  },
+  "verdict": {
+    "summary": "A real, SEBI-documented instance of a Gujarat business group raising public money through debt instruments without proper registration — smaller in scale and less publicised than the state's larger Ponzi cases, but illustrative of how routinely such fund-mobilisation violations occur, and how slowly they are resolved even once flagged by the regulator.",
+    "confidence": "low",
+    "reasoning": "Only SEBI's own order dates and headline findings were confirmed via secondary summaries of the interim order and an archived copy of the final order; this entry has not read either order's full text, has no confirmed figure for the total amount raised or ordered refunded, and could not verify the current status of Neesa Group's broader hospitality and agri-business operations."
+  },
+  "incomplete": [
+    "The total amount NTL raised through the NCDs/OCDs in question, and any amount SEBI ultimately ordered refunded, has not been confirmed — this entry has not reviewed either SEBI order's full text.",
+    "Whether NTL or its directors appealed SEBI's orders to the Securities Appellate Tribunal, and the outcome of any such appeal, has not been confirmed.",
+    "The relationship between Neesa Technologies Limited and the wider Neesa Group's hospitality and agri-business operations, and whether other Neesa Group entities faced similar regulatory action, has not been independently verified for this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-neesa-sebi-order",
+      "label": "Order in the matter of Neesa Technologies Limited",
+      "type": "independent",
+      "publisher": "Casemine (secondary summary of SEBI order)",
+      "date": "2015-06-03",
+      "url": "https://www.casemine.com/judgement/in/5af244d318a681762b090a7b"
+    },
+    {
+      "id": "src-neesa-final-order",
+      "label": "Final Order in the matter of OCDs issued by Neesa Technologies Ltd.",
+      "type": "primary",
+      "publisher": "Securities and Exchange Board of India (archived via NSDL)",
+      "date": "2020-04-07",
+      "url": "https://nsdl.co.in/downloadables/pdf/2020-0049-Policy-SEBI%20Order%20dated%20April%207,%202020.pdf"
+    }
+  ]
+}

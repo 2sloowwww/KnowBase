@@ -1,0 +1,117 @@
+{
+  "id": "KB-2604",
+  "slug": "bihar-sir-electoral-rolls-case",
+  "title": "The Bihar Electoral Rolls 'Special Intensive Revision' Case",
+  "dek": "The Election Commission ordered a from-scratch revision of Bihar's electoral rolls in mid-2025, shifting the burden of proof of citizenship onto voters. Critics warned of mass disenfranchisement; the Supreme Court ultimately upheld the exercise, while directing more disclosure of deleted names.",
+  "category": "Public Spending",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 42,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2025-06-24",
+  "heroStat": {
+    "value": "2003",
+    "label": "the year of Bihar's last intensive electoral roll revision, cited as justification for the 2025 exercise after two decades of migration and urbanisation"
+  },
+  "promise": {
+    "quote": "The Special Intensive Revision will produce an error-free electoral roll and will not result in the wrongful exclusion of any genuinely eligible voter.",
+    "madeBy": "Election Commission of India",
+    "role": "Constitutional body responsible for conducting elections, acting under Article 324",
+    "date": "2025-06-24",
+    "context": "Statement accompanying the ECI's order directing a Special Intensive Revision (SIR) of Bihar's electoral rolls ahead of the state's late-2025 assembly election.",
+    "sourceIds": [
+      "src-sir-scobserver-case"
+    ]
+  },
+  "target": {
+    "description": "An accurate, updated electoral roll achieved without disenfranchising eligible voters, particularly the poor and migrant workers who may lack the specific documents demanded.",
+    "standard": "The ECI's own stated objective plus constitutional guarantees of universal adult suffrage under Article 326.",
+    "referenceDate": "2025-06-24"
+  },
+  "reality": {
+    "description": "Petitioners, including the Association for Democratic Reforms, argued the exercise required citizens to submit fresh applications and documentary proof by July 25, 2025, excluded documents like Aadhaar and ration cards as standalone proof, and risked disenfranchising lakhs of voters — disproportionately the poor and migrants — through a process critics said unlawfully shifted the burden of proving citizenship onto individuals. The Supreme Court, in a verdict by Chief Justice Surya Kant and Justice Joymalya Bagchi delivered after the state election had already taken place under the revised rolls, upheld the ECI's constitutional authority to conduct the SIR, rejecting the challenge to its validity, while separately directing the ECI to publish details of deleted names for transparency.",
+    "asOfDate": "2026-05-28",
+    "sourceIds": [
+      "src-sir-outlook-verdict",
+      "src-sir-scobserver-day5"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Documents petitioners said should count as valid ID vs. documents ECI's SIR framework accepted",
+    "unit": "document types",
+    "targetValue": 2,
+    "actualValue": 0,
+    "targetDisplay": "Aadhaar and ration cards (petitioners' request)",
+    "actualDisplay": "Neither accepted as standalone proof under the SIR framework as challenged",
+    "note": "This reflects the dispute as framed in the litigation, not a government-published tally; the Supreme Court's final judgment addressed the ECI's overall authority to run the exercise rather than mandating specific document changes."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2025-06-24",
+      "label": "SIR ordered",
+      "detail": "The Election Commission of India orders a Special Intensive Revision of Bihar's electoral rolls, the state's first since 2003.",
+      "type": "announcement"
+    },
+    {
+      "date": "2025-07-10",
+      "label": "Supreme Court begins hearings",
+      "detail": "The Supreme Court starts hearing multiple petitions challenging the SIR's legality, filed by the Association for Democratic Reforms and others.",
+      "type": "status"
+    },
+    {
+      "date": "2025-09-08",
+      "label": "Further hearings",
+      "detail": "The Supreme Court continues hearing pleas against the SIR as the exercise proceeds in parallel with preparations for Bihar's assembly election.",
+      "type": "status"
+    },
+    {
+      "date": "2026-05-28",
+      "label": "Supreme Court upholds SIR",
+      "detail": "The Supreme Court rules that Article 324 gives the ECI the power to conduct the SIR and upholds its legality, while directing greater disclosure around deleted names.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The Supreme Court's May 2026 ruling resolved the core constitutional challenge in the ECI's favour; separate disputes over specific deletions and disclosure obligations were still being addressed by the Court.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the Supreme Court found the ECI acted within its constitutional authority, but this does not by itself resolve the separate, disputed factual question of how many eligible voters may have been wrongly excluded from the rolls during the exercise.",
+    "confidence": "low",
+    "reasoning": "This entry draws on Supreme Court Observer's case tracking and mainstream reporting of the verdict. It has not yet independently assessed ground-level data on voter deletions or the scale of any wrongful exclusion, which remains contested between the government and civil society groups."
+  },
+  "incomplete": [
+    "The actual number of names deleted from Bihar's rolls during the SIR, and how many of those were later restored on appeal, has not been established in this entry.",
+    "Independent, non-partisan assessments of whether the exercise disproportionately affected specific communities have not yet been incorporated.",
+    "This entry has not tracked whether the ECI has since proposed or begun similar SIR exercises in other states, which has been a subject of separate political controversy."
+  ],
+  "sources": [
+    {
+      "id": "src-sir-scobserver-case",
+      "label": "Challenge to the ECI's Revision of Electoral Rolls in Bihar (SIR)",
+      "type": "independent",
+      "publisher": "Supreme Court Observer",
+      "date": "2025-07-01",
+      "url": "https://www.scobserver.in/cases/challenge-to-the-ecis-revision-of-electoral-rolls-in-bihar-sir-association-for-democratic-reforms-v-election-commission-of-india/"
+    },
+    {
+      "id": "src-sir-outlook-verdict",
+      "label": "Supreme Court Upholds Bihar Electoral Roll Revision, Backs EC's Power to Conduct SIR",
+      "type": "independent",
+      "publisher": "Outlook India",
+      "date": "2026-05-28",
+      "url": "https://www.outlookindia.com/national/supreme-court-upholds-bihar-electoral-roll-revision-backs-ecs-power-to-conduct-sir"
+    },
+    {
+      "id": "src-sir-scobserver-day5",
+      "label": "Revision of Electoral Rolls in Bihar | Day 5: SC directs ECI to publish details of deleted names",
+      "type": "independent",
+      "publisher": "Supreme Court Observer",
+      "date": "2025-07-15",
+      "url": "https://www.scobserver.in/reports/revision-of-electoral-rolls-in-bihar-day-5-sc-directs-eci-to-publish-information-of-deleted-names/"
+    }
+  ]
+}

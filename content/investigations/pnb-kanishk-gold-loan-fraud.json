@@ -1,0 +1,131 @@
+{
+  "id": "KB-2004",
+  "slug": "pnb-kanishk-gold-loan-fraud",
+  "title": "The Kanishk Gold Bank Loan Fraud",
+  "dek": "A Chennai jewellery chain allegedly falsified its books for years to draw credit from a 14-bank consortium including Punjab National Bank — then defaulted on the entire ₹824 crore, leaving lenders with security worth a fraction of what they were owed.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 245,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2018-03-22",
+  "heroStat": {
+    "value": "₹824 cr",
+    "label": "alleged fraud against a 14-bank consortium including SBI and PNB by Chennai jeweller Kanishk Gold"
+  },
+  "promise": {
+    "quote": "Kanishk Gold Private Limited's financial statements and records, submitted to secure credit from a 14-bank consortium, accurately reflect its business and financial position.",
+    "madeBy": "Kanishk Gold Private Limited, under promoter-director Bhoopesh Kumar Jain",
+    "role": "Chennai-based jewellery manufacturing and retail chain borrowing from a consortium of 14 banks led by State Bank of India, including Punjab National Bank",
+    "date": "2009-01-01",
+    "context": "SBI alleged Kanishk Gold had misrepresented and falsified its records and financial statements since 2009 to draw credit facilities from the consortium.",
+    "sourceIds": [
+      "src-kanishk-cbi-fir"
+    ]
+  },
+  "target": {
+    "description": "Credit facilities backed by accurate financial disclosures and adequate collateral, repaid according to sanctioned consortium lending terms.",
+    "standard": "Standard multi-bank consortium lending covenants and RBI norms on borrower disclosure and asset classification.",
+    "referenceDate": "2009-01-01"
+  },
+  "reality": {
+    "description": "Kanishk Gold first defaulted on interest payments to eight member banks in March 2017 and subsequently stopped payments to all 14 lenders. The CBI registered an FIR on 22 March 2018 on a complaint by SBI, on behalf of the 14-bank consortium, alleging a fraud of ₹824.15 crore against promoter-director Bhoopesh Kumar Jain, director Neeta Jain, and partners Tejraj Achha, Ajay Kumar Jain and Sumit Kedia; SBI's own exposure was reported at ₹215 crore and PNB's at ₹115 crore. SBI stated that the security available to the consortium covered only around ₹156.65 crore against the alleged ₹824.15 crore loss. The CBI and Enforcement Directorate carried out searches in Chennai and arrested Bhoopesh Kumar Jain in May 2018.",
+    "asOfDate": "2018-05-01",
+    "sourceIds": [
+      "src-kanishk-cbi-fir",
+      "src-kanishk-ed-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged fraud amount vs. security available to the lending consortium",
+    "unit": "INR crore",
+    "targetValue": 824,
+    "actualValue": 157,
+    "targetDisplay": "₹824.15 cr alleged fraud",
+    "actualDisplay": "~₹156.65 cr security available",
+    "targetLabel": "Amount owed to consortium",
+    "actualLabel": "Security value cited by SBI",
+    "note": "SBI's own figures, as reported, show the consortium's recoverable security covering less than a fifth of the amount it alleges was owed."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 824.15,
+    "allocatedLabel": "Total alleged fraud amount across the 14-bank consortium",
+    "unit": "crore",
+    "notes": "SBI's individual exposure was reported at ₹215 crore and PNB's at ₹115 crore; the remaining consortium banks' shares were not itemised in the sources reviewed.",
+    "sourceIds": [
+      "src-kanishk-cbi-fir"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2009-01-01",
+      "label": "Alleged falsification of records begins",
+      "detail": "SBI's complaint alleges Kanishk Gold began misrepresenting its financial statements from around this year to draw consortium credit.",
+      "type": "status"
+    },
+    {
+      "date": "2017-03-01",
+      "label": "First default to consortium banks",
+      "detail": "Kanishk Gold defaults on interest payments to eight of the fourteen member banks, later extending to all fourteen.",
+      "type": "delay"
+    },
+    {
+      "date": "2018-03-22",
+      "label": "CBI registers FIR",
+      "detail": "The CBI books Kanishk Gold and its promoters on SBI's complaint alleging a ₹824.15 crore consortium bank fraud; CBI carries out searches in Chennai.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-05-01",
+      "label": "ED arrests Bhoopesh Kumar Jain",
+      "detail": "The Enforcement Directorate arrests Kanishk Gold's promoter-director in connection with the alleged fraud.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Bhoopesh Kumar Jain was arrested by the Enforcement Directorate in May 2018 following the CBI's March 2018 FIR; this entry did not find confirmation of a completed trial or final court verdict in the case as of the sources reviewed.",
+    "keyIndividuals": [
+      {
+        "name": "Bhoopesh Kumar Jain",
+        "role": "Promoter-director, Kanishk Gold Private Limited",
+        "outcome": "Arrested by CBI/ED in 2018; final case outcome not confirmed by this entry."
+      },
+      {
+        "name": "Neeta Jain",
+        "role": "Director, Kanishk Gold Private Limited",
+        "outcome": "Named in the CBI FIR; final case outcome not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, well-documented ₹824 crore consortium bank fraud allegation against a Chennai jewellery chain, distinct from the more famous Nirav Modi–PNB and Rotomac cases — it involved a different set of 14 banks (with PNB as one of several lenders, not the lead bank) and a different borrower and alleged modus operandi (falsified financial statements rather than fraudulent letters of undertaking).",
+    "confidence": "medium",
+    "reasoning": "The CBI FIR amount, consortium composition, and 2018 arrest are corroborated across multiple contemporaneous reports (Business Today, Scroll, Outlook, DNA India, Tribune) citing the CBI and SBI complaint; this entry has not reviewed the FIR or any court filing directly and could not confirm the case's current trial status."
+  },
+  "incomplete": [
+    "The current trial status of the CBI case against Kanishk Gold's promoters, and any final verdict, has not been confirmed beyond the 2018 arrest.",
+    "The individual exposure of each of the 14 consortium banks beyond SBI (₹215 cr) and PNB (₹115 cr) has not been itemised in sources reviewed.",
+    "Whether Kanishk Gold or its promoters have since settled dues, been declared wilful defaulters, or had assets attached under PMLA has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-kanishk-cbi-fir",
+      "label": "CBI files case against Chennai-based jeweller Kanishk Gold for cheating 14 banks of Rs 824 crore",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2018-03-22",
+      "url": "https://scroll.in/latest/872867/cbi-files-case-against-chennai-based-jeweller-kanishk-gold-for-cheating-14-banks-of-rs-824-crore"
+    },
+    {
+      "id": "src-kanishk-ed-arrest",
+      "label": "Kanishk Gold fraud case: ED arrests Bhoopesh Kumar Jain",
+      "type": "independent",
+      "publisher": "FashionNetwork India",
+      "date": "2018-05-01",
+      "url": "https://in.fashionnetwork.com/news/Kanishk-gold-fraud-case-ed-arrests-bhoopesh-kumar-jain,981657.html"
+    }
+  ]
+}

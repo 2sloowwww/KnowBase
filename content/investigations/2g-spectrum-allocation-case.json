@@ -1,0 +1,142 @@
+{
+  "id": "KB-002",
+  "slug": "2g-spectrum-allocation-case",
+  "title": "The 2G Spectrum Allocation Case",
+  "dek": "The CAG put the loss from underpriced telecom licences at ₹1.76 lakh crore, once the country's most-quoted corruption figure. A decade later, a special court acquitted every single person accused of the underlying crime.",
+  "category": "Telecom & Digital",
+  "status": "acquitted-or-closed",
+  "severity": "critical",
+  "severityRank": 2,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2010-11-16",
+  "heroStat": {
+    "value": "18 of 18",
+    "label": "accused acquitted by the special CBI court"
+  },
+  "promise": {
+    "quote": "Licences and spectrum for 2G mobile services will be issued on a fair, first-come-first-served basis, consistent with TRAI's recommendations and at a fair value to the exchequer.",
+    "madeBy": "Department of Telecommunications, Government of India",
+    "role": "Union department responsible for issuing telecom licences and allocating spectrum",
+    "date": "2008-01-10",
+    "context": "Licences for 2G spectrum were issued in January 2008 at prices last set in 2001, even though demand and valuations had risen sharply in the intervening years.",
+    "sourceIds": [
+      "src-cag-2g"
+    ]
+  },
+  "target": {
+    "description": "Allocation of licences and spectrum through a transparent process that reflected then-current market value, as TRAI and later a Group of Ministers had recommended moving toward.",
+    "standard": "TRAI recommendations on spectrum pricing and allocation transparency, as assessed by the CAG's 2010 performance audit.",
+    "referenceDate": "2008-01-10"
+  },
+  "reality": {
+    "description": "The CAG's 2010 performance audit found the 2001 pricing was applied without revision despite years of rising demand, and estimated the resulting undervaluation using more than one methodology — including a figure of roughly ₹1.76 lakh crore based on 3G-linked spectrum pricing. In December 2017, a special CBI court acquitted all 18 accused, including former Telecom Minister A. Raja and DMK MP Kanimozhi, finding the prosecution had not proven a criminal conspiracy or illegal gratification. The CBI and Enforcement Directorate have appealed the acquittals in the Delhi High Court.",
+    "asOfDate": "2018-08-06",
+    "sourceIds": [
+      "src-cag-2g",
+      "src-2g-verdict"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged loss (CAG estimate) vs. loss established at criminal trial",
+    "unit": "₹ lakh crore",
+    "targetValue": 1.76,
+    "actualValue": 0,
+    "targetDisplay": "₹1.76 lakh cr (CAG's presumptive-loss estimate)",
+    "actualDisplay": "₹0 (no criminal loss or conspiracy established at trial)",
+    "targetLabel": "Alleged",
+    "actualLabel": "At trial",
+    "note": "The CAG figure is a presumptive-loss estimate — the gap between the 2001 price charged and the higher value implied by 2008 conditions — not a finding that this amount was stolen or paid as a bribe. The special court's 2017 verdict explicitly rejected the prosecution's case that a criminal conspiracy caused this loss. Both facts are true at once, and this investigation reports both rather than collapsing them into a single number."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2001-01-01",
+      "label": "2001 spectrum pricing set",
+      "detail": "The per-unit price later applied in 2008 was fixed under very different market conditions.",
+      "type": "announcement"
+    },
+    {
+      "date": "2008-01-10",
+      "label": "122 licences issued",
+      "detail": "Licences issued on a first-come-first-served basis at 2001 prices; the process and its timing were later disputed.",
+      "type": "announcement"
+    },
+    {
+      "date": "2010-11-16",
+      "label": "CAG report tabled in Parliament",
+      "detail": "Report No. 19 of 2010 set out the presumptive-loss estimates, including the widely quoted ₹1.76 lakh crore figure.",
+      "type": "status"
+    },
+    {
+      "date": "2011-02-02",
+      "label": "Licences quashed by Supreme Court",
+      "detail": "The Supreme Court cancelled 122 licences issued in 2008, separately from the criminal case.",
+      "type": "status"
+    },
+    {
+      "date": "2017-12-21",
+      "label": "Special CBI court verdict",
+      "detail": "All 18 accused acquitted; the judge found the CAG's loss assumptions and the prosecution's evidence did not establish a criminal conspiracy.",
+      "type": "status"
+    },
+    {
+      "date": "2018-03-01",
+      "label": "CBI and ED file appeals",
+      "detail": "Both agencies challenged the acquittals in the Delhi High Court, arguing evidence was disregarded.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Every person criminally charged in the 2G case has been acquitted at trial. That acquittal is under appeal and is not yet final, but as of the most recent reporting available, no conviction stands.",
+    "keyIndividuals": [
+      {
+        "name": "A. Raja",
+        "role": "Former Union Minister for Communications & IT",
+        "outcome": "Acquitted by the special CBI court, December 2017. CBI appeal pending in the Delhi High Court."
+      },
+      {
+        "name": "Kanimozhi Karunanidhi",
+        "role": "DMK Member of Parliament",
+        "outcome": "Acquitted by the special CBI court, December 2017. CBI appeal pending."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The licence pricing was, on the government's own audit, not adjusted to reflect years of change in market conditions — that much is documented. Whether this amounted to a criminal conspiracy causing a ₹1.76 lakh crore loss is a separate question, and on that question the trial court's answer was a clear no. Anyone repeating the ₹1.76 lakh crore figure as a proven loss, without noting the acquittal, is overstating what has actually been established.",
+    "confidence": "medium",
+    "reasoning": "The CAG's audit findings on pricing are not seriously disputed. But the case's most-cited number was explicitly built on assumptions the trial court rejected, and the appeal against the acquittals has not been decided. Confidence is capped at medium because the case's ultimate legal outcome remains open."
+  },
+  "incomplete": [
+    "The CBI and ED appeals against the 2017 acquittals had not been finally decided as of the most recent reporting available to this investigation.",
+    "No alternative, court-accepted loss figure exists to replace the CAG's disputed estimate.",
+    "It is not established how much, if any, additional revenue the exchequer would have collected under a different pricing or allocation method — the CAG figure is a modelled estimate, not an audited transaction."
+  ],
+  "sources": [
+    {
+      "id": "src-cag-2g",
+      "label": "Report No. 19 of 2010 — Performance Audit of Issue of Licences and Allocation of 2G Spectrum",
+      "type": "primary",
+      "publisher": "Comptroller and Auditor General of India",
+      "date": "2010-11-16",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2010/Union_Performance_Civil_Allocation_2G_Spectrum_19_2010.pdf"
+    },
+    {
+      "id": "src-2g-verdict",
+      "label": "2G scam verdict: All 18 accused including A Raja acquitted",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2017-12-21",
+      "url": "https://www.businesstoday.in/industry/telecom/story/2g-scam-verdict-a-raja-kanimozhi-cag-vinod-rai-spectrum-87503-2017-12-21"
+    },
+    {
+      "id": "src-2g-cbi-appeal",
+      "label": "2G case a shame to nation: CBI tells HC challenging acquittals",
+      "type": "independent",
+      "publisher": "Millennium Post (via PressReader)",
+      "date": "2018-05-26",
+      "url": "https://www.pressreader.com/india/millennium-post/20180526/281621011005687"
+    }
+  ]
+}

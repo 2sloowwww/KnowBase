@@ -1,0 +1,157 @@
+{
+  "id": "KB-203",
+  "slug": "ipl-spot-fixing-scandal",
+  "title": "The 2013 IPL Spot-Fixing and Betting Scandal",
+  "dek": "Three players were arrested for allegedly conceding pre-agreed runs for bookmakers, and it emerged that a team principal and a co-owner had themselves bet on IPL matches. A Supreme Court-appointed panel eventually suspended two franchises and banned BCCI's president's son-in-law and a co-owner for life — a rare case of Indian sports governance being restructured by court order.",
+  "category": "Public Spending",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 217,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2013-05-16",
+  "heroStat": {
+    "value": "2 years",
+    "label": "IPL suspension handed to Chennai Super Kings and Rajasthan Royals by the Supreme Court-appointed Lodha Committee"
+  },
+  "promise": {
+    "quote": "The IPL operates under a strict anti-corruption code, and BCCI has zero tolerance for match-fixing, spot-fixing, and betting by anyone connected with the league.",
+    "madeBy": "Board of Control for Cricket in India (BCCI)",
+    "role": "Governing body of the Indian Premier League",
+    "date": "2008-01-01",
+    "context": "This reflects the BCCI's and IPL's standing anti-corruption policy commitments since the league's 2008 launch, rather than a single verified quotation from a specific document.",
+    "sourceIds": [
+      "src-ipl-timeline"
+    ]
+  },
+  "target": {
+    "description": "That IPL matches would be played free of pre-arranged spot-fixing or betting influence by players, franchise owners, or team officials, consistent with the league's anti-corruption code.",
+    "standard": "BCCI's Anti-Corruption Code for participants in IPL, and Indian criminal law provisions on cheating and conspiracy (betting itself was not then a distinct criminal offence in most Indian states, but was pursued via allied charges).",
+    "referenceDate": "2008-01-01"
+  },
+  "reality": {
+    "description": "On 16 May 2013, Delhi Police arrested Rajasthan Royals bowler S. Sreesanth along with teammates Ankit Chavan and Ajit Chandila, plus several bookies, alleging they had conceded pre-agreed numbers of runs in exchange for payments from bookmakers. Investigations widened: Mumbai Police arrested Gurunath Meiyappan — son-in-law of then-BCCI president N. Srinivasan and Chennai Super Kings' team principal — on 24 May 2013 for betting, cheating and conspiracy, and found Rajasthan Royals co-owner Raj Kundra had also placed bets on IPL matches including his own team's. The Supreme Court, finding BCCI's own inquiry compromised by Srinivasan's conflict of interest, appointed a three-member committee headed by former Chief Justice R.M. Lodha in January 2015 to determine punishments and recommend BCCI governance reforms. On 14 July 2015, the Lodha Committee suspended Chennai Super Kings and Rajasthan Royals from the IPL for two years (the 2016 and 2017 seasons) and banned Meiyappan and Kundra for life from any BCCI-related activity; N. Srinivasan was separately barred from holding BCCI office. Both franchises returned for the 2018 season. Sreesanth's own life ban by BCCI's disciplinary committee was set aside by the Supreme Court in March 2019 for being disproportionate to the disciplinary finding against him (which the Court upheld), and BCCI's ombudsman subsequently reduced his ban to seven years, making him eligible to play again from September 2020.",
+    "asOfDate": "2020-09-01",
+    "sourceIds": [
+      "src-ipl-lodha",
+      "src-ipl-sreesanth"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Franchises and individuals investigated vs. sanctions that were upheld through the full appeals process",
+    "unit": "count",
+    "targetValue": 2,
+    "actualValue": 2,
+    "targetDisplay": "2 franchises suspended (CSK, RR)",
+    "actualDisplay": "2 franchises served full 2-year ban and returned in 2018",
+    "targetLabel": "Sanctioned",
+    "actualLabel": "Served in full",
+    "note": "Unlike many entries on this site, the sanctions here were largely carried out as ordered: both suspensions ran their full course, and the life bans on Meiyappan and Kundra remain in force. Sreesanth's individual playing ban was reduced on appeal, but the underlying corruption finding against him was not overturned."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2013-05-16",
+      "label": "Delhi Police arrests three players",
+      "detail": "S. Sreesanth, Ankit Chavan and Ajit Chandila are arrested along with bookies over alleged spot-fixing in IPL matches.",
+      "type": "milestone"
+    },
+    {
+      "date": "2013-05-24",
+      "label": "Gurunath Meiyappan arrested",
+      "detail": "CSK team principal and BCCI president's son-in-law is arrested by Mumbai Police for betting, cheating and conspiracy.",
+      "type": "milestone"
+    },
+    {
+      "date": "2015-01-22",
+      "label": "Supreme Court sets up Lodha Committee",
+      "detail": "A three-member panel headed by former CJI R.M. Lodha is tasked with determining punishments for Meiyappan, Kundra and their franchises, and recommending BCCI reforms.",
+      "type": "status"
+    },
+    {
+      "date": "2015-07-14",
+      "label": "CSK, RR suspended for two years",
+      "detail": "The Lodha Committee suspends both franchises from the IPL (2016-17 seasons) and bans Meiyappan and Kundra for life from BCCI activity.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-04-01",
+      "label": "CSK and RR return to the IPL",
+      "detail": "Both franchises resume IPL participation after serving their two-year suspension; CSK go on to win the 2018 title.",
+      "type": "status"
+    },
+    {
+      "date": "2019-03-15",
+      "label": "Supreme Court sets aside Sreesanth's life ban",
+      "detail": "The Court upholds the disciplinary finding against Sreesanth but rules a lifetime ban disproportionate, directing BCCI to reconsider the sanction.",
+      "type": "revision"
+    },
+    {
+      "date": "2019-08-01",
+      "label": "BCCI ombudsman reduces ban to seven years",
+      "detail": "Sreesanth becomes eligible to resume playing from September 2020.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This matter was resolved through a Supreme Court-supervised disciplinary process rather than a conventional criminal trial for most of the sporting sanctions; the underlying criminal cases against some individuals (including bookies) proceeded separately through Indian courts. The franchise suspensions and Meiyappan/Kundra life bans were carried out and were not further overturned; Sreesanth's playing ban was reduced on appeal but the corruption finding against him stood.",
+    "keyIndividuals": [
+      {
+        "name": "Gurunath Meiyappan",
+        "role": "Chennai Super Kings team principal",
+        "outcome": "Banned for life from BCCI-related activity, July 2015; ban not overturned."
+      },
+      {
+        "name": "Raj Kundra",
+        "role": "Rajasthan Royals co-owner",
+        "outcome": "Banned for life from BCCI-related activity, July 2015; ban not overturned."
+      },
+      {
+        "name": "S. Sreesanth",
+        "role": "Rajasthan Royals and India bowler",
+        "outcome": "Arrested May 2013; BCCI's corruption finding against him upheld by the Supreme Court, but his life ban was set aside as disproportionate in March 2019 and reduced to seven years, restoring his eligibility from September 2020."
+      },
+      {
+        "name": "N. Srinivasan",
+        "role": "BCCI president at the time of the scandal",
+        "outcome": "Barred from holding BCCI office as part of the Lodha Committee's broader governance reforms."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is one of the more fully resolved cases on this site: real arrests, a real conflict-of-interest finding against BCCI's own leadership, and a Supreme Court-appointed panel whose sanctions — two-year franchise bans and lifetime individual bans — were actually carried out rather than diluted or abandoned. The main caveat is that most of this was adjudicated as a sports-disciplinary matter rather than through ordinary criminal conviction of the central figures.",
+    "confidence": "high",
+    "reasoning": "The arrests, the Lodha Committee's formation and findings, the franchise suspensions and their completion, and the Sreesanth Supreme Court ruling are all extensively corroborated across contemporaneous sports and legal reporting (ESPNcricinfo, Business Standard, SCC Online, Al Jazeera)."
+  },
+  "incomplete": [
+    "This entry does not detail the separate criminal trial outcomes for the bookies and intermediaries arrested alongside the players, which followed ordinary criminal court process rather than the BCCI/Lodha disciplinary track.",
+    "The broader Lodha Committee reforms to BCCI's governance structure (e.g., one-state-one-vote, age and tenure caps for officials) were separately litigated over subsequent years and are not fully detailed in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-ipl-timeline",
+      "label": "IPL spot-fixing: The key events",
+      "type": "independent",
+      "publisher": "Deccan Chronicle",
+      "date": "2015-07-14",
+      "url": "https://www.deccanchronicle.com/150714/sports-cricket/article/ipl-spot-fixing-key-events"
+    },
+    {
+      "id": "src-ipl-lodha",
+      "label": "Chennai, Rajasthan face two-year IPL suspension",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2015-07-14",
+      "url": "https://www.aljazeera.com/sports/2015/7/14/chennai-rajasthan-face-two-year-ipl-suspension"
+    },
+    {
+      "id": "src-ipl-sreesanth",
+      "label": "IPL spot-fixing: SC sets aside life ban imposed on Sreesanth by BCCI",
+      "type": "independent",
+      "publisher": "SCC Online",
+      "date": "2019-03-15",
+      "url": "https://www.scconline.com/blog/post/2019/03/15/ipl-spot-fixing-sc-sets-aside-life-ban-imposed-on-sreesanth-by-bcci/"
+    }
+  ]
+}

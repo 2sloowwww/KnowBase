@@ -1,0 +1,136 @@
+{
+  "id": "KB-017",
+  "slug": "icici-videocon-loan-case",
+  "title": "The ICICI Bank – Videocon Loan Case",
+  "dek": "A bank sanctioned crores in credit to a corporate group; CBI alleges the loan was linked to investments benefiting the bank CEO's husband. The prosecution's own arrest of the couple was later ruled illegal by the Bombay High Court.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 208,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-01-24",
+  "heroStat": {
+    "value": "₹3,250 cr",
+    "label": "in credit facilities ICICI Bank sanctioned to the Videocon Group"
+  },
+  "promise": {
+    "quote": "Loan sanctions by ICICI Bank will be made on commercial merit, free of any personal financial benefit to the bank's decision-makers or their families.",
+    "madeBy": "ICICI Bank, under the leadership of then-CEO Chanda Kochhar",
+    "role": "Private sector bank; loan sanctioned under its internal credit approval process",
+    "date": "2012-01-01",
+    "context": "The CBI alleges ICICI Bank sanctioned ₹3,250 crore in credit facilities to the Videocon Group in 2012 in violation of lending norms, and that Videocon's chairman Venugopal Dhoot subsequently routed funds to NuPower Renewables, a company linked to Deepak Kochhar, husband of then-CEO Chanda Kochhar.",
+    "sourceIds": [
+      "src-icici-overview"
+    ]
+  },
+  "target": {
+    "description": "Credit sanctioned strictly on commercial merit through the bank's normal approval process, with no undisclosed personal financial interest for any decision-maker.",
+    "standard": "RBI norms on related-party lending and conflict-of-interest disclosure for bank executives.",
+    "referenceDate": "2012-01-01"
+  },
+  "reality": {
+    "description": "The CBI registered a case on 24 January 2019 against Chanda Kochhar, Deepak Kochhar, and Videocon chairman Venugopal Dhoot, alleging the loan arrangement defrauded ICICI Bank. The CBI arrested Chanda and Deepak Kochhar in December 2022. In January 2023, the Bombay High Court ruled that the arrests had not followed mandatory legal procedure and granted the couple interim bail; a later bench confirmed that bail in February 2024.",
+    "asOfDate": "2024-02-01",
+    "sourceIds": [
+      "src-icici-arrest",
+      "src-icici-illegal-arrest"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Credit sanctioned to Videocon vs. funds the CBI alleges were routed to a Kochhar-linked company",
+    "unit": "₹ crore",
+    "targetValue": 3250,
+    "actualValue": 64,
+    "targetDisplay": "₹3,250 cr credit sanctioned",
+    "actualDisplay": "₹64 cr allegedly routed to a Kochhar-linked entity",
+    "targetLabel": "Sanctioned",
+    "actualLabel": "Allegedly routed",
+    "note": "The ₹64 crore figure is drawn from CBI allegations reported in the press, not from a court finding — no court has yet ruled on whether this routing occurred as alleged. A separate report describing a tribunal finding that Kochhar was 'held guilty' of a related bribery finding could not be clearly attributed to a specific proceeding by this investigation, and is not repeated here pending clearer sourcing."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2012-01-01",
+      "label": "Loan sanctioned",
+      "detail": "ICICI Bank sanctions ₹3,250 crore in credit facilities to the Videocon Group.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-01-24",
+      "label": "CBI registers FIR",
+      "detail": "The CBI books Chanda Kochhar, Deepak Kochhar, and Venugopal Dhoot for cheating and fraud.",
+      "type": "status"
+    },
+    {
+      "date": "2022-12-23",
+      "label": "Kochhars arrested",
+      "detail": "The CBI arrests Chanda and Deepak Kochhar.",
+      "type": "status"
+    },
+    {
+      "date": "2023-01-09",
+      "label": "Bombay High Court finds the arrest illegal",
+      "detail": "The Court rules the CBI did not follow mandatory arrest procedure and grants interim bail.",
+      "type": "status"
+    },
+    {
+      "date": "2024-02-06",
+      "label": "Bail confirmed",
+      "detail": "A later bench of the Bombay High Court confirms the interim bail.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No trial verdict has been reached. Notably, the accused's own arrest was found procedurally illegal by the Bombay High Court, which is a setback for the prosecution rather than any finding on the underlying allegations.",
+    "keyIndividuals": [
+      {
+        "name": "Chanda Kochhar",
+        "role": "Former Managing Director & CEO, ICICI Bank",
+        "outcome": "Arrested December 2022; Bombay High Court ruled the arrest illegal and granted bail, January 2023, confirmed February 2024. No trial verdict."
+      },
+      {
+        "name": "Deepak Kochhar",
+        "role": "Businessman; husband of Chanda Kochhar",
+        "outcome": "Arrested December 2022; Bombay High Court ruled the arrest illegal and granted bail, January 2023, confirmed February 2024. No trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the loan sanction and the CBI's allegations are documented by the FIR and reputable reporting. What stands out procedurally is that the prosecution's own arrest of the accused was found unlawful by the High Court — a fact this investigation considers important context that is often missing from summary accounts of this case.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. A separate claim, that an appellate tribunal 'held Kochhar guilty' of a bribery finding, appeared in one source reviewed but could not be clearly attributed to a specific, identifiable proceeding, so it is not repeated here as fact."
+  },
+  "incomplete": [
+    "This is a stub entry. The CBI's full chargesheet allegations and Venugopal Dhoot's specific legal status have not yet been researched in detail.",
+    "A separate report describing a tribunal ruling that found Kochhar 'guilty' of receiving a bribe could not be attributed to a specific, verifiable proceeding by this investigation and has been excluded pending clearer sourcing.",
+    "The trial's current procedural stage, beyond the 2023–24 bail proceedings, has not yet been researched."
+  ],
+  "sources": [
+    {
+      "id": "src-icici-overview",
+      "label": "What the ICICI Bank-Videocon Group loan case is all about",
+      "type": "independent",
+      "publisher": "Tribune India",
+      "date": "2019-01-01",
+      "url": "https://www.tribuneindia.com/news/business/what-the-icici-bank-videocon-group-loan-case-is-all-about-463875"
+    },
+    {
+      "id": "src-icici-arrest",
+      "label": "CBI arrests former ICICI Bank CEO/MD Chanda Kochhar, husband Deepak Kochhar in Videocon loan fraud case",
+      "type": "independent",
+      "publisher": "Tribune India",
+      "date": "2022-12-23",
+      "url": "https://www.tribuneindia.com/news/business/cbi-arrests-former-icici-bank-ceo-md-chanda-kochhar-husband-deepak-kochhar-in-videocon-loan-fraud-case-463870"
+    },
+    {
+      "id": "src-icici-illegal-arrest",
+      "label": "CBI's arrest of Chanda Kochhar, Deepak Kochhar in ICICI-Videocon loan case was illegal: Bombay High Court",
+      "type": "independent",
+      "publisher": "Bar and Bench",
+      "date": "2023-01-09",
+      "url": "https://www.barandbench.com/news/chanda-kochhar-deepak-kochhar-cbi-arrest-icici-videocon-loan-case-illegal-bombay-high-court"
+    }
+  ]
+}

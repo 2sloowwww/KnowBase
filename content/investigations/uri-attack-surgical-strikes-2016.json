@@ -1,0 +1,119 @@
+{
+  "id": "KB-2508",
+  "slug": "uri-attack-surgical-strikes-2016",
+  "title": "Surgical Strikes: India Said It Hit Terror Launchpads Across the LoC. Pakistan Said No Such Thing Happened, and No Outside Observer Confirmed Either Account",
+  "dek": "After militants attacked an army base in Uri in September 2016, India's military said it responded with 'surgical strikes' on terrorist launchpads across the Line of Control, based on credible intelligence of imminent infiltration. Pakistan denied any such strikes occurred, describing the incident as routine cross-border firing. Neither government's account has been independently verified by a neutral third party, and an RTI response later showed the Army itself had no record of any prior operation described as a 'surgical strike.'",
+  "category": "Defence & Security",
+  "status": "disputed",
+  "severity": "major",
+  "severityRank": 51,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2016-09-29",
+  "heroStat": {
+    "value": "0",
+    "label": "Independent international observers or neutral verification of either India's or Pakistan's account of the events of 28-29 September 2016 across the Line of Control"
+  },
+  "promise": {
+    "quote": "Based on very credible and specific information that some terrorist teams had positioned themselves at launchpads along the Line of Control to carry out infiltration and terrorist strikes... the Indian Army conducted surgical strikes last night at these launchpads. The operations were focused on ensuring that these terrorists do not succeed in their design to cause destruction and endanger the lives of our citizens.",
+    "madeBy": "Lieutenant General Ranbir Singh, Director General of Military Operations, Indian Army",
+    "role": "DGMO, briefing the press on behalf of the Indian armed forces",
+    "date": "2016-09-29",
+    "context": "The statement followed the 18 September 2016 attack by militants on an Indian Army brigade headquarters at Uri, Jammu and Kashmir, which killed 19 soldiers and was attributed by India to Pakistan-based militant groups.",
+    "sourceIds": [
+      "src-uri-idsa"
+    ]
+  },
+  "target": {
+    "description": "A verifiable, targeted cross-border military operation against specific terrorist launchpads, conducted and reported with a level of detail and evidence that could be corroborated by independent observation.",
+    "standard": "The Indian government's own public framing of the strikes as a specific, evidenced military operation against identified terrorist infrastructure",
+    "referenceDate": "2016-09-29"
+  },
+  "reality": {
+    "description": "The Indian government publicly described a cross-border operation on the night of 28-29 September 2016 targeting what it called terrorist launchpads across the Line of Control in Pakistan-administered Kashmir. Pakistan's military, through spokesperson Lieutenant General Asim Bajwa, denied that any surgical strike had occurred, asserting that the incident involved only routine cross-border exchanges of fire that killed two Pakistani soldiers, and stated Pakistani radar and ground sensors detected no crossings; Pakistan invited international observers to visit the alleged strike sites, an invitation not taken up in any way that produced independent verification. No neutral international body or independent journalist has produced verified, on-the-ground confirmation of either government's account. Domestically, the Indian government's characterisation of the operation as unprecedented was complicated by a 2017 Right to Information request, to which the Army's Director General of Military Operations office responded that it held no records of any operation described as a 'surgical strike' prior to the one conducted after the Uri attack, a response cited by critics as evidence there was no consistent institutional definition of the term being applied, and by supporters as simply confirming the strike's unprecedented nature. The Indian government publicised the strikes far more extensively than earlier, less-publicised cross-border operations, marking a shift toward more open acknowledgment of such actions as a matter of stated deterrence policy.",
+    "asOfDate": "2017-08-27",
+    "sourceIds": [
+      "src-uri-businessstandard-rti",
+      "src-uri-aljazeera"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Independent, neutral verification of the surgical strikes versus the competing claims of the two governments involved",
+    "unit": "qualitative assessment",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "A verifiable account of the operation corroborated by evidence beyond the involved governments' own statements",
+    "actualDisplay": "Two directly contradictory government accounts, with no independent international verification of either",
+    "targetLabel": "Verifiable operation",
+    "actualLabel": "Independent verification obtained",
+    "note": "This reflects the absence of neutral verification for either side's account, not a finding that either government's claim is false."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2016-09-18",
+      "label": "Uri attack",
+      "detail": "Militants attack an Indian Army brigade headquarters in Uri, Jammu and Kashmir, killing 19 soldiers; India attributes the attack to Pakistan-based militant groups.",
+      "type": "status"
+    },
+    {
+      "date": "2016-09-29",
+      "label": "India announces 'surgical strikes'",
+      "detail": "The Indian Army's DGMO publicly announces that surgical strikes were conducted overnight against terrorist launchpads across the Line of Control.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-09-30",
+      "label": "Pakistan denies the strikes occurred",
+      "detail": "Pakistan's military spokesperson denies any surgical strike took place, describing the incident as routine cross-border firing, and says international observers are welcome to visit the sites.",
+      "type": "status"
+    },
+    {
+      "date": "2017-08-27",
+      "label": "RTI reveals no prior record of 'surgical strikes'",
+      "detail": "An RTI response from the Army's DGMO office states it has no record of any operation termed a 'surgical strike' before the one conducted after the Uri attack.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a military and diplomatic dispute between two governments, not a legal or judicial matter with a determinable verdict. No independent international tribunal or body has adjudicated competing Indian and Pakistani claims about the events of 28-29 September 2016.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "India's military publicly and specifically described a cross-border surgical strike operation following the Uri attack; Pakistan's military just as specifically denied it occurred. No independent, neutral source has verified either account, and this entry does not take a position on which government's version is accurate -- only that the claim remains unverified by any party other than the two governments involved.",
+    "confidence": "medium",
+    "reasoning": "The fact that both governments made these specific, opposing public statements is well-documented and not in dispute. Confidence on the underlying factual question of what actually happened across the Line of Control is necessarily limited, because by the nature of the event no independent verification exists and this entry cannot resolve a dispute between two national governments' competing military claims."
+  },
+  "incomplete": [
+    "This entry cannot and does not resolve which government's account of the events of 28-29 September 2016 is accurate; no independent verification exists for either side's claims.",
+    "The precise number, location and outcome of any strikes (if they occurred) as described by India have not been independently corroborated by third-party evidence such as satellite imagery analysis in this entry.",
+    "Subsequent, similarly disputed cross-border operations (such as the 2019 Balakot strikes) are outside the scope of this entry, which is limited to the 2016 Uri/surgical strikes episode."
+  ],
+  "sources": [
+    {
+      "id": "src-uri-idsa",
+      "label": "Uri, Surgical Strikes and International Reactions",
+      "type": "independent",
+      "publisher": "Manohar Parrikar Institute for Defence Studies and Analyses (IDSA)",
+      "date": "2016-10-01",
+      "url": "https://idsa.in/publisher/issuebrief/uri-surgical-strikes-and-international-reactions"
+    },
+    {
+      "id": "src-uri-businessstandard-rti",
+      "label": "No records of 'surgical strike' prior to Uri reaction: DGMO reply to RTI",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-08-27",
+      "url": "https://www.business-standard.com/article/current-affairs/no-records-of-surgical-strike-prior-to-uri-reaction-dgmo-reply-to-rti-117082700350_1.html"
+    },
+    {
+      "id": "src-uri-aljazeera",
+      "label": "Surgical strikes: Pakistan rejects India's claims",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2016-09-30",
+      "url": "https://www.aljazeera.com/amp/news/2016/9/30/surgical-strikes-pakistan-rejects-indias-claims"
+    }
+  ]
+}

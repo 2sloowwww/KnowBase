@@ -1,0 +1,122 @@
+{
+  "id": "KB-2207",
+  "slug": "demonetisation-2016-outcomes",
+  "title": "Demonetisation: The Black Money the RBI Says Never Existed",
+  "dek": "The government withdrew 86% of India's currency by value overnight in November 2016, promising to flush out black money and counterfeit notes hoarded outside the banking system. Nearly two years later, the RBI's own annual report disclosed that 99.3% of the demonetised currency had come back into the banking system — implying almost none of it had, in fact, been unaccounted black money that stayed out.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 86,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2018-08-30",
+  "heroStat": {
+    "value": "99.3%",
+    "label": "Share by value of demonetised ₹500 and ₹1,000 notes that had returned to the banking system, per the RBI's 2017-18 annual report"
+  },
+  "promise": {
+    "quote": "The 500 and 1000 rupee notes presently in use will no longer be legal tender from midnight tonight ... this step will strengthen our hands to fight the battle against corruption, black money, counterfeit currency and terrorism.",
+    "madeBy": "Narendra Modi",
+    "role": "Prime Minister of India",
+    "date": "2016-11-08",
+    "context": "Announced in an unscheduled national television address on the night of 8 November 2016, withdrawing the legal-tender status of ₹500 and ₹1,000 notes, which together constituted about 86% of India's currency in circulation by value.",
+    "sourceIds": [
+      "src-demo-rbi-return"
+    ]
+  },
+  "target": {
+    "description": "A meaningful share of demonetised high-value currency permanently extinguished from circulation because it represented unaccounted 'black money' that holders could not deposit through the banking system without disclosure, alongside a significant reduction in counterfeit currency in circulation.",
+    "standard": "Government of India's own stated rationale for the Specified Bank Notes (Cessation of Liabilities) Act, 2017 and the demonetisation exercise",
+    "referenceDate": "2016-11-08"
+  },
+  "reality": {
+    "description": "The Reserve Bank of India's annual report for 2017-18, released on 30 August 2018, disclosed that of the ₹15.41 lakh crore worth of ₹500 and ₹1,000 notes that had been in circulation at the time of demonetisation, ₹15.31 lakh crore — 99.3% by value — had been returned to the banking system by the time the RBI completed its verification process, roughly 21 months after the announcement. The government's own working assumption ahead of the exercise had reportedly anticipated that a meaningful share of the currency, estimated by some officials at around ₹3-5 lakh crore, would not return because it represented unaccounted wealth its holders would not risk depositing; the RBI's disclosed return rate implied that only about 0.7% of demonetised currency value, or roughly ₹10,720 crore, did not come back. The same RBI report showed counterfeit-note detection had risen rather than fallen since demonetisation, with counterfeit ₹100 notes detected up 35% year-on-year and counterfeit ₹50 notes detected up about one-and-a-half times, undercutting the counterfeiting-control rationale as well. The government and its supporters subsequently pointed to other claimed benefits — a rise in the tax base, formalisation of the economy, and a push toward digital payments — as justifying the exercise independent of the currency-return figures.",
+    "asOfDate": "2018-08-30",
+    "sourceIds": [
+      "src-demo-rbi-return",
+      "src-demo-moneylife"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Demonetised currency value returned to the banking system vs. total value withdrawn",
+    "unit": "INR lakh crore",
+    "targetValue": 15.41,
+    "actualValue": 15.31,
+    "targetDisplay": "₹15.41 lakh cr total demonetised value",
+    "actualDisplay": "₹15.31 lakh cr (99.3%) returned",
+    "targetLabel": "Total value withdrawn",
+    "actualLabel": "Value returned to banks",
+    "note": "Figures per the RBI's 2017-18 annual report, released 30 August 2018; only about ₹10,720 crore (0.7%) of demonetised currency by value did not return to the banking system."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 1541000,
+    "allocatedLabel": "Total value of ₹500 and ₹1,000 notes in circulation before demonetisation (in ₹ crore)",
+    "released": 1531000,
+    "releasedLabel": "Value of demonetised notes returned to the banking system by 30 August 2018 (in ₹ crore)",
+    "unit": "crore",
+    "notes": "The RBI's own cost of printing replacement currency (new ₹500 and ₹2,000 notes) after demonetisation, and the broader economic costs of the exercise including reported short-term GDP and informal-sector employment effects, are separately documented but not quantified in this entry.",
+    "sourceIds": [
+      "src-demo-rbi-return"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016-11-08",
+      "label": "Demonetisation announced",
+      "detail": "Prime Minister Narendra Modi announces in a televised address that ₹500 and ₹1,000 notes will cease to be legal tender from midnight, citing the fight against black money, corruption, counterfeit currency and terrorism.",
+      "type": "announcement"
+    },
+    {
+      "date": "2016-12-30",
+      "label": "Deposit window for old notes closes",
+      "detail": "The window during which citizens could deposit old demonetised notes into bank accounts closes, with a narrower window remaining for specific categories via the RBI.",
+      "type": "milestone"
+    },
+    {
+      "date": "2017-08-30",
+      "label": "RBI's 2016-17 annual report shows ~99% return",
+      "detail": "The RBI's annual report for 2016-17 discloses that approximately 99% of demonetised ₹500 and ₹1,000 notes by value had already been returned to the banking system.",
+      "type": "status"
+    },
+    {
+      "date": "2018-08-30",
+      "label": "RBI confirms 99.3% final return rate",
+      "detail": "The RBI's 2017-18 annual report finalises the currency-return verification process, confirming 99.3% of demonetised note value — ₹15.31 lakh crore of ₹15.41 lakh crore — had returned to the banking system, and shows a rise in counterfeit-note detection since demonetisation.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a policy-outcome and governance case, not a criminal matter. No prosecution or conviction attaches to the demonetisation decision itself; the RBI's disclosures are administrative and statistical rather than findings of individual wrongdoing.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "The government's own central bank disclosed, through its statutory annual reporting process, that virtually all of the currency withdrawn in the name of flushing out black money came back into the banking system, and that counterfeit-note detection rose rather than fell in the exercise's aftermath — directly undercutting the two headline rationales given for the move at the time it was announced, even as the government and its supporters have pointed to other claimed longer-term benefits.",
+    "confidence": "high",
+    "reasoning": "The RBI's currency-return and counterfeit-detection figures are drawn from its own statutory annual report, a primary institutional source, and are corroborated across extensive independent contemporaneous reporting. Confidence on the return-rate facts is high; assessing the exercise's other claimed benefits (tax-base expansion, formalisation, digital-payments growth) against its costs is a broader economic debate this entry does not attempt to resolve."
+  },
+  "incomplete": [
+    "This entry has not directly reviewed the RBI's 2017-18 annual report in full, relying on its currency-return and counterfeit-detection figures as reported by Moneylife, Business Standard and other outlets.",
+    "The government's original internal estimate of how much currency it expected would not return (cited variously in public commentary as ₹3-5 lakh crore) has not been traced to a specific official primary-source document in this entry.",
+    "This entry does not attempt to quantify or adjudicate demonetisation's broader claimed economic effects (tax-base expansion, digitisation, formalisation) or its documented short-term costs (informal-sector job losses, GDP growth deceleration), which remain contested among economists."
+  ],
+  "sources": [
+    {
+      "id": "src-demo-rbi-return",
+      "label": "99.3% of Demonetised Currency Has Returned, Admits RBI. Counterfeit Notes Rise",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2018-08-30",
+      "url": "https://www.moneylife.in/article/993-percentage-of-demonetised-currency-has-returned-admits-rbi-counterfeit-notes-rise/55151.html"
+    },
+    {
+      "id": "src-demo-moneylife",
+      "label": "RBI annual report: 99% of demonetised currency back into the system",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2017-08-30",
+      "url": "https://www.business-standard.com/amp/article/economy-policy/rbi-annual-report-99-of-demonetised-currency-back-into-the-system-117083000891_1.html"
+    }
+  ]
+}

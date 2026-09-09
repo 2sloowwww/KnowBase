@@ -1,0 +1,132 @@
+{
+  "id": "KB-2203",
+  "slug": "muzaffarpur-bihar-shelter-home-case",
+  "title": "The Muzaffarpur Shelter Home Case: A Child-Protection System That Missed 34 Rapes",
+  "dek": "Bihar's social welfare department was legally responsible for monitoring the state-funded shelter homes housing its most vulnerable children. It took an independent TISS social audit, not the department's own inspections, to uncover that 34 girls at one Muzaffarpur shelter had been raped and sexually assaulted for years — after which a Delhi court eventually convicted the shelter's politically connected operator and 18 others.",
+  "category": "Employment & Welfare",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 79,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2018-04-01",
+  "heroStat": {
+    "value": "34 girls",
+    "label": "Girls aged 7 to 17 found to have been sexually assaulted at the Muzaffarpur shelter home, per medical examination following the TISS audit"
+  },
+  "promise": {
+    "quote": "To conduct a social audit of the functioning of the short stay homes/shelter homes ... run by the Department under the Integrated Child Protection Scheme, and to assess the quality of care and services provided to children residing in these institutions.",
+    "madeBy": "Department of Social Welfare, Government of Bihar",
+    "role": "State department with statutory duty to fund, license and monitor child-care institutions under the Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "date": "2017-10-01",
+    "context": "Bihar's own social welfare department commissioned the Tata Institute of Social Sciences (TISS) to audit the state's shelter homes for children, an acknowledgment of its statutory duty to ensure such institutions were safe — a duty the audit itself found was not being met.",
+    "sourceIds": [
+      "src-muz-tiss-audit"
+    ]
+  },
+  "target": {
+    "description": "State-funded and licensed shelter homes for children operated in compliance with the Juvenile Justice (Care and Protection of Children) Act, 2015 and Integrated Child Protection Scheme norms, with the department's own regular monitoring and inspection sufficient to detect abuse without requiring an external audit.",
+    "standard": "Juvenile Justice (Care and Protection of Children) Act, 2015; Integrated Child Protection Scheme guidelines, Ministry of Women and Child Development",
+    "referenceDate": "2015-01-15"
+  },
+  "reality": {
+    "description": "A team from TISS's Koshish field-action project surveyed more than 110 shelter institutions run or funded by the Bihar government over six months beginning October 2017, at the state social welfare department's own request, and submitted its report in April 2018. The audit flagged the Balika Grih (girls' shelter home) in Muzaffarpur, run by Brajesh Thakur's NGO Seva Sankalp Evam Vikas Samiti, as a case of 'grave concern.' Following the report, a police probe and medical examination found that 34 girls at the home, aged between 7 and 17, had been sexually assaulted; an FIR was registered in May 2018 against 11 people including Thakur, a politically connected local operator. The Supreme Court later transferred the trial to a Delhi court on grounds that a fair trial was not possible in Bihar. In January 2020, a Delhi court convicted Thakur and 18 others of offences under the POCSO Act and for gang rape; the Enforcement Directorate separately attached assets worth roughly ₹7.3 crore belonging to Thakur. The case exposed that the abuse had gone undetected through the department's own licensing and inspection regime for years, surfacing only through an externally commissioned social audit.",
+    "asOfDate": "2020-01-20",
+    "sourceIds": [
+      "src-muz-tiss-audit",
+      "src-muz-conviction",
+      "src-muz-ed-assets"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Shelter homes found of 'grave concern' by TISS audit vs. flagged by the department's own prior inspections",
+    "unit": "institutions",
+    "targetValue": 0,
+    "actualValue": 1,
+    "targetDisplay": "Expected: caught by routine departmental inspection",
+    "actualDisplay": "Actual: surfaced only via external TISS social audit",
+    "targetLabel": "Departmental detection",
+    "actualLabel": "External audit detection",
+    "note": "The Muzaffarpur shelter's abuse was not detected or acted upon through Bihar's own routine licensing and monitoring process; it surfaced only after the state commissioned an independent academic social audit of over 110 institutions."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2017-10-01",
+      "label": "TISS begins statewide shelter home social audit",
+      "detail": "A TISS Koshish team begins a six-month social audit of more than 110 Bihar government-run or funded child-care institutions, commissioned by the state social welfare department.",
+      "type": "announcement"
+    },
+    {
+      "date": "2018-04-01",
+      "label": "TISS submits audit report flagging Muzaffarpur shelter",
+      "detail": "TISS submits its social audit report to Bihar's social welfare department, flagging the Muzaffarpur Balika Grih, run by Brajesh Thakur's NGO, as a case of 'grave concern.'",
+      "type": "status"
+    },
+    {
+      "date": "2018-05-01",
+      "label": "FIR registered after medical examination confirms abuse",
+      "detail": "Following a police probe and medical examination finding 34 girls aged 7-17 had been sexually assaulted, an FIR is registered against 11 people including Brajesh Thakur.",
+      "type": "status"
+    },
+    {
+      "date": "2018-08-01",
+      "label": "Supreme Court transfers trial to Delhi",
+      "detail": "The Supreme Court orders the trial moved from Bihar to a Delhi court, citing concerns that a fair trial was not possible in the state given Thakur's local political connections.",
+      "type": "status"
+    },
+    {
+      "date": "2020-01-20",
+      "label": "Delhi court convicts Thakur and 18 others",
+      "detail": "Additional Sessions Judge Saurabh Kulshreshtha convicts Brajesh Thakur and 18 others under the POCSO Act and for gang rape; sentencing arguments are scheduled for later hearing.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Brajesh Thakur and 18 others were convicted by a Delhi court in January 2020 on charges including aggravated sexual assault under the POCSO Act and gang rape. The Enforcement Directorate separately attached assets worth approximately ₹7.3 crore belonging to Thakur under money-laundering provisions.",
+    "keyIndividuals": [
+      {
+        "name": "Brajesh Thakur",
+        "role": "Former Bihar MLA-linked NGO operator; ran the Muzaffarpur Balika Grih shelter home through his NGO Seva Sankalp Evam Vikas Samiti",
+        "outcome": "Convicted in January 2020 by a Delhi court under the POCSO Act and for gang rape, along with 18 co-accused; assets worth roughly ₹7.3 crore attached by the Enforcement Directorate."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case combines a proven criminal conviction of the shelter's operator with a well-documented governance failure: Bihar's social welfare department, statutorily responsible for licensing and monitoring child shelters, did not itself detect years of sexual abuse at a home it funded — the abuse surfaced only through an externally commissioned academic audit, and only after that audit did the department's own inspection and enforcement machinery act.",
+    "confidence": "high",
+    "reasoning": "The criminal conviction is well corroborated across multiple independent sources reporting the same court verdict, and the TISS audit's role in first surfacing the abuse is consistently reported. Sentencing quantum, further appeals, and the department's own accountability (versus Thakur's individual conviction) were not fully detailed in the sources reviewed."
+  },
+  "incomplete": [
+    "This entry has not reviewed the TISS audit report or trial judgment directly, relying on secondary reporting of both.",
+    "The final sentencing quantum for Thakur and the 18 co-accused, and the status of any appeals, has not been confirmed as of this entry's research.",
+    "Whether any Bihar social welfare department official was held departmentally or criminally accountable for failing to detect the abuse through routine inspection has not been established in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-muz-tiss-audit",
+      "label": "How a Social Audit by TISS Unearthed the Alarming Sexual Assault of 34 Girls in a Bihar Shelter Home",
+      "type": "independent",
+      "publisher": "The Better India",
+      "date": "2018-08-01",
+      "url": "https://thebetterindia.com/web-stories/bihar-shelter-home-tata-institute-of-social-sciences-muzaffarpur-brajesh-thakur-rape-sexual-assault/"
+    },
+    {
+      "id": "src-muz-conviction",
+      "label": "Delhi court convicts former MLA, 18 others in Muzaffarpur shelter home case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2020-01-20",
+      "url": "https://www.tribuneindia.com/news/nation/delhi-court-convicts-former-mla-18-others-in-muzaffarpur-shelter-home-case-29001"
+    },
+    {
+      "id": "src-muz-ed-assets",
+      "label": "Muzaffarpur shelter case: ED attaches assets worth Rs 7.3 cr of main accused",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2018-01-01",
+      "url": "https://www.tribuneindia.com/news/archive/nation/muzaffarpur-shelter-case-ed-attaches-assets-worth-rs-7-3-cr-of-main-accused-742600"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "KB-150",
+  "slug": "amrapali-group-homebuyers-fraud",
+  "title": "The Amrapali Group Homebuyers Fraud",
+  "dek": "Amrapali Group took money from over 40,000 homebuyers for Noida and Greater Noida flats, then diverted thousands of crores of that money into unrelated ventures while construction stalled for years. The Supreme Court eventually cancelled the group's RERA registration and handed its projects to state-run NBCC to finish.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 16,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2017",
+  "heroStat": {
+    "value": "42,000+",
+    "label": "homebuyers left without possession of flats they had paid for, at the center of the Supreme Court's Amrapali Group case"
+  },
+  "promise": {
+    "quote": "Amrapali Group promised timely delivery of flats booked by homebuyers in its Noida and Greater Noida residential projects, in line with builder-buyer agreements and RERA obligations once that law took effect.",
+    "madeBy": "Amrapali Group (Anil Kumar Sharma, Chairman and Managing Director, and fellow directors)",
+    "role": "Real estate developer marketing residential projects including Amrapali Sapphire, Silicon City, Zodiac, and Dream Valley in Noida and Greater Noida",
+    "date": "2010-01-01",
+    "context": "This reflects the general commitment embedded in Amrapali's builder-buyer agreements across its projects launched mainly between roughly 2010 and 2014, rather than a single verified quotation, since this entry has not reviewed any specific agreement's exact wording.",
+    "sourceIds": [
+      "src-amrapali-theprint"
+    ]
+  },
+  "target": {
+    "description": "That homebuyers who paid 40-100% of a flat's cost, some as far back as 2010-2014, would receive possession of completed, RERA-compliant flats within the timelines promised in their builder-buyer agreements.",
+    "standard": "Contractual delivery timelines in builder-buyer agreements, and subsequently the Real Estate (Regulation and Development) Act, 2016 (RERA), which mandates registered, funded, and timely completion of real estate projects.",
+    "referenceDate": "2016-05-01"
+  },
+  "reality": {
+    "description": "A Supreme Court-appointed forensic audit found that Amrapali Group diverted thousands of crores of homebuyers' money into unrelated companies and personal use via related-party transactions and bogus billing, rather than into constructing the flats it had sold; auditors separately estimated that over Rs 9,500 crore could potentially be recovered from the group's finances. On 23 July 2019, the Supreme Court found Amrapali Group had committed 'serious fraud' on homebuyers in alleged connivance with officials of the Noida and Greater Noida Authorities and some banks, cancelled the group's RERA registration and its land leases, and directed state-owned NBCC (India) Ltd to take over and complete the stalled projects using funds raised from banks and by selling unsold flats. Directors Anil Kumar Sharma and Shiv Priya were arrested and the Enforcement Directorate has pursued a parallel money-laundering case, including findings that roughly Rs 55 crore was routed abroad via shell entities. As of mid-2025, NBCC reported that around 25,000-27,000 flats had been completed or were nearly ready, with several thousand more still pending completion, some occupancy certificates still outstanding, and both the ED case and directors' bail proceedings ongoing years after the fraud was first exposed.",
+    "asOfDate": "2025-07-01",
+    "sourceIds": [
+      "src-amrapali-sc-2019",
+      "src-amrapali-nbcc-2025",
+      "src-amrapali-ed"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Homebuyers affected vs. flats NBCC had completed as of mid-2025",
+    "unit": "units",
+    "targetValue": 42000,
+    "actualValue": 27000,
+    "targetDisplay": "42,000+ buyers awaiting flats (2019)",
+    "actualDisplay": "~25,000-27,000 flats completed/near-ready (2025)",
+    "targetLabel": "Buyers affected",
+    "actualLabel": "Flats delivered or near-ready, years later",
+    "note": "Figures are approximate and drawn from different points in the case; NBCC and court filings have not published one single reconciled count of all original buyers versus flats finally handed over."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "Forensic auditors appointed by the Supreme Court found the Amrapali Group had diverted homebuyers' funds into unrelated ventures and related-party transactions, with reported diversion figures ranging from roughly Rs 3,500 crore to over Rs 11,500 crore across different audit findings and time periods, and estimated that over Rs 9,500 crore might be recoverable from the group's assets and companies. These figures come from different forensic-audit submissions to the Supreme Court over 2018-2019 and have not been reconciled into one definitive number in the sources reviewed for this entry.",
+    "sourceIds": [
+      "src-amrapali-zeebiz",
+      "src-amrapali-diversion"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "label": "Amrapali launches major Noida/Greater Noida projects",
+      "detail": "Projects including Amrapali Sapphire, Silicon City, Zodiac, and Dream Valley are marketed to homebuyers with promised delivery timelines.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017",
+      "label": "Homebuyers move the Supreme Court",
+      "detail": "Over 100 homebuyers file Writ Petition (Civil) No. 940 of 2017 (Bikram Chatterji & Ors. v. Union of India), alleging non-delivery of flats and fund diversion; the exact filing date has not been confirmed by this entry.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-09-01",
+      "label": "Supreme Court orders forensic audit",
+      "detail": "Statutory auditors are directed to hand over Amrapali's financial records for forensic examination by court-appointed auditors.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-10-11",
+      "label": "Directors sent for police custody",
+      "detail": "The Supreme Court hands Anil Kumar Sharma, Shiv Priya, and Ajay Kumar to Tilak Marg police custody for failing to submit accounts of 46 group companies to the forensic auditor.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-07-23",
+      "label": "Supreme Court finds 'serious fraud'",
+      "detail": "The Court cancels Amrapali Group's RERA registration and land leases, and directs NBCC to complete the stalled projects, citing fraud on over 42,000 homebuyers in alleged connivance with Noida/Greater Noida Authority officials.",
+      "type": "status"
+    },
+    {
+      "date": "2020-01-18",
+      "label": "ED takes custody of Amrapali directors",
+      "detail": "The Enforcement Directorate questions group directors over alleged siphoning of homebuyers' funds as part of its money-laundering case.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-02-22",
+      "label": "Director Shiv Priya granted bail",
+      "detail": "Shiv Priya, a co-accused director, is granted bail years after arrest.",
+      "type": "status"
+    },
+    {
+      "date": "2025-07-01",
+      "label": "NBCC reports ~25,000+ flats completed",
+      "detail": "NBCC informs the Supreme Court it has completed around 25,000 flats and sold over 6,600 units of defaulting buyers to raise construction funds, with several thousand flats and pending NOCs still outstanding.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Supreme Court's civil proceedings (Bikram Chatterji & Ors. v. Union of India) resulted in cancellation of Amrapali's RERA registration, transfer of project completion to NBCC, and ongoing court-monitored recovery and construction. A separate criminal case (multiple FIRs registered by Noida Police for cheating and criminal breach of trust) and an Enforcement Directorate money-laundering case remain under trial; no final criminal conviction of Amrapali's promoters has been reported as of this entry's research. Promoters have moved in and out of custody and bail over multiple years.",
+    "keyIndividuals": [
+      {
+        "name": "Anil Kumar Sharma",
+        "role": "Chairman and Managing Director, Amrapali Group",
+        "outcome": "Arrested; case under trial; has received interim bail from the Supreme Court on medical grounds at various points. Not convicted as of this entry's research."
+      },
+      {
+        "name": "Shiv Priya",
+        "role": "Director, Amrapali Group",
+        "outcome": "Arrested in 2018; granted bail on 22 February 2023. Not convicted as of this entry's research."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "The Supreme Court itself — not merely investigators — has formally found that Amrapali Group committed 'serious fraud' against tens of thousands of homebuyers, diverting their money instead of building the flats they paid for, in what the Court said was alleged connivance with local development-authority officials. That finding of fraud is judicially confirmed, but the parallel criminal and money-laundering cases against individual promoters remain under trial years later, so individual criminal guilt has not been finally adjudicated.",
+    "confidence": "high",
+    "reasoning": "The core facts — the Supreme Court's 23 July 2019 fraud finding, RERA cancellation, NBCC takeover, forensic-audit findings on diverted funds, and the ED's money-laundering case — are corroborated across multiple independent reports and, for the Supreme Court's own findings, the underlying judgment. Exact rupee figures for diversion vary across different audit submissions and have not been reconciled here."
+  },
+  "incomplete": [
+    "The exact filing date of Writ Petition (Civil) No. 940 of 2017 has not been confirmed; this entry uses '2017' pending verification.",
+    "Reported figures for the total amount of homebuyers' money diverted vary significantly across sources (from roughly Rs 3,500 crore to over Rs 11,500 crore) depending on which forensic-audit submission and time period is cited; this entry has not reconciled them into one authoritative figure.",
+    "The current status of the criminal trial and ED money-laundering case against individual promoters, and whether all 42,000+ affected buyers have now received flats or refunds, was not fully confirmed as of this entry's research and may have changed since the last cited update."
+  ],
+  "sources": [
+    {
+      "id": "src-amrapali-theprint",
+      "label": "How Amrapali cheated 49,000 homebuyers, according to Supreme Court",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2019-07-24",
+      "url": "https://theprint.in/india/how-amrapali-cheated-49000-homebuyers-according-to-supreme-court/267018/"
+    },
+    {
+      "id": "src-amrapali-sc-2019",
+      "label": "Bikram Chatterji & Ors. v. Union of India & Ors. — Supreme Court judgment, 23 July 2019",
+      "type": "primary",
+      "publisher": "Supreme Court of India",
+      "date": "2019-07-23",
+      "url": "https://ibbi.gov.in/webadmin/pdf/order/2019/Jul/23rd%20July%202019%20in%20the%20matter%20of%20Bikram%20Chatterji%20&%20Ors.%20Vs.%20Union%20of%20India%20&%20Ors.%20Writ%20Petition%20(C)%20No.%20940-2017_2019-07-25%2020:21:04.pdf"
+    },
+    {
+      "id": "src-amrapali-nbcc-2025",
+      "label": "NBCC completes 25,000 flats of Amrapali Group; sells 6,686 units of defaulter homebuyers, SC told",
+      "type": "independent",
+      "publisher": "ThePrint",
+      "date": "2025-07-01",
+      "url": "https://theprint.in/india/nbcc-completes-25000-flats-of-amrapali-group-sells-6686-units-of-defaulter-homebuyers-sc-told/2517917/"
+    },
+    {
+      "id": "src-amrapali-ed",
+      "label": "ED detects 7 FEMA violations in Amrapali case; Rs 55 cr laundered abroad",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2020-01-14",
+      "url": "https://www.business-standard.com/article/pti-stories/ed-detects-multiple-fema-violations-in-amrapali-case-rs-55-cr-laundered-abroad-120011401214_1.html"
+    },
+    {
+      "id": "src-amrapali-zeebiz",
+      "label": "Over Rs 9.5K cr can be recovered from Amrapali Group, Forensic auditors inform SC",
+      "type": "independent",
+      "publisher": "Zee Business",
+      "date": "2018-12-01",
+      "url": "https://www.zeebiz.com/companies/news-over-rs-95k-cr-can-be-recovered-from-amrapali-group-forensic-auditors-inform-sc-97396"
+    },
+    {
+      "id": "src-amrapali-diversion",
+      "label": "Amrapali Group case: ED files money laundering case against company, promoters",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2019-01-01",
+      "url": "https://www.businesstoday.in/current/economy-politics/amrapali-group-case-ed-files-money-laundering-case-against-company-promoters/story/366895.html"
+    }
+  ]
+}

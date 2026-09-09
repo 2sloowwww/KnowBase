@@ -1,0 +1,136 @@
+{
+  "id": "KB-3037",
+  "slug": "wazirx-cryptocurrency-exchange-hack",
+  "title": "The WazirX Hack: India's Largest Crypto Exchange Lost $235 Million and Users Waited Over a Year to Get Most of It Back",
+  "dek": "WazirX told users its multi-signature wallet, custodied through a third party, was secure. A state-linked hacking group drained it of roughly $235 million in a single attack, and it took a Singapore court-approved restructuring running into 2026 before users saw most of their money return -- in a new token, not cash.",
+  "category": "Telecom & Digital",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 906,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2024-07-18",
+  "heroStat": {
+    "value": "$234.9 million",
+    "label": "in digital assets stolen from WazirX's custodied multi-signature wallet in a single attack"
+  },
+  "promise": {
+    "quote": "User funds held on WazirX, India's largest cryptocurrency exchange by trading volume, were secured through an institutional multi-signature wallet arrangement custodied by a third party (Liminal Custody), designed to prevent unauthorised withdrawal even in the event of a compromise of any single signatory.",
+    "madeBy": "WazirX (operated by Zanmai Labs / Zettai Pte Ltd)",
+    "role": "India's largest cryptocurrency exchange by trading volume at the time",
+    "date": "2023-01-01",
+    "context": "WazirX used a multi-signature wallet custody arrangement with Liminal Custody, requiring multiple approvals to authorise transactions, intended to protect the exchange's pooled user funds from being drained even if individual credentials were compromised.",
+    "sourceIds": [
+      "src-wazirx-wiki"
+    ]
+  },
+  "target": {
+    "description": "User funds protected by a multi-signature custody arrangement that could not be drained through a single point of compromise, consistent with standard practice for securing pooled cryptocurrency exchange assets.",
+    "standard": "Industry-standard multi-signature wallet security practices for cryptocurrency exchanges",
+    "referenceDate": "2023-01-01"
+  },
+  "reality": {
+    "description": "On 18 July 2024, WazirX disclosed a cyberattack in which roughly $234.9 million in digital assets was stolen from its multi-signature wallet. Investigators found the attackers had created a fake WazirX account, used it to drain the hot wallet, then, after gaining sufficient access, altered the multi-signature wallet's underlying smart contract logic itself so that a routine-looking transaction signed by WazirX's own signatories actually handed the attackers full control, allowing them to drain the cold wallet as well. The attack was formally attributed by multiple governments to North Korea's Lazarus Group. WazirX suspended withdrawals, and its Singapore-incorporated parent, Zettai Pte Ltd, filed for a debt moratorium in the Singapore High Court to pursue a court-supervised restructuring rather than an outright liquidation. After more than a year of legal proceedings, creditors approved a restructuring scheme, and WazirX resumed trading on 24 October 2025. Under the scheme, users recovered about 85% of their pre-hack balances, with the remaining roughly 15% converted into Recovery Tokens credited to users by January 2026; as of mid-2026, no buyback of those tokens had been publicly confirmed, and the stolen funds themselves were reported to remain unrecovered, with the Lazarus Group having laundered the proceeds.",
+    "asOfDate": "2026-07-18",
+    "sourceIds": [
+      "src-wazirx-mudrex",
+      "src-wazirx-coinspeaker"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Value stolen versus value actually recovered in cash/crypto (excluding unbacked Recovery Tokens)",
+    "unit": "USD million",
+    "targetValue": 235,
+    "actualValue": 0,
+    "targetDisplay": "$234.9 million stolen from the exchange's custodied wallet",
+    "actualDisplay": "$0 of the actual stolen funds recovered as of mid-2026; users were instead repaid via a restructuring scheme combining existing exchange assets and newly issued Recovery Tokens",
+    "targetLabel": "Amount stolen",
+    "actualLabel": "Stolen funds recovered from attackers",
+    "note": "Users received partial restitution through WazirX's own restructuring (funded by the exchange's remaining assets and new tokens), not through recovery of the stolen cryptocurrency itself, which investigators say the Lazarus Group had already laundered."
+  },
+  "money": {
+    "currency": "USD",
+    "allocated": 234.9,
+    "allocatedLabel": "Digital assets stolen in the July 2024 hack",
+    "released": null,
+    "spent": null,
+    "unit": "million",
+    "notes": "Figures are in US dollars as reported at the time of the hack (equivalent to roughly ₹2,000 crore); cryptocurrency values fluctuate significantly, so dollar-value figures reported by different sources at different dates vary.",
+    "sourceIds": [
+      "src-wazirx-wiki"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2024-07-18",
+      "label": "Hack disclosed",
+      "detail": "WazirX discloses that roughly $234.9 million in assets was stolen from its custodied multi-signature wallet, attributed to North Korea's Lazarus Group.",
+      "type": "announcement"
+    },
+    {
+      "date": "2024-07-30",
+      "label": "Withdrawals suspended, recovery options weighed",
+      "detail": "WazirX suspends withdrawals and co-founder Nischal Shetty says all options, including restructuring, are being considered for fund recovery.",
+      "type": "status"
+    },
+    {
+      "date": "2024-08-01",
+      "label": "Singapore moratorium filing",
+      "detail": "Zettai Pte Ltd, WazirX's Singapore-based parent, files for a debt moratorium in the Singapore High Court to pursue a court-supervised restructuring.",
+      "type": "status"
+    },
+    {
+      "date": "2025-10-24",
+      "label": "WazirX resumes trading",
+      "detail": "WazirX officially restarts trading after 95.7% of creditors approve the restructuring scheme.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-01-09",
+      "label": "Recovery Tokens credited",
+      "detail": "Recovery Tokens covering the remaining roughly 15% of user balances not repaid in the initial restructuring are credited to all eligible users.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This was a criminal cyberattack attributed to a foreign state-linked hacking group (North Korea's Lazarus Group), not a case of alleged wrongdoing by WazirX's own management, though separate, unrelated Enforcement Directorate scrutiny of WazirX over money-laundering and foreign exchange law concerns predates this hack. No individual attacker has been arrested or prosecuted in India in connection with the theft itself, consistent with the practical difficulty of prosecuting state-linked cybercriminals operating from abroad.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "That $234.9 million was stolen through a sophisticated compromise of WazirX's multi-signature wallet is not disputed -- it was independently attributed to the Lazarus Group by multiple governments. The unresolved question is recovery: over a year after the theft, none of the stolen funds themselves have been recovered, and users were made most of the way whole only through a restructuring that relied on the exchange's own remaining assets and a newly created token rather than recovered stolen property.",
+    "confidence": "high",
+    "reasoning": "The hack's scale, the Lazarus Group attribution, and the Singapore restructuring timeline are corroborated across multiple independent industry and news sources. Confidence is not higher only because the final, long-term value users will realise from the Recovery Tokens (dependent on an unconfirmed future buyback) remains unresolved as of the most recent reporting reviewed."
+  },
+  "incomplete": [
+    "No confirmation was found of any of the stolen $234.9 million being recovered from the attackers as of mid-2026.",
+    "The eventual real-world value of the 'Recovery Tokens' issued to users, contingent on an unconfirmed buyback, remains unresolved.",
+    "The unrelated, pre-existing Enforcement Directorate inquiry into WazirX over money-laundering and FEMA concerns is a separate matter from this hack and is not comprehensively covered in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-wazirx-wiki",
+      "label": "2024 WazirX hack",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2025-01-01",
+      "url": "https://en.wikipedia.org/wiki/2024_WazirX_hack"
+    },
+    {
+      "id": "src-wazirx-mudrex",
+      "label": "WazirX Hack Recovery: Complete Timeline and Court-Approved Repayment Plan",
+      "type": "independent",
+      "publisher": "Mudrex Learn",
+      "date": "2026-01-01",
+      "url": "https://mudrex.com/learn/wazirx-hack-recovery-timeline/"
+    },
+    {
+      "id": "src-wazirx-coinspeaker",
+      "label": "WazirX Returns 85% of Lost Funds as Hack Fallout Nears Resolution",
+      "type": "independent",
+      "publisher": "Coinspeaker",
+      "date": "2026-01-01",
+      "url": "https://www.coinspeaker.com/wazirx-returns-85-of-lost-funds-as-hack-fallout-nears-resolution/"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "KB-3012",
+  "slug": "jayalalithaa-sasikala-disproportionate-assets-case",
+  "title": "The Jayalalithaa–Sasikala Disproportionate Assets Case",
+  "dek": "A Tamil Nadu chief minister and her close aide amassed wealth prosecutors said was wildly disproportionate to their known income. It took 21 years, an acquittal, and a posthumous Supreme Court reversal to produce a final conviction — sending the woman positioned to succeed as chief minister to prison instead.",
+  "category": "Public Spending",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 188,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "1996-06-01",
+  "heroStat": {
+    "value": "₹66.65 cr+",
+    "label": "in assets the prosecution said were disproportionate to the accuseds' known sources of income"
+  },
+  "promise": {
+    "quote": "A public servant's assets and lifestyle must be explainable by their declared, legitimate sources of income; anything disproportionate is presumed to be the product of corruption under the Prevention of Corruption Act.",
+    "madeBy": "Government of Tamil Nadu / Indian anti-corruption law",
+    "role": "Legal standard applicable to J. Jayalalithaa as Chief Minister of Tamil Nadu and to her close aide V.K. Sasikala",
+    "date": "1996-06-01",
+    "context": "A case was filed in 1996 alleging that between 1991 and 1996, during Jayalalithaa's first term as Tamil Nadu chief minister, she, Sasikala and two of Sasikala's relatives acquired assets — including over 800 kg of silver, tens of kilograms of gold, luxury cars, and land — far beyond what their declared income could explain, including lavish spending on the wedding of Sasikala's foster nephew.",
+    "sourceIds": [
+      "src-jaya-wiki"
+    ]
+  },
+  "target": {
+    "description": "Public officials' wealth accumulated in office matching what their declared, legitimate income could plausibly produce, with any unexplained excess treated as presumptively corrupt under the Prevention of Corruption Act.",
+    "standard": "Prevention of Corruption Act, 1988, disproportionate-assets provisions.",
+    "referenceDate": "1996-06-01"
+  },
+  "reality": {
+    "description": "A special court in Bengaluru convicted Jayalalithaa, Sasikala, and Sasikala's relatives Ilavarasi and V.N. Sudhakaran in September 2014, sentencing Jayalalithaa to four years and a Rs 100 crore fine and the others to four years each, forcing Jayalalithaa to resign as chief minister. The Karnataka High Court acquitted all four in May 2015 and Jayalalithaa returned as chief minister. The Supreme Court, in February 2017, restored the trial court's conviction of Sasikala, Ilavarasi and Sudhakaran, finding the High Court had erred, sending Sasikala to prison for four years and disqualifying her from contesting elections for ten years total, which ended her bid to become chief minister after Jayalalithaa's death. Because Jayalalithaa herself had died in December 2016, before the Supreme Court ruled, her own conviction abated in law and could not be formally revived, though the Court's judgment proceeded on the basis that the offence, as found by the trial court, had occurred.",
+    "asOfDate": "2017-02-14",
+    "sourceIds": [
+      "src-jaya-wiki",
+      "src-sasikala-restore"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time from case filing to a final Supreme Court verdict",
+    "unit": "years",
+    "targetValue": 1,
+    "actualValue": 21,
+    "targetDisplay": "A disproportionate-assets trial typically concludes within a few years",
+    "actualDisplay": "21 years from filing (1996) to the Supreme Court's final verdict (2017)",
+    "targetLabel": "Expected",
+    "actualLabel": "Actual",
+    "note": "There is no fixed statutory deadline for such cases; the comparison illustrates the scale of the delay across trial court, High Court and Supreme Court stages, not a formal target."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 6665,
+    "allocatedLabel": "Value of assets (in lakh; approx. Rs 66.65 crore) the prosecution said were disproportionate to known income",
+    "released": 100,
+    "releasedLabel": "Fine imposed on Jayalalithaa by the trial court (in crore)",
+    "spent": null,
+    "unit": "crore",
+    "notes": "The Rs 66.65 crore figure is the trial-court-era estimate of disproportionate assets reported across sources; some later summaries cite different totals depending on valuation date and methodology, which this investigation does not treat as fully reconciled.",
+    "sourceIds": [
+      "src-jaya-wiki"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1996-06-01",
+      "label": "Case filed",
+      "detail": "A disproportionate assets case was filed against Jayalalithaa, Sasikala and two others covering the 1991-96 period.",
+      "type": "announcement"
+    },
+    {
+      "date": "2003-01-01",
+      "label": "Trial shifted to Karnataka",
+      "detail": "The Supreme Court transferred the trial from Tamil Nadu to a special court in Bengaluru to ensure a fair trial free of local political influence.",
+      "type": "status"
+    },
+    {
+      "date": "2014-09-27",
+      "label": "Trial court convicts all four accused",
+      "detail": "The special court convicted Jayalalithaa, Sasikala, Ilavarasi and Sudhakaran; Jayalalithaa resigned as chief minister and was jailed briefly before bail.",
+      "type": "status"
+    },
+    {
+      "date": "2015-05-11",
+      "label": "Karnataka High Court acquits all four",
+      "detail": "The High Court set aside the trial court's conviction and acquitted all four accused; Jayalalithaa returned as chief minister.",
+      "type": "status"
+    },
+    {
+      "date": "2016-12-05",
+      "label": "Jayalalithaa dies",
+      "detail": "Jayalalithaa died in a Chennai hospital while the state's appeal against her acquittal was pending before the Supreme Court.",
+      "type": "status"
+    },
+    {
+      "date": "2017-02-14",
+      "label": "Supreme Court restores conviction of Sasikala and others",
+      "detail": "The Supreme Court set aside the High Court's acquittal and restored the trial court's conviction of Sasikala, Ilavarasi and Sudhakaran, sending Sasikala to prison and barring her from Tamil Nadu politics for a decade.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Supreme Court's 2017 judgment finally and conclusively convicted V.K. Sasikala, Ilavarasi and V.N. Sudhakaran, restoring the 2014 trial court verdict after the Karnataka High Court's 2015 acquittal was overturned. Jayalalithaa's own case abated on her death in 2016 before the Supreme Court could rule on her personally, so she was never finally convicted or acquitted in law, though the courts' findings describe the offence as established.",
+    "keyIndividuals": [
+      {
+        "name": "V.K. Sasikala",
+        "role": "Close aide and companion of J. Jayalalithaa",
+        "outcome": "Conviction and 4-year sentence finally restored by the Supreme Court in February 2017; served the sentence and was disqualified from contesting elections for 10 years total."
+      },
+      {
+        "name": "J. Jayalalithaa",
+        "role": "Chief Minister of Tamil Nadu",
+        "outcome": "Convicted by the trial court in 2014, acquitted by the Karnataka High Court in 2015; died in December 2016 before the Supreme Court ruled on the state's appeal, so her case abated without a final verdict."
+      },
+      {
+        "name": "V.N. Sudhakaran",
+        "role": "Sasikala's foster nephew",
+        "outcome": "Conviction and 4-year sentence finally restored by the Supreme Court in February 2017."
+      },
+      {
+        "name": "J. Ilavarasi",
+        "role": "Sasikala's sister-in-law",
+        "outcome": "Conviction and 4-year sentence finally restored by the Supreme Court in February 2017."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case reached a genuine, final conviction for three of the four original accused, after two decades of litigation and a reversal at the High Court stage. It is one of the clearest examples in Indian political history of a disproportionate-assets prosecution against a sitting chief minister's inner circle actually concluding in prison time, even though the central figure, Jayalalithaa, died before the final verdict could apply to her.",
+    "confidence": "high",
+    "reasoning": "The full sequence — 1996 filing, 2014 trial court conviction, 2015 High Court acquittal, 2016 death of Jayalalithaa, and the February 2017 Supreme Court restoration of Sasikala's conviction — is extensively documented and undisputed across major Indian and international outlets."
+  },
+  "incomplete": [
+    "Because Jayalalithaa died before the Supreme Court ruled, this entry does not and cannot describe her as convicted in a final legal sense, even though the trial court had convicted her and the Supreme Court's reasoning proceeded on the underlying facts as found.",
+    "The precise final valuation of the disproportionate assets varies modestly across sources depending on the date and method of valuation used; this entry reports the commonly cited trial-era figure without treating it as unrevisably exact."
+  ],
+  "sources": [
+    {
+      "id": "src-jaya-wiki",
+      "label": "Disproportionate assets case against J. Jayalalithaa",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2023-01-01",
+      "url": "https://en.wikipedia.org/wiki/Disproportionate_assets_case_against_J._Jayalalithaa"
+    },
+    {
+      "id": "src-sasikala-restore",
+      "label": "Supreme Court restores Sasikala's conviction in disproportionate assets case",
+      "type": "independent",
+      "publisher": "India New England News",
+      "date": "2017-02-14",
+      "url": "https://indianewengland.com/supreme-court-restores-sasikalas-conviction-disproportionate-assets-case/"
+    },
+    {
+      "id": "src-jaya-gulf",
+      "label": "Chief minister aspirant of India's Tamil Nadu state convicted",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2017-02-14",
+      "url": "https://gulfnews.com/world/asia/india/chief-minister-aspirant-of-indias-tamil-nadu-state-convicted-1.1978068"
+    }
+  ]
+}

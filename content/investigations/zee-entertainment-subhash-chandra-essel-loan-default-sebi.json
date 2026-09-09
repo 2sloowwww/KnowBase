@@ -1,0 +1,256 @@
+{
+  "id": "KB-1101",
+  "slug": "zee-entertainment-subhash-chandra-essel-loan-default-sebi",
+  "title": "Zee Entertainment, the Essel Group and Subhash Chandra: A Six-Year Loan-Default and Fund-Diversion Saga",
+  "dek": "A 2019 collapse in Essel Group share prices exposed promoters' pledged-share borrowings against a listed media company; by 2026, SEBI had found Subhash Chandra and Punit Goenka guilty of fraud over an unauthorised pledge of company property, a separate fund-diversion probe was still open, Chandra's personal insolvency case involved creditor claims of over Rs 22,000 crore, and the CBI had opened a fresh loan-fraud investigation.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "critical",
+  "severityRank": 30,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-01-25",
+  "heroStat": {
+    "value": "Rs 22,006 crore",
+    "label": "in creditor claims filed against Essel Group chairman Subhash Chandra in his personal insolvency proceedings -- against which he proposed a one-time settlement of about Rs 6.5 crore, while disclosing personal assets of just Rs 31.79 crore in 2024"
+  },
+  "promise": {
+    "quote": "Zee Entertainment Enterprises Limited, as a listed public company, will be run in the interests of all its shareholders, with any pledge, guarantee, letter of comfort or use of company assets to secure the debts of promoter-linked group entities made only with full disclosure to the board, the audit committee and shareholders, and to the stock exchanges, as required of every listed company.",
+    "madeBy": "Zee Entertainment Enterprises Ltd. board / Subhash Chandra, then non-executive Chairman",
+    "role": "Promoter and then-Chairman of Zee Entertainment Enterprises; Chairman, Essel Group",
+    "date": "2018-01-01",
+    "context": "This reflects the standing corporate-governance and disclosure obligations of a listed company under SEBI's Listing Obligations and Disclosure Requirements (LODR) Regulations and the Companies Act, rather than a verified quotation from a specific statement on this date, which this entry has not located.",
+    "sourceIds": [
+      "src-zee-moneylife-showcause"
+    ]
+  },
+  "target": {
+    "description": "Company assets, fixed deposits and immovable property of a listed public company used solely for company purposes, with any transaction benefiting promoter-controlled group entities routed through related-party-transaction disclosure, board and shareholder approval, and public disclosure to stock exchanges.",
+    "standard": "SEBI LODR Regulations and Companies Act, 2013 related-party-transaction and disclosure norms.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "On 4 September 2018, Subhash Chandra, then ZEEL's non-executive chairman, issued a letter of comfort supporting credit facilities Yes Bank extended to Essel Group companies; based on it, Yes Bank later adjusted a Rs 200-crore ZEEL fixed deposit to cover dues of seven associate entities controlled by the Chandra/Goenka family, without full board disclosure. On 27 December 2018, the original title deeds to ZEEL's Hyderabad property were deposited with Indiabulls Housing Finance to create a mortgage securing roughly Rs 726 crore in loans to four Essel Group entities -- again, per SEBI's later findings, without audit committee, board or shareholder approval, and without disclosure to the stock exchanges. The crisis became public on 25 January 2019, when a report linking Essel Group to large post-demonetisation deposits triggered a single-day, 33% intraday crash in Zee shares, wiping out about Rs 14,000 crore in market value and exposing that promoters had pledged shares worth an estimated Rs 13,000 crore across group companies to raise loans from mutual funds and NBFCs (with mutual fund industry exposure to such loan-against-shares estimated at Rs 23,000 crore) to fund stressed infrastructure investments. Essel Group reached a standstill agreement with lenders on 28 January 2019 to avoid a formal default declaration, though some lenders sold pledged shares regardless. Years of SEBI scrutiny followed: on 12 June 2023, SEBI's interim order barred Chandra and Goenka from holding director or key-managerial positions in any listed company over the Yes Bank fund-diversion matter and ordered a forensic audit of ZEEL's FY19 and FY20 accounts; the Securities Appellate Tribunal set this aside on 30 October 2023, allowing Goenka to remain in office. Sony terminated its proposed $10-billion merger with Zee on 22 January 2024, citing unmet closing conditions after prolonged disputes, including over Goenka's leadership amid the SEBI probe. SEBI rejected a settlement plea from Zee and Goenka on 2 January 2025 and expanded its fund-diversion investigation; a fresh show-cause notice dated 12 February 2026 was issued to ZEEL, Chandra, Goenka and 84 other entities and individuals over the alleged fund diversion and governance lapses, which Zee has denied. In a separate but related matter, SEBI's 150-page final order of 31 July 2026 held ZEEL, Chandra and Goenka guilty of fraud over the unauthorised Hyderabad property pledge, barring Chandra and Goenka from the securities market for one year and ZEEL for two months, and imposing penalties of Rs 60 lakh, Rs 58 lakh and Rs 30 lakh respectively (Rs 1.48 crore total). Independently, Chandra has been in personal insolvency proceedings before the NCLT over unpaid personal guarantees on group borrowings, with creditor claims totalling roughly Rs 22,006 crore; he proposed a one-time settlement of about Rs 6.5 crore, and disclosed personal assets of just Rs 31.79 crore in 2024 (against a net worth lenders had recorded as roughly Rs 40,600 crore in 2018). An NCLT member approved this settlement plan on 25 August 2026, excluding certain disputed claims, but a five-member special NCLT bench stayed that approval on 1 September 2026 and barred Chandra from disposing of assets, after dissenting lenders including HDFC Bank, LIC Housing Finance and Canara Bank argued the proposed recovery was negligible. On 5 September 2026, the CBI booked Chandra in a fresh case alleging he colluded with borrowers including Vasant Sagar Properties to defraud LIC Housing Finance of roughly Rs 1,000-1,322 crore by submitting inflated net-worth certificates.",
+    "asOfDate": "2026-09-05",
+    "sourceIds": [
+      "src-zee-crash",
+      "src-zee-standstill",
+      "src-zee-sebi-interim-2023",
+      "src-zee-sat-2023",
+      "src-zee-sony-terminate",
+      "src-zee-moneylife-showcause",
+      "src-zee-sebi-final-2026",
+      "src-zee-nclt-print",
+      "src-zee-cbi-lichfl"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Net worth Subhash Chandra was recorded by lenders as holding (2018) vs. personal assets he disclosed in his 2024 insolvency filing",
+    "unit": "INR crore",
+    "targetValue": 40600,
+    "actualValue": 31.79,
+    "targetDisplay": "~Rs 40,600 crore net worth recorded by lenders (2018)",
+    "actualDisplay": "Rs 31.79 crore personal assets disclosed (2024 insolvency filing)",
+    "targetLabel": "Recorded net worth",
+    "actualLabel": "Disclosed personal assets",
+    "note": "These figures come from press reporting of lenders' records and of Chandra's own 2024 disclosures in his personal insolvency proceedings; this entry has not independently verified either figure against the underlying certificates or NCLT filings. The CBI's September 2026 FIR separately alleges Chandra certified a substantially higher net worth to LIC Housing Finance around 2017-18 to obtain loans -- an allegation, not a proven fact."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": 726,
+    "releasedLabel": "Loans raised by four Essel Group entities, secured by an unauthorised pledge of ZEEL's Hyderabad property (December 2018), per SEBI's July 2026 final order",
+    "spent": null,
+    "unit": "crore",
+    "notes": "These figures span several distinct, non-additive proceedings: SEBI's July 2026 final order imposed penalties totalling Rs 1.48 crore on ZEEL, Chandra and Goenka over the Hyderabad pledge; a separate, still-open SEBI probe alleges Rs 800 crore-Rs 1,000 crore in fund diversion via the 2018 Yes Bank fixed-deposit matter; Chandra's personal NCLT insolvency case involves creditor claims of about Rs 22,006 crore against a proposed Rs 6.5 crore settlement; and the CBI's September 2026 FIR alleges a separate Rs 1,000 crore-Rs 1,322 crore loan fraud involving LIC Housing Finance. These figures should not be summed as a single loss.",
+    "sourceIds": [
+      "src-zee-sebi-final-2026",
+      "src-zee-moneylife-showcause",
+      "src-zee-nclt-print",
+      "src-zee-cbi-lichfl"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-09-04",
+      "label": "Letter of comfort for Yes Bank facilities",
+      "detail": "Subhash Chandra, then ZEEL's non-executive chairman, issues a letter of comfort supporting Yes Bank credit facilities to Essel Group entities, without full board disclosure per SEBI's later findings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2018-12-27",
+      "label": "Hyderabad property pledged without approvals",
+      "detail": "ZEEL's Hyderabad property title deeds are deposited with Indiabulls Housing Finance to secure roughly Rs 726 crore in loans to four Essel Group entities, without board, audit-committee or shareholder approval, per SEBI's later findings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-01-25",
+      "label": "Stock crash exposes pledge crisis",
+      "detail": "A media report linking Essel Group to large post-demonetisation deposits triggers a 33% intraday crash in Zee shares, wiping out roughly Rs 14,000 crore in market value and exposing the scale of promoters' pledged-share borrowings.",
+      "type": "status"
+    },
+    {
+      "date": "2019-01-28",
+      "label": "Standstill agreement with lenders",
+      "detail": "Essel Group reaches an agreement with lending mutual funds, NBFCs and banks not to declare a default despite the steep share-price fall; some lenders later sell pledged shares regardless.",
+      "type": "revision"
+    },
+    {
+      "date": "2023-06-12",
+      "label": "SEBI interim order bars Chandra and Goenka",
+      "detail": "SEBI's interim order bars Subhash Chandra and Punit Goenka from director/KMP positions in any listed company over alleged fund diversion via the Yes Bank fixed-deposit matter, and orders a forensic audit of ZEEL's FY19-20 accounts.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-10-30",
+      "label": "SAT sets aside SEBI's interim order",
+      "detail": "The Securities Appellate Tribunal sets aside SEBI's June 2023 order, allowing Goenka to remain in his executive role while SEBI's investigation continues.",
+      "type": "revision"
+    },
+    {
+      "date": "2024-01-22",
+      "label": "Sony terminates $10-billion Zee merger",
+      "detail": "Sony formally terminates its proposed merger with Zee Entertainment, citing unmet closing conditions after prolonged disputes including over leadership amid the SEBI probe.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-02",
+      "label": "SEBI rejects settlement plea, expands probe",
+      "detail": "SEBI rejects a settlement application from Zee and Punit Goenka and expands its fund-diversion investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2026-02-12",
+      "label": "Fresh SEBI show-cause notice",
+      "detail": "SEBI issues a show-cause notice to ZEEL, Chandra, Goenka and 84 other entities and individuals over alleged fund diversion and corporate-governance lapses; Zee denies the allegations.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-07-31",
+      "label": "SEBI's final order finds fraud",
+      "detail": "SEBI's 150-page final order holds ZEEL, Chandra and Goenka guilty of fraud over the unauthorised Hyderabad property pledge, barring Chandra and Goenka from the securities market for one year, ZEEL for two months, and imposing Rs 1.48 crore in combined penalties.",
+      "type": "milestone"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "NCLT member approves insolvency settlement",
+      "detail": "An NCLT member approves Chandra's proposed roughly Rs 6.5-crore one-time settlement of personal-guarantee claims, against total creditor claims of about Rs 22,006 crore, excluding certain disputed claims.",
+      "type": "status"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Special NCLT bench stays settlement, bars asset sales",
+      "detail": "A five-member special NCLT bench stays the August 2026 approval and bars Chandra from alienating assets, after dissenting lenders including HDFC Bank, LIC Housing Finance and Canara Bank object that recovery would be negligible.",
+      "type": "delay"
+    },
+    {
+      "date": "2026-09-05",
+      "label": "CBI books Chandra over LIC Housing Finance loans",
+      "detail": "CBI registers a case alleging Chandra colluded with borrowers to defraud LIC Housing Finance of roughly Rs 1,000-1,322 crore using inflated net-worth certificates.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "SEBI's 31 July 2026 final order is the only adjudicated finding of fraud to date, and remains open to appeal before the Securities Appellate Tribunal. The separate fund-diversion probe (Yes Bank letter-of-comfort matter) is still at the show-cause stage. Subhash Chandra's personal insolvency case before the NCLT/NCLAT remains unresolved after a split verdict among tribunal members and a stay by a special five-member bench. The CBI's September 2026 case against Chandra is at the FIR stage, with no chargesheet filed. No criminal conviction has been recorded against Chandra or Goenka in connection with any of these matters, and both are presumed innocent unless and until convicted.",
+    "keyIndividuals": [
+      {
+        "name": "Subhash Chandra",
+        "role": "Founder and Chairman Emeritus, Essel Group; former non-executive Chairman, Zee Entertainment Enterprises",
+        "outcome": "Barred from the securities market for one year by SEBI's July 2026 final order (Hyderabad land-pledge case); named in a separate February 2026 SEBI show-cause notice on fund diversion; subject of personal insolvency proceedings before the NCLT involving roughly Rs 22,006 crore in creditor claims; booked by the CBI in September 2026 over an alleged loan fraud. No criminal conviction; presumed innocent."
+      },
+      {
+        "name": "Punit Goenka",
+        "role": "CEO, Zee Entertainment Enterprises (formerly Managing Director & CEO)",
+        "outcome": "Barred from director/KMP roles by SEBI's June 2023 interim order, which the Securities Appellate Tribunal set aside in October 2023; named again in SEBI's July 2026 final order with a one-year market ban and a Rs 58-lakh penalty; also named in the February 2026 fund-diversion show-cause notice. No criminal conviction; presumed innocent."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a confirmed, SEBI-adjudicated case of corporate-governance fraud -- the July 2026 final order -- layered on top of a seven-year-old, still-unresolved group loan-default crisis that began with the January 2019 share-price collapse. Several major threads remain open at once: a separate SEBI fund-diversion probe at the show-cause stage, personal insolvency proceedings involving over Rs 22,000 crore in claims that are still being litigated among NCLT benches, and a brand-new CBI loan-fraud case with no chargesheet yet. Total culpability, eventual recovery for lenders, and the outcome of likely appeals are all unsettled as of this writing.",
+    "confidence": "medium",
+    "reasoning": "SEBI's July 2026 final order and the 2019 share-crash/standstill events are corroborated across multiple independent outlets and described in some detail by regulatory and market-press coverage. However, this entry has not read the SEBI July 2026 order, the February 2026 show-cause notice, the CBI FIR, or the NCLT orders directly, relying instead on press summaries; several matters (the CBI case, the NCLT insolvency dispute, and the separate fund-diversion probe) remain actively contested and unresolved."
+  },
+  "incomplete": [
+    "This entry has not read the SEBI July 2026 final order, the February 2026 show-cause notice, the CBI FIR, or the relevant NCLT/NCLAT orders directly; all figures and findings are drawn from press summaries.",
+    "Whether Chandra and/or Goenka will appeal the July 2026 SEBI order to the Securities Appellate Tribunal, and any outcome of such an appeal, is not yet known as of this writing.",
+    "The CBI's September 2026 case against Chandra is at the FIR stage only; no chargesheet has been filed and the allegations are unproven.",
+    "The final resolution of Chandra's personal insolvency case before the NCLT/NCLAT -- including whether his proposed roughly Rs 6.5-crore settlement, a larger recovery, or liquidation will ultimately apply -- remains undecided.",
+    "The precise relationship and overlap between the June 2023 SEBI interim order, the February 2026 show-cause notice (both concerning the 2018 Yes Bank fixed-deposit matter), and the July 2026 final order (concerning the separate Hyderabad property pledge) has not been fully reconciled in this entry; these appear to be related but procedurally distinct SEBI proceedings.",
+    "Whether any criminal prosecution (as opposed to SEBI's civil/administrative orders) has been initiated over the 2018-19 fund-diversion allegations specifically has not been confirmed by this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-zee-crash",
+      "label": "Subhash Chandra apologizes, as Zee Group shares crash on media report of money laundering post-demo",
+      "type": "independent",
+      "publisher": "Business Standard (IANS)",
+      "date": "2019-01-25",
+      "url": "https://www.business-standard.com/article/news-ians/subhash-chandra-apologizes-as-zee-group-shares-crash-on-media-report-of-money-laundering-post-demo-119012501368_1.html"
+    },
+    {
+      "id": "src-zee-standstill",
+      "label": "Subhash Chandra's Essel Group, lenders reach agreement over debt servicing",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2019-01-28",
+      "url": "https://www.business-standard.com/article/companies/subhash-chandra-s-essel-group-lenders-reach-agreement-over-debt-servicing-119012800031_1.html"
+    },
+    {
+      "id": "src-zee-sebi-interim-2023",
+      "label": "SEBI bars ZEE's Subhash Chandra, Punit Goenka from holding directorial position for 1 year",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2023-06-12",
+      "url": "https://www.businesstoday.in/latest/corporate/story/sebi-bars-zees-subhash-chandra-punit-goenka-from-holding-directorial-position-for-1-year-385304-2023-06-12"
+    },
+    {
+      "id": "src-zee-sat-2023",
+      "label": "Relief for Zee Entertainment's Punit Goenka as SAT sets aside Sebi's order",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2023-10-30",
+      "url": "https://www.business-standard.com/companies/news/relief-for-zee-entertainment-s-punit-goenka-as-sat-sets-aside-sebi-s-order-123103000303_1.html"
+    },
+    {
+      "id": "src-zee-sony-terminate",
+      "label": "Sony Calls Off $10 Billion Merger With Indian TV Giant Zee Entertainment Enterprises",
+      "type": "independent",
+      "publisher": "Variety",
+      "date": "2024-01-22",
+      "url": "https://variety.com/2024/tv/news/sony-zee-india-deal-halted-1235865873/"
+    },
+    {
+      "id": "src-zee-moneylife-showcause",
+      "label": "SEBI Issues Show-cause Notice to ZEEL, Subhash Chandra and Punit Goenka over Alleged Fund Diversion",
+      "type": "independent",
+      "publisher": "Moneylife (via Economic Times)",
+      "date": "2026-02-13",
+      "url": "https://moneylife.in/article/sebi-issues-showcause-notice-to-zeel-subhash-chandra-and-punit-goenka-over-alleged-fund-diversion-et/79728.html"
+    },
+    {
+      "id": "src-zee-sebi-final-2026",
+      "label": "Sebi Bars Punit Goenka, Subhash Chandra For One Year, Fines Zee Group Rs 1.48 Crore Over Hyderabad Land Pledge",
+      "type": "independent",
+      "publisher": "Outlook Money",
+      "date": "2026-08-01",
+      "url": "https://www.outlookmoney.com/invest/sebi-final-order-on-zee-entertainment-punit-goenka-subhash-chandra-hyderabad-land-pledge"
+    },
+    {
+      "id": "src-zee-nclt-print",
+      "label": "NCLT bars Subhash Chandra from alienating assets, stays Rs 6.5-cr repayment plan",
+      "type": "independent",
+      "publisher": "The Print",
+      "date": "2026-09-01",
+      "url": "https://theprint.in/economy/nclt-bars-subhash-chandra-from-alienating-assets-stays-rs-6-5-cr-repayment-plan/3030810/"
+    },
+    {
+      "id": "src-zee-cbi-lichfl",
+      "label": "CBI books Subhash Chandra over alleged Rs 1,000-cr LICHFL loan fraud",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2026-09-05",
+      "url": "https://www.business-standard.com/companies/people/cbi-books-subhash-chandra-over-alleged-1-000-cr-lichfl-loan-fraud-126090500441_1.html"
+    }
+  ]
+}

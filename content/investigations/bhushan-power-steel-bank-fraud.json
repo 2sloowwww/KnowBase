@@ -1,0 +1,142 @@
+{
+  "id": "KB-040",
+  "slug": "bhushan-power-steel-bank-fraud",
+  "title": "The Bhushan Power & Steel Bank Fraud",
+  "dek": "A steelmaker borrowed ₹47,204 crore from 33 banks over seven years — the largest bank-fraud figure any Indian agency has alleged in a single case — before its accounts were flagged and its former chairman jailed for years awaiting trial.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "critical",
+  "severityRank": 10,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-04-05",
+  "heroStat": {
+    "value": "₹47,204 cr",
+    "label": "in loans availed from 33 banks and financial institutions, 2007–2014"
+  },
+  "promise": {
+    "quote": "Loans extended to Bhushan Power and Steel Ltd. by its 33-lender consortium will be used for their disclosed industrial purpose and repaid according to sanctioned terms.",
+    "madeBy": "Bhushan Power and Steel Ltd. (BPSL), under promoter Sanjay Singal",
+    "role": "Private steelmaker; borrower from a 33-institution lending consortium",
+    "date": "2007-01-01",
+    "context": "BPSL availed loans totalling ₹47,204 crore between 2007 and 2014 before defaulting; the Enforcement Directorate later alleged the promoters siphoned a specific ₹2,348 crore of this through fabricated transactions.",
+    "sourceIds": [
+      "src-bpsl-overview"
+    ]
+  },
+  "target": {
+    "description": "Loan funds used for disclosed steel-manufacturing operations, with accurate financial reporting to the lending consortium and no fund diversion.",
+    "standard": "Standard multi-bank consortium lending covenants and RBI fraud-classification norms.",
+    "referenceDate": "2007-01-01"
+  },
+  "reality": {
+    "description": "The CBI filed an FIR on 5 April 2019 and raided 18 BPSL locations. The ED separately alleged Sanjay Singal, his wife Aarti Singal, and other directors siphoned ₹2,348 crore from the loan accounts through fabricated transactions, and has attached assets worth over ₹4,025 crore, including a Cessna jet valued at roughly ₹31 crore. The Supreme Court granted bail to former MD Neeraj Singal, citing prolonged pre-trial incarceration and the unlikelihood of the trial concluding soon.",
+    "asOfDate": "2024-09-06",
+    "sourceIds": [
+      "src-bpsl-ed",
+      "src-bpsl-bail"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Total loans availed vs. assets attached by the ED",
+    "unit": "₹ crore",
+    "targetValue": 47204,
+    "actualValue": 4025,
+    "targetDisplay": "₹47,204 cr in loans availed",
+    "actualDisplay": "₹4,025 cr in assets attached (ED)",
+    "targetLabel": "Alleged",
+    "actualLabel": "Attached",
+    "note": "The ED's specifically alleged siphoning figure (₹2,348 crore) is smaller than the total loan amount, which mostly reflects the scale of borrowing rather than a documented fraud amount; this investigation reports the total loan figure as the case's headline number because it is the most consistently cited, while noting the narrower fraud-specific figure here."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2007-01-01",
+      "label": "Borrowing period begins",
+      "detail": "BPSL begins availing loans from its 33-lender consortium.",
+      "type": "announcement"
+    },
+    {
+      "date": "2014-01-01",
+      "label": "Defaults begin",
+      "detail": "The company starts defaulting on its loan obligations.",
+      "type": "delay"
+    },
+    {
+      "date": "2019-04-05",
+      "label": "CBI FIR and raids",
+      "detail": "The agency books BPSL and raids 18 locations of the company.",
+      "type": "status"
+    },
+    {
+      "date": "2019-05-09",
+      "label": "ED books promoters for ₹2,348 crore siphoning",
+      "detail": "The agency alleges Sanjay Singal, Aarti Singal, and other directors laundered proceeds from loan accounts.",
+      "type": "status"
+    },
+    {
+      "date": "2019-11-23",
+      "label": "Sanjay Singal arrested",
+      "detail": "The ED arrests the former CMD.",
+      "type": "status"
+    },
+    {
+      "date": "2024-09-06",
+      "label": "Neeraj Singal granted bail",
+      "detail": "The Supreme Court grants bail, citing long pre-trial custody and an unlikely early trial conclusion.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is one of the largest bank-fraud figures ever alleged by Indian investigators. Both former CMD Sanjay Singal and former MD Neeraj Singal have spent years in custody; the Supreme Court has since granted bail citing trial delay. No conviction has been recorded.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjay Singal",
+        "role": "Former Chairman & Managing Director, BPSL",
+        "outcome": "Arrested by the ED, November 2019; a Delhi court has refused him bail in the ED case at various points. No trial verdict as of the sources reviewed."
+      },
+      {
+        "name": "Neeraj Singal",
+        "role": "Former Managing Director, Bhushan Steel Ltd. (a related entity)",
+        "outcome": "Granted bail by the Supreme Court, September 2024, after prolonged pre-trial custody. No trial verdict."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: the scale of borrowing and the CBI/ED's specific siphoning allegations are documented across multiple chargesheets and asset attachments. This investigation has not yet confirmed the trial's current stage or whether any conviction has since been recorded.",
+    "confidence": "low",
+    "reasoning": "This entry was added to establish the case's place in the site's timeline and its headline facts. It has not yet received the same depth of research as the site's fully developed cases, particularly regarding the trial's current status."
+  },
+  "incomplete": [
+    "This is a stub entry. The trial's current stage, beyond the 2024 bail order, has not been researched.",
+    "The relationship between the ₹47,204 crore total loan figure and the ₹2,348 crore specifically alleged as siphoned has not been fully reconciled here.",
+    "It is not established how much, if any, of the attached assets have been liquidated and returned to the lending banks."
+  ],
+  "sources": [
+    {
+      "id": "src-bpsl-overview",
+      "label": "Bank loan fraud: Ex-Bhushan Power CMD Sanjay Singhal arrested by ED",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2019-11-23",
+      "url": "https://www.business-standard.com/article/current-affairs/bank-loan-fraud-ex-bhushan-power-cmd-sanjay-singhal-arrested-by-ed-119112300035_1.html"
+    },
+    {
+      "id": "src-bpsl-ed",
+      "label": "Bank fraud: ED attaches assets worth over Rs 4,000 cr of Bhushan Power",
+      "type": "independent",
+      "publisher": "Business Standard (PTI)",
+      "date": "2019-10-12",
+      "url": "https://www.business-standard.com/amp/article/pti-stories/bank-fraud-ed-attaches-assets-of-over-rs-4-000-cr-of-bhushan-steel-119101200613_1.html"
+    },
+    {
+      "id": "src-bpsl-bail",
+      "label": "SC grants bail to Bhushan Steel former MD Neeraj Singal in money laundering case",
+      "type": "independent",
+      "publisher": "News on AIR (All India Radio)",
+      "date": "2024-09-06",
+      "url": "https://www.newsonair.gov.in/sc-grants-bail-to-bhushan-steel-former-md-neeraj-singal-in-money-laundering-case"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "KB-604",
+  "slug": "dda-land-allotment-scam",
+  "title": "Forged Papers, Real Plots — The DDA Madanpur Khadar Land Allotment Case",
+  "dek": "A CBI case alleges a Delhi Development Authority assistant director, a clerk, and a security guard helped allot public land in Madanpur Khadar using fabricated ration cards, voter IDs, and power-of-attorney documents. Years after the raids, no trial outcome has surfaced.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 222,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-07-13",
+  "heroStat": {
+    "value": "14",
+    "label": "locations across Delhi, Lucknow, and Shamli raided by the CBI in a single sweep over the alleged fabricated-document land allotment in DDA's Madanpur Khadar area"
+  },
+  "promise": {
+    "quote": "DDA plots would be allotted strictly on the basis of genuine, verified eligibility documents, in accordance with the Delhi Development Authority's own allotment rules and record-keeping requirements.",
+    "madeBy": "Delhi Development Authority",
+    "role": "Statutory urban development and land-allotment authority for Delhi",
+    "date": "2021-07-13",
+    "context": "This reflects DDA's standard, implicit allotment-integrity obligation rather than a specific quoted public statement about the Madanpur Khadar plots, which this entry has not located.",
+    "sourceIds": [
+      "src-dda-tribune"
+    ]
+  },
+  "target": {
+    "description": "That land parcels administered by DDA in the Madanpur Khadar area near Sarita Vihar, Delhi, would be allotted only to genuinely eligible claimants, on the strength of authentic government records — not documents fabricated after the fact to manufacture a paper trail of ownership.",
+    "standard": "DDA's statutory land-allotment procedures and record-verification requirements under the Delhi Development Act, 1957.",
+    "referenceDate": "2021-07-13"
+  },
+  "reality": {
+    "description": "On 13 July 2021, the CBI registered a case alleging illegal allotment of DDA plots in the Madanpur Khadar area near Sarita Vihar, Delhi, through false and fabricated documents and manipulation of government records. The named accused included Sudhansu Ranjan, then Assistant Director at DDA; Ajeet Kumar Bhardwaj, then a Senior Secretariat Assistant at DDA; Darwan Singh, a DDA security guard; and six private individuals — Iqbal Hussain, Sunil Kumar Meena, Sapan Kumar, Jamaluddin, Rajwant Singh, and Shakuntla Devi. CBI teams searched 14 locations across Delhi and Lucknow and Shamli in Uttar Pradesh, recovering DDA notices, registers, general power-of-attorney documents, ration cards, voter ID cards, affidavits, and sale agreements said to be part of the fabricated paper trail. This entry has not found any subsequent report of a CBI chargesheet, trial, or verdict in this specific case as of its research date.",
+    "asOfDate": "2021-07-13",
+    "sourceIds": [
+      "src-dda-tribune"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Locations searched vs. confirmed prosecutions concluded to date",
+    "unit": "count",
+    "targetValue": 14,
+    "actualValue": 0,
+    "targetDisplay": "14 locations raided",
+    "actualDisplay": "0 confirmed convictions or trial verdicts found",
+    "targetLabel": "Scale of the CBI's initial search operation",
+    "actualLabel": "Confirmed case outcomes located",
+    "note": "This gap reflects the absence of publicly available follow-up reporting on the case's legal progress, not a confirmed finding that prosecution failed — it may simply be under-reported."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-07-13",
+      "label": "CBI registers case and raids 14 locations",
+      "detail": "CBI FIR names three DDA officials/staff and six private individuals over alleged illegal allotment of DDA plots in Madanpur Khadar using fabricated documents; searches conducted in Delhi, Lucknow, and Shamli.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A CBI FIR was registered on 13 July 2021 and searches were conducted, but this entry has not found any report of a subsequent chargesheet, trial, or verdict against any of the named accused. The matter should be treated as an open investigation of unknown current status rather than a resolved case.",
+    "keyIndividuals": [
+      {
+        "name": "Sudhansu Ranjan",
+        "role": "Then Assistant Director, DDA",
+        "outcome": "Named in the July 2021 CBI FIR. No chargesheet or trial outcome found."
+      },
+      {
+        "name": "Ajeet Kumar Bhardwaj",
+        "role": "Then Senior Secretariat Assistant, DDA",
+        "outcome": "Named in the July 2021 CBI FIR. No chargesheet or trial outcome found."
+      },
+      {
+        "name": "Darwan Singh",
+        "role": "Then security guard, DDA",
+        "outcome": "Named in the July 2021 CBI FIR. No chargesheet or trial outcome found."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, CBI-registered case alleging that DDA staff colluded with private individuals to allot public land using fabricated ownership documents — but one whose legal progress since the July 2021 raids could not be traced in available reporting. This entry treats the allegations in the FIR as unproven and notes that the accused are entitled to a presumption of innocence pending any trial.",
+    "confidence": "low",
+    "reasoning": "The FIR, named accused, and search operation are corroborated by a single contemporaneous news report citing CBI sources; no second independent source, official CBI press release, or any later update on chargesheet/trial status was found despite searching."
+  },
+  "incomplete": [
+    "No CBI chargesheet, trial date, or verdict has been found for this case; its current legal status as of 2026 is unknown to this entry.",
+    "This entry relies on a single news report (The Tribune) for the FIR details and has not cross-verified them against an official CBI press release or a second independent outlet.",
+    "A separate, later Enforcement Directorate money-laundering chargesheet (2026) against Al-Falah Group's Jawad Ahmad Siddiqui and Tarbia Education Foundation also concerns land fraud in the Madanpur Khadar area (Khasra No. 792), but that case is explicitly based on Delhi Police FIRs over private/gram sabha land, not DDA plot allotment, and no DDA officials are named in it — this entry treats it as a separate matter and has not included it as part of this case to avoid conflating two distinct fraud allegations in the same locality.",
+    "The number of plots and any monetary value involved in the July 2021 CBI case have not been quantified in available reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-dda-tribune",
+      "label": "CBI raids 14 places in DDA land allotment case",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2021-07-13",
+      "url": "https://www.tribuneindia.com/news/nation/cbi-raids-14-places-in-dda-land-allotment-case-282752"
+    }
+  ]
+}

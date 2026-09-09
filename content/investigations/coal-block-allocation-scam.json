@@ -1,0 +1,201 @@
+{
+  "id": "KB-001",
+  "slug": "coal-block-allocation-scam",
+  "title": "The Coal Block Allocation Scam (\"Coalgate\")",
+  "dek": "218 coal blocks handed out without competitive bidding. The CAG's own loss estimate swung from ₹10.67 lakh crore to ₹1.86 lakh crore before the Supreme Court cancelled most of the allocations outright.",
+  "category": "Natural Resources",
+  "status": "convicted",
+  "severity": "critical",
+  "severityRank": 1,
+  "featured": true,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2012-03-01",
+  "heroStat": {
+    "value": "204 of 218",
+    "label": "coal block allocations cancelled by the Supreme Court as illegal"
+  },
+  "promise": {
+    "quote": "Coal blocks for captive mining will be allocated to eligible end-use companies through an objective, transparent process.",
+    "madeBy": "Ministry of Coal, Government of India",
+    "role": "Union Ministry responsible for coal block allocation policy",
+    "date": "1993-01-01",
+    "context": "From 1993, captive coal blocks were allocated through an inter-ministerial Screening Committee rather than competitive bidding — a mechanism the CAG and successive expert reviews said was meant to be an interim, objective process pending a move to auctions.",
+    "sourceIds": [
+      "src-cag-coal"
+    ]
+  },
+  "target": {
+    "description": "Allocation of captive coal blocks to end-use companies through a transparent, competitive, and auditable process, with blocks going to applicants best able to develop them.",
+    "standard": "Screening Committee guidelines in force under the Coal Mines (Nationalisation) Act framework, which the CAG found were not consistently or objectively applied between 1993 and 2010.",
+    "referenceDate": "1993-01-01"
+  },
+  "reality": {
+    "description": "The CAG's 2012 performance audit found that blocks were allocated without competitive bidding, using inconsistent and non-transparent criteria, to companies including some with no prior experience in mining or end-use projects that were later delayed or abandoned. On 25 August 2014, the Supreme Court declared all coal block allocations made since 1993 illegal and arbitrary, and on 24 September 2014 it cancelled 204 of the 218 blocks that had been allocated.",
+    "asOfDate": "2014-09-24",
+    "sourceIds": [
+      "src-cag-coal",
+      "src-sc-2014"
+    ]
+  },
+  "gap": {
+    "metricLabel": "The CAG's own presumptive-loss estimate, draft vs. final report",
+    "unit": "₹ lakh crore",
+    "targetValue": 10.67,
+    "actualValue": 1.86,
+    "targetDisplay": "₹10.67 lakh cr (leaked draft, Mar 2012)",
+    "actualDisplay": "₹1.86 lakh cr (final report, Aug 2012)",
+    "targetLabel": "Draft",
+    "actualLabel": "Final",
+    "note": "Both figures are the CAG's own 'presumptive loss' — an estimate of foregone revenue had the blocks been auctioned, not money that changed hands. The number was revised down by roughly 82% between the leaked draft and the final report tabled in Parliament, largely by narrowing which blocks and years were counted. Neither figure should be read as a confirmed amount of money stolen."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "1993-01-01",
+      "label": "Screening Committee mechanism begins",
+      "detail": "Captive coal block allocation starts via an inter-ministerial committee, without competitive bidding.",
+      "type": "announcement"
+    },
+    {
+      "date": "2004-01-01",
+      "label": "Pace of allocation accelerates",
+      "detail": "The bulk of the allocations the CAG later scrutinised were made between 2004 and 2009.",
+      "type": "milestone"
+    },
+    {
+      "date": "2012-03-01",
+      "label": "Draft CAG report leaked",
+      "detail": "A leaked draft put the presumptive loss at ₹10.67 lakh crore, triggering a political and media storm.",
+      "type": "revision"
+    },
+    {
+      "date": "2012-08-17",
+      "label": "Final CAG report tabled in Parliament",
+      "detail": "Report No. 7 of 2012 revised the presumptive loss estimate to ₹1.86 lakh crore.",
+      "type": "status"
+    },
+    {
+      "date": "2014-08-25",
+      "label": "Supreme Court ruling",
+      "detail": "The Court held that all coal block allocations since 1993 were illegal and arbitrary.",
+      "type": "status"
+    },
+    {
+      "date": "2014-09-24",
+      "label": "204 of 218 blocks cancelled",
+      "detail": "The Supreme Court cancelled the allocations, with a limited carve-out for a small number of operational or government-sector blocks.",
+      "type": "status"
+    },
+    {
+      "date": "2017-05-22",
+      "label": "First convictions",
+      "detail": "A special CBI court sentences former coal secretary H.C. Gupta and former joint secretary K.S. Kropha to two years' imprisonment in the Thesgora-B/Rudrapuri coal block case.",
+      "type": "status"
+    },
+    {
+      "date": "2017-12-15",
+      "label": "Ex-Jharkhand CM convicted",
+      "detail": "Former Jharkhand Chief Minister Madhu Koda and H.C. Gupta are sentenced to three years' imprisonment in the Rajhara North coal block case.",
+      "type": "status"
+    },
+    {
+      "date": "2022-08-08",
+      "label": "Third conviction for Gupta",
+      "detail": "H.C. Gupta is sentenced to three years' imprisonment, and K.S. Kropha to two, in the Lohara East coal block case.",
+      "type": "status"
+    },
+    {
+      "date": "2026-03-27",
+      "label": "An acquittal in a separate case",
+      "detail": "A special CBI court acquits H.C. Gupta and former MP Vijay Darda in the unrelated Bander coal block case, one of the longest-running Coalgate prosecutions.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The Supreme Court's civil finding of illegality is settled and final. Criminal prosecutions of individual allocations have produced a genuinely mixed record: real convictions with real prison sentences in at least three separate coal block cases, alongside acquittals and closures in others — including one case against the same central official who was convicted in the other three.",
+    "keyIndividuals": [
+      {
+        "name": "H.C. Gupta",
+        "role": "Former Union Coal Secretary",
+        "outcome": "Convicted and sentenced to prison terms of two to three years in three separate coal block cases (Thesgora-B/Rudrapuri, 2017; Rajhara North, 2017; Lohara East, 2022); acquitted in a fourth, unrelated case (Bander, 2026)."
+      },
+      {
+        "name": "Madhu Koda",
+        "role": "Former Chief Minister of Jharkhand",
+        "outcome": "Convicted and sentenced to three years' imprisonment in the Rajhara North coal block case, 2017."
+      },
+      {
+        "name": "Vijay Darda",
+        "role": "Former Rajya Sabha MP",
+        "outcome": "Acquitted in the Bander coal block case, March 2026."
+      },
+      {
+        "name": "Kumar Mangalam Birla",
+        "role": "Chairman, Aditya Birla Group",
+        "outcome": "Was named as an accused in relation to a block allocated to Hindalco; that case was closed without conviction."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is one of the few cases on this site where both halves are true at real strength: the Supreme Court found the entire allocation process illegal and arbitrary at the policy level, and separately, actual criminal convictions — with prison sentences — have been secured against a former Union coal secretary and a former state chief minister in specific coal block cases. It sits alongside acquittals in other, unrelated coal block cases, including one involving the same central official.",
+    "confidence": "high",
+    "reasoning": "Both the Supreme Court's finding of illegality and the specific criminal convictions are matters of court record, independently reported. The financial loss figure remains a modelled CAG estimate rather than an audited fact, which is why the Gap section above reports the CAG's own two estimates rather than asserting one as proven — but the convictions themselves are not in the same category of uncertainty."
+  },
+  "incomplete": [
+    "There is no single, undisputed rupee figure for the loss from the coal allocations — only competing estimates using different methodologies and time windows.",
+    "Not all criminal trials linked to individual coal block allocations have concluded; this page covers the convictions and acquittals reported as of publication and will be updated as further verdicts are delivered.",
+    "It is not publicly established how much of the CAG's estimated foregone value, if any, has been recovered through re-auctioning the cancelled blocks.",
+    "Whether any of the individuals convicted have exhausted their appeals, or remain free on appellate bail, was not confirmed for every case in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "id": "src-cag-coal",
+      "label": "Report No. 7 of 2012 — Performance Audit on Allocation of Coal Blocks and Augmentation of Coal Production",
+      "type": "primary",
+      "publisher": "Comptroller and Auditor General of India",
+      "date": "2012-08-17",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2012/Union_Performance_Commercial_Allocation_Coal_Blocks_and_Production_Ministry_Coal_7_2012_chapter_4.pdf"
+    },
+    {
+      "id": "src-sc-2014",
+      "label": "Manohar Lal Sharma v. Union of India — Supreme Court judgment cancelling coal block allocations",
+      "type": "independent",
+      "publisher": "Reporting on the Supreme Court's 25 August 2014 and 24 September 2014 orders",
+      "date": "2014-09-24",
+      "note": "This investigation relies on secondary legal reporting of the Supreme Court's orders rather than a directly linked certified copy of the judgment."
+    },
+    {
+      "id": "src-coalgate-summary",
+      "label": "Coalgate Scam: How India's ₹1.86 Lakh Crore Coal Allocation Scandal Unfolded",
+      "type": "independent",
+      "publisher": "Finowings",
+      "date": "2025-01-01",
+      "url": "https://www.finowings.com/corporate-scams/coalgate-scam"
+    },
+    {
+      "id": "src-coal-convictions",
+      "label": "Former coal secretary HC Gupta sentenced to three years in coal block allocation case",
+      "type": "independent",
+      "publisher": "ETV Bharat",
+      "date": "2022-08-08",
+      "url": "https://www.etvbharat.com/english/bharat/former-coal-secretary-hc-gupta-sentenced-to-three-years-in-coal-block-allocation-case/na20220808151155918918981"
+    },
+    {
+      "id": "src-coal-koda",
+      "label": "Jharkhand ex-chief minister Koda convicted in coal scam case",
+      "type": "independent",
+      "publisher": "Gulf News (agency report)",
+      "date": "2017-12-17",
+      "url": "https://gulfnews.com/amp/story/world%2Fasia%2Findia%2Fjharkhand-ex-chief-minister-koda-convicted-in-coal-scam-case-1.2140133"
+    },
+    {
+      "id": "src-coal-manmohan-closure",
+      "label": "Supreme Court Closes Coal Block Allocation Case Against Former PM Manmohan Singh, Accepts CBI Closure Report",
+      "type": "independent",
+      "publisher": "Sansa Legal",
+      "date": "2025-01-01",
+      "url": "https://www.sansalegal.com/post/supreme-court-closes-coal-block-allocation-case-against-former-pm-manmohan-singh-accepts-cbi-closur"
+    }
+  ]
+}

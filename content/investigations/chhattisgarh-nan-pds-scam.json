@@ -1,0 +1,142 @@
+{
+  "id": "KB-3017",
+  "slug": "chhattisgarh-nan-pds-scam",
+  "title": "The Chhattisgarh NAN Public Distribution System Scam",
+  "dek": "Rice and salt meant for the ration cards of Chhattisgarh's poorest, distributed through the state's Nagrik Apurti Nigam, allegedly included stock unfit for consumption while officials and middlemen profited. A decade after raids uncovered a beneficiary diary, prosecutors and the state government are still arguing over whether the original trial was even conducted fairly.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 192,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2015-02-01",
+  "heroStat": {
+    "value": "18+ accused",
+    "label": "including two former IAS officers, named by Chhattisgarh's Anti-Corruption Bureau in the Nagrik Apurti Nigam (NAN) public distribution scam"
+  },
+  "promise": {
+    "quote": "Rice and other foodgrain procured and distributed through the Chhattisgarh State Civil Supplies Corporation (Nagrik Apurti Nigam) to public distribution system ration cardholders will be of prescribed quality and distributed without diversion or kickbacks.",
+    "madeBy": "Chhattisgarh State Civil Supplies Corporation (Nagrik Apurti Nigam, NAN), a state government undertaking",
+    "role": "State body responsible for procuring and distributing subsidised foodgrain under the Public Distribution System in Chhattisgarh",
+    "date": "2014-01-01",
+    "context": "During 2014, NAN was responsible for procuring and distributing rice and salt to ration cardholders across Chhattisgarh under the state's public distribution system.",
+    "sourceIds": [
+      "src-nan-oneindia"
+    ]
+  },
+  "target": {
+    "description": "Foodgrain and salt procured for the public distribution system meeting quality standards fit for human consumption, distributed to genuine beneficiaries without diversion, bribery or kickbacks to officials.",
+    "standard": "National Food Security Act and Chhattisgarh's public distribution system rules governing procurement and distribution quality.",
+    "referenceDate": "2014-01-01"
+  },
+  "reality": {
+    "description": "In February 2015, Chhattisgarh's Anti-Corruption Bureau and Economic Offences Wing raided 25 premises of the NAN corporation and officials' residences, recovering a 113-page diary allegedly recording names of beneficiaries of illicit payments tied to the distribution of rice and salt samples that were found unfit for human consumption in 2014. Eighteen people, including two former IAS officers, Anil Tuteja and Alok Shukla, were named as accused. The opposition Congress alleged the diary named high-profile beneficiaries including the then chief minister's family, which the ruling party denied. The case has since moved slowly through trial and appellate courts for over a decade; a special investigation team was formed, chargesheets were filed, and years later the Enforcement Directorate pursued a related money-laundering angle against several of the same accused. As of 2024-25, the Chhattisgarh state government, having previously opposed a retrial, began supporting the Enforcement Directorate's plea for a retrial in the case, and litigation over bail, custody and the propriety of the original trial process continued before Chhattisgarh courts and the Supreme Court.",
+    "asOfDate": "2025-01-01",
+    "sourceIds": [
+      "src-nan-theprint",
+      "src-nan-oneindia"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time since raids and diary recovery vs. a concluded trial",
+    "unit": "years",
+    "targetValue": 3,
+    "actualValue": 10,
+    "targetDisplay": "A corruption trial of this scale might reasonably conclude within a few years of chargesheeting",
+    "actualDisplay": "More than 10 years since the February 2015 raids, with retrial disputes still ongoing as of the mid-2020s",
+    "targetLabel": "Expected",
+    "actualLabel": "Actual",
+    "note": "There is no fixed statutory deadline for concluding such a trial; the comparison illustrates the scale of the delay, not a formal target the state committed to."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2014-01-01",
+      "label": "Substandard rice and salt distributed",
+      "detail": "Rice and salt samples later found unfit for human consumption were allegedly distributed through the public distribution system during 2014.",
+      "type": "announcement"
+    },
+    {
+      "date": "2015-02-01",
+      "label": "ACB/EOW raids and diary recovery",
+      "detail": "Simultaneous raids on 25 premises of NAN and officials' homes recovered a 113-page diary allegedly naming beneficiaries of the scam.",
+      "type": "status"
+    },
+    {
+      "date": "2015-03-01",
+      "label": "SIT formed to investigate",
+      "detail": "The Chhattisgarh government formed a special investigation team, initially led by police officer S.R.P. Kalluri, to probe the PDS scam.",
+      "type": "status"
+    },
+    {
+      "date": "2024-04-11",
+      "label": "ED registers money-laundering case",
+      "detail": "The Enforcement Directorate registered a fresh money-laundering case (ECIR) tied to the NAN scam allegations against Anil Tuteja and others.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-19",
+      "label": "Prosecution complaint filed in PMLA court",
+      "detail": "The ED filed a prosecution complaint against Anil Tuteja before the special PMLA court in Raipur.",
+      "type": "status"
+    },
+    {
+      "date": "2025-01-01",
+      "label": "State government backs retrial plea",
+      "detail": "The Chhattisgarh government reversed its earlier position and began supporting the ED's plea for a retrial in the case, years after opposing it.",
+      "type": "revision"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Eighteen people, including two former IAS officers, were named as accused following the 2015 raids. More than a decade later, no final conviction has been reported; litigation over bail, a related money-laundering prosecution, and whether the original trial should be redone remains active.",
+    "keyIndividuals": [
+      {
+        "name": "Anil Tuteja",
+        "role": "Former IAS officer, accused in the NAN case",
+        "outcome": "Named as an accused following the 2015 raids; separately arrested and chargesheeted by the Enforcement Directorate in a related money-laundering case; no final conviction in the NAN matter as of the most recent reporting reviewed."
+      },
+      {
+        "name": "Alok Shukla",
+        "role": "Former IAS officer, accused in the NAN case",
+        "outcome": "Named as an accused following the 2015 raids; separately arrested by the Enforcement Directorate; no final conviction in the NAN matter as of the most recent reporting reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That substandard rice and salt were distributed and that a diary allegedly recording illicit payments was recovered from NAN premises is well documented and not seriously disputed. What remains unresolved after more than a decade is any final judicial determination of guilt: the case has cycled through investigation, chargesheets, a disputed original trial, and now a fight over whether that trial should be redone, without producing a concluded verdict.",
+    "confidence": "medium",
+    "reasoning": "The initial raid, diary recovery and list of accused are corroborated across multiple contemporaneous and later reports, but the tangled, decade-long procedural history — including competing claims about the fairness of the original trial and the more recent, partly overlapping Enforcement Directorate money-laundering case — means this investigation could not establish a single clean, current status with full confidence."
+  },
+  "incomplete": [
+    "This investigation could not confirm a final trial court verdict in the original NAN case; reporting reviewed describes an unresolved dispute over whether the original trial process was fair and whether a retrial should occur.",
+    "The often-cited Rs 36,000 crore scam-value figure reported at the time of the initial raids is treated here as an early, disputed estimate, not a settled or independently verified financial loss figure.",
+    "The relationship between this NAN/PDS case and the separate, later Chhattisgarh liquor excise scam — which involves some of the same accused, including Anil Tuteja — is noted but not fully reconciled in sources reviewed; they are treated here as related but distinct prosecutions."
+  ],
+  "sources": [
+    {
+      "id": "src-nan-oneindia",
+      "label": "PDS scam: Chhattisgarh govt sets up probe team headed by Kalluri",
+      "type": "independent",
+      "publisher": "Oneindia News",
+      "date": "2015-03-01",
+      "url": "https://www.oneindia.com/amphtml/india/pds-scam-chhattisgarh-govt-sets-up-probe-team-headed-by-kalluri-2834086.html"
+    },
+    {
+      "id": "src-nan-theprint",
+      "label": "Why Chhattisgarh govt now supports ED's plea for re-trial in PDS scam case, 2 yrs after opposing it",
+      "type": "independent",
+      "publisher": "The Print",
+      "date": "2025-01-15",
+      "url": "https://theprint.in/judiciary/why-chhattisgarh-govt-now-supports-eds-plea-for-re-trial-in-pds-scam-case-2-yrs-after-opposing-it/2261427/"
+    },
+    {
+      "id": "src-nan-livelaw",
+      "label": "Chhattisgarh NAN Scam: Supreme Court Cancels Anticipatory Bail Of Anil Tuteja & Alok Shukla, Orders 4 Weeks' ED Custody",
+      "type": "independent",
+      "publisher": "LiveLaw",
+      "date": "2025-09-01",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-cancels-bail-chhattisgarh-nan-scam-accused-anil-tuteja-and-alok-shukla-304486"
+    }
+  ]
+}

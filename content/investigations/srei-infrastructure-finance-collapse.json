@@ -1,0 +1,125 @@
+{
+  "id": "KB-045",
+  "slug": "srei-infrastructure-finance-collapse",
+  "title": "The SREI Infrastructure Finance Collapse",
+  "dek": "An auditor flagged ₹13,110 crore in transactions as fraudulent at one lender alone. The RBI dissolved the board, a bank sold the loans to a national asset company, and years later, banks are still filing fresh fraud reports on what's left.",
+  "category": "Banking & Finance",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 100,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-11-23",
+  "heroStat": {
+    "value": "₹13,110 cr",
+    "label": "in transactions an auditor flagged as fraudulent under insolvency law"
+  },
+  "promise": {
+    "quote": "SREI Infrastructure Finance and SREI Equipment Finance will be operated in accordance with RBI governance norms, without evergreening loans or fraudulent transactions.",
+    "madeBy": "SREI Infrastructure Finance Ltd. and SREI Equipment Finance Ltd. (SEFL), under their former promoters",
+    "role": "Non-bank financial companies specialising in infrastructure and equipment financing",
+    "date": "2020-01-01",
+    "context": "Both companies faced RBI board supersession in October 2021 over governance lapses and evergreening practices, before entering insolvency resolution.",
+    "sourceIds": [
+      "src-srei-overview"
+    ]
+  },
+  "target": {
+    "description": "Lending and account management conducted in line with RBI governance norms, without loans being rolled over or renewed simply to avoid classifying them as bad debt.",
+    "standard": "RBI prudential and governance norms for non-bank financial companies.",
+    "referenceDate": "2020-01-01"
+  },
+  "reality": {
+    "description": "A transaction auditor (BDO India) reported to the insolvency administrator that transactions worth ₹13,110 crore at SREI Equipment Finance were fraudulent under Section 66 of the Insolvency and Bankruptcy Code. The National Asset Reconstruction Company Ltd. (NARCL) acquired both SREI entities in December 2023 following resolution under the Insolvency and Bankruptcy Code. Separately, Punjab National Bank has continued to flag fresh fraud amounts linked to SREI's former promoters to the RBI as recently as 2026, with one report citing ₹2,434 crore.",
+    "asOfDate": "2026-01-01",
+    "sourceIds": [
+      "src-srei-audit",
+      "src-srei-pnb"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Transactions the auditor flagged as fraudulent vs. the most recent bank-reported fraud figure",
+    "unit": "₹ crore",
+    "targetValue": 13110,
+    "actualValue": 2434,
+    "targetDisplay": "₹13,110 cr flagged by transaction auditor",
+    "actualDisplay": "₹2,434 cr in PNB's fresh 2026 fraud report",
+    "targetLabel": "Auditor-flagged",
+    "actualLabel": "Latest bank report",
+    "note": "These are two different, non-additive figures from different points in the resolution process — the auditor's figure covers historical transactions found fraudulent under insolvency law, while the bank's figure is its own more recent, narrower fraud classification of specific loan accounts."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2020-11-23",
+      "label": "RBI initiates special audit",
+      "detail": "Regulatory scrutiny of SREI's finances intensifies.",
+      "type": "status"
+    },
+    {
+      "date": "2021-10-01",
+      "label": "RBI supersedes both boards",
+      "detail": "The central bank cites governance lapses and evergreening practices.",
+      "type": "status"
+    },
+    {
+      "date": "2022-11-14",
+      "label": "Auditor flags ₹13,110 crore as fraudulent",
+      "detail": "BDO India's transaction audit report is submitted to the insolvency administrator.",
+      "type": "status"
+    },
+    {
+      "date": "2023-12-01",
+      "label": "NARCL acquires both entities",
+      "detail": "Resolution under the IBC concludes with NARCL taking over SREI Infrastructure and SREI Equipment Finance.",
+      "type": "status"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "PNB flags fresh fraud to RBI",
+      "detail": "The bank reports a ₹2,434 crore loan fraud linked to SREI's former promoters, having already fully provisioned for the loss.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a stub entry. The RBI's supersession of both boards and the auditor's fraud finding are official, confirmed actions. This investigation has not yet established whether any individual former promoter or executive has faced criminal prosecution or conviction.",
+    "keyIndividuals": []
+  },
+  "verdict": {
+    "summary": "Preliminary verdict, pending fuller research: regulatory intervention and an auditor's formal fraud finding under insolvency law are both confirmed, official actions — stronger than a mere allegation. This investigation has not yet established whether any individual has faced criminal charges over the flagged transactions.",
+    "confidence": "medium",
+    "reasoning": "The RBI's board supersession and the auditor's report are documented regulatory and insolvency-process facts, not contested allegations. Confidence is not higher because this investigation has not traced any resulting individual criminal case to a conclusion."
+  },
+  "incomplete": [
+    "This is a stub entry. Whether any individual former promoter or executive faces separate criminal proceedings over the flagged transactions has not been established.",
+    "The full relationship between the ₹13,110 crore auditor finding and PNB's separate, more recent ₹2,434 crore fraud report has not been reconciled.",
+    "The extent of loss ultimately borne by lenders after NARCL's acquisition has not been quantified in this entry."
+  ],
+  "sources": [
+    {
+      "id": "src-srei-overview",
+      "label": "SREI Infra tumbles after RBI initiates special audit",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2020-11-23",
+      "url": "https://www.business-standard.com/amp/article/news-cm/srei-infra-tumbles-after-rbi-initiates-special-audit-120112300282_1.html"
+    },
+    {
+      "id": "src-srei-audit",
+      "label": "Auditor flags Rs 13,110 cr of fraud deals in Srei Equipment Finance",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-11-14",
+      "url": "https://www.business-standard.com/amp/article/companies/auditor-flags-rs-13-110-cr-as-fraud-deals-in-srei-equipment-finance-122111401220_1.html"
+    },
+    {
+      "id": "src-srei-pnb",
+      "label": "PNB Flags ₹2,434 Crore Borrowal Fraud Linked to Srei Ex-Promoters! RBI Notified",
+      "type": "independent",
+      "publisher": "Whalesbook",
+      "date": "2026-01-01",
+      "url": "https://www.whalesbook.com/news/English/BankingFinance/PNB-Flags-indian-rupee2434-Crore-Borrowal-Fraud-Linked-to-SREI-Ex-Promoters-RBI-Notified/694ea04be10c98d0788eb975"
+    }
+  ]
+}

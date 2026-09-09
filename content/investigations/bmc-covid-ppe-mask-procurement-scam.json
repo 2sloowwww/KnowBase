@@ -1,0 +1,181 @@
+{
+  "id": "KB-402",
+  "slug": "bmc-covid-ppe-mask-procurement-scam",
+  "title": "Mumbai's BMC COVID-19 PPE, Mask and Jumbo Centre Procurement Scam",
+  "dek": "Under emergency powers during the pandemic, Mumbai's civic body spent roughly ₹1,050 crore in eight months on protective gear, masks, oxygen and jumbo COVID centres. The ED now alleges up to ₹4,000 crore of that emergency spending was routed through inexperienced, favoured vendors at inflated rates — a probe still open years later, with no conviction yet.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 125,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2022-03-01",
+  "heroStat": {
+    "value": "₹4,000 crore",
+    "label": "in BMC pandemic-era procurement (PPE kits, masks, gloves, ventilators, oxygen, jumbo centres) the ED says it is examining for irregularities"
+  },
+  "promise": {
+    "quote": "The BMC will use its emergency procurement powers during the pandemic to rapidly and transparently supply protective equipment, oxygen and COVID-care infrastructure to protect Mumbai's citizens and frontline workers.",
+    "madeBy": "Brihanmumbai Municipal Corporation, under Municipal Commissioner Iqbal Singh Chahal and predecessors",
+    "role": "Civic body responsible for Mumbai's pandemic response and emergency medical procurement",
+    "date": "2020-04-01",
+    "context": "The BMC invoked emergency procurement provisions (bypassing standard tendering) to rapidly acquire PPE kits, N-95 masks, gloves, oxygen and to build 'jumbo' COVID care centres, spending over ₹1,050 crore in the pandemic's first eight months alone.",
+    "sourceIds": [
+      "src-bmc-spending"
+    ]
+  },
+  "target": {
+    "description": "Emergency medical and infrastructure procurement conducted at fair, auditable rates through competent, appropriately vetted vendors, even under relaxed pandemic-era tendering rules.",
+    "standard": "Public procurement norms permitting relaxed tendering only for genuine emergency need, with post-facto accountability for rates and vendor selection.",
+    "referenceDate": "2020-04-01"
+  },
+  "reality": {
+    "description": "The Enforcement Directorate, investigating what is widely referred to as the 'Jumbo COVID Centre scam,' has expanded its probe beyond the original jumbo-centre construction contracts to cover the BMC's broader pandemic procurement, including PPE kits, gloves, masks, ventilators and oxygen supply, alleging irregularities across contracts worth an estimated ₹4,000 crore. It alleges purchases were made at inflated rates favouring select vendors with little or no prior relevant experience, based on WhatsApp chats and diaries recovered from middlemen allegedly linking bureaucrats, contractors and politicians. Separately, Mumbai Police's Economic Offences Wing has registered cases over specific pandemic purchases, including body bags bought at more than four times a reasonable rate and remdesivir vials procured at over double the market price. Senior IAS officer Sanjeev Jaiswal, BMC's pandemic-era additional municipal commissioner, was questioned by the ED for roughly ten hours in 2023. The CAG has separately flagged that the BMC failed to furnish complete records of its COVID-19 expenditure for audit. As of publication, the ED's investigation remains ongoing with no chargesheet publicly confirmed to have resulted in a conviction, and no court has made a final finding of guilt against any individual in the PPE/mask procurement strand specifically.",
+    "asOfDate": "2023-06-25",
+    "sourceIds": [
+      "src-bmc-ed-widens",
+      "src-bmc-jaiswal",
+      "src-bmc-cag",
+      "src-bmc-bodybags"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Pandemic-era BMC procurement under ED scrutiny vs. convictions secured to date",
+    "unit": "INR crore",
+    "targetValue": 4000,
+    "actualValue": 0,
+    "targetDisplay": "₹4,000 crore",
+    "actualDisplay": "0 convictions",
+    "targetLabel": "Procurement under ED scrutiny",
+    "actualLabel": "Convictions to date",
+    "note": "The ₹4,000 crore figure is the ED's own estimate of the scope of BMC pandemic procurement it is examining for irregularities, not a court-established loss figure; the case remains at the investigation stage."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 1050,
+    "allocatedLabel": "BMC's own reported COVID-19 spend in the pandemic's first eight months (2020)",
+    "released": null,
+    "spent": 4000,
+    "spentLabel": "Scope of pandemic-era procurement (PPE, masks, gloves, ventilators, oxygen, jumbo centres) the ED says it is scrutinising for irregularities",
+    "unit": "crore",
+    "notes": "Specific flagged sub-cases include body bags bought at roughly 4.5x a reasonable rate and 65,000 remdesivir vials bought at more than double market price (about ₹5.96 crore in alleged overcharge on that item alone). These are separate, smaller strands within the larger procurement probe.",
+    "sourceIds": [
+      "src-bmc-spending",
+      "src-bmc-ed-widens",
+      "src-bmc-bodybags"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-04-01",
+      "label": "BMC invokes emergency procurement",
+      "detail": "The civic body begins large-scale, relaxed-tender purchases of PPE kits, N-95 masks, gloves and other pandemic supplies.",
+      "type": "announcement"
+    },
+    {
+      "date": "2020-11-19",
+      "label": "BMC discloses ₹1,050 crore pandemic spend",
+      "detail": "Reporting shows the BMC spent over ₹1,050 crore in eight months, mostly on PPE kits, masks, gloves and face shields.",
+      "type": "status"
+    },
+    {
+      "date": "2022-03-01",
+      "label": "Jumbo COVID centre construction scam surfaces",
+      "detail": "Allegations emerge of inflated, favoured-vendor contracts for building BMC's jumbo COVID care centres, prompting an ED probe.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-07-01",
+      "label": "ED attaches assets over jumbo centre contracts",
+      "detail": "The ED attaches assets worth over ₹12 crore linked to alleged fraud in setting up BMC-run jumbo COVID care centres.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-01",
+      "label": "FIR over body bags and remdesivir purchases",
+      "detail": "Mumbai's Economic Offences Wing books former mayor Kishori Pednekar and two BMC officials over allegedly overpriced body-bag and remdesivir purchases during the pandemic.",
+      "type": "status"
+    },
+    {
+      "date": "2023-06-25",
+      "label": "ED widens probe to full pandemic procurement",
+      "detail": "The ED expands its investigation to cover BMC's broader COVID-era procurement of PPE kits, gloves, masks, ventilators and oxygen, estimating irregularities across ₹4,000 crore of contracts.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-07-01",
+      "label": "IAS officer Sanjeev Jaiswal questioned",
+      "detail": "The BMC's pandemic-era additional municipal commissioner is questioned by the ED for around ten hours about payments processed under Municipal Commissioner Iqbal Singh Chahal.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The ED's investigation into BMC's pandemic-era procurement, including PPE and mask purchases, remains open with no publicly confirmed chargesheet or conviction specific to this strand as of publication. A separate Mumbai Police EOW case over body-bag and remdesivir purchases has resulted in an FIR against a former mayor and two officials, but that too remains at the investigation/trial stage, not a concluded verdict.",
+    "keyIndividuals": [
+      {
+        "name": "Sanjeev Jaiswal",
+        "role": "IAS officer, BMC additional municipal commissioner during the pandemic",
+        "outcome": "Questioned by the ED for roughly ten hours in 2023; not reported as arrested or chargesheeted as of publication."
+      },
+      {
+        "name": "Kishori Pednekar",
+        "role": "Former Mayor of Mumbai",
+        "outcome": "Named in an EOW FIR over alleged irregularities in COVID-19 body-bag procurement; case remains under investigation."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "There is credible, agency-backed evidence of large-scale overpricing in specific pandemic purchases (body bags, remdesivir) and an open, wide-ranging ED probe into the BMC's broader COVID procurement, but years after the alleged irregularities the investigation has not yet produced a chargesheet or conviction specific to PPE/mask procurement that this entry could verify. The scale of the ₹4,000 crore figure is the ED's own investigative estimate of scope, not a proven loss.",
+    "confidence": "low",
+    "reasoning": "Reporting on this case is fragmented across several related but distinct strands (jumbo centres, body bags, remdesivir, the broader PPE/mask/oxygen probe), and this entry has not been able to confirm a single, unified chargesheet or verdict specific to N-95 mask or PPE-kit procurement. Confidence is marked low pending a clearer, more recent account of how these threads have resolved."
+  },
+  "incomplete": [
+    "No specific chargesheet or verdict focused narrowly on N-95 mask/PPE procurement (as opposed to the broader jumbo-centre and general pandemic-procurement probe) was identified in available reporting.",
+    "The current (2025-2026) status of the ED's investigation and of the EOW's body-bag/remdesivir FIR has not been confirmed as of publication.",
+    "This entry has not reviewed any ED prosecution complaint or CAG report directly; details rely on news coverage of them.",
+    "It is unclear from available sources whether any individual has been arrested specifically in connection with PPE or N-95 mask procurement, as distinct from the jumbo-centre construction contracts."
+  ],
+  "sources": [
+    {
+      "id": "src-bmc-spending",
+      "label": "BMC spent ₹1,050 crore in 8 months on Covid-19 fight",
+      "type": "independent",
+      "publisher": "Hindustan Times",
+      "date": "2020-11-19",
+      "url": "https://www.pressreader.com/india/hindustan-times-east-up/20201119/281895890785075"
+    },
+    {
+      "id": "src-bmc-ed-widens",
+      "label": "ED Widens Probe into BMC Jumbo Covid Centre Scam, Uncovers Irregularities in Civic Supplies & Cash Transactions",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2023-06-25",
+      "url": "https://www.freepressjournal.in/mumbai/ed-widens-probe-into-bmc-jumbo-covid-centre-scam-uncovers-irregularities-in-civic-supplies-cash-transactions"
+    },
+    {
+      "id": "src-bmc-jaiswal",
+      "label": "BMC COVID Jumbo Centre Scam: IAS Officer Sanjeev Jaiswal Questioned By ED For 10 Hours",
+      "type": "independent",
+      "publisher": "Free Press Journal",
+      "date": "2023-07-01",
+      "url": "https://www.freepressjournal.in/mumbai/bmc-covid-jumbo-centre-scam-ias-officer-sanjeev-jaiswal-questioned-by-ed-for-10-hours"
+    },
+    {
+      "id": "src-bmc-cag",
+      "label": "CAG report on BMC: tabled records for Covid-19 management not submitted",
+      "type": "primary",
+      "publisher": "Deccan Herald (reporting on CAG findings)",
+      "date": "2023-01-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fcag-report-on-bmc-tabled-records-for-covid-19-management-not-submitted-1203477.html"
+    },
+    {
+      "id": "src-bmc-bodybags",
+      "label": "FIR against ex-Mumbai mayor Kishori Pednekar, two BMC officials in COVID-19 body bags purchase scam",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-09-01",
+      "url": "https://www.deccanherald.com/india/fir-against-ex-mumbai-mayor-kishori-pednekar-two-bmc-officials-in-covid-19-body-bags-purchase-scam-1244009.html"
+    }
+  ]
+}

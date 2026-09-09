@@ -1,0 +1,177 @@
+{
+  "id": "KB-1003",
+  "slug": "religare-finvest-fund-diversion-case",
+  "title": "Religare Finvest: The Singh Brothers' NBFC Loan Diversion",
+  "dek": "Delhi Police, SEBI and the Enforcement Directorate all found the same pattern: over ₹2,300 crore lent out by Religare's NBFC arm allegedly routed through shell companies back to promoters Malvinder and Shivinder Singh. This is the Religare Finvest lending fraud — a separate case from the Fortis Healthcare siphoning scandal involving the same brothers.",
+  "category": "Banking & Finance",
+  "status": "under-trial",
+  "severity": "major",
+  "severityRank": 136,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2018-01-29",
+  "heroStat": {
+    "value": "₹2,397 cr",
+    "label": "loss allegedly caused to Religare Finvest Ltd (RFL) through loans disbursed to promoter-controlled entities, per the original Delhi Police complaint that triggered the case"
+  },
+  "promise": {
+    "quote": "Religare Finvest Limited, as an RBI-registered NBFC and lending arm of Religare Enterprises, is required to disburse loans on arm's-length commercial terms and to maintain the fiduciary standards expected of a regulated lender handling public and institutional depositor/investor money, free of related-party diversion to its own promoters.",
+    "madeBy": "Religare Finvest Limited / Religare Enterprises Limited, under promoters Malvinder Mohan Singh and Shivinder Mohan Singh",
+    "role": "Promoters and then-board members, Religare Enterprises Ltd and its NBFC subsidiary Religare Finvest Ltd",
+    "date": "2016-01-01",
+    "context": "This reflects the general fiduciary and regulatory standard applicable to a promoter-controlled NBFC lender rather than a specific public quotation by the Singh brothers.",
+    "sourceIds": [
+      "src-rfl-overview"
+    ]
+  },
+  "target": {
+    "description": "That Religare Finvest's lending decisions would be made independently of promoter interests, with loans going to creditworthy, unrelated borrowers rather than shell entities controlled by, or benefiting, its own promoters — as required for any RBI-regulated NBFC.",
+    "standard": "RBI's NBFC regulations on related-party lending and corporate governance; SEBI's Listing Obligations and Disclosure Requirements on related-party transactions; the Companies Act's fiduciary-duty provisions.",
+    "referenceDate": "2018-01-29"
+  },
+  "reality": {
+    "description": "A New York-based investor first publicly accused the Singh brothers of siphoning money from Religare group companies in January 2018. SEBI subsequently found preliminary evidence that roughly ₹2,300 crore had been diverted from RFL's books to entities linked to promoters Malvinder and Shivinder Singh and directed Religare Finvest and Religare Enterprises to recall the loans. In March 2019, Delhi Police's Economic Offences Wing registered a case on RFL's own complaint alleging the brothers, while controlling Religare Enterprises, caused RFL to disburse loans to entities they controlled, causing RFL a loss of about ₹2,397 crore; EOW's 2020 chargesheet alleged the brothers used roughly 19 shell companies to route the money and 'square off' personal liabilities. The Enforcement Directorate separately filed a money-laundering chargesheet under PMLA against Malvinder Singh, Shivinder Singh and former Religare Enterprises CMD Sunil Godhwani in relation to the RFL fund diversion. In July 2022, SEBI imposed a combined ₹60 crore penalty on ten entities in the matter, including ₹10 crore each on Malvinder and Shivinder Singh, and barred them from the securities market for three years. Multiple rounds of litigation between Religare Finvest and the Singh brothers, including challenges before the Delhi High Court and Supreme Court over the police investigation's validity, continued through 2024, with a Supreme Court ruling in the case reported in early 2024. This entry has not confirmed a final criminal trial verdict as of publication.",
+    "asOfDate": "2024-02-09",
+    "sourceIds": [
+      "src-rfl-eow",
+      "src-rfl-ed-chargesheet",
+      "src-rfl-sebi-penalty",
+      "src-rfl-sc-2024"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Amount SEBI/police allege was diverted from Religare Finvest vs. amount recovered or penalised to date",
+    "unit": "INR crore",
+    "targetValue": 2397,
+    "actualValue": 60,
+    "targetDisplay": "₹2,397 cr alleged loss to RFL (Delhi Police EOW complaint)",
+    "actualDisplay": "₹60 cr total SEBI monetary penalty imposed on ten entities (July 2022)",
+    "targetLabel": "Alleged diverted / lost amount",
+    "actualLabel": "Regulatory penalty imposed to date",
+    "note": "This compares the scale of the alleged diversion to the one concrete regulatory monetary sanction publicly confirmed (SEBI's 2022 penalty). It excludes any separate PMLA attachment of assets by the ED, which this entry has not independently quantified, and no criminal conviction has occurred."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 2397,
+    "allocatedLabel": "Alleged loss to Religare Finvest from loans diverted to promoter-linked entities, per Delhi Police EOW's complaint",
+    "released": null,
+    "spent": null,
+    "unit": "INR crore",
+    "notes": "SEBI separately calculated roughly ₹2,315 crore in diverted RFL funds in its own 2019 order directing loan recall, a figure close to but not identical to the EOW's ₹2,397 crore loss estimate. Neither figure has been finally adjudicated in a criminal trial.",
+    "sourceIds": [
+      "src-rfl-overview",
+      "src-rfl-sebi-penalty"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018-01-29",
+      "label": "Fund-diversion allegations go public",
+      "detail": "A New York-based investor publicly accuses Religare's Singh brother promoters of siphoning money out of group companies, drawing regulatory attention to Religare Finvest's loan book.",
+      "type": "announcement"
+    },
+    {
+      "date": "2019-03-14",
+      "label": "SEBI orders loan recall",
+      "detail": "SEBI directs Religare Finvest and Religare Enterprises to recall over ₹2,300 crore in loans from Malvinder Singh, Shivinder Singh and 21 other entities, citing preliminary evidence of fund diversion.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-03-29",
+      "label": "Delhi Police EOW registers case",
+      "detail": "Delhi Police's Economic Offences Wing registers a case on Religare Finvest's complaint alleging the Singh brothers caused RFL a loss of about ₹2,397 crore through loans to entities they controlled.",
+      "type": "milestone"
+    },
+    {
+      "date": "2020-01-11",
+      "label": "ED files PMLA chargesheet",
+      "detail": "The Enforcement Directorate files a money-laundering chargesheet against Malvinder Singh, Shivinder Singh and former Religare Enterprises CMD Sunil Godhwani over the alleged RFL fund misappropriation.",
+      "type": "milestone"
+    },
+    {
+      "date": "2022-07-28",
+      "label": "SEBI penalises Singh brothers and others",
+      "detail": "SEBI imposes a combined ₹60 crore penalty on ten entities, including ₹10 crore each on Malvinder and Shivinder Singh, and bars them from the securities market for three years over the RFL fund-diversion findings.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-02-09",
+      "label": "Litigation continues",
+      "detail": "Proceedings between Religare Finvest and the Singh brothers over the criminal case continue before the Delhi High Court and Supreme Court; this entry has not confirmed a final trial verdict as of the most recent reporting reviewed.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "This is a separate case from the Fortis Healthcare pharma-siphoning matter involving the same Singh brothers (covered elsewhere on this site). The Religare Finvest case remains under trial: Delhi Police's EOW and the Enforcement Directorate have both filed chargesheets alleging fund diversion and money laundering, and SEBI has imposed monetary penalties and a market ban, but no criminal conviction has been confirmed as of this entry's most recent sourcing. Malvinder and Shivinder Singh deny the allegations.",
+    "keyIndividuals": [
+      {
+        "name": "Malvinder Mohan Singh",
+        "role": "Former Chairman, Religare Enterprises Ltd / Fortis Healthcare",
+        "outcome": "Named in Delhi Police EOW and ED chargesheets over alleged RFL fund diversion; fined ₹10 crore and barred from securities markets for three years by SEBI (2022); case remains under trial. Also separately convicted in the related Fortis siphoning matter (covered in a separate entry)."
+      },
+      {
+        "name": "Shivinder Mohan Singh",
+        "role": "Former Executive Vice-Chairman, Religare Enterprises Ltd / Fortis Healthcare",
+        "outcome": "Named in Delhi Police EOW and ED chargesheets over alleged RFL fund diversion; fined ₹10 crore and barred from securities markets for three years by SEBI (2022); case remains under trial. Also separately convicted in the related Fortis siphoning matter (covered in a separate entry)."
+      },
+      {
+        "name": "Sunil Godhwani",
+        "role": "Former Chairman and Managing Director, Religare Enterprises Ltd",
+        "outcome": "Named as an accused alongside the Singh brothers in the ED's PMLA chargesheet over RFL fund diversion; case remains under trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "Three separate authorities — SEBI, Delhi Police, and the Enforcement Directorate — independently arrived at strikingly similar findings: roughly ₹2,300–2,400 crore was diverted out of a regulated NBFC lender to entities benefiting its own promoters. SEBI has already penalised the Singh brothers and barred them from capital markets, but the underlying criminal fraud and money-laundering cases remain under trial, with no court verdict on guilt yet confirmed.",
+    "confidence": "medium",
+    "reasoning": "The regulatory and investigative record (SEBI's order, EOW's chargesheet, ED's PMLA chargesheet) is well corroborated across independent sources, but this entry has not obtained or reviewed the primary chargesheets or SEBI order documents directly, nor confirmed the criminal case's final outcome, which appeared to remain pending as of the most recent (February 2024) reporting reviewed."
+  },
+  "incomplete": [
+    "The final outcome of the criminal trial (EOW case) and the PMLA prosecution against the Singh brothers and Sunil Godhwani has not been confirmed as of this entry's most recent sourcing (February 2024); more recent developments through 2025-2026 have not been verified.",
+    "This entry has not independently reviewed the primary SEBI order, EOW chargesheet, or ED chargesheet documents — all facts are drawn from secondary business-press reporting.",
+    "The extent of any asset attachment or recovery achieved by the Enforcement Directorate under PMLA in this specific case (as distinct from the related Fortis matter) has not been quantified here."
+  ],
+  "sources": [
+    {
+      "id": "src-rfl-overview",
+      "label": "Religare's Singh brothers accused by New York investor of siphoning money",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2018-01-29",
+      "url": "https://www.business-standard.com/amp/article/companies/religare-s-singh-brothers-accused-by-new-york-investor-of-siphoning-money-118012900068_1.html"
+    },
+    {
+      "id": "src-rfl-eow",
+      "label": "Malvinder, Shivinder Singh diverted public money to settle personal liabilities: EOW",
+      "type": "independent",
+      "publisher": "Business Today",
+      "date": "2020-01-22",
+      "url": "https://www.businesstoday.in/latest/corporate/story/singh-brothers-malvinder-singh-shivinder-singh-diverted-public-money-religare-finvest-243540-2020-01-22"
+    },
+    {
+      "id": "src-rfl-ed-chargesheet",
+      "label": "Religare Finvest case: ED files charge sheet against Singh brothers",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2020-01-11",
+      "url": "https://www.business-standard.com/article/companies/religare-finvest-case-ed-files-charge-sheet-against-singh-brothers-120011100062_1.html"
+    },
+    {
+      "id": "src-rfl-sebi-penalty",
+      "label": "Religare Finvest fund reroute: Sebi slaps Rs 60-cr fine on Singh brothers",
+      "type": "independent",
+      "publisher": "Business Standard",
+      "date": "2022-07-28",
+      "url": "https://www.business-standard.com/amp/article/companies/religare-finvest-fund-reroute-sebi-slaps-rs-60-cr-fine-on-singh-brothers-122072801457_1.html"
+    },
+    {
+      "id": "src-rfl-sc-2024",
+      "label": "Religare Finvest Ltd vs State Nct Of Delhi And Anr",
+      "type": "primary",
+      "publisher": "Supreme Court of India (via Casemine)",
+      "date": "2024-02-09",
+      "url": "https://www.casemine.com/judgement/in/65a308644aacbf7ab868f4c2"
+    }
+  ]
+}

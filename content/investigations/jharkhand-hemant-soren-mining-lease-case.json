@@ -1,0 +1,128 @@
+{
+  "id": "KB-2105",
+  "slug": "jharkhand-hemant-soren-mining-lease-case",
+  "title": "The Jharkhand Hemant Soren Mining Lease (Office of Profit) Case",
+  "dek": "A sitting chief minister who also held the mining portfolio was accused of allotting a stone quarry lease to himself — a textbook conflict of interest under India's 'office of profit' rules. The Election Commission reportedly recommended his disqualification. The state's governor sat on that opinion and, before it became public, was transferred to another state.",
+  "category": "Natural Resources",
+  "status": "confirmed-unresolved",
+  "severity": "moderate",
+  "severityRank": 244,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2022-02-01",
+  "heroStat": {
+    "value": "0.88 acres",
+    "label": "the size of the Ranchi stone quarry mining lease Hemant Soren was accused of allotting to himself while he was Jharkhand's mining minister"
+  },
+  "promise": {
+    "quote": "If any person holds an office of profit under the government, or is otherwise disqualified, they shall not continue to sit or vote as a member of the Legislative Assembly.",
+    "madeBy": "Constitution of India and the Representation of the People Act, 1951",
+    "role": "Statutory and constitutional disqualification framework applicable to all sitting legislators, including chief ministers",
+    "date": "1951-01-01",
+    "context": "This reflects the general 'office of profit' and disqualification standard the Election Commission's inquiry into Soren invoked, rather than a personal pledge Soren himself made.",
+    "sourceIds": [
+      "src-soren-mining-vajiram"
+    ]
+  },
+  "target": {
+    "description": "That Hemant Soren, as Chief Minister and concurrently holding the mining and forest portfolio, would not use his office to allot a mining lease to himself, and that any such conflict of interest would be assessed and acted on promptly under the Representation of the People Act.",
+    "standard": "Representation of the People Act, 1951, and the Prevention of Corruption Act, 1988, as invoked in the Election Commission's inquiry.",
+    "referenceDate": "2022-02-01"
+  },
+  "reality": {
+    "description": "In February 2022, opposition BJP leaders alleged that Hemant Soren, while serving as Chief Minister and holding the mining and forest portfolio, had allotted a 0.88-acre stone quarry lease in Anagda, near Ranchi, to himself — a potential 'office of profit' violation and possible breach of the Prevention of Corruption Act. The matter was referred to the Election Commission of India, which sent Soren a notice in May 2022 seeking his response; he replied later that month. By August 2022, multiple reports said the Election Commission had sent its opinion on Soren's disqualification to Jharkhand's Governor, Ramesh Bais, triggering days of political tension in the state including a reported plan by the ruling coalition to move its MLAs to a resort against the risk of defections. Governor Bais did not make the Election Commission's opinion public and was transferred to the Governorship of Maharashtra shortly afterward, in a routine round of gubernatorial transfers. Soren continued as Chief Minister and was later separately arrested by the Enforcement Directorate in January 2024 in a distinct land-related money-laundering case (covered elsewhere on this site), before being granted bail and reinstated as Chief Minister. As of this entry, the Election Commission's opinion in the mining-lease matter has never been made public, and no formal disqualification was ever announced.",
+    "asOfDate": "2022-09-01",
+    "sourceIds": [
+      "src-soren-mining-vajiram",
+      "src-soren-mining-indiatv"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Months since the Election Commission reportedly sent its disqualification opinion to the Governor, without that opinion ever being made public",
+    "unit": "months",
+    "targetValue": 0,
+    "actualValue": 48,
+    "targetDisplay": "Opinion expected to be acted on and disclosed promptly",
+    "actualDisplay": "≈48 months elapsed (Aug 2022 to this entry), never disclosed",
+    "targetLabel": "Expected disclosure",
+    "actualLabel": "Elapsed, undisclosed",
+    "note": "This measures elapsed time since the Election Commission reportedly transmitted its opinion, based on publicly reported dates, not a fabricated statistic — the underlying opinion itself has never been published by any authority that this entry could locate."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2022-02-01",
+      "label": "Allegation surfaces",
+      "detail": "BJP leaders allege Chief Minister Hemant Soren allotted a 0.88-acre stone quarry lease in Anagda to himself while holding the mining portfolio.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-05-11",
+      "label": "Election Commission issues notice",
+      "detail": "The EC sends Soren a notice seeking his response on the office-of-profit allegation; it later grants him more time to reply.",
+      "type": "status"
+    },
+    {
+      "date": "2022-05-21",
+      "label": "Soren replies to EC notice",
+      "detail": "Soren submits his response to the Election Commission on the mining-lease issue.",
+      "type": "status"
+    },
+    {
+      "date": "2022-08-25",
+      "label": "EC opinion reportedly sent to Governor",
+      "detail": "Multiple reports say the Election Commission has sent its opinion on Soren's possible disqualification to Jharkhand Governor Ramesh Bais, though the opinion itself is not made public.",
+      "type": "status"
+    },
+    {
+      "date": "2022-09-01",
+      "label": "Governor transferred; opinion undisclosed",
+      "detail": "Governor Ramesh Bais is transferred to Maharashtra without making the Election Commission's opinion public; no formal disqualification of Soren follows.",
+      "type": "delay"
+    }
+  ],
+  "legalStatus": {
+    "summary": "No formal disqualification of Hemant Soren over the mining-lease allegation was ever announced, and the Election Commission's opinion in the matter has not been made public. This matter is distinct from, and should not be confused with, Soren's separate 2024 arrest and bail in an unrelated land case. Soren has not been convicted of any offence in either matter and is presumed innocent.",
+    "keyIndividuals": [
+      {
+        "name": "Hemant Soren",
+        "role": "Chief Minister of Jharkhand; held the mining and forest portfolio in 2021–22",
+        "outcome": "Named in the office-of-profit allegation; no disqualification was ever formally announced. No verdict; presumed innocent."
+      },
+      {
+        "name": "Ramesh Bais",
+        "role": "Governor of Jharkhand (2021–2023)",
+        "outcome": "Reportedly received the Election Commission's opinion on Soren's disqualification; did not make it public before being transferred to the Governorship of Maharashtra."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A documented conflict-of-interest allegation against a sitting chief minister that reached the Election Commission and reportedly produced a disqualification opinion — which was then never disclosed, leaving the matter to quietly lapse rather than reach any public resolution. This is a governance-transparency failure independent of, and separate from, whether the underlying office-of-profit allegation would have been upheld.",
+    "confidence": "low",
+    "reasoning": "The allegation, the EC notice, and the reported transmission of an opinion to the Governor are corroborated by multiple contemporaneous news reports, but the EC's opinion itself was never published, so this entry cannot confirm its actual contents or verify with certainty that disqualification was in fact recommended — only that reports at the time said so."
+  },
+  "incomplete": [
+    "The Election Commission's opinion on Soren's disqualification has never been published by any official source that this entry could locate; its exact contents and recommendation are not independently confirmed, only reported secondhand.",
+    "This entry has not reviewed the original BJP complaint, the EC notice, or Soren's reply directly.",
+    "Whether the matter was formally closed, withdrawn, or remains technically pending before the Governor's office as of this entry's publication date has not been confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-soren-mining-vajiram",
+      "label": "Office of profit case against Jharkhand CM",
+      "type": "independent",
+      "publisher": "Vajiram & Ravi",
+      "date": "2022-09-01",
+      "url": "https://vajiramandravi.com/current-affairs/office-of-profit-case-against-jharkhand-cm/"
+    },
+    {
+      "id": "src-soren-mining-indiatv",
+      "label": "Jharkhand CM Hemant Soren may get disqualified from Assembly, Governor to announce EC report shortly",
+      "type": "independent",
+      "publisher": "India TV News",
+      "date": "2022-08-25",
+      "url": "https://www.indiatvnews.com/news/india/jharkhand-cm-hemant-soren-mining-lease-case-election-commission-assembly-membership-cancelled-live-updates-bjp-jmm-governor-2022-08-25-802854"
+    }
+  ]
+}

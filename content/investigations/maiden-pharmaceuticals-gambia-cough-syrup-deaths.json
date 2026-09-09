@@ -1,0 +1,139 @@
+{
+  "id": "KB-3014",
+  "slug": "maiden-pharmaceuticals-gambia-cough-syrup-deaths",
+  "title": "The Maiden Pharmaceuticals Contaminated Cough Syrup Deaths",
+  "dek": "An Indian-made cough syrup exported to The Gambia was contaminated with industrial solvents used in antifreeze. Dozens of children died of acute kidney injury. Four years on, no one has been convicted in India and a bribery allegation over the domestic lab tests remains unresolved.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "major",
+  "severityRank": 190,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2022-09-29",
+  "heroStat": {
+    "value": "66+ children dead",
+    "label": "in The Gambia, linked by WHO and a joint US CDC-Gambian investigation to Indian-made contaminated cough syrups"
+  },
+  "promise": {
+    "quote": "Cough and cold syrups manufactured for export meet pharmacopoeial purity standards and are manufactured under licence in accordance with India's Drugs and Cosmetics Act.",
+    "madeBy": "Maiden Pharmaceuticals Limited, a Haryana-based drug manufacturer licensed by India's Central Drugs Standard Control Organisation and Haryana's state drug authority",
+    "role": "Licensed manufacturer of Promethazine Oral Solution, Kofexmalin, Makoff and Magrip N Cold syrups, exported to The Gambia",
+    "date": "2022-01-01",
+    "context": "Maiden Pharmaceuticals exported four cough and cold syrup products to The Gambia during 2022, where they were administered to children for common colds and coughs.",
+    "sourceIds": [
+      "src-maiden-wiki"
+    ]
+  },
+  "target": {
+    "description": "Exported medicines free of toxic contaminants, manufactured and tested to pharmacopoeial standards under India's Drugs and Cosmetics Act before being licensed for sale or export.",
+    "standard": "India's Drugs and Cosmetics Act, 1940 and associated Good Manufacturing Practice rules; WHO pharmacopoeial standards for diethylene glycol and ethylene glycol content in oral liquid medicines.",
+    "referenceDate": "2022-01-01"
+  },
+  "reality": {
+    "description": "Starting in July 2022, Gambian hospitals recorded a sharp rise in children presenting with acute kidney injury; by the time the WHO issued a global medical product alert on 5 October 2022, dozens of deaths had been recorded. Independent laboratory testing commissioned by the WHO, and separately a joint investigation by the US Centers for Disease Control and Prevention and Gambian scientists, confirmed the four Maiden Pharmaceuticals syrups were contaminated with the toxic industrial solvents diethylene glycol and ethylene glycol, concluding they had almost certainly caused the deaths of at least 66 children from acute kidney injury. India's central and Haryana state drug regulators halted production at Maiden's Sonipat facility and later found the company had used industrial-grade (rather than pharmaceutical-grade) propylene glycol sourced from an unauthorised supplier. In April 2023, allegations surfaced in India that a Haryana health department official had accepted a bribe to alter test results on samples of the syrups before they were examined in a state laboratory; this allegation remained under investigation as of the most recent reporting reviewed. No criminal conviction of Maiden Pharmaceuticals or its executives had been reported as of the most recent sources available.",
+    "asOfDate": "2023-04-01",
+    "sourceIds": [
+      "src-maiden-wiki",
+      "src-maiden-gulf"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Deaths attributed by WHO/CDC investigation vs. convictions secured",
+    "unit": "count",
+    "targetValue": 66,
+    "actualValue": 0,
+    "targetDisplay": "66+ child deaths attributed to the contaminated syrups",
+    "actualDisplay": "No confirmed criminal conviction of the manufacturer or its executives in sources reviewed",
+    "targetLabel": "Deaths",
+    "actualLabel": "Convictions",
+    "note": "This reflects the state of public reporting available at the time of writing and should not be read as a final legal outcome; the underlying criminal investigation in India may still be ongoing."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2022-07-01",
+      "label": "Child deaths begin rising in The Gambia",
+      "detail": "Gambian hospitals began recording an unusual cluster of acute kidney injury deaths among young children.",
+      "type": "announcement"
+    },
+    {
+      "date": "2022-10-05",
+      "label": "WHO issues global medical product alert",
+      "detail": "The WHO named the four Maiden Pharmaceuticals syrups and asked regulators worldwide to remove them from circulation, citing unacceptable levels of diethylene glycol and ethylene glycol.",
+      "type": "status"
+    },
+    {
+      "date": "2022-10-07",
+      "label": "India halts production at Maiden's Sonipat plant",
+      "detail": "The Haryana state drug controller suspended Maiden Pharmaceuticals' manufacturing licence pending investigation.",
+      "type": "status"
+    },
+    {
+      "date": "2023-03-03",
+      "label": "US CDC-led investigation confirms causal link",
+      "detail": "A joint US CDC and Gambian scientific investigation concluded contaminated Indian-made syrups almost certainly caused at least 66 child deaths from acute kidney injury.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-04-01",
+      "label": "Bribery allegation over Haryana lab tests surfaces",
+      "detail": "Reports alleged a Haryana health department official had taken a bribe to alter test results on syrup samples before state laboratory examination.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "India's drug regulators suspended Maiden Pharmaceuticals' manufacturing licence and multiple investigations (Indian and international) confirmed the toxic contamination and its causal link to child deaths, but no criminal conviction of the company or its executives is documented in sources reviewed, and a bribery allegation involving Haryana officials remains unresolved.",
+    "keyIndividuals": [
+      {
+        "name": "Maiden Pharmaceuticals Limited (corporate entity)",
+        "role": "Manufacturer of the four contaminated syrups",
+        "outcome": "Manufacturing licence suspended by Haryana authorities in October 2022; no criminal conviction documented in sources reviewed."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "That the syrups were toxic and caused child deaths in The Gambia is confirmed by independent WHO- and CDC-led scientific investigations, not merely alleged. What remains unresolved is criminal accountability in India: no conviction of the manufacturer or its executives has been reported, and an allegation that Haryana officials were bribed to alter test results has not been publicly concluded.",
+    "confidence": "high",
+    "reasoning": "The scientific finding of contamination and its causal link to deaths is corroborated by multiple independent bodies (WHO, US CDC, Gambian investigators) using separate laboratory testing, leaving little room for dispute on the core facts; the accountability outcome in India, however, is genuinely unresolved in the public record reviewed."
+  },
+  "incomplete": [
+    "The final outcome of any Indian criminal investigation or prosecution of Maiden Pharmaceuticals or its executives was not established in sources reviewed as of the time of writing.",
+    "The outcome of the alleged bribery of a Haryana health department official over altered lab test results was not confirmed in sources reviewed.",
+    "The exact final death toll varies slightly across sources (commonly cited as 66 to 70); this entry uses the CDC-led investigation's figure without treating a single number as beyond dispute."
+  ],
+  "sources": [
+    {
+      "id": "src-maiden-wiki",
+      "label": "Gambia cough syrup scandal",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "url": "https://en.wikipedia.org/wiki/Gambia_cough_syrup_scandal"
+    },
+    {
+      "id": "src-maiden-gulf",
+      "label": "India halts cough syrup production at factory linked to Gambia deaths",
+      "type": "independent",
+      "publisher": "Gulf News",
+      "date": "2022-10-08",
+      "url": "https://gulfnews.com/world/asia/india/india-halts-cough-syrup-production-at-factory-linked-to-gambia-deaths-1.91213816"
+    },
+    {
+      "id": "src-maiden-cdc",
+      "label": "US CDC concludes contaminated Indian cough syrup likely caused deaths of 66 children in Gambia",
+      "type": "independent",
+      "publisher": "Fox News",
+      "date": "2023-03-03",
+      "url": "https://www.foxnews.com/health/us-cdc-concludes-contaminated-indian-cough-syrup-likely-caused-deaths-66-children-gambia"
+    },
+    {
+      "id": "src-maiden-alj",
+      "label": "India probes deaths in Gambia linked to Indian-made cough syrup",
+      "type": "independent",
+      "publisher": "Al Jazeera",
+      "date": "2022-10-06",
+      "url": "https://www.aljazeera.com/economy/2022/10/6/india-probes-deaths-in-gambia-linked-to-indian-made-cough-syrup"
+    }
+  ]
+}

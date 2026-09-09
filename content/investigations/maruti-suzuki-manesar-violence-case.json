@@ -1,0 +1,148 @@
+{
+  "id": "KB-3015",
+  "slug": "maruti-suzuki-manesar-violence-case",
+  "title": "The Maruti Suzuki Manesar Plant Violence Case",
+  "dek": "A labour dispute over union recognition and a suspended worker at Maruti Suzuki's Manesar plant erupted into a riot that left a manager burned to death. A trial court convicted 31 workers, 13 to life imprisonment, in a verdict labour rights groups say relied on weak individual evidence and swept up union leaders indiscriminately.",
+  "category": "Employment & Welfare",
+  "status": "convicted",
+  "severity": "major",
+  "severityRank": 191,
+  "featured": false,
+  "publishedDate": "2026-09-09",
+  "updatedDate": "2026-09-09",
+  "firstReportedDate": "2012-07-18",
+  "heroStat": {
+    "value": "13 given life terms",
+    "label": "among 31 workers convicted by a Gurugram trial court over the 2012 Manesar plant violence that killed a manager"
+  },
+  "promise": {
+    "quote": "Workplace disputes over union registration, wages and disciplinary action will be resolved through lawful industrial relations processes and will not descend into violence; workers who are not personally responsible for violence will not be held collectively liable.",
+    "madeBy": "Maruti Suzuki India Limited management and, implicitly, the industrial relations framework governing the Manesar plant",
+    "role": "Automobile manufacturer operating the Manesar, Haryana plant; employer of the workers involved",
+    "date": "2011-06-01",
+    "context": "Through 2011 and into 2012, workers at Maruti Suzuki's Manesar plant sought registration of an independent union, the Maruti Suzuki Workers Union, amid tension with management over pay, working conditions and disciplinary suspensions, culminating in violence on 18 July 2012 after a supervisor was allegedly slapped by a suspended worker.",
+    "sourceIds": [
+      "src-maruti-scroll"
+    ]
+  },
+  "target": {
+    "description": "Industrial disputes resolved without violence, with any criminal liability for violence that does occur assessed individually against evidence, rather than through mass, generalised prosecution of an entire workforce or union leadership.",
+    "standard": "Indian Penal Code standards for individual criminal liability; Industrial Disputes Act framework for union recognition and dispute resolution.",
+    "referenceDate": "2012-07-18"
+  },
+  "reality": {
+    "description": "On 18 July 2012, violence broke out at the Manesar plant; a fire set during the unrest killed Awanish Kumar Dev, the plant's general manager of human resources, and injured more than 90 other managers and workers. Police arrested 148 workers on charges including murder, attempted murder and rioting, while 62 others were declared proclaimed offenders. On 10 March 2017, an additional sessions judge at the Gurugram district court convicted 31 workers and acquitted 117 others; 13 workers, including all 12 office-bearers of the fledgling Maruti Suzuki Workers Union, received life imprisonment for murder, while four received five-year terms and 14 were fined and released for rioting. Labour rights groups, including international trade union federations, argued the prosecution's evidence individually implicating specific workers in the killing was thin, and that the verdict effectively criminalised union leadership as a body. The workers appealed to the Punjab and Haryana High Court; most of the life-sentenced workers were subsequently released on bail while the appeal remained pending, though sources reviewed do not confirm a final High Court verdict.",
+    "asOfDate": "2019-07-01",
+    "sourceIds": [
+      "src-maruti-industriall",
+      "src-maruti-bhrrc"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Workers prosecuted vs. individually convicted with sustained evidence",
+    "unit": "count",
+    "targetValue": 148,
+    "actualValue": 31,
+    "targetDisplay": "148 workers originally arrested and charged",
+    "actualDisplay": "31 convicted (13 for murder with life terms), 117 acquitted by the same trial court",
+    "targetLabel": "Charged",
+    "actualLabel": "Convicted",
+    "note": "The large gap between those charged and those ultimately convicted, and the high proportion acquitted (117 of 148), is central to labour rights groups' argument that the initial prosecution swept far more broadly than the evidence supported."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2011-06-01",
+      "label": "Union recognition dispute begins",
+      "detail": "Manesar plant workers sought to register an independent union amid rising tension with management.",
+      "type": "announcement"
+    },
+    {
+      "date": "2012-07-18",
+      "label": "Violence erupts, manager killed",
+      "detail": "A workplace altercation escalated into rioting and arson; HR manager Awanish Kumar Dev was burned to death and more than 90 others were injured.",
+      "type": "status"
+    },
+    {
+      "date": "2012-07-19",
+      "label": "Mass arrests begin",
+      "detail": "Police arrested 148 workers on charges including murder and rioting; 62 others were declared proclaimed offenders.",
+      "type": "status"
+    },
+    {
+      "date": "2017-03-10",
+      "label": "Trial court verdict",
+      "detail": "A Gurugram sessions court convicted 31 workers, sentencing 13 (including all 12 union office-bearers) to life imprisonment, and acquitted 117 others.",
+      "type": "status"
+    },
+    {
+      "date": "2017-03-24",
+      "label": "Workers appeal to Punjab and Haryana High Court",
+      "detail": "Convicted workers filed appeals challenging the trial court verdict, arguing the SIT investigation and evidence were flawed.",
+      "type": "status"
+    },
+    {
+      "date": "2018-10-01",
+      "label": "High Court rejects interim bail plea",
+      "detail": "The Punjab and Haryana High Court rejected a bail request from some life-sentenced workers pending the outcome of their appeal.",
+      "type": "delay"
+    },
+    {
+      "date": "2019-07-31",
+      "label": "Continued protests mark seven years since the violence",
+      "detail": "Labour rights campaigners marked seven years since the incident with the High Court appeal still pending and most life-sentenced workers reported to have been released on bail after time served, though not acquitted.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "A Gurugram trial court convicted 31 workers in March 2017, with 13 sentenced to life imprisonment for murder. This is a genuine criminal conviction, currently under appeal before the Punjab and Haryana High Court. Labour rights organisations dispute the fairness of the underlying investigation and the strength of individualised evidence, but no court has yet overturned the conviction.",
+    "keyIndividuals": [
+      {
+        "name": "12 office-bearers of the Maruti Suzuki Workers Union",
+        "role": "Elected leaders of the independent union workers sought to register at the Manesar plant",
+        "outcome": "Convicted of murder and sentenced to life imprisonment in March 2017; appeal pending before the Punjab and Haryana High Court as of the most recent reporting reviewed."
+      },
+      {
+        "name": "117 acquitted workers",
+        "role": "Manesar plant workers originally arrested and charged",
+        "outcome": "Acquitted by the same March 2017 trial court verdict that convicted the other 31."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a confirmed conviction — 31 workers, including the entire elected leadership of the plant's independent union, were found guilty and 13 sentenced to life imprisonment. What remains genuinely disputed, and unresolved on appeal, is whether the prosecution correctly identified individual responsibility for the killing or effectively punished union leadership as a class; both readings are held by credible parties and no higher court verdict has settled the question in sources reviewed.",
+    "confidence": "medium",
+    "reasoning": "The trial court verdict, sentence and subsequent appeal are well documented by multiple independent sources including international labour rights organisations, but this investigation could not confirm a final Punjab and Haryana High Court ruling on the appeal, leaving the ultimate legal outcome open."
+  },
+  "incomplete": [
+    "The final outcome of the Punjab and Haryana High Court appeal against the March 2017 convictions was not confirmed in sources reviewed as of the time of writing.",
+    "Reports that most life-sentenced workers were released on bail pending appeal, rather than acquitted, could not be independently corroborated with a specific date for each individual in sources reviewed.",
+    "The specific evidentiary basis distinguishing each of the 31 convicted workers from the 117 acquitted was not independently examined by this investigation beyond secondary reporting."
+  ],
+  "sources": [
+    {
+      "id": "src-maruti-scroll",
+      "label": "This book revisits the 2012 violence at Maruti Suzuki's Manesar plant from the workers' perspective",
+      "type": "independent",
+      "publisher": "Scroll.in",
+      "date": "2023-01-01",
+      "url": "https://scroll.in/article/1045115/this-book-revisits-the-2012-violence-at-maruti-suzukis-manesar-plant-from-the-workers-perspective"
+    },
+    {
+      "id": "src-maruti-industriall",
+      "label": "India: 117 workers acquitted and 31 convicted in Maruti Suzuki case",
+      "type": "independent",
+      "publisher": "IndustriALL Global Union",
+      "date": "2017-03-10",
+      "url": "https://www.industriall-union.org/india-117-workers-acquitted-and-31-convicted-in-maruti-suzuki-case"
+    },
+    {
+      "id": "src-maruti-bhrrc",
+      "label": "India: 13 workers sentenced to life imprisonment for violence at Maruti's plant in Manesar",
+      "type": "independent",
+      "publisher": "Business & Human Rights Resource Centre",
+      "date": "2017-03-18",
+      "url": "https://www.business-humanrights.org/en/latest-news/maruti-suzuki-case-13-given-life-sentence-for-violence-at-manesar-plant-in-2012/"
+    }
+  ]
+}

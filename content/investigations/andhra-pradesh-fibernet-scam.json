@@ -1,0 +1,155 @@
+{
+  "id": "KB-1303",
+  "slug": "andhra-pradesh-fibernet-scam",
+  "title": "The Andhra Pradesh FiberNet (APSFL) Scam Allegations",
+  "dek": "A flagship project promising affordable broadband to every household in Andhra Pradesh became, five years after a change of government, a criminal case naming former Chief Minister Chandrababu Naidu as the lead accused over an alleged ₹114 crore tender-rigging scheme. After another change of government, the same case was closed by the same investigating agency, which told the court no irregularity or financial loss had occurred at all.",
+  "category": "Telecom & Digital",
+  "status": "acquitted-or-closed",
+  "severity": "moderate",
+  "severityRank": 233,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2019-08-01",
+  "heroStat": {
+    "value": "₹114 cr",
+    "label": "alleged financial irregularity in Phase-1 of the AP FiberNet project, per the 2024 CID chargesheet"
+  },
+  "promise": {
+    "quote": "AP Fiber Grid will bring affordable, high-speed broadband, Wi-Fi, cable television and phone connectivity to every household, government office and business in Andhra Pradesh, connecting roughly 5.3 crore people across the state.",
+    "madeBy": "Andhra Pradesh State FiberNet Limited (APSFL), under Chief Minister N. Chandrababu Naidu",
+    "role": "State government-owned special purpose vehicle implementing the state's flagship digital-connectivity project",
+    "date": "2014-01-01",
+    "context": "APSFL was set up under the Naidu government as part of its 'Digital Andhra Pradesh' vision; the project's Phase-1 network was formally inaugurated by the President of India on 27 December 2017 at Amaravati.",
+    "sourceIds": [
+      "src-fibernet-wiki"
+    ]
+  },
+  "target": {
+    "description": "A state-run broadband infrastructure project executed through competitive, non-discriminatory tendering, without favouritism toward any private contractor and without financial loss to the state exchequer.",
+    "standard": "Andhra Pradesh state procurement rules governing public tenders and government company transactions.",
+    "referenceDate": "2014-01-01"
+  },
+  "reality": {
+    "description": "After the YSR Congress Party under Y. S. Jagan Mohan Reddy came to power in 2019, the state government asked its Crime Investigation Department (CID) to examine alleged irregularities in the APSFL project's Phase-1 tenders, after the CBI was seen as reluctant to take up the matter. An FIR pegged the alleged irregularity at ₹321 crore; a CID chargesheet filed in the ACB court at Vijayawada on 17 February 2024 instead quantified the alleged loss at ₹114 crore against the roughly ₹330 crore Phase-1 project, naming former Chief Minister N. Chandrababu Naidu as the lead accused (A1), alongside a private company managing director and a government officer, alleging Naidu personally pushed for the project to be awarded to a favoured firm, had a blacklisted company's disqualification revoked, and pressured officials on tender evaluation. Naidu, who denied the allegations, contested related proceedings including a prisoner-transit-warrant request, up to the Supreme Court, which at one point directed both sides not to make public statements about the case. Following the 2024 general election, in which Naidu's TDP returned to power in coalition with the BJP, the CID itself filed an affidavit in the ACB court stating that no irregularities had occurred in the project's execution and that APSFL had suffered no financial loss; the ACB court formally closed the case against Naidu and 15 others on 14 December 2025.",
+    "asOfDate": "2025-12-14",
+    "sourceIds": [
+      "src-fibernet-chargesheet",
+      "src-fibernet-closure"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Alleged financial loss claimed by the CID chargesheet vs. financial loss the same agency later told the court occurred",
+    "unit": "INR crore",
+    "targetValue": 114,
+    "actualValue": 0,
+    "targetDisplay": "₹114 cr alleged (2024 chargesheet)",
+    "actualDisplay": "₹0 loss (2025 CID affidavit)",
+    "targetLabel": "Alleged loss per chargesheet",
+    "actualLabel": "Loss confirmed by CID's later affidavit",
+    "note": "The same investigating agency that chargesheeted Naidu for causing a ₹114 crore loss to APSFL later told the same court, under a different state government, that the project had caused no financial loss at all — a reversal this site flags rather than resolves, since neither position has been tested at a full trial."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": 330,
+    "allocatedLabel": "Value of the AP FiberNet Phase-1 project",
+    "released": null,
+    "spent": null,
+    "unit": "crore",
+    "notes": "The CID's 2024 chargesheet alleged financial irregularity of roughly ₹114 crore within the ₹330 crore Phase-1 project; an earlier FIR had cited a ₹321 crore figure for alleged irregularities. The CID's 2025 closure affidavit disputed that any financial loss occurred at all.",
+    "sourceIds": [
+      "src-fibernet-chargesheet"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2014-01-01",
+      "label": "APSFL project conceived",
+      "detail": "The Naidu government sets up Andhra Pradesh State FiberNet Limited to build a statewide broadband network as part of its digital-connectivity agenda.",
+      "type": "announcement"
+    },
+    {
+      "date": "2017-12-27",
+      "label": "Phase-1 network inaugurated",
+      "detail": "The President of India inaugurates the AP FiberNet Phase-1 network at a ceremony in Amaravati.",
+      "type": "milestone"
+    },
+    {
+      "date": "2019-08-01",
+      "label": "New government orders CID probe",
+      "detail": "After the 2019 change of government, the state asks its Crime Investigation Department to examine alleged irregularities in AP FiberNet's Phase-1 tenders.",
+      "type": "status"
+    },
+    {
+      "date": "2021-09-11",
+      "label": "FIR registered citing ₹321 crore irregularity",
+      "detail": "An FIR is filed over alleged irregularities in the project, initially quantifying the amount at roughly ₹321 crore.",
+      "type": "status"
+    },
+    {
+      "date": "2024-02-17",
+      "label": "CID chargesheets Naidu as lead accused",
+      "detail": "The CID files a chargesheet in the Vijayawada ACB court naming former Chief Minister N. Chandrababu Naidu as accused number one, alleging a roughly ₹114 crore financial irregularity, alongside two other named accused.",
+      "type": "status"
+    },
+    {
+      "date": "2024-06-01",
+      "label": "TDP-BJP coalition wins Andhra Pradesh election",
+      "detail": "N. Chandrababu Naidu's TDP, in coalition with the BJP, wins the state election and Naidu returns as Chief Minister.",
+      "type": "status"
+    },
+    {
+      "date": "2025-12-14",
+      "label": "ACB court closes the case",
+      "detail": "The Vijayawada ACB court formally closes the case against Naidu and 15 others after the CID files an affidavit stating no irregularities occurred and APSFL suffered no financial loss.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "The case against Chandrababu Naidu and 15 others was closed by the ACB court in Vijayawada in December 2025, on the basis of an affidavit from the same investigating agency (CID) that had chargesheeted him less than two years earlier, filed after a change of state government. No trial was held and no conviction was ever secured; the closure means the underlying allegations were never tested by a court on the merits, in either direction.",
+    "keyIndividuals": [
+      {
+        "name": "N. Chandrababu Naidu",
+        "role": "Chief Minister of Andhra Pradesh (2014-2019, 2024-present); accused number one in the case",
+        "outcome": "Chargesheeted in February 2024 by the CID under the preceding YSRCP government; case formally closed by the ACB court in December 2025 after the CID, under the subsequent TDP-BJP government, told the court no irregularity or loss had occurred. Never convicted; the allegations were never tested at trial."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This case cannot be assessed as either a proven scam or a vindication: the same state investigating agency took diametrically opposite positions on the same facts under two different governments, chargesheeting Naidu for a ₹114 crore loss in 2024 and then telling the same court there was no loss at all in 2025, without an independent court ever weighing the underlying evidence at trial. That reversal pattern is itself the most reliable, verifiable fact about the case, and this site reports it as such rather than adopting either agency position as true.",
+    "confidence": "medium",
+    "reasoning": "The chargesheet's filing, its allegations, and the subsequent closure are corroborated by multiple independent contemporaneous reports. Confidence is not higher because this entry has not reviewed the chargesheet, the CID's closure affidavit, or the court's closure order directly, and because the underlying merits of the original tendering allegations were never adjudicated by a court, leaving genuine, unresolved factual disputes between the case's two investigative postures."
+  },
+  "incomplete": [
+    "This entry has not reviewed the CID's original chargesheet, its 2025 closure affidavit, or the ACB court's closure order directly, relying on secondary news reporting throughout.",
+    "Whether the complainant or any other party has challenged the December 2025 closure in a higher court was not confirmed as of this entry's research.",
+    "The outcomes for the two other named accused (a private company managing director and a government officer) beyond the case's overall closure have not been individually verified.",
+    "Earlier related proceedings, including a Supreme Court direction on public statements and litigation over a prisoner-transit warrant, are referenced in reporting but their full procedural history and resolution have not been independently confirmed here."
+  ],
+  "sources": [
+    {
+      "id": "src-fibernet-wiki",
+      "label": "Andhra Pradesh State FiberNet Limited",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2025-01-01",
+      "url": "https://en.wikipedia.org/wiki/Andhra_Pradesh_State_FiberNet_Limited"
+    },
+    {
+      "id": "src-fibernet-chargesheet",
+      "label": "Andhra Pradesh CID files chargesheet in AP Fibernet Scam case naming Chandrababu Naidu as A1",
+      "type": "independent",
+      "publisher": "The Week (PTI wire)",
+      "date": "2024-02-17",
+      "url": "https://www.theweek.in/wire-updates/national/2024/02/17/mds34-ap-fibernet-chargesheet.html"
+    },
+    {
+      "id": "src-fibernet-closure",
+      "label": "ACB Court Drops AP FiberNet Case Against Chandrababu Naidu, Clears Him of Corruption Charges",
+      "type": "independent",
+      "publisher": "The Daily Herald",
+      "date": "2025-12-14",
+      "url": "https://thedailyherald.in/news-details/acb-court-drops-ap-fibernet-case-against-chandrababu-naidu--clears-him-of-corruption-charges"
+    }
+  ]
+}

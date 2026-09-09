@@ -1,0 +1,101 @@
+{
+  "id": "KB-602",
+  "slug": "rajasthan-patwari-recruitment-exam-scam",
+  "title": "Fake Papers for Real Money — The Rajasthan Patwari Exam Fraud",
+  "dek": "A coaching-centre operator promised aspirants advance question papers for the 2021 Rajasthan Patwari recruitment exam, collected lakhs in advances, and delivered fabricated papers — one small node in the state's much larger, recurring recruitment-exam fraud problem.",
+  "category": "Employment & Welfare",
+  "status": "under-trial",
+  "severity": "minor",
+  "severityRank": 264,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2021-10-24",
+  "heroStat": {
+    "value": "₹10 lakh",
+    "label": "per candidate a Jaipur-district coaching-institute owner demanded for supposedly advance copies of the 2021 Rajasthan Patwari exam paper — which turned out to be fake"
+  },
+  "promise": {
+    "quote": "The Rajasthan Subordinate and Ministerial Services Selection Board's Patwari recruitment examination would be conducted securely, with question papers kept confidential until the test, for over 5,300 posts across 1,170 centres in 23 districts.",
+    "madeBy": "Rajasthan Staff Selection Board (RSMSSB) / Government of Rajasthan",
+    "role": "State recruitment body conducting the 2021 Patwari (village-level land-records official) recruitment exam",
+    "date": "2021-10-24",
+    "context": "This reflects the standard implicit guarantee of exam-security that any public recruitment board offers candidates, rather than a specific quoted public statement by RSMSSB for this exam, which this entry has not located.",
+    "sourceIds": [
+      "src-patwari-careers360"
+    ]
+  },
+  "target": {
+    "description": "That the roughly 15.62 lakh candidates who registered for the October 2021 Patwari recruitment exam would compete on a level playing field, with no advance access to question papers and no impersonation of registered candidates.",
+    "standard": "RSMSSB's own examination-security protocols and the Rajasthan Public Examination (Prevention of Unfair Means) framework governing recruitment tests.",
+    "referenceDate": "2021-10-24"
+  },
+  "reality": {
+    "description": "Around the time of the two-day Patwari exam held on 24 October 2021, Rajasthan police arrested Praveen Gurjar, who ran a coaching institute in the Chandwaji area of Jaipur district, for allegedly promising several aspirants an advance copy of the question paper for Rs 10 lakh each — collecting Rs 4 lakh in advance from candidates along with their documents — before providing a fake paper rather than the real one. Separately, a government school clerk, Sunil Godara, was arrested for impersonating a registered candidate and sitting the exam in his place; the same man had reportedly also appeared as a dummy candidate in the 2021 Rajasthan Eligibility Examination for Teachers (REET). The state suspended mobile internet services for two days around the exam to curb organised cheating, and cases were registered against both men under the Indian Penal Code. This is a narrower, single-institute malpractice case rather than a mass paper leak; Rajasthan's recruitment exams more broadly (Sub-Inspector 2021, REET 2021, JEN 2020, and others) have been hit by larger, separately documented paper-leak scandals involving organised gangs.",
+    "asOfDate": "2021-10-27",
+    "sourceIds": [
+      "src-patwari-careers360"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Advance payment demanded per candidate vs. amount actually collected before the fraud surfaced",
+    "unit": "INR lakh",
+    "targetValue": 10,
+    "actualValue": 4,
+    "targetDisplay": "₹10 lakh demanded per candidate",
+    "actualDisplay": "₹4 lakh collected in advance",
+    "targetLabel": "Amount demanded",
+    "actualLabel": "Amount actually paid before arrest",
+    "note": "This reflects the one documented instance (Praveen Gurjar's coaching institute); the number of candidates who paid is not precisely reported, so the ₹4 lakh figure is described in reporting as an aggregate advance rather than a confirmed per-candidate amount."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2021-10-24",
+      "label": "Patwari recruitment exam held",
+      "detail": "RSMSSB conducts the two-day Patwari exam for over 5,300 posts; 15.62 lakh candidates registered across 1,170 centres in 23 districts. Mobile internet suspended for two days as a precaution.",
+      "type": "announcement"
+    },
+    {
+      "date": "2021-10-27",
+      "label": "Coaching operator and impersonator arrested",
+      "detail": "Praveen Gurjar arrested for selling a fake advance question paper for Rs 10 lakh per candidate (Rs 4 lakh collected); Sunil Godara, a government school clerk, arrested for impersonating a candidate in the exam.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Criminal cases were registered against Praveen Gurjar and Sunil Godara under the Indian Penal Code at the time of their October 2021 arrests. This entry has not found reporting on any subsequent chargesheet, trial, or verdict in this specific case.",
+    "keyIndividuals": [
+      {
+        "name": "Praveen Gurjar",
+        "role": "Owner of a coaching institute in Chandwaji, Jaipur district",
+        "outcome": "Arrested October 2021 for allegedly selling a fabricated question paper as a genuine advance copy; case registered. No further legal outcome found."
+      },
+      {
+        "name": "Sunil Godara",
+        "role": "Lower division clerk at a government school",
+        "outcome": "Arrested October 2021 for impersonating a registered candidate in the Patwari exam (and reportedly also in REET 2021). No further legal outcome found."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, dated, and sourced case of exam-related fraud tied to the 2021 Rajasthan Patwari recruitment exam, but a small-scale one — a single coaching operator's fabricated-paper scheme and one impersonation arrest, rather than a systemic leak of the actual exam paper. It is included here as a genuine, narrowly-scoped instance of the broader vulnerability in Rajasthan's recruitment-exam system, which the state's much larger and separately documented paper-leak scandals (SI 2021, REET 2021, JEN 2020) illustrate at greater scale.",
+    "confidence": "low",
+    "reasoning": "Facts are drawn from a single independent news report; this entry has not been able to corroborate them against a second outlet, a police press release, or any subsequent court record, and the case's ultimate legal disposition is unknown."
+  },
+  "incomplete": [
+    "No subsequent chargesheet, trial outcome, or verdict has been found for either arrested individual; the case's current legal status is unknown.",
+    "This entry relies on a single news source (careers360) for the core facts and has not cross-verified the amounts or arrest details against a second independent outlet or an official RSMSSB/police statement.",
+    "This entry does not cover the larger, separately documented Rajasthan recruitment paper-leak scandals (e.g., the 2021 Sub-Inspector exam leak involving the Bhupendra Saran gang, or the 2020 JEN exam leak) — those are distinct cases from this specific Patwari-exam fraud and are not included here to avoid overstating this entry's scope."
+  ],
+  "sources": [
+    {
+      "id": "src-patwari-careers360",
+      "label": "Patwari exam: Coaching institute owner, govt school clerk held in Rajasthan for malpractice",
+      "type": "independent",
+      "publisher": "Careers360",
+      "date": "2021-10-27",
+      "url": "https://news.careers360.com/patwari-exam-coaching-institute-owner-govt-school-clerk-held-in-rajasthan-for-malpractice"
+    }
+  ]
+}

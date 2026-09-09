@@ -1,0 +1,156 @@
+{
+  "id": "KB-2401",
+  "slug": "iipm-fake-accreditation-case",
+  "title": "IIPM's Unrecognised Degrees",
+  "dek": "For over two decades, the Indian Institute of Planning and Management ran nationwide MBA-style programmes and full-page ads promising IIM-rivalling careers, while UGC and AICTE repeatedly said in public notices that it held no recognition to award any degree at all.",
+  "category": "Employment & Welfare",
+  "status": "confirmed-unresolved",
+  "severity": "minor",
+  "severityRank": 252,
+  "featured": false,
+  "publishedDate": "2026-09-08",
+  "updatedDate": "2026-09-08",
+  "firstReportedDate": "2013-01-01",
+  "heroStat": {
+    "value": "18",
+    "label": "branches IIPM operated across India while UGC repeatedly stated it was not a recognised university and could not award any degree"
+  },
+  "promise": {
+    "quote": "Dare to Think Beyond the IIMs.",
+    "madeBy": "Arindam Chaudhuri / Indian Institute of Planning and Management (IIPM)",
+    "role": "Founder and dean, IIPM",
+    "date": "2005-01-01",
+    "context": "This was IIPM's long-running national advertising tagline, used across print and outdoor campaigns for its management programmes over roughly two decades; the exact first-use date is approximate.",
+    "sourceIds": [
+      "src-iipm-wiki"
+    ]
+  },
+  "target": {
+    "description": "That a student paying for and completing IIPM's flagship management programme would receive a degree or diploma recognised by India's higher-education regulators (UGC for university degrees, AICTE for technical/management education), on a par with the IIMs the advertising invited comparison with.",
+    "standard": "The UGC Act, 1956 and AICTE regulations, under which only recognised universities or AICTE-approved institutions may award degrees or diplomas described as equivalent to a degree.",
+    "referenceDate": "2005-01-01"
+  },
+  "reality": {
+    "description": "IIPM was never granted university status by UGC nor approval by AICTE to award MBA, BBA, or BCA degrees, a position UGC repeated in public notices for years, including reiterating as late as 2013 that IIPM could not confer MBA degrees. IIPM instead awarded its own diplomas while its marketing associated the institute with the credibility of a foreign-sounding affiliation to the 'International Management Institute, Belgium' — which a Delhi High Court PIL hearing in September 2014 found had itself been set up by Arindam Chaudhuri and his father, Malay Chaudhuri, and was not recognised under Belgian law either. The Delhi High Court censured IIPM and Chaudhuri for misleading students, and the UGC's complaint led Delhi Police to register an FIR against Chaudhuri and his father under IPC Section 420 (cheating). Chaudhuri was separately arrested in 2018 in a ₹23 crore tax evasion case linked to the institute's finances. IIPM shut down operations around 2015–2016 after the sustained legal and regulatory pressure and declining enrolment.",
+    "asOfDate": "2018-01-01",
+    "sourceIds": [
+      "src-iipm-moneylife",
+      "src-iipm-fir",
+      "src-iipm-arrest",
+      "src-iipm-shutdown"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Degree-granting recognition IIPM's advertising implied vs. recognition UGC/AICTE actually confirmed",
+    "unit": "recognition status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "Recognised, IIM-comparable degree (implied)",
+    "actualDisplay": "No UGC or AICTE recognition to award any degree",
+    "targetLabel": "Implied by advertising",
+    "actualLabel": "Regulatory status",
+    "note": "IIPM's core offering — a full-time management diploma marketed as rivalling the IIMs — never carried the government recognition its advertising implied, a fact UGC stated in public notices repeatedly across more than a decade."
+  },
+  "money": null,
+  "timeline": [
+    {
+      "date": "2005-01-01",
+      "label": "IIPM's 'Beyond the IIMs' campaign runs nationally",
+      "detail": "Full-page ads position IIPM's management programmes as superior alternatives to India's premier, UGC/AICTE-recognised business schools.",
+      "type": "announcement"
+    },
+    {
+      "date": "2013-01-01",
+      "label": "UGC reiterates IIPM cannot award MBAs",
+      "detail": "UGC publicly restates that IIPM is not a recognised university and cannot confer MBA, BBA, or BCA degrees.",
+      "type": "status"
+    },
+    {
+      "date": "2013-06-01",
+      "label": "UGC and AICTE file complaints against IIPM",
+      "detail": "Both regulators list IIPM among institutions found to be operating without valid recognition.",
+      "type": "milestone"
+    },
+    {
+      "date": "2014-09-01",
+      "label": "Delhi High Court censures IIPM over foreign-affiliation claims",
+      "detail": "Court finds IIPM's claimed Belgian affiliate was set up by Chaudhuri and his father and was not itself recognised under Belgian law.",
+      "type": "milestone"
+    },
+    {
+      "date": "2016-01-01",
+      "label": "IIPM ceases operations",
+      "detail": "The institute shuts down amid sustained regulatory pressure, litigation, and falling enrolment; exact closure date is approximate.",
+      "type": "status"
+    },
+    {
+      "date": "2018-01-01",
+      "label": "Arindam Chaudhuri arrested in ₹23 crore tax evasion case",
+      "detail": "Arrest is linked to IIPM's financial affairs, separate from the accreditation allegations.",
+      "type": "milestone"
+    }
+  ],
+  "legalStatus": {
+    "summary": "An FIR under IPC Section 420 (cheating) was registered against Arindam Chaudhuri and Malay Chaudhuri following a UGC complaint alleging IIPM misled and cheated students about its recognition. Chaudhuri was separately arrested in 2018 in a tax evasion case tied to IIPM's finances. This entry has not found a reported final criminal conviction specifically on the cheating/misrepresentation allegations, and IIPM itself ceased operating before any such case appears to have concluded.",
+    "keyIndividuals": [
+      {
+        "name": "Arindam Chaudhuri",
+        "role": "Founder and dean, IIPM",
+        "outcome": "FIR registered for cheating (IPC 420); separately arrested in 2018 on tax evasion charges. No reported final conviction on the accreditation-related cheating allegations as of the most recent available reporting."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "This is a well-documented case of an unrecognised institute marketing itself for years as an equal or superior alternative to India's accredited premier business schools, while the regulators responsible for degree recognition repeatedly and publicly said it held no such recognition. The allegations of cheating and misrepresentation are real and led to an FIR and (on separate financial charges) an arrest, but this entry has not found confirmation of a final criminal conviction specifically on the fake-accreditation allegations before IIPM shut down.",
+    "confidence": "high",
+    "reasoning": "UGC's repeated public non-recognition notices, the Delhi High Court's 2014 findings on the Belgian-affiliation claim, and the FIR are each independently reported across multiple outlets over more than a decade, giving a consistent picture even without this entry reviewing the FIR or court order directly."
+  },
+  "incomplete": [
+    "This entry has not reviewed the FIR, the FIR's final disposition, or the Delhi High Court's 2014 order directly — it relies on news reporting summarising each.",
+    "The precise date IIPM ceased operations is not confirmed and is given here as approximate.",
+    "It is not established from available reporting how many total students enrolled in IIPM's unrecognised programmes over its operating history, or what refunds or compensation, if any, were awarded to them."
+  ],
+  "sources": [
+    {
+      "id": "src-iipm-wiki",
+      "label": "Indian Institute of Planning and Management",
+      "type": "independent",
+      "publisher": "Wikipedia",
+      "date": "2026-01-01",
+      "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Planning_and_Management",
+      "note": "Used for general background and the advertising tagline; cross-checked against contemporaneous news reporting below."
+    },
+    {
+      "id": "src-iipm-moneylife",
+      "label": "UGC reiterates IIPM cannot award MBAs",
+      "type": "independent",
+      "publisher": "Moneylife",
+      "date": "2013-01-01",
+      "url": "https://www.moneylife.in/article/ugc-reiterates-iipm-cannot-award-mbas/37447.html"
+    },
+    {
+      "id": "src-iipm-fir",
+      "label": "FIR filed against IIPM's Arindam [Chaudhuri]",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2013-01-01",
+      "url": "https://www.deccanherald.com/amp/story/india%2Ffir-filed-against-iipms-arindam-2127419"
+    },
+    {
+      "id": "src-iipm-arrest",
+      "label": "IIPM director Arindam Chaudhuri arrested for Rs 23-crore tax evasion",
+      "type": "independent",
+      "publisher": "The Tribune",
+      "date": "2018-01-01",
+      "url": "https://www.tribuneindia.com/news/nation/iipm-director-arindam-chaudhuri-arrested-for-rs-23-crore-tax-evasion-130359/amp"
+    },
+    {
+      "id": "src-iipm-shutdown",
+      "label": "'Don't Dare to think beyond the IIMs', Arindam Chaudhuri finally shuts down his infamous b-school IIPM",
+      "type": "independent",
+      "publisher": "India.com",
+      "date": "2016-01-01",
+      "url": "https://www.india.com/news/india/dont-dare-to-think-beyond-the-iims-arindam-chaudhuri-finally-shuts-down-his-infamous-b-school-iipm-445859/"
+    }
+  ]
+}

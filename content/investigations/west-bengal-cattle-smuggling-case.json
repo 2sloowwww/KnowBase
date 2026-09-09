@@ -1,0 +1,162 @@
+{
+  "id": "KB-204",
+  "slug": "west-bengal-cattle-smuggling-case",
+  "title": "The West Bengal Cattle Smuggling Case",
+  "dek": "A CBI and ED investigation alleges a large-scale racket smuggled cattle across the Bangladesh border with the alleged connivance of BSF personnel and a powerful TMC district chief, generating crores in bribes. Two years in custody later, the chief accused walked free on bail with no trial verdict yet delivered.",
+  "category": "Public Spending",
+  "status": "under-trial",
+  "severity": "moderate",
+  "severityRank": 218,
+  "featured": false,
+  "publishedDate": "2026-09-07",
+  "updatedDate": "2026-09-07",
+  "firstReportedDate": "2020-08-01",
+  "heroStat": {
+    "value": "₹26 cr+",
+    "label": "in bank funds the ED has attached from TMC leader Anubrata Mondal as part of its money-laundering probe"
+  },
+  "promise": {
+    "quote": "The Border Security Force is responsible for preventing trans-border crimes, including smuggling, along the India-Bangladesh border.",
+    "madeBy": "Border Security Force / Ministry of Home Affairs",
+    "role": "Central paramilitary force tasked with guarding India's international border with Bangladesh",
+    "date": "1965-01-01",
+    "context": "This reflects the BSF's standing statutory mandate rather than a specific quotation tied to this case.",
+    "sourceIds": [
+      "src-cattle-background"
+    ]
+  },
+  "target": {
+    "description": "That cattle would not be illegally smuggled across the India-Bangladesh border, and that border security and customs personnel would not accept bribes to facilitate such smuggling.",
+    "standard": "Customs Act provisions on smuggling, and the Prevention of Corruption Act as applied to any complicit security or customs personnel.",
+    "referenceDate": "2018-01-01"
+  },
+  "reality": {
+    "description": "The CBI registered a case in 2020 (following an earlier Directorate of Revenue Intelligence probe) alleging a network smuggled cattle across the West Bengal-Bangladesh border with the alleged connivance of BSF officials, in exchange for bribes running into hundreds of crores, and named Birbhum TMC district president Anubrata Mondal among the accused. The CBI arrested Mondal on 11 August 2022; the ED separately arrested him in 2023 in its parallel PMLA case and also arrested his daughter, Sukanya Mondal, alleging she held disproportionate assets linked to the racket. The ED has provisionally attached bank deposits of around ₹26 crore linked to Mondal. Mondal was granted bail in the CBI case by the Supreme Court in July 2024, and in the ED case by Delhi's Rouse Avenue Court in September 2024, after roughly two years in custody; both grants came with conditions including passport surrender and restrictions on influencing witnesses. As of the most recent reporting reviewed, trial in both the CBI and ED cases remains pending.",
+    "asOfDate": "2024-09-01",
+    "sourceIds": [
+      "src-cattle-cbi-bail",
+      "src-cattle-ed-bail",
+      "src-cattle-attachment"
+    ]
+  },
+  "gap": {
+    "metricLabel": "Time Anubrata Mondal spent in custody vs. trial verdicts delivered",
+    "unit": "status",
+    "targetValue": 1,
+    "actualValue": 0,
+    "targetDisplay": "~2 years in custody (2022-2024)",
+    "actualDisplay": "0 trial verdicts as of Sept 2024",
+    "targetLabel": "Time in custody",
+    "actualLabel": "Verdicts delivered",
+    "note": "Mondal spent roughly two years in jail across the CBI and ED cases before being granted bail in both; this reflects the pre-trial detention common in PMLA and CBI cases in India, not a finding of guilt or innocence."
+  },
+  "money": {
+    "currency": "INR",
+    "allocated": null,
+    "released": null,
+    "spent": 25.86,
+    "spentLabel": "Bank deposits provisionally attached by the ED under PMLA",
+    "unit": "crore",
+    "notes": "This figure reflects one tranche of ED attachment reported in February 2025; broader estimates of the overall smuggling racket's scale (running into hundreds of crores nationally, per CBI/DRI estimates) have not been independently verified by this entry.",
+    "sourceIds": [
+      "src-cattle-attachment"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-08-01",
+      "label": "CBI registers case",
+      "detail": "Following DRI inputs, the CBI opens a probe into cross-border cattle smuggling allegedly involving BSF personnel and local political figures.",
+      "type": "status"
+    },
+    {
+      "date": "2022-08-11",
+      "label": "Anubrata Mondal arrested by CBI",
+      "detail": "The TMC's Birbhum district president is arrested in the cattle smuggling case.",
+      "type": "milestone"
+    },
+    {
+      "date": "2023-01-01",
+      "label": "ED arrests Mondal in parallel PMLA case",
+      "detail": "The Enforcement Directorate arrests Mondal and later his daughter Sukanya Mondal, alleging money laundering linked to the smuggling proceeds.",
+      "type": "milestone"
+    },
+    {
+      "date": "2024-07-01",
+      "label": "Supreme Court grants bail in CBI case",
+      "detail": "Mondal is granted bail in the CBI case, subject to conditions including passport surrender.",
+      "type": "status"
+    },
+    {
+      "date": "2024-09-01",
+      "label": "Delhi court grants bail in ED case",
+      "detail": "Rouse Avenue Court grants Mondal bail in the money-laundering case on a bond of ₹10 lakh.",
+      "type": "status"
+    },
+    {
+      "date": "2025-02-01",
+      "label": "ED attaches ₹25.86 crore",
+      "detail": "The ED issues a provisional attachment order against Mondal's bank deposits under PMLA.",
+      "type": "status"
+    }
+  ],
+  "legalStatus": {
+    "summary": "Both the CBI and ED cases remain under trial. Anubrata Mondal is out on bail in both cases as of the most recent reporting reviewed; his daughter Sukanya Mondal's case status has not been separately confirmed in this entry. No conviction or acquittal has been reported.",
+    "keyIndividuals": [
+      {
+        "name": "Anubrata Mondal",
+        "role": "TMC Birbhum district president",
+        "outcome": "Arrested by CBI (August 2022) and ED (2023); granted bail in the CBI case (July 2024) and the ED case (September 2024); trial pending."
+      },
+      {
+        "name": "Sukanya Mondal",
+        "role": "Anubrata Mondal's daughter",
+        "outcome": "Arrested by ED, alleging disproportionate assets linked to the case; further status not confirmed by this entry."
+      }
+    ]
+  },
+  "verdict": {
+    "summary": "A real, large cross-border smuggling investigation led to the arrest and roughly two-year detention of a powerful district-level TMC leader, alongside a parallel money-laundering case and multi-crore asset attachments. As of publication, the underlying allegations remain unproven at trial — both cases continue, and Mondal denies wrongdoing.",
+    "confidence": "medium",
+    "reasoning": "The arrests, bail grants, and asset attachments are corroborated by multiple contemporaneous reports (ANI, Millennium Post, LawBeat, Deccan Herald). Confidence is not higher because this entry has not reviewed the CBI or ED chargesheets directly, and the current stage of trial (framing of charges, etc.) as of 2026 has not been confirmed."
+  },
+  "incomplete": [
+    "This is a stub entry; the current trial stage in both the CBI and ED cases as of 2026 has not been confirmed and needs updated research.",
+    "The full scale of the alleged smuggling racket (total value, number of accused, involvement of specific BSF personnel and their individual case outcomes) is not detailed here.",
+    "Sukanya Mondal's case status beyond her arrest has not been independently confirmed."
+  ],
+  "sources": [
+    {
+      "id": "src-cattle-background",
+      "label": "ED interrogates TMC's Anubrata Mondal in jail in cattle smuggling scam",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2022-09-01",
+      "url": "https://www.deccanherald.com/india/ed-interrogates-tmcs-anubrata-mondal-in-jail-in-cattle-smuggling-scam-1163196.html"
+    },
+    {
+      "id": "src-cattle-cbi-bail",
+      "label": "Supreme Court grants bail to Anubrata Mondal in Cattle Smuggling Case",
+      "type": "independent",
+      "publisher": "LawBeat",
+      "date": "2024-07-01",
+      "url": "https://lawbeat.in/top-stories/supreme-court-grants-bail-anubrata-mondal-cattle-smuggling-case"
+    },
+    {
+      "id": "src-cattle-ed-bail",
+      "label": "Cattle smuggling case: Delhi Court grants bail to TMC's Anubrata Mondal",
+      "type": "independent",
+      "publisher": "ANI",
+      "date": "2024-09-20",
+      "url": "https://www.aninews.in/news/national/general-news/cattle-smuggling-case-delhi-court-grants-bail-to-tmcs-anubrata-mondal20240920204044/"
+    },
+    {
+      "id": "src-cattle-attachment",
+      "label": "ED attaches TMC leader Anubrata Mondal's bank funds worth nearly ₹26 crore in cattle smuggling case",
+      "type": "independent",
+      "publisher": "Deccan Herald",
+      "date": "2025-02-01",
+      "url": "https://www.deccanherald.com/india/west-bengal/ed-attaches-tmc-leader-anubrata-mondals-bank-funds-worth-nearly-rs-26-crore-in-cattle-smuggling-case-3394807"
+    }
+  ]
+}
