@@ -31,6 +31,7 @@ const MONEY_ENTRIES: MoneyEntry[] = [
   { slug: "rajasthan-jal-jeevan-mission-scam", allegedINRCr: 900, recoveredINRCr: null },
   { slug: "sunil-kedar-nagpur-cooperative-bank-scam", allegedINRCr: 150, recoveredINRCr: null },
   { slug: "new-india-cooperative-bank-fraud", allegedINRCr: 122, recoveredINRCr: null },
+  { slug: "goa-illegal-mining-scam", allegedINRCr: 34935, recoveredINRCr: null },
   { slug: "2g-spectrum-allocation-case", allegedINRCr: 176000, recoveredINRCr: 0 },
   { slug: "bofors-scandal", allegedINRCr: 41, recoveredINRCr: 0 },
   { slug: "dhfl-bank-fraud", allegedINRCr: 34615, recoveredINRCr: 1020 },
